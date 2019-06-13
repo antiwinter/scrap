@@ -11,6 +11,6 @@ let s='kh|wt|pm|oc.t|pm.j|ct.ow|yl.wo|mc.wf|em.bf|cc.no|yl.lc|ku.oc|vt.mi|kh.1i|
         'g'
       )
     )
-    ? 'SOCKS5 localhost:8389'
+    ? 'SOCKS5 me:8389'
     : 'DIRECT;'
 }
