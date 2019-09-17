@@ -3,6 +3,9 @@ const _ = require('underscore')
 const fs = require('fs')
 const log = console.log
 
+let data = []
+let index = 0
+
 let api = {
   $srl: 'https://addons-ecs.forgesvc.net/api/v2/addon',
 
@@ -18,52 +21,40 @@ let api = {
       .catch(err => {
         done()
       })
+  },
+  fetch(done) {
+    log('fetching page', index / 255)
+    api.search(index, res => {
+      log('ack')
+      if (!res) {
+        log('error xx')
+      } else {
+        res = res.map(x => {
+          let d = {
+            id: x.id,
+            key: x.slug,
+            dir: [],
+            source: 'curse'
+          }
+
+          x.latestFiles.forEach(l => {
+            d.dir = _.union(d.dir, l.modules.map(m => m.foldername))
+          })
+
+          return d
+        })
+
+        data = data.concat(res)
+        if (res.length < 255) {
+          done(data)
+          return
+        }
+
+        index += 255
+        api.fetch()
+      }
+    })
   }
 }
 
-let data = []
-let index = 0
-
-let fetch = () => {
-  log('fetching page', index / 255)
-  api.search(index, res => {
-    log('ack')
-    if (!res) {
-      log('error xx')
-    } else {
-      res = res.map(x => {
-        let d = {
-          id: x.id,
-          key: x.slug,
-          dir: [],
-          source: 'curse'
-        }
-
-        x.latestFiles.forEach(l => {
-          d.dir = _.union(d.dir, l.modules.map(m => m.foldername))
-        })
-
-        return d
-      })
-
-      data = data.concat(res)
-
-      if (res.length < 255) {
-        data = JSON.stringify(data, null, 2)
-        fs.writeFileSync('db-curse.json', data, 'utf-8')
-        log(
-          'wrote',
-          data.length,
-          'records',
-          `(${(data.length / 1024).toFixed(0)} KB)`
-        )
-        return
-      }
-
-      index += 255
-      fetch()
-    }
-  })
-}
-
-fetch()
+module.exports = api
