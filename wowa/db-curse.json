@@ -817,6 +817,14 @@
     "source": "curse"
   },
   {
+    "id": 341761,
+    "key": "action-bar-pager",
+    "dir": [
+      "ActionBarPager"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 86234,
     "key": "action-bar-profiles",
     "dir": [
@@ -1579,6 +1587,14 @@
     "key": "altaiditemlevel",
     "dir": [
       "AltaidItemLevel"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341879,
+    "key": "alter-currencies",
+    "dir": [
+      "AlterCurrencies"
     ],
     "source": "curse"
   },
@@ -3369,6 +3385,14 @@
     "source": "curse"
   },
   {
+    "id": 339950,
+    "key": "auctionfaster-by-therebro-rus",
+    "dir": [
+      "AuctionFaster"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 102870,
     "key": "aac",
     "dir": [
@@ -4197,6 +4221,14 @@
     "key": "azerite-essence-profiles",
     "dir": [
       "AzeriteEssenceProfiles"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341689,
+    "key": "azerite-power",
+    "dir": [
+      "AzeritePower"
     ],
     "source": "curse"
   },
@@ -5578,6 +5610,14 @@
     "source": "curse"
   },
   {
+    "id": 341532,
+    "key": "beblessed",
+    "dir": [
+      "BeBlessed"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 102609,
     "key": "bequiet",
     "dir": [
@@ -5657,6 +5697,14 @@
     "key": "best-item",
     "dir": [
       "BestItem"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 340647,
+    "key": "best-pvp-scripts",
+    "dir": [
+      "BestPvPScripts"
     ],
     "source": "curse"
   },
@@ -10488,6 +10536,14 @@
     "source": "curse"
   },
   {
+    "id": 341804,
+    "key": "classiccameradistance",
+    "dir": [
+      "ClassicCameraDistance"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 328240,
     "key": "classic-countdown",
     "dir": [
@@ -10548,6 +10604,14 @@
     "key": "classic-target-helper",
     "dir": [
       "ClassicTargetHelper"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341670,
+    "key": "classic-tracking-cycler",
+    "dir": [
+      "TrackingCycler"
     ],
     "source": "curse"
   },
@@ -10630,6 +10694,14 @@
     "key": "classicclasscolors",
     "dir": [
       "ClassicClassColors"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341472,
+    "key": "classicclassiconportraits",
+    "dir": [
+      "ClassicClassIconPortraits"
     ],
     "source": "curse"
   },
@@ -18113,6 +18185,14 @@
     "source": "curse"
   },
   {
+    "id": 341473,
+    "key": "extended-map-zone-info",
+    "dir": [
+      "ExtendedMapZoneInfoForClassic"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 45213,
     "key": "extended-social-ui",
     "dir": [
@@ -19165,6 +19245,14 @@
     "key": "flabbybirb",
     "dir": [
       "FlabbyBirb"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341447,
+    "key": "flame",
+    "dir": [
+      "Flame"
     ],
     "source": "curse"
   },
@@ -22346,6 +22434,14 @@
     "source": "curse"
   },
   {
+    "id": 341849,
+    "key": "grindy",
+    "dir": [
+      "Grindy"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 1495,
     "key": "group-calendar",
     "dir": [
@@ -22382,6 +22478,14 @@
     "key": "group-history",
     "dir": [
       "GroupHistory"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341558,
+    "key": "classic-guild-invite",
+    "dir": [
+      "GuildInviteTool"
     ],
     "source": "curse"
   },
@@ -22636,6 +22740,14 @@
     "key": "guidelime_markymark",
     "dir": [
       "Guidelime_MarkyMark"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341421,
+    "key": "guidelime_olo-1-60-undead-mage",
+    "dir": [
+      "Guidelime_Olo"
     ],
     "source": "curse"
   },
@@ -32236,6 +32348,14 @@
     "source": "curse"
   },
   {
+    "id": 341408,
+    "key": "masque-neuron",
+    "dir": [
+      "Masque_Neuron"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 13600,
     "key": "masque-onyx",
     "dir": [
@@ -33784,6 +33904,14 @@
     "source": "curse"
   },
   {
+    "id": 341770,
+    "key": "mooides-mount-mod",
+    "dir": [
+      "MooidesMountMod"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 22302,
     "key": "moontime",
     "dir": [
@@ -34531,6 +34659,14 @@
     "source": "curse"
   },
   {
+    "id": 341597,
+    "key": "my-notebook",
+    "dir": [
+      "Notebook"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 312482,
     "key": "myatunements",
     "dir": [
@@ -34559,6 +34695,14 @@
     "key": "mybigclock",
     "dir": [
       "MyBigClock"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341693,
+    "key": "mychatalert",
+    "dir": [
+      "MyChatAlert"
     ],
     "source": "curse"
   },
@@ -34631,6 +34775,14 @@
     "key": "mypremadesorter",
     "dir": [
       "MyPremadeSorter"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341810,
+    "key": "myprogress",
+    "dir": [
+      "Progress"
     ],
     "source": "curse"
   },
@@ -36729,6 +36881,14 @@
     "source": "curse"
   },
   {
+    "id": 341453,
+    "key": "pvplul",
+    "dir": [
+      "PVPLUL"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 79622,
     "key": "pvpscan",
     "dir": [
@@ -36968,6 +37128,14 @@
       "PartyFramesImprovedBuffs",
       "PartyFramesImproved",
       "PartyFramesImprovedTargets"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341686,
+    "key": "partymarkerclassic",
+    "dir": [
+      "PartyMarkerClassic"
     ],
     "source": "curse"
   },
@@ -38187,6 +38355,14 @@
     "key": "playerframecoordinates",
     "dir": [
       "PlayerFrameCoordinates"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341829,
+    "key": "player-frame-glow-hide",
+    "dir": [
+      "Player Frame Glow Hide"
     ],
     "source": "curse"
   },
@@ -41296,6 +41472,14 @@
     "source": "curse"
   },
   {
+    "id": 341442,
+    "key": "rank14lossa-classic",
+    "dir": [
+      "Rank14LosSA-Classic"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 87369,
     "key": "rap-sheet",
     "dir": [
@@ -42305,6 +42489,14 @@
     "key": "retroskullminimap",
     "dir": [
       "RetroSkullMinimap"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341851,
+    "key": "return-buff-tracker",
+    "dir": [
+      "ReturnBuffTracker"
     ],
     "source": "curse"
   },
@@ -43324,6 +43516,14 @@
     "source": "curse"
   },
   {
+    "id": 341729,
+    "key": "screen-overlay-enhanced-classic",
+    "dir": [
+      "ScreenOverlayEnhancedClassic"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 339495,
     "key": "screendeath",
     "dir": [
@@ -43771,6 +43971,14 @@
     "source": "curse"
   },
   {
+    "id": 341786,
+    "key": "sessions-messenger",
+    "dir": [
+      "SessionsMessenger"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 339010,
     "key": "sessisemotes",
     "dir": [
@@ -43944,6 +44152,14 @@
     "key": "ssanchor",
     "dir": [
       "KSSAnchor"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341605,
+    "key": "shard-lock",
+    "dir": [
+      "ShardLock"
     ],
     "source": "curse"
   },
@@ -45028,6 +45244,14 @@
     "source": "curse"
   },
   {
+    "id": 341522,
+    "key": "simplemapplus",
+    "dir": [
+      "SimpleMapPlus"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 102859,
     "key": "simpleobjectiveprogress",
     "dir": [
@@ -46070,6 +46294,14 @@
     "source": "curse"
   },
   {
+    "id": 341754,
+    "key": "soulspeak-classic",
+    "dir": [
+      "SoulSpeak"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 89102,
     "key": "sound-pack",
     "dir": [
@@ -46582,10 +46814,26 @@
     "source": "curse"
   },
   {
+    "id": 340761,
+    "key": "spinx-bag-space",
+    "dir": [
+      "SpinxBagSpace"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 24064,
     "key": "dailyitems",
     "dir": [
       "DailyItems"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341507,
+    "key": "spinx-focus",
+    "dir": [
+      "SpinxFocus"
     ],
     "source": "curse"
   },
@@ -48801,6 +49049,14 @@
     "source": "curse"
   },
   {
+    "id": 341677,
+    "key": "the-mother-tongue",
+    "dir": [
+      "TheMotherTongue"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 289107,
     "key": "the-nightingale-society",
     "dir": [
@@ -50302,6 +50558,14 @@
     "key": "toaster",
     "dir": [
       "Toaster"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341737,
+    "key": "todochecklister",
+    "dir": [
+      "TodoChecklister"
     ],
     "source": "curse"
   },
@@ -52212,6 +52476,14 @@
     "source": "curse"
   },
   {
+    "id": 341579,
+    "key": "uprank-classic",
+    "dir": [
+      "UpRank"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 87407,
     "key": "update-equipment-set",
     "dir": [
@@ -53005,6 +53277,14 @@
     "key": "wargamehelper",
     "dir": [
       "WarGameHelper"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341900,
+    "key": "warsouls",
+    "dir": [
+      "WarSouls"
     ],
     "source": "curse"
   },
@@ -54229,6 +54509,14 @@
     "source": "curse"
   },
   {
+    "id": 340722,
+    "key": "wolfpack-emotes",
+    "dir": [
+      "WolfpackEmotes"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 88423,
     "key": "wonderbar",
     "dir": [
@@ -54707,6 +54995,14 @@
       "XLoot_Options",
       "XLoot_Frame",
       "XLoot"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341514,
+    "key": "xp-bar-text",
+    "dir": [
+      "XPBarText"
     ],
     "source": "curse"
   },
@@ -58153,6 +58449,14 @@
     "dir": [
       "tullaRange_Config",
       "tullaRange"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341823,
+    "key": "unitscan",
+    "dir": [
+      "unitscan"
     ],
     "source": "curse"
   },

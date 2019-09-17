@@ -1,6 +1,5 @@
 const g = require('got')
 const _ = require('underscore')
-const fs = require('fs')
 const log = console.log
 
 let data = []
@@ -22,12 +21,14 @@ let api = {
         done()
       })
   },
+
   fetch(done) {
     log('fetching page', index / 255)
     api.search(index, res => {
       log('ack')
       if (!res) {
         log('error xx')
+        done(data)
       } else {
         res = res.map(x => {
           let d = {
@@ -44,14 +45,17 @@ let api = {
           return d
         })
 
+        // log('got', res.length)
+
         data = data.concat(res)
         if (res.length < 255) {
+          // log('????')
           done(data)
           return
         }
 
         index += 255
-        api.fetch()
+        api.fetch(done)
       }
     })
   }
