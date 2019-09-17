@@ -1,0 +1,23 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antiwinter/scrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antiwinter/scrap/issues"
+  },
+  "homepage": "https://github.com/antiwinter/scrap#readme",
+  "dependencies": {
+    "got": "^9.6.0",
+    "underscore": "^1.9.1"
+  }
+}
