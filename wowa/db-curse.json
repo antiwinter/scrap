@@ -2427,18 +2427,6 @@
     "source": "curse"
   },
   {
-    "id": 334936,
-    "key": "ark-inventory-classic",
-    "dir": [
-      "ArkInventoryClassicConfig",
-      "ArkInventoryClassicRules_Example",
-      "ArkInventoryClassic",
-      "ArkInventoryClassicRules",
-      "ArkInventoryClassicSearch"
-    ],
-    "source": "curse"
-  },
-  {
     "id": 101212,
     "key": "arkinventory-rules-wardrobe",
     "dir": [
@@ -3810,6 +3798,14 @@
     "source": "curse"
   },
   {
+    "id": 341902,
+    "key": "autologgerclassic",
+    "dir": [
+      "AutoLoggerClassic"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 92705,
     "key": "auto-loot-plus",
     "dir": [
@@ -4610,6 +4606,14 @@
     "source": "curse"
   },
   {
+    "id": 341955,
+    "key": "backstab-calculator",
+    "dir": [
+      "BackstabCalculator"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 85953,
     "key": "bad-moon-rolling",
     "dir": [
@@ -5099,6 +5103,14 @@
     "key": "bam",
     "dir": [
       "bam"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341977,
+    "key": "bam-advanced",
+    "dir": [
+      "BAM_advanced"
     ],
     "source": "curse"
   },
@@ -5905,14 +5917,6 @@
     "key": "better-blizz-options",
     "dir": [
       "BetterBlizzOptions"
-    ],
-    "source": "curse"
-  },
-  {
-    "id": 335239,
-    "key": "bettercastbar",
-    "dir": [
-      "BetterCastbar1.1"
     ],
     "source": "curse"
   },
@@ -12054,6 +12058,14 @@
     "source": "curse"
   },
   {
+    "id": 341960,
+    "key": "copy-anything",
+    "dir": [
+      "CopyAnything"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 301203,
     "key": "copypasta",
     "dir": [
@@ -12236,6 +12248,14 @@
     "key": "crimehelper",
     "dir": [
       "CrimeHelper"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341428,
+    "key": "crit-commander",
+    "dir": [
+      "CritCommander"
     ],
     "source": "curse"
   },
@@ -30754,6 +30774,14 @@
     "source": "curse"
   },
   {
+    "id": 341916,
+    "key": "lootmethodalerter",
+    "dir": [
+      "LootMethodAlerter"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 93818,
     "key": "loot-toasts",
     "dir": [
@@ -33416,9 +33444,9 @@
   },
   {
     "id": 341275,
-    "key": "missing-mana",
+    "key": "powermissing",
     "dir": [
-      "[D4KiR] Missing Mana"
+      "[D4KiR] Missing Power"
     ],
     "source": "curse"
   },
@@ -53289,6 +53317,14 @@
     "source": "curse"
   },
   {
+    "id": 341918,
+    "key": "wardrobe",
+    "dir": [
+      "Wardrobe"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 1649,
     "key": "wardrobe-al",
     "dir": [
@@ -58023,14 +58059,6 @@
     "key": "ouf_sb",
     "dir": [
       "oUF_sb"
-    ],
-    "source": "curse"
-  },
-  {
-    "id": 335238,
-    "key": "out-of-range",
-    "dir": [
-      "out of range 1.3"
     ],
     "source": "curse"
   },
