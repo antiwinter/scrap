@@ -7115,6 +7115,14 @@
     "source": "curse"
   },
   {
+    "id": 342067,
+    "key": "booty-bay-gazette",
+    "dir": [
+      "BootyBayGazette"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 298759,
     "key": "borderless",
     "dir": [
@@ -8727,6 +8735,14 @@
     "key": "project-2590",
     "dir": [
       "BuyEmAll"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342082,
+    "key": "buyemall-classic",
+    "dir": [
+      "BuyEmAllClassic"
     ],
     "source": "curse"
   },
@@ -17006,6 +17022,14 @@
     "source": "curse"
   },
   {
+    "id": 342089,
+    "key": "elvui-progressive-colored-databars-classic",
+    "dir": [
+      "ElvUI_PDBC"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 280393,
     "key": "elvui-progressive-databars-colors",
     "dir": [
@@ -18892,14 +18916,6 @@
     "source": "curse"
   },
   {
-    "id": 271270,
-    "key": "ferocity-files",
-    "dir": [
-      "FerocityFiles"
-    ],
-    "source": "curse"
-  },
-  {
     "id": 95553,
     "key": "hallowtimer",
     "dir": [
@@ -18992,6 +19008,14 @@
     "key": "findparty",
     "dir": [
       "findparty"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341835,
+    "key": "findparty-fanfix-for-classic-kr-realm-only",
+    "dir": [
+      "FindParty"
     ],
     "source": "curse"
   },
@@ -21631,6 +21655,14 @@
     "key": "goldtracker",
     "dir": [
       "GoldTracker"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342156,
+    "key": "golden-mail",
+    "dir": [
+      "GoldenMail"
     ],
     "source": "curse"
   },
@@ -31234,6 +31266,14 @@
     "source": "curse"
   },
   {
+    "id": 335665,
+    "key": "luna-unit-frames",
+    "dir": [
+      "LunaUnitFrames"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 90059,
     "key": "lunaeclipse-rotation-helper",
     "dir": [
@@ -36343,6 +36383,22 @@
     "source": "curse"
   },
   {
+    "id": 342134,
+    "key": "octobagslots",
+    "dir": [
+      "OctoBagSlots"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342123,
+    "key": "octocoordinates",
+    "dir": [
+      "OctoCoordinates"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 298625,
     "key": "odiousretroui",
     "dir": [
@@ -38107,6 +38163,14 @@
     "key": "pingidentifier",
     "dir": [
       "PingIdentifier"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342120,
+    "key": "pini-goldstats",
+    "dir": [
+      "Pini_GoldStats"
     ],
     "source": "curse"
   },
@@ -42404,6 +42468,14 @@
     "key": "repositiontopframe",
     "dir": [
       "RepositionTopFrame"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 271270,
+    "key": "reprobate-files",
+    "dir": [
+      "ReprobateFiles"
     ],
     "source": "curse"
   },
@@ -50001,7 +50073,7 @@
     "id": 18864,
     "key": "titan-gathered",
     "dir": [
-      "TitanGathered"
+      "TitanGathered2"
     ],
     "source": "curse"
   },
@@ -52548,6 +52620,14 @@
     "key": "use-old-tab-targeting",
     "dir": [
       "UseOldTabTarget"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342088,
+    "key": "usedinrecipe",
+    "dir": [
+      "UsedInRecipe"
     ],
     "source": "curse"
   },
