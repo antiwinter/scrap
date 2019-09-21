@@ -3376,7 +3376,7 @@
     "id": 339950,
     "key": "auctionfaster-by-therebro-rus",
     "dir": [
-      "AuctionFaster"
+      "AutionerFast"
     ],
     "source": "curse"
   },
@@ -4782,6 +4782,14 @@
     "source": "curse"
   },
   {
+    "id": 342315,
+    "key": "bagspaceclassic",
+    "dir": [
+      "BagSpace"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 22067,
     "key": "bagsync",
     "dir": [
@@ -5917,6 +5925,14 @@
     "key": "better-blizz-options",
     "dir": [
       "BetterBlizzOptions"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342234,
+    "key": "betterchatsounds",
+    "dir": [
+      "BetterChatSounds"
     ],
     "source": "curse"
   },
@@ -11388,6 +11404,14 @@
     "source": "curse"
   },
   {
+    "id": 342274,
+    "key": "combuctor_bankstack",
+    "dir": [
+      "Combuctor_BankStack"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 86166,
     "key": "combuctor_couture",
     "dir": [
@@ -14285,6 +14309,14 @@
     "source": "curse"
   },
   {
+    "id": 342031,
+    "key": "deathnote-enemy-info-saved",
+    "dir": [
+      "DeathNote"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 102406,
     "key": "deathsounds",
     "dir": [
@@ -16941,7 +16973,7 @@
   },
   {
     "id": 290419,
-    "key": "elvui_klixui-2-0",
+    "key": "elvui-klixui-classic",
     "dir": [
       "ElvUI_KlixUI"
     ],
@@ -17835,6 +17867,14 @@
     "key": "equipmentscale",
     "dir": [
       "EquipmentScale"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342401,
+    "key": "equipmentsets",
+    "dir": [
+      "EquipmentSets"
     ],
     "source": "curse"
   },
@@ -22569,6 +22609,14 @@
     "source": "curse"
   },
   {
+    "id": 342248,
+    "key": "group-xp",
+    "dir": [
+      "GroupXP"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 102562,
     "key": "groupauras",
     "dir": [
@@ -22752,6 +22800,14 @@
     "key": "guidelime_dungeongrind",
     "dir": [
       "Guidelime_DungeonGrind"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341972,
+    "key": "guidelime_dungeonquests",
+    "dir": [
+      "Guidelime_DungeonQuests"
     ],
     "source": "curse"
   },
@@ -24288,14 +24344,6 @@
     "key": "healbot_verticalalign",
     "dir": [
       "HealBot_VerticalAlign"
-    ],
-    "source": "curse"
-  },
-  {
-    "id": 335678,
-    "key": "healcomm",
-    "dir": [
-      "HealComm"
     ],
     "source": "curse"
   },
@@ -26578,6 +26626,14 @@
     "source": "curse"
   },
   {
+    "id": 342186,
+    "key": "island-explorer",
+    "dir": [
+      "IslandExplorer"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 304067,
     "key": "island-looter",
     "dir": [
@@ -27690,6 +27746,14 @@
     "source": "curse"
   },
   {
+    "id": 342275,
+    "key": "killcounter",
+    "dir": [
+      "KillCounter"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 90535,
     "key": "killscreenshots",
     "dir": [
@@ -27920,6 +27984,15 @@
   {
     "id": 95528,
     "key": "kkthnxui",
+    "dir": [
+      "KkthnxUI_Config",
+      "KkthnxUI"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342348,
+    "key": "kkthnxui_classic",
     "dir": [
       "KkthnxUI_Config",
       "KkthnxUI"
@@ -29254,7 +29327,6 @@
     "id": 310719,
     "key": "libcopypaste",
     "dir": [
-      "LibCopyPaste",
       "LibCopyPaste-1.0"
     ],
     "source": "curse"
@@ -29879,6 +29951,14 @@
     "source": "curse"
   },
   {
+    "id": 342336,
+    "key": "libraiderio-loader",
+    "dir": [
+      "LibRaiderIO_Loader"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 14305,
     "key": "librangecheck-2-0",
     "dir": [
@@ -30075,6 +30155,14 @@
     "key": "libtoast-1-0",
     "dir": [
       "LibToast-1.0"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 336268,
+    "key": "libtourist-classic",
+    "dir": [
+      "LibTouristClassic-1.0"
     ],
     "source": "curse"
   },
@@ -30576,20 +30664,19 @@
       "LookingForGroup_Bindings",
       "LookingForGroup_Broker",
       "LookingForGroup_CR",
-      "LookingForGroup_Elite",
       "LookingForGroup_Event",
       "LookingForGroup_Hook",
       "LookingForGroup_Icon",
-      "LookingForGroup_InvasionPoint",
-      "LookingForGroup_LFDLFR",
+      "LookingForGroup_M+",
       "LookingForGroup_Options",
       "LookingForGroup_Q",
-      "LookingForGroup_QJ",
       "LookingForGroup_SF",
-      "LookingForGroup",
-      "LookingForGroup_M+",
       "LookingForGroup_Settings",
-      "LookingForGroup_CRE"
+      "LookingForGroup",
+      "LookingForGroup_CRE",
+      "LookingForGroup_LFDLFR",
+      "LookingForGroup_PVP",
+      "LookingForGroup_QJ"
     ],
     "source": "curse"
   },
@@ -31262,14 +31349,6 @@
     "key": "luggage",
     "dir": [
       "Luggage"
-    ],
-    "source": "curse"
-  },
-  {
-    "id": 335665,
-    "key": "luna-unit-frames",
-    "dir": [
-      "LunaUnitFrames"
     ],
     "source": "curse"
   },
@@ -32622,6 +32701,15 @@
     "dir": [
       "MasterPlan",
       "MasterPlanA"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 2618,
+    "key": "project-2618",
+    "dir": [
+      "MasterTradeSkills",
+      "ReagentData"
     ],
     "source": "curse"
   },
@@ -39650,7 +39738,8 @@
       "QUI_TradeSkill",
       "QUI_UnitFrame",
       "QUI_WowLua",
-      "QUI"
+      "QUI",
+      "QUI_PVP"
     ],
     "source": "curse"
   },
@@ -42889,6 +42978,14 @@
     "source": "curse"
   },
   {
+    "id": 342249,
+    "key": "rolltracker-classic",
+    "dir": [
+      "RollTrackerClassic"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 305165,
     "key": "rft",
     "dir": [
@@ -45090,6 +45187,14 @@
     "source": "curse"
   },
   {
+    "id": 342289,
+    "key": "simple-lfg",
+    "dir": [
+      "SLFG"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 34476,
     "key": "simple-loot-list",
     "dir": [
@@ -46914,6 +47019,14 @@
     "source": "curse"
   },
   {
+    "id": 342363,
+    "key": "spin-to-win",
+    "dir": [
+      "SpinToWin"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 340761,
     "key": "spinx-bag-space",
     "dir": [
@@ -48352,6 +48465,14 @@
     "source": "curse"
   },
   {
+    "id": 342350,
+    "key": "sympathy",
+    "dir": [
+      "Sympathy"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 21160,
     "key": "syncfriends",
     "dir": [
@@ -48525,6 +48646,14 @@
     "key": "tagit",
     "dir": [
       "Tagit"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 341406,
+    "key": "taiwanese-twitch-emotes",
+    "dir": [
+      "Taiwanese Twitch Emotes"
     ],
     "source": "curse"
   },
@@ -49814,6 +49943,7 @@
       "TitanClassicLocation",
       "TitanClassicLootType",
       "TitanClassicPerformance",
+      "TitanClassicRegen",
       "TitanClassicRepair",
       "TitanClassicVolume",
       "TitanClassicXP",
@@ -49842,6 +49972,14 @@
     "key": "titan-panel-classic-mail",
     "dir": [
       "TitanClassicMail"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342214,
+    "key": "titan-panel-classic-recommended-zone",
+    "dir": [
+      "TitanClassicRecZone"
     ],
     "source": "curse"
   },
@@ -55445,14 +55583,6 @@
     "source": "curse"
   },
   {
-    "id": 335820,
-    "key": "yaht",
-    "dir": [
-      "YaHT"
-    ],
-    "source": "curse"
-  },
-  {
     "id": 102375,
     "key": "yarrr",
     "dir": [
@@ -57338,6 +57468,14 @@
     "key": "idtip",
     "dir": [
       "idTip"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 274419,
+    "key": "idtweaks",
+    "dir": [
+      "idTweaks"
     ],
     "source": "curse"
   },
