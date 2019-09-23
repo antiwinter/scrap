@@ -9219,6 +9219,14 @@
     "source": "curse"
   },
   {
+    "id": 342321,
+    "key": "camelspeak",
+    "dir": [
+      "CamelSpeak"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 267874,
     "key": "camera-combat-zoom-in",
     "dir": [
@@ -13980,6 +13988,7 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -13988,8 +13997,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace"
+      "DBM-ZG"
     ],
     "source": "curse"
   },
@@ -24741,6 +24749,14 @@
     "source": "curse"
   },
   {
+    "id": 342366,
+    "key": "hide-battlenet-friends-real-names",
+    "dir": [
+      "HideBattleNetFriendsRealNames"
+    ],
+    "source": "curse"
+  },
+  {
     "id": 33245,
     "key": "partyhide",
     "dir": [
@@ -30676,7 +30692,8 @@
       "LookingForGroup_CRE",
       "LookingForGroup_LFDLFR",
       "LookingForGroup_PVP",
-      "LookingForGroup_QJ"
+      "LookingForGroup_QJ",
+      "LookingForGroup_Solo"
     ],
     "source": "curse"
   },
@@ -32928,6 +32945,14 @@
     "key": "maxzoom",
     "dir": [
       "MaxZoom"
+    ],
+    "source": "curse"
+  },
+  {
+    "id": 342432,
+    "key": "mccapfix",
+    "dir": [
+      "McCapFix"
     ],
     "source": "curse"
   },
@@ -39725,6 +39750,7 @@
       "QUI_O",
       "QUI_Objective",
       "QUI_OrderHall",
+      "QUI_PVP",
       "QUI_ReadyCheck",
       "QUI_SBT",
       "QUI_Social",
@@ -39738,8 +39764,7 @@
       "QUI_TradeSkill",
       "QUI_UnitFrame",
       "QUI_WowLua",
-      "QUI",
-      "QUI_PVP"
+      "QUI"
     ],
     "source": "curse"
   },
