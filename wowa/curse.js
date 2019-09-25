@@ -35,12 +35,26 @@ let api = {
             id: x.id,
             key: x.slug,
             dir: [],
-            source: 'curse'
+            source: 'curse',
+            mode: _.uniq(x.latestFiles, l => l.gameVersionFlavor)
+              .map(l => (l.gameVersionFlavor === 'wow_classic' ? 2 : 1))
+              .reduce((a, b) => a | b, 0)
           }
 
           x.latestFiles.forEach(l => {
             d.dir = _.union(d.dir, l.modules.map(m => m.foldername))
           })
+
+          // if (!_.find(x.latestFiles, f => f.releaseType === 1))
+          //   log('!!! no 1 /', res.length, x)
+
+          // if (
+          //   _.find(x.latestFiles, f => f.releaseType > 3 || f.releaseType < 1)
+          // )
+          //   log('!!! >>> /', res.length, x)
+
+          // let beta = _.filter(x.latestFiles, f => f.releaseType < 3)
+          // if (!beta) log('!!! no formal', x)
 
           return d
         })
