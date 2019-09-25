@@ -33,6 +33,7 @@ let api = {
         res = res.map(x => {
           let d = {
             id: x.id,
+            name: x.name,
             key: x.slug,
             dir: [],
             source: 'curse',
