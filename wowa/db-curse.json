@@ -2017,6 +2017,16 @@
     "mode": 1
   },
   {
+    "id": 342875,
+    "name": "Altimate",
+    "key": "altimate",
+    "dir": [
+      "Altimate"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 13402,
     "name": "Altoholic",
     "key": "altoholic",
@@ -13119,6 +13129,17 @@
     "mode": 3
   },
   {
+    "id": 342685,
+    "name": "Classic Gold Tracker",
+    "key": "classic-gold-tracker",
+    "dir": [
+      "SimpleGoldTracker",
+      "ClassicGoldTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 336707,
     "name": "Classic Guild Bank",
     "key": "classic-guild-bank",
@@ -21104,8 +21125,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts",
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts_Classic",
+      "ElvUI_NutsAndBolts"
     ],
     "source": "curse",
     "mode": 3
@@ -21626,6 +21647,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344166,
+    "name": "EmmaDizzyEmotes",
+    "key": "emmadizzyemotes",
+    "dir": [
+      "EmmaDizzyEmotes"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 307318,
@@ -27975,6 +28006,16 @@
     "mode": 2
   },
   {
+    "id": 344012,
+    "name": "Group Bulletin Board",
+    "key": "group-bulletin-board",
+    "dir": [
+      "GroupBulletinBoard"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 1495,
     "name": "Group Calendar 5",
     "key": "group-calendar",
@@ -28068,11 +28109,31 @@
     "mode": 1
   },
   {
+    "id": 344155,
+    "name": "Group XP",
+    "key": "group-xp",
+    "dir": [
+      "GroupXP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102562,
     "name": "GroupAuras",
     "key": "groupauras",
     "dir": [
       "GroupAuras"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344203,
+    "name": "GroupLanguage for BfA",
+    "key": "grouplanguage",
+    "dir": [
+      "GroupLanguage"
     ],
     "source": "curse",
     "mode": 1
@@ -33654,11 +33715,31 @@
     "mode": 1
   },
   {
+    "id": 344146,
+    "name": "Jelly Deposit Locations",
+    "key": "jelly-deposit-locations",
+    "dir": [
+      "JellyDepositLocations"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341301,
     "name": "Jerk Script",
     "key": "jerk-script",
     "dir": [
       "JerkScript"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 344239,
+    "name": "Joanna's 1-60 Classic Horde Guide (Guidelime)",
+    "key": "joannas-1-60-classic-horde-guide-guidelime",
+    "dir": [
+      "Guidelime_JoanaGuideHorde1-60"
     ],
     "source": "curse",
     "mode": 2
@@ -37864,7 +37945,6 @@
     "name": "ListLooter",
     "key": "listlooter",
     "dir": [
-      "AutoLootList",
       "!ListLooter"
     ],
     "source": "curse",
@@ -38172,6 +38252,16 @@
     "mode": 1
   },
   {
+    "id": 342800,
+    "name": "Looking For Group Classic",
+    "key": "looking-for-group-113",
+    "dir": [
+      "LFG113"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 88851,
     "name": "Looking for Satchels",
     "key": "looking-satchels",
@@ -38215,6 +38305,22 @@
     "dir": [
       "LookingForGroup_AV_Options",
       "LookingForGroup_AV"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344147,
+    "name": "LookingForGroup Auto Grouping Only",
+    "key": "lookingforgroup-auto-grouping-only",
+    "dir": [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Q",
+      "LookingForGroup_Settings",
+      "LookingForGroup_SF",
+      "LookingForGroup"
     ],
     "source": "curse",
     "mode": 1
@@ -40340,7 +40446,7 @@
       "Masque_Epix"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 63406,
@@ -41058,17 +41164,6 @@
     "mode": 1
   },
   {
-    "id": 326009,
-    "name": "Mechagon Rare Share - MRS",
-    "key": "mechagon-rare-share",
-    "dir": [
-      "RareShareMechagon",
-      "RareShare"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 86678,
     "name": "Mechanical",
     "key": "mechanicalskin",
@@ -41306,10 +41401,9 @@
     "dir": [
       "Meter_Broker",
       "Meter_Icon",
-      "Meter_Kicker",
       "Meter_O",
-      "Meter",
-      "Meter_UI"
+      "Meter_UI",
+      "Meter"
     ],
     "source": "curse",
     "mode": 1
@@ -41731,6 +41825,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344161,
+    "name": "MinimapTrackingMenu_Classic",
+    "key": "minimaptrackingmenu_classic",
+    "dir": [
+      "MinimapTrackingMenu_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 15140,
@@ -42458,6 +42562,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344163,
+    "name": "Mootality-Emotes",
+    "key": "mootality-emotes",
+    "dir": [
+      "MootalityEmotes"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 85099,
@@ -44140,17 +44254,6 @@
     "mode": 1
   },
   {
-    "id": 326159,
-    "name": "Nazjatar Rare Share",
-    "key": "nazjatar-rare-share",
-    "dir": [
-      "RareShareNazjatar",
-      "RareShare"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 301358,
     "name": "NazunaCoords",
     "key": "nazunacoords",
@@ -44263,6 +44366,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344130,
+    "name": "NeedsFoodBadly",
+    "key": "needsfoodbadly",
+    "dir": [
+      "NeedsFoodBadly"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 54081,
@@ -59377,7 +59490,7 @@
       "StoryTeller"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 39672,
@@ -66096,8 +66209,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "Viks_ConfigUI",
-      "ViksUI"
+      "ViksUI",
+      "Viks_ConfigUI"
     ],
     "source": "curse",
     "mode": 1
@@ -71200,6 +71313,16 @@
     "mode": 1
   },
   {
+    "id": 342870,
+    "name": "guidelime_sunpower",
+    "key": "guidelime_sunpower",
+    "dir": [
+      "Guidelime_Sunpower"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85753,
     "name": "gxchat",
     "key": "gxchat",
@@ -72352,7 +72475,7 @@
       "npcGenerator"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 257916,
@@ -72362,7 +72485,7 @@
       "npcGToTRP3"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102195,
