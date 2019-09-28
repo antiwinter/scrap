@@ -2481,7 +2481,7 @@
       "AntiDaze"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28848,
@@ -4623,7 +4623,7 @@
       "AutoFlood"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 39179,
@@ -7589,7 +7589,7 @@
       "BigDebuffs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 85784,
@@ -13133,11 +13133,10 @@
     "name": "Classic Gold Tracker",
     "key": "classic-gold-tracker",
     "dir": [
-      "SimpleGoldTracker",
       "ClassicGoldTracker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 336707,
@@ -17363,6 +17362,7 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17371,8 +17371,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -24395,6 +24394,16 @@
     "mode": 1
   },
   {
+    "id": 344402,
+    "name": "Focused",
+    "key": "focused",
+    "dir": [
+      "Focused"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 44230,
     "name": "FogCreature-StandSoundMute",
     "key": "fogcreature-standsoundmute",
@@ -26241,7 +26250,7 @@
   },
   {
     "id": 341035,
-    "name": "GigaAutoResourcesTracker",
+    "name": "Giga Auto Resources Tracker",
     "key": "gigaautoresourcestracker",
     "dir": [
       "GigaAutoResourcesTracker"
@@ -31541,6 +31550,16 @@
     "mode": 1
   },
   {
+    "id": 344304,
+    "name": "Holy Paladin Tips",
+    "key": "holy-paladin-tips",
+    "dir": [
+      "HolyPaladinTips"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 27511,
     "name": "Holy Power Indicator",
     "key": "holy-power-indicator",
@@ -34864,6 +34883,16 @@
     "mode": 1
   },
   {
+    "id": 342135,
+    "name": "Kiwi Item Info v1.1.1",
+    "key": "kiwi-item-info",
+    "dir": [
+      "KiwiItemInfo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95612,
     "name": "KiwiPlates",
     "key": "kiwiplates",
@@ -35035,8 +35064,8 @@
     "dir": [
       "Kui_Nameplates_Core",
       "Kui_Nameplates_Core_Config",
-      "Kui_Media",
-      "Kui_Nameplates"
+      "Kui_Nameplates",
+      "Kui_Media"
     ],
     "source": "curse",
     "mode": 3
@@ -37791,6 +37820,16 @@
     "mode": 1
   },
   {
+    "id": 344264,
+    "name": "Lightwell Buddy - Classic",
+    "key": "lightwell-buddy-classic",
+    "dir": [
+      "LightwellBuddy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 86485,
     "name": "LilRep",
     "key": "lilrep",
@@ -38456,16 +38495,6 @@
     "mode": 1
   },
   {
-    "id": 289648,
-    "name": "LookingForGroup Meeting Stone",
-    "key": "lookingforgroup-meeting-stone",
-    "dir": [
-      "LookingForGroup_MS"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 299459,
     "name": "LookingForGroup PVP",
     "key": "lookingforgroup-pvp",
@@ -39066,7 +39095,7 @@
       "LowHP"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 82114,
@@ -39198,34 +39227,6 @@
     "key": "lustpopper",
     "dir": [
       "LustPopper"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 300687,
-    "name": "LynxUI",
-    "key": "lynxui",
-    "dir": [
-      "LynxUI_ActionBar",
-      "LynxUI_Bags",
-      "LynxUI_CastingBar",
-      "LynxUI_Chat",
-      "LynxUI_Details",
-      "LynxUI_Interrupts",
-      "LynxUI_Mailbox",
-      "LynxUI_Map",
-      "LynxUI_Nameplates",
-      "LynxUI_Options",
-      "LynxUI_SellJunk",
-      "LynxUI_Speedometer",
-      "LynxUI_Tooltip",
-      "LynxUI_Tweaks",
-      "LynxUI_UnitFrames",
-      "LynxUI",
-      "LynxUI_Bundle",
-      "LynxUI_Frames",
-      "LynxUI_Skin"
     ],
     "source": "curse",
     "mode": 1
@@ -41204,6 +41205,29 @@
     "mode": 1
   },
   {
+    "id": 289648,
+    "name": "Meeting Stone (集合石)",
+    "key": "meeting-stone",
+    "dir": [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "MeetingStone_Bindings",
+      "MeetingStone_Broker",
+      "MeetingStone_FW",
+      "MeetingStone_Icon",
+      "LookingForGroup",
+      "LookingForGroup_CR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 43972,
     "name": "Mega Damage",
     "key": "mega-damage",
@@ -41724,6 +41748,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 343965,
+    "name": "Minimalist Chat",
+    "key": "minimalist-chat",
+    "dir": [
+      "MinimalistChat"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 263037,
@@ -45863,7 +45897,7 @@
       "OneOfUs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 89339,
@@ -49690,10 +49724,11 @@
     "name": "Quafe UI",
     "key": "quafe-ui",
     "dir": [
-      "Quafe_MEKA",
-      "Quafe",
       "Quafe_MEKA_Classic",
-      "Quafe_LFC"
+      "Quafe",
+      "Quafe_LFC",
+      "Quafe_Libs",
+      "Quafe_MEKA"
     ],
     "source": "curse",
     "mode": 3
@@ -50310,7 +50345,7 @@
       "QDKP_V2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 5130,
@@ -51002,6 +51037,16 @@
     "mode": 1
   },
   {
+    "id": 342912,
+    "name": "Radar",
+    "key": "radar",
+    "dir": [
+      "Radar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 286443,
     "name": "RagHP",
     "key": "raghp",
@@ -51647,11 +51692,31 @@
     "mode": 1
   },
   {
+    "id": 344282,
+    "name": "Raider.IO LOD Database EU Alliance Raid",
+    "key": "raider-io-lod-database-eu-alliance-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_EU_A_R"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323960,
     "name": "Raider.IO LOD Database EU Horde",
     "key": "raider-io-lod-database-eu-horde",
     "dir": [
       "RaiderIO_LOD_DB_EU_H"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344281,
+    "name": "Raider.IO LOD Database EU Horde Raid",
+    "key": "raider-io-lod-database-eu-horde-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_EU_H_R"
     ],
     "source": "curse",
     "mode": 1
@@ -51667,11 +51732,31 @@
     "mode": 1
   },
   {
+    "id": 344287,
+    "name": "Raider.IO LOD Database KR Alliance Raid",
+    "key": "raider-io-lod-database-kr-alliance-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_KR_A_R"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323963,
     "name": "Raider.IO LOD Database KR Horde",
     "key": "raider-io-lod-database-kr-horde",
     "dir": [
       "RaiderIO_LOD_DB_KR_H"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344286,
+    "name": "Raider.IO LOD Database KR Horde Raid",
+    "key": "raider-io-lod-database-kr-horde-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_KR_H_R"
     ],
     "source": "curse",
     "mode": 1
@@ -51687,11 +51772,31 @@
     "mode": 1
   },
   {
+    "id": 344289,
+    "name": "Raider.IO LOD Database TW Alliance Raid",
+    "key": "raider-io-lod-database-tw-alliance-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_TW_A_R"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323965,
     "name": "Raider.IO LOD Database TW Horde",
     "key": "raider-io-lod-database-tw-horde",
     "dir": [
       "RaiderIO_LOD_DB_TW_H"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344288,
+    "name": "Raider.IO LOD Database TW Horde Raid",
+    "key": "raider-io-lod-database-tw-horde-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_TW_H_R"
     ],
     "source": "curse",
     "mode": 1
@@ -51707,12 +51812,32 @@
     "mode": 1
   },
   {
+    "id": 344285,
+    "name": "Raider.IO LOD Database US Alliance Raid",
+    "key": "raider-io-lod-database-us-alliance-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_US_A_R"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323637,
     "name": "Raider.IO LOD Database US Horde",
     "key": "raider-io-lod-database-us-horde",
     "dir": [
       "LookingForGroup_RaiderIO_DB_US_H",
       "RaiderIO_LOD_DB_US_H"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344284,
+    "name": "Raider.IO LOD Database US Horde Raid",
+    "key": "raider-io-lod-database-us-horde-raid",
+    "dir": [
+      "RaiderIO_LOD_DB_US_H_R"
     ],
     "source": "curse",
     "mode": 1
@@ -57108,6 +57233,16 @@
     "mode": 1
   },
   {
+    "id": 339820,
+    "name": "Skillet-Classic",
+    "key": "skillet-classic",
+    "dir": [
+      "Skillet-Classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 86676,
     "name": "Skin",
     "key": "skin",
@@ -58469,6 +58604,16 @@
     "mode": 1
   },
   {
+    "id": 344483,
+    "name": "SpellBook Abridged for WoW Classic",
+    "key": "spellbook-abridged-for-wow-classic",
+    "dir": [
+      "SpellbookAbridged"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 96117,
     "name": "SpellDamage",
     "key": "spelldamage",
@@ -58919,7 +59064,7 @@
       "StarCursor"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101995,
@@ -61020,7 +61165,7 @@
       "TargetClassIcon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20590,
@@ -62279,16 +62424,6 @@
     "mode": 1
   },
   {
-    "id": 4622,
-    "name": "Titan Panel - [Rec Zone] REBORN",
-    "key": "project-4622",
-    "dir": [
-      "TitanRecZone"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 87581,
     "name": "Titan Panel Apexis Crystals",
     "key": "titan-panel-apexis-crystals",
@@ -63090,6 +63225,16 @@
     "mode": 1
   },
   {
+    "id": 335270,
+    "name": "Titan Panel [TokenChecker] for BfA",
+    "key": "tokenchecker",
+    "dir": [
+      "TokenChecker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 274536,
     "name": "Titan Panel [Trash Cash]",
     "key": "titan-panel-trash-cash",
@@ -63535,16 +63680,6 @@
     "key": "token-watch",
     "dir": [
       "TokenWatch"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 335270,
-    "name": "TokenChecker for BfA",
-    "key": "tokenchecker",
-    "dir": [
-      "TokenChecker"
     ],
     "source": "curse",
     "mode": 1
@@ -71452,7 +71587,7 @@
       "iGuild"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 103346,
