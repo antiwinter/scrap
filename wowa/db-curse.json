@@ -1766,6 +1766,16 @@
     "mode": 1
   },
   {
+    "id": 67669,
+    "name": "Aiue's Quest Tracker",
+    "key": "aqt",
+    "dir": [
+      "AQT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 317378,
     "name": "AkiTools",
     "key": "akitools",
@@ -2136,6 +2146,16 @@
     "key": "amalu-soundpack",
     "dir": [
       "Amalu Soundpack"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 344535,
+    "name": "Ammo Meter",
+    "key": "ammo-meter",
+    "dir": [
+      "ammeter"
     ],
     "source": "curse",
     "mode": 2
@@ -3857,7 +3877,7 @@
   },
   {
     "id": 340473,
-    "name": "Attesor",
+    "name": "Attesor Universal Language",
     "key": "attesor",
     "dir": [
       "Attesor"
@@ -6974,7 +6994,7 @@
       "BaudBag"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 4292,
@@ -17362,7 +17382,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17371,7 +17390,8 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace"
     ],
     "source": "curse",
     "mode": 3
@@ -18887,7 +18907,7 @@
       "Divisor"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 298344,
@@ -19449,12 +19469,12 @@
     "name": "DuelResponse",
     "key": "duelresponse",
     "dir": [
-      "DuelResponse_Blacklist_Classic",
-      "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic",
       "DuelResponse_Blacklist",
       "DuelResponse_Whisper",
-      "DuelResponse"
+      "DuelResponse",
+      "DuelResponse_Blacklist_Classic",
+      "DuelResponse_Classic",
+      "DuelResponse_Whisper_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -20836,7 +20856,7 @@
       "ElvUI_CodeNameBlaze"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 41214,
@@ -23216,6 +23236,16 @@
     "key": "fascistgnome",
     "dir": [
       "FascistGnome"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344950,
+    "name": "Fast Auto Repair for BfA",
+    "key": "fast-auto-repair-for-bfa",
+    "dir": [
+      "FastAutoRepair"
     ],
     "source": "curse",
     "mode": 1
@@ -25736,6 +25766,16 @@
     "mode": 1
   },
   {
+    "id": 344889,
+    "name": "GarrisonSwitch",
+    "key": "garrisonswitch",
+    "dir": [
+      "GarrisonSwitch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101739,
     "name": "Garroshifier",
     "key": "garroshifier",
@@ -27975,6 +28015,16 @@
     "mode": 1
   },
   {
+    "id": 344568,
+    "name": "Grimoire Keeper Classic",
+    "key": "grimoire-keeper-classic",
+    "dir": [
+      "GrimoireKeeper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 5397,
     "name": "GrindLoot",
     "key": "project-5397",
@@ -29225,7 +29275,7 @@
       "Gyro"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 300287,
@@ -29827,7 +29877,7 @@
       "HandyNotes_WorldMapButton"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 272284,
@@ -30382,7 +30432,7 @@
       "HearKitty"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 301389,
@@ -30422,7 +30472,7 @@
       "HearKitty_SoundPacks"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102290,
@@ -34731,6 +34781,16 @@
     "mode": 3
   },
   {
+    "id": 344438,
+    "name": "Killfills XP",
+    "key": "killfills-xp",
+    "dir": [
+      "Killfills_XP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 69782,
     "name": "Killing Blow Announcer",
     "key": "killing-blow-announcer",
@@ -34884,7 +34944,7 @@
   },
   {
     "id": 342135,
-    "name": "Kiwi Item Info v1.1.1",
+    "name": "Kiwi Item Info v2.0.0",
     "key": "kiwi-item-info",
     "dir": [
       "KiwiItemInfo"
@@ -37306,7 +37366,7 @@
       "LibProfessions"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 55985,
@@ -37907,7 +37967,7 @@
       "LinkWrangler"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 4580,
@@ -38344,22 +38404,6 @@
     "dir": [
       "LookingForGroup_AV_Options",
       "LookingForGroup_AV"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344147,
-    "name": "LookingForGroup Auto Grouping Only",
-    "key": "lookingforgroup-auto-grouping-only",
-    "dir": [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Q",
-      "LookingForGroup_Settings",
-      "LookingForGroup_SF",
-      "LookingForGroup"
     ],
     "source": "curse",
     "mode": 1
@@ -41305,7 +41349,7 @@
       "Memoria"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102907,
@@ -42071,7 +42115,7 @@
       "MistyEmotes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 311392,
@@ -44091,7 +44135,7 @@
       "NameCopy"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 56354,
@@ -44165,7 +44209,7 @@
       "NameplateCCnTrinket"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101116,
@@ -44175,7 +44219,7 @@
       "NameplateColors"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 66866,
@@ -46732,7 +46776,7 @@
       "Pawn"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 101921,
@@ -49068,6 +49112,16 @@
     "mode": 1
   },
   {
+    "id": 342943,
+    "name": "ProfessionMailer",
+    "key": "professionmailer",
+    "dir": [
+      "ProfessionMailer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102607,
     "name": "ProfessionTab",
     "key": "professiontab",
@@ -49862,6 +49916,22 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 344147,
+    "name": "Quest Group Finder (LFG-AG)",
+    "key": "lookingforgroup-auto-grouping-only",
+    "dir": [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Q",
+      "LookingForGroup_Settings",
+      "LookingForGroup_SF",
+      "LookingForGroup"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 334517,
@@ -51559,7 +51629,7 @@
       "RaidMobMarkerHUD"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 280194,
@@ -61842,6 +61912,16 @@
     "mode": 2
   },
   {
+    "id": 344559,
+    "name": "Threatrack",
+    "key": "threatrack",
+    "dir": [
+      "Threatrack"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 76254,
     "name": "Threes!",
     "key": "threes",
@@ -63992,7 +64072,7 @@
       "TooltipItemIcon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340449,
@@ -66656,6 +66736,16 @@
     "mode": 1
   },
   {
+    "id": 344584,
+    "name": "VortexChat",
+    "key": "vortexchat",
+    "dir": [
+      "VortexChat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 7950,
     "name": "VuhDo",
     "key": "vuhdo",
@@ -67491,10 +67581,11 @@
     "name": "Where To Gather",
     "key": "where-to-gather",
     "dir": [
-      "WhereToGather"
+      "WhereToGather",
+      "WhereToGatherClassic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 279306,
@@ -68867,7 +68958,7 @@
       "WowheadLink_Grabber"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 326804,
