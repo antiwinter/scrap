@@ -70,6 +70,16 @@
     "mode": 1
   },
   {
+    "id": 344967,
+    "name": "#Shitlist",
+    "key": "shitlist",
+    "dir": [
+      "Shitlist"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 44359,
     "name": "$old!it",
     "key": "old",
@@ -1975,6 +1985,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 2462,
+    "name": "AltMinder",
+    "key": "alt-minder",
+    "dir": [
+      "AltMinder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 6290,
@@ -6238,7 +6258,7 @@
     "name": "Bags Frame Remover",
     "key": "bags-frame-remover",
     "dir": [
-      "BagsBackgroundRemover"
+      "BagsFrameRemover"
     ],
     "source": "curse",
     "mode": 1
@@ -9669,7 +9689,7 @@
   {
     "id": 57853,
     "name": "Broker: LootSpec",
-    "key": "broker_lootspec",
+    "key": "broker-lootspec",
     "dir": [
       "Broker_LootSpec"
     ],
@@ -9689,7 +9709,7 @@
   {
     "id": 55986,
     "name": "Broker: MicroClock",
-    "key": "broker_microclock",
+    "key": "broker-microclock",
     "dir": [
       "Broker_MicroClock"
     ],
@@ -9721,7 +9741,7 @@
   {
     "id": 65794,
     "name": "Broker: TimeToExecute",
-    "key": "broker_timetoexecute",
+    "key": "broker-timetoexecute",
     "dir": [
       "Broker_TimeToExecute"
     ],
@@ -12004,6 +12024,16 @@
     "mode": 1
   },
   {
+    "id": 324764,
+    "name": "ChaChing",
+    "key": "chaching",
+    "dir": [
+      "ChaChing"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 300882,
     "name": "ChampionCommander",
     "key": "championcommander",
@@ -12714,7 +12744,7 @@
       "Chinchilla"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 22549,
@@ -13294,6 +13324,16 @@
     "key": "classicauradurations",
     "dir": [
       "ClassicAuraDurations"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 341978,
+    "name": "ClassicBlacklist",
+    "key": "classic-blacklist",
+    "dir": [
+      "ClassicBlacklist"
     ],
     "source": "curse",
     "mode": 2
@@ -18637,6 +18677,16 @@
     "mode": 1
   },
   {
+    "id": 345066,
+    "name": "Did I Do It",
+    "key": "did-i-do-it",
+    "dir": [
+      "DidIDoIt"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 78067,
     "name": "DiesalLibs",
     "key": "diesallibs",
@@ -19319,6 +19369,16 @@
     "key": "dressup-deluxe",
     "dir": [
       "DressupDeluxe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 341287,
+    "name": "Drill Sergeant",
+    "key": "drill-sergeant",
+    "dir": [
+      "DrillSergeant"
     ],
     "source": "curse",
     "mode": 1
@@ -21950,20 +22010,10 @@
   },
   {
     "id": 298558,
-    "name": "Enhanced Raid Frame: Indicators",
-    "key": "enhanced-raid-frame-indicators",
+    "name": "Enhanced Raid Frames",
+    "key": "enhanced-raid-frames",
     "dir": [
       "RaidFrameIndicators"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 298563,
-    "name": "Enhanced Raid Frame: Raid Icons",
-    "key": "enhanced-raid-frame-icons",
-    "dir": [
-      "RaidFrameIcons"
     ],
     "source": "curse",
     "mode": 1
@@ -27160,17 +27210,6 @@
       "Grail-Reputations",
       "Grail-Rewards",
       "Grail",
-      "Grail-Quests-deDE",
-      "Grail-Quests-enUS",
-      "Grail-Quests-esES",
-      "Grail-Quests-esMX",
-      "Grail-Quests-frFR",
-      "Grail-Quests-itIT",
-      "Grail-Quests-koKR",
-      "Grail-Quests-ptBR",
-      "Grail-Quests-ruRU",
-      "Grail-Quests-zhCN",
-      "Grail-Quests-zhTW",
       "Grail-Reputations-_classic_",
       "Grail-Reputations-_retail_",
       "Grail-Quests-_classic_-deDE",
@@ -33804,16 +33843,6 @@
     "mode": 2
   },
   {
-    "id": 344239,
-    "name": "Joanna's 1-60 Classic Horde Guide (Guidelime)",
-    "key": "joannas-1-60-classic-horde-guide-guidelime",
-    "dir": [
-      "Guidelime_JoanaGuideHorde1-60"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 97118,
     "name": "Job's Done",
     "key": "jobs-done",
@@ -34944,7 +34973,7 @@
   },
   {
     "id": 342135,
-    "name": "Kiwi Item Info v2.0.0",
+    "name": "Kiwi Item Info",
     "key": "kiwi-item-info",
     "dir": [
       "KiwiItemInfo"
@@ -35702,7 +35731,7 @@
       "LargerMacroIconSelectionData"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 22632,
@@ -37119,6 +37148,16 @@
     "mode": 1
   },
   {
+    "id": 344823,
+    "name": "LibItems",
+    "key": "libitems",
+    "dir": [
+      "LibItems"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 14294,
     "name": "LibJostle-3.0",
     "key": "libjostle-3-0",
@@ -37376,7 +37415,7 @@
       "LibPubSub-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 15487,
@@ -38156,6 +38195,16 @@
     "key": "livestock",
     "dir": [
       "Livestock"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 344998,
+    "name": "Livv",
+    "key": "livv",
+    "dir": [
+      "Livv"
     ],
     "source": "curse",
     "mode": 1
@@ -39646,6 +39695,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344988,
+    "name": "Mage Helper",
+    "key": "mage-helper",
+    "dir": [
+      "MageHelper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20327,
@@ -45789,7 +45848,7 @@
       "OmniBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 2057,
@@ -46776,7 +46835,7 @@
       "Pawn"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 101921,
@@ -47558,6 +47617,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345130,
+    "name": "PetXP",
+    "key": "petxp",
+    "dir": [
+      "PetXP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 266096,
@@ -49780,9 +49849,9 @@
     "dir": [
       "Quafe_MEKA_Classic",
       "Quafe",
-      "Quafe_LFC",
       "Quafe_Libs",
-      "Quafe_MEKA"
+      "Quafe_MEKA",
+      "Quafe_Libs_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -49899,7 +49968,7 @@
   },
   {
     "id": 319411,
-    "name": "Quest Cinematic",
+    "name": "Quest Cinematic (Retail & Classic)",
     "key": "quest-cinematic",
     "dir": [
       "QuestC"
@@ -50214,6 +50283,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345166,
+    "name": "QuestLogExperience",
+    "key": "questlogexperience",
+    "dir": [
+      "QuestLogExperience"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 300702,
@@ -52186,6 +52265,36 @@
     "key": "rare-love",
     "dir": [
       "RareLove"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 345144,
+    "name": "Rare Share: Core",
+    "key": "rare-share",
+    "dir": [
+      "RareShare"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 326009,
+    "name": "Rare Share: Mechagon",
+    "key": "mechagon-rare-share",
+    "dir": [
+      "RareShareMechagon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 326159,
+    "name": "Rare Share: Nazjatar",
+    "key": "nazjatar-rare-share",
+    "dir": [
+      "RareShareNazjatar"
     ],
     "source": "curse",
     "mode": 1
@@ -56660,7 +56769,7 @@
       "SimpleRaidTargetIcons"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 87366,
@@ -58187,6 +58296,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345172,
+    "name": "SotA - DKP Addon",
+    "key": "sota-dkp-addon",
+    "dir": [
+      "sota"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 95719,
@@ -61296,6 +61415,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345018,
+    "name": "TargetIt",
+    "key": "targetit",
+    "dir": [
+      "TargetIt"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 22140,
@@ -65390,7 +65519,7 @@
       "TrufiGCD"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 21625,
@@ -68446,6 +68575,18 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344670,
+    "name": "WoWQuoteClassic",
+    "key": "wowquoteclassic",
+    "dir": [
+      "QuoteMediaClassicSounds",
+      "QuoteMediaGermanSounds",
+      "WoWQuote2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 88598,
