@@ -7671,13 +7671,13 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace"
+      "BigWigs_EternalPalace",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore"
     ],
     "source": "curse",
     "mode": 3
@@ -9637,6 +9637,16 @@
     "mode": 1
   },
   {
+    "id": 345245,
+    "name": "Broker: ClassicTracking",
+    "key": "broker-classictracking",
+    "dir": [
+      "Broker_ClassicTracking"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28733,
     "name": "Broker: Fishing Buddy",
     "key": "broker-fishing-buddy",
@@ -9714,7 +9724,7 @@
       "Broker_MicroClock"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 37520,
@@ -9746,7 +9756,7 @@
       "Broker_TimeToExecute"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 25302,
@@ -10425,7 +10435,7 @@
       "Broker_TSMProfile"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20924,
@@ -13396,6 +13406,16 @@
     "key": "classiccodex",
     "dir": [
       "ClassicCodex"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 345382,
+    "name": "ClassicGearSet",
+    "key": "classicgearset",
+    "dir": [
+      "ClassicGearSet"
     ],
     "source": "curse",
     "mode": 2
@@ -27050,6 +27070,16 @@
     "mode": 1
   },
   {
+    "id": 345240,
+    "name": "GoldSellerBlocker",
+    "key": "goldsellerblocker",
+    "dir": [
+      "GoldSellerBlocker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 317761,
     "name": "GoldTaker",
     "key": "goldtaker",
@@ -28801,6 +28831,16 @@
     "mode": 1
   },
   {
+    "id": 345192,
+    "name": "Guild Name On Hover",
+    "key": "guild-name-on-hover",
+    "dir": [
+      "GuildNameOnHover"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 90042,
     "name": "Guild News Filter",
     "key": "guild-news-filter",
@@ -30206,6 +30246,16 @@
     "dir": [
       "HandyNotes_Arathi",
       "HandyNotes_WarfrontRares"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 345228,
+    "name": "Handynotes BFA Jelly",
+    "key": "handynotes-bfa-jelly",
+    "dir": [
+      "HandyNotes_BFA_Jelly"
     ],
     "source": "curse",
     "mode": 1
@@ -34982,6 +35032,16 @@
     "mode": 2
   },
   {
+    "id": 345127,
+    "name": "Kiwi Quick Pick",
+    "key": "kiwi-quick-pick",
+    "dir": [
+      "KiwiQuickPick"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95612,
     "name": "KiwiPlates",
     "key": "kiwiplates",
@@ -35009,6 +35069,16 @@
     "dir": [
       "KkthnxUI_Config",
       "KkthnxUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 344693,
+    "name": "Klappbar",
+    "key": "klappbar",
+    "dir": [
+      "Klappa"
     ],
     "source": "curse",
     "mode": 2
@@ -44093,6 +44163,16 @@
     "mode": 1
   },
   {
+    "id": 345024,
+    "name": "NFG",
+    "key": "nfg",
+    "dir": [
+      "NotForGnomes"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102514,
     "name": "NKeystone",
     "key": "nkeystone",
@@ -49971,10 +50051,11 @@
     "name": "Quest Cinematic (Retail & Classic)",
     "key": "quest-cinematic",
     "dir": [
-      "QuestC"
+      "QuestC",
+      "ClassicQuestC"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 27328,
@@ -52209,6 +52290,16 @@
     "mode": 1
   },
   {
+    "id": 19011,
+    "name": "RangeColors",
+    "key": "rangecolors",
+    "dir": [
+      "RangeColors"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 46661,
     "name": "RangeCooldown",
     "key": "rangecooldown",
@@ -52667,6 +52758,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345322,
+    "name": "ReagentCount",
+    "key": "reagentcount",
+    "dir": [
+      "ReagentCount"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 38814,
@@ -54003,6 +54104,16 @@
     "mode": 2
   },
   {
+    "id": 345276,
+    "name": "RosterFilter",
+    "key": "rosterfilter",
+    "dir": [
+      "RosterFilter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 14598,
     "name": "RosterLib",
     "key": "rosterlib",
@@ -54021,6 +54132,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345255,
+    "name": "RotateMinimapFix",
+    "key": "rotateminimapfix",
+    "dir": [
+      "RotateMinimapFix"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 28564,
@@ -55190,6 +55311,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345367,
+    "name": "SellCrap",
+    "key": "sellcrap",
+    "dir": [
+      "SellCrap"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14628,
@@ -58348,6 +58479,16 @@
     "mode": 2
   },
   {
+    "id": 345414,
+    "name": "Soulstone notifier 1UP",
+    "key": "soulstone-notifier-1up",
+    "dir": [
+      "ONEUP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89102,
     "name": "Sound Pack",
     "key": "sound-pack",
@@ -60572,6 +60713,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345315,
+    "name": "Svens Bam Addon",
+    "key": "svens-bam-addon",
+    "dir": [
+      "SvensBamAddon"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 67914,
