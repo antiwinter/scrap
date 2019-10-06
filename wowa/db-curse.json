@@ -3933,7 +3933,7 @@
       "auc-advanced-searcher-pawn"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 46491,
@@ -21778,6 +21778,16 @@
     "mode": 1
   },
   {
+    "id": 339979,
+    "name": "Emote Splitter [Classic]",
+    "key": "emote-splitter-classic",
+    "dir": [
+      "EmoteSplitter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2441,
     "name": "EmoteLDB",
     "key": "emoteldb",
@@ -23488,7 +23498,7 @@
       "FavoriteContacts"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 267505,
@@ -25422,6 +25432,16 @@
     "mode": 2
   },
   {
+    "id": 345468,
+    "name": "GPS - Coordinate Based Player Tracking",
+    "key": "gps",
+    "dir": [
+      "GPS"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101400,
     "name": "GS-Ðarkramz",
     "key": "gs-darkramz",
@@ -25599,6 +25619,16 @@
     "key": "galvins-unitbars-classic",
     "dir": [
       "GalvinUnitBarsClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 344968,
+    "name": "Gamble Classic",
+    "key": "gamble-classic",
+    "dir": [
+      "GambleClassic"
     ],
     "source": "curse",
     "mode": 2
@@ -25964,6 +25994,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345645,
+    "name": "GatherTrackingReminder",
+    "key": "gathertrackingreminder",
+    "dir": [
+      "GatherTrackingReminder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 32,
@@ -28326,6 +28366,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345653,
+    "name": "GrumVisionClassic",
+    "key": "grumvisionclassic",
+    "dir": [
+      "GrumVisionClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86677,
@@ -31406,6 +31456,16 @@
     "key": "hideparty",
     "dir": [
       "HideParty"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 345505,
+    "name": "HidePrestige",
+    "key": "hideprestige",
+    "dir": [
+      "HidePrestige"
     ],
     "source": "curse",
     "mode": 1
@@ -35802,6 +35862,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 345647,
+    "name": "LargerSelfAuras",
+    "key": "largerselfauras",
+    "dir": [
+      "LargerSelfAuras"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 22632,
@@ -40964,6 +41034,16 @@
     "mode": 1
   },
   {
+    "id": 345668,
+    "name": "MassDisenchanter",
+    "key": "massdisenchanter",
+    "dir": [
+      "MassDisenchanter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 283175,
     "name": "Master Gypsy",
     "key": "master-gypsy",
@@ -44321,6 +44401,16 @@
     "mode": 1
   },
   {
+    "id": 345662,
+    "name": "Nameplate EliteDragon",
+    "key": "nameplate-elitedragon",
+    "dir": [
+      "NamePlateEliteDragon"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 269544,
     "name": "Nameplate Scrolling Combat Text",
     "key": "nameplate-scrolling-combat-text",
@@ -44459,6 +44549,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345449,
+    "name": "NaxxChatAlarm",
+    "key": "naxxchatalarm",
+    "dir": [
+      "NaxxChatAlarm"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 96355,
@@ -45629,6 +45729,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 345682,
+    "name": "OSBCP Easy Healer Classic",
+    "key": "osbcp-easy-healer",
+    "dir": [
+      "OSBCP_Easy_Healer_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 99317,
@@ -48252,7 +48362,7 @@
       "PizzaPerSecond"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 306769,
@@ -50051,8 +50161,8 @@
     "name": "Quest Cinematic (Retail & Classic)",
     "key": "quest-cinematic",
     "dir": [
-      "QuestC",
-      "ClassicQuestC"
+      "ClassicQuestC",
+      "QuestC"
     ],
     "source": "curse",
     "mode": 3
@@ -52907,7 +53017,7 @@
       "Recap"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 318053,
@@ -62755,6 +62865,16 @@
     "mode": 1
   },
   {
+    "id": 345445,
+    "name": "Titan Classic [Reputation]",
+    "key": "titan-classic-reputation",
+    "dir": [
+      "TitanClassicReputation"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 489,
     "name": "Titan Panel",
     "key": "titan-panel",
@@ -66139,7 +66259,9 @@
     "key": "unitframesplus",
     "dir": [
       "UnitFramesPlus_Options",
-      "UnitFramesPlus"
+      "UnitFramesPlus",
+      "UnitFramesPlus_Cooldown",
+      "UnitFramesPlus_MobHealth"
     ],
     "source": "curse",
     "mode": 3
@@ -69877,6 +69999,16 @@
     "mode": 1
   },
   {
+    "id": 345429,
+    "name": "YarkoMods",
+    "key": "yarkomods",
+    "dir": [
+      "YarkoMods"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102375,
     "name": "Yarrr",
     "key": "yarrr",
@@ -70080,6 +70212,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345543,
+    "name": "ZFTrash",
+    "key": "zftrash",
+    "dir": [
+      "ZFTrash"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 341055,
@@ -70294,6 +70436,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345031,
+    "name": "ZoneInfo Classic",
+    "key": "zoneinfo-classic",
+    "dir": [
+      "ZoneInfoClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 25969,
@@ -72622,7 +72774,7 @@
       "miStats"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 89695,
