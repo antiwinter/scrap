@@ -17442,6 +17442,7 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17450,8 +17451,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -36516,6 +36516,16 @@
     "mode": 1
   },
   {
+    "id": 345720,
+    "name": "LibAddonCompat-1.0",
+    "key": "libaddoncompat-1-0",
+    "dir": [
+      "LibAddonCompat-1.0"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15745,
     "name": "LibAlts-1.0",
     "key": "libalts-1-0",
@@ -38239,6 +38249,16 @@
     "mode": 1
   },
   {
+    "id": 345669,
+    "name": "Listener [Classic]",
+    "key": "listener-classic",
+    "dir": [
+      "Listener"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 4462,
     "name": "LiteAssist",
     "key": "lite-assist",
@@ -39716,6 +39736,16 @@
     "mode": 1
   },
   {
+    "id": 345333,
+    "name": "MacroMakerClassic",
+    "key": "macromakerclassic",
+    "dir": [
+      "MacroMaker_classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 92447,
     "name": "MacroMilling",
     "key": "macromilling",
@@ -39988,7 +40018,7 @@
       "MagnetButtons"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 92914,
@@ -45733,7 +45763,7 @@
   {
     "id": 345682,
     "name": "OSBCP Easy Healer Classic",
-    "key": "osbcp-easy-healer",
+    "key": "osbcp-easy-healer-classic",
     "dir": [
       "OSBCP_Easy_Healer_Classic"
     ],
@@ -50695,7 +50725,7 @@
       "QuickHeal"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 7278,
@@ -57107,6 +57137,16 @@
     "mode": 1
   },
   {
+    "id": 327411,
+    "name": "SimpleAssist",
+    "key": "simpleassist",
+    "dir": [
+      "SimpleAssist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 336636,
     "name": "SimpleAutoCombatLog",
     "key": "simpleautocombatlog",
@@ -59747,6 +59787,16 @@
     "mode": 2
   },
   {
+    "id": 345723,
+    "name": "StatRack",
+    "key": "statrack",
+    "dir": [
+      "StatRack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88134,
     "name": "StatScore",
     "key": "statscore",
@@ -60222,6 +60272,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345519,
+    "name": "Suggest Invite for Classic",
+    "key": "suggest-invite",
+    "dir": [
+      "SuggestInvite"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 3769,
