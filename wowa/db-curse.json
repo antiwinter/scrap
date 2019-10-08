@@ -77,7 +77,7 @@
       "Shitlist"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 44359,
@@ -13259,6 +13259,16 @@
     "mode": 1
   },
   {
+    "id": 344365,
+    "name": "Classic Raid Tracker",
+    "key": "classic-raid-tracker",
+    "dir": [
+      "ClassicRaidTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340121,
     "name": "Classic Target Helper",
     "key": "classic-target-helper",
@@ -17451,7 +17461,8 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -29585,7 +29596,7 @@
       "HandyNotes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 276954,
@@ -40233,6 +40244,16 @@
     "mode": 2
   },
   {
+    "id": 346006,
+    "name": "ManaTimerClassic",
+    "key": "manaticktimerclassic",
+    "dir": [
+      "ManaTimerClassic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 69481,
     "name": "ManaTracker",
     "key": "healermanager",
@@ -40560,7 +40581,7 @@
       "Masque_ArcaneStone"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 300224,
@@ -40590,7 +40611,7 @@
       "Masque_BrassCogs"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 298536,
@@ -40690,7 +40711,7 @@
       "Masque_Dragon"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 15348,
@@ -40961,7 +40982,7 @@
       "Masque_SpikyStone"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 27990,
@@ -43775,8 +43796,8 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies",
-      "MyBuddies_Classic"
+      "MyBuddies_Classic",
+      "MyBuddies"
     ],
     "source": "curse",
     "mode": 3
@@ -46882,7 +46903,7 @@
       "Parrot"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 17356,
@@ -48157,6 +48178,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345951,
+    "name": "Pit's SpellAnnouncer",
+    "key": "pits-spellannouncer",
+    "dir": [
+      "SpellAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 4466,
@@ -52489,6 +52520,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 334666,
+    "name": "Rare Aware",
+    "key": "rare-aware",
+    "dir": [
+      "RareAware"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 256299,
