@@ -4666,6 +4666,16 @@
     "mode": 3
   },
   {
+    "id": 346102,
+    "name": "AutoFollow",
+    "key": "autofollow",
+    "dir": [
+      "AutoFollow"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 39179,
     "name": "AutoGear",
     "key": "autogear",
@@ -18729,14 +18739,14 @@
   },
   {
     "id": 92871,
-    "name": "Diminish (DR Tracker)",
+    "name": "Diminish DR Tracker (Classic & Retail)",
     "key": "diminish",
     "dir": [
       "Diminish_Options",
       "Diminish"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20814,
@@ -20128,6 +20138,16 @@
     "mode": 1
   },
   {
+    "id": 345585,
+    "name": "EZ Mount",
+    "key": "ez-mount",
+    "dir": [
+      "ezmount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323745,
     "name": "EZCoordinates",
     "key": "ezcoordinates",
@@ -20274,16 +20294,6 @@
     "key": "easylist",
     "dir": [
       "EasyList"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 326756,
-    "name": "Easy Mount",
-    "key": "easy-mount",
-    "dir": [
-      "EMMount"
     ],
     "source": "curse",
     "mode": 1
@@ -21570,7 +21580,8 @@
     "name": "ElvUI_LivvenUI",
     "key": "elvui_livvenui",
     "dir": [
-      "ElvUI_LivvenUI"
+      "ElvUI_LivvenUI",
+      "Livv"
     ],
     "source": "curse",
     "mode": 1
@@ -22562,6 +22573,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345706,
+    "name": "Ewy Rat",
+    "key": "ewy-rat-the-addon",
+    "dir": [
+      "EwyRat"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 68711,
@@ -23760,6 +23781,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 344440,
+    "name": "Filtr",
+    "key": "filtr",
+    "dir": [
+      "Filtr"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 92976,
@@ -26007,7 +26038,7 @@
     "mode": 1
   },
   {
-    "id": 345645,
+    "id": 346151,
     "name": "GatherTrackingReminder",
     "key": "gathertrackingreminder",
     "dir": [
@@ -34041,6 +34072,16 @@
     "mode": 1
   },
   {
+    "id": 346190,
+    "name": "Journey Calendar",
+    "key": "journey-calendar",
+    "dir": [
+      "JourneyCalendar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44910,
     "name": "Jughead",
     "key": "jughead",
@@ -35235,7 +35276,7 @@
       "KKonferSK"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 306478,
@@ -35531,6 +35572,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 346276,
+    "name": "LFGHelper",
+    "key": "lfghelper",
+    "dir": [
+      "LFGHelper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 262313,
@@ -36505,6 +36556,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 102269,
+    "name": "LibAboutPanel-2.0",
+    "key": "libaboutpanel-2-0",
+    "dir": [
+      "LibAboutPanel-2.0"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 85161,
@@ -40100,7 +40161,7 @@
       "MailNotifier"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19894,
@@ -40246,12 +40307,12 @@
   {
     "id": 346006,
     "name": "ManaTimerClassic",
-    "key": "manaticktimerclassic",
+    "key": "manatimerclassic",
     "dir": [
       "ManaTimerClassic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 69481,
@@ -41496,7 +41557,7 @@
       "MeepMerp"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19213,
@@ -44295,7 +44356,7 @@
   },
   {
     "id": 345024,
-    "name": "NFG",
+    "name": "NFG - TargetHelper",
     "key": "nfg",
     "dir": [
       "NotForGnomes"
@@ -65884,6 +65945,16 @@
     "mode": 1
   },
   {
+    "id": 346224,
+    "name": "TruePath",
+    "key": "truepath",
+    "dir": [
+      "TruePath"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 46527,
     "name": "TrufiGCD",
     "key": "trufigcd",
@@ -66927,8 +66998,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
-      "Viks_ConfigUI"
+      "Viks_ConfigUI",
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
@@ -68855,7 +68926,7 @@
       "WoWGatheringNodes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 45366,
@@ -70107,7 +70178,7 @@
       "YarkoMods"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102375,
@@ -73702,6 +73773,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 346072,
+    "name": "removeCharacterPortraitText",
+    "key": "removecharacterportraittext",
+    "dir": [
+      "removePortraitTextWoW"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 91814,
