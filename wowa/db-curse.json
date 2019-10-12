@@ -77,7 +77,7 @@
       "Shitlist"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 44359,
@@ -1777,7 +1777,7 @@
   },
   {
     "id": 67669,
-    "name": "Aiue's Quest Tracker",
+    "name": "Aiue's Quest Tracker (AQT)",
     "key": "aqt",
     "dir": [
       "AQT"
@@ -5248,6 +5248,16 @@
     "mode": 1
   },
   {
+    "id": 345851,
+    "name": "Avyr Raid Tools",
+    "key": "avyr-raid-tools",
+    "dir": [
+      "AvyrRaidTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4888,
     "name": "AzCastBar",
     "key": "az-cast-bar",
@@ -7681,13 +7691,13 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore"
+      "BigWigs_EternalPalace"
     ],
     "source": "curse",
     "mode": 3
@@ -11933,6 +11943,16 @@
     "mode": 1
   },
   {
+    "id": 347357,
+    "name": "CatchwordAlert for BfA",
+    "key": "catchwordalert",
+    "dir": [
+      "CatchwordAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 55075,
     "name": "Cecile_MeterOverlay",
     "key": "cecile_meteroverlay",
@@ -12234,6 +12254,16 @@
     "mode": 1
   },
   {
+    "id": 345052,
+    "name": "Chat LFG",
+    "key": "chat-lfg",
+    "dir": [
+      "ChatLFG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 274890,
     "name": "Chat Logging",
     "key": "chat-logging",
@@ -12355,6 +12385,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347362,
+    "name": "Chat Whitelist",
+    "key": "chat-whitelist",
+    "dir": [
+      "Chat Whitelist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 274509,
@@ -13274,6 +13314,16 @@
     "key": "classic-raid-tracker",
     "dir": [
       "ClassicRaidTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 347555,
+    "name": "Classic Raider Profiler",
+    "key": "classic-raider-profiler",
+    "dir": [
+      "ClassicRaiderProfile"
     ],
     "source": "curse",
     "mode": 2
@@ -17462,7 +17512,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17472,6 +17521,7 @@
       "DBM-Onyxia",
       "DBM-Naxx",
       "DBM-ZG",
+      "DBM-EternalPalace",
       "DBM-Nyalotha"
     ],
     "source": "curse",
@@ -18336,17 +18386,7 @@
       "Dejunk"
     ],
     "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 340077,
-    "name": "Dejunk (Classic)",
-    "key": "dejunk-classic",
-    "dir": [
-      "Dejunk"
-    ],
-    "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100911,
@@ -25978,6 +26018,16 @@
     "mode": 3
   },
   {
+    "id": 347492,
+    "name": "GatherMate2 World Map Toggle",
+    "key": "gathermate2-world-map-toggle",
+    "dir": [
+      "GatherMate2MapButton"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 26737,
     "name": "GatherMate2_Data",
     "key": "gathermate2_data",
@@ -31163,6 +31213,16 @@
     "mode": 1
   },
   {
+    "id": 346139,
+    "name": "Hide Join / Leave Notification",
+    "key": "hide-join-leave-notification",
+    "dir": [
+      "Join Leave Remover"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 303710,
     "name": "Hide Micro Menu And Bag Bars",
     "key": "hide-micro-menu-and-bag-bars",
@@ -31310,7 +31370,7 @@
       "HideBlizzard"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28635,
@@ -33027,6 +33087,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347334,
+    "name": "Instance Reset Announcer",
+    "key": "instance-reset-announcer",
+    "dir": [
+      "InstanceResetAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 92052,
@@ -35269,6 +35339,16 @@
     "mode": 1
   },
   {
+    "id": 347330,
+    "name": "Konfer Suicide Kings (KSK) for Classic WoW",
+    "key": "ksk-classic",
+    "dir": [
+      "KKonferSK"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20448,
     "name": "KonferSK (Suicide Kings)",
     "key": "ksk",
@@ -35913,6 +35993,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347442,
+    "name": "Larger Chat Input",
+    "key": "larger-chat-input",
+    "dir": [
+      "LargerChatInput"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 14254,
@@ -44664,7 +44754,7 @@
   },
   {
     "id": 345449,
-    "name": "NaxxChatAlarm",
+    "name": "NaxxChatAlarm Classic ",
     "key": "naxxchatalarm",
     "dir": [
       "NaxxChatAlarm"
@@ -57933,7 +58023,7 @@
       "SlashIn"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 260659,
@@ -59124,6 +59214,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345831,
+    "name": "SpeedyMount",
+    "key": "speedymount",
+    "dir": [
+      "SpeedyMount"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 262346,
@@ -61878,6 +61978,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 346308,
+    "name": "Targeting Icons",
+    "key": "targeting-icons",
+    "dir": [
+      "TargetingIcons_V3.6"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 27164,
@@ -66432,8 +66542,9 @@
     "dir": [
       "UnitFramesPlus_Options",
       "UnitFramesPlus",
-      "UnitFramesPlus_Cooldown",
-      "UnitFramesPlus_MobHealth"
+      "UnitFramesPlus_MobHealth",
+      "UnitFramesPlus_Threat",
+      "UnitFramesPlus_Cooldown"
     ],
     "source": "curse",
     "mode": 3
