@@ -3820,7 +3820,8 @@
       "AtlasLootClassic_Collections",
       "AtlasLootClassic_Factions",
       "AtlasLootClassic_Options",
-      "AtlasLootClassic"
+      "AtlasLootClassic",
+      "AtlasLootClassic_Data"
     ],
     "source": "curse",
     "mode": 2
@@ -7510,6 +7511,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 346322,
+    "name": "BetterLFG",
+    "key": "betterlfg",
+    "dir": [
+      "BetterLFG"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 28599,
@@ -12224,6 +12235,16 @@
     "mode": 2
   },
   {
+    "id": 347603,
+    "name": "CharacterTooltip",
+    "key": "charactertooltip",
+    "dir": [
+      "CharacterTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 98118,
     "name": "Chardev",
     "key": "chardev",
@@ -12261,7 +12282,7 @@
       "ChatLFG"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 274890,
@@ -44754,7 +44775,7 @@
   },
   {
     "id": 345449,
-    "name": "NaxxChatAlarm Classic ",
+    "name": "NaxxChatAlarm LFG LFM Classic ",
     "key": "naxxchatalarm",
     "dir": [
       "NaxxChatAlarm"
@@ -48329,16 +48350,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 345951,
-    "name": "Pit's SpellAnnouncer",
-    "key": "pits-spellannouncer",
-    "dir": [
-      "SpellAnnouncer"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 4466,
@@ -54457,7 +54468,7 @@
   },
   {
     "id": 255155,
-    "name": "Rotacast",
+    "name": "RotaCast",
     "key": "rotacast",
     "dir": [
       "Rotacast"
@@ -59264,6 +59275,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345951,
+    "name": "SpellAnnouncer Classic",
+    "key": "spellannouncer-classic",
+    "dir": [
+      "SpellAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 61571,
@@ -66542,9 +66563,9 @@
     "dir": [
       "UnitFramesPlus_Options",
       "UnitFramesPlus",
+      "UnitFramesPlus_Cooldown",
       "UnitFramesPlus_MobHealth",
-      "UnitFramesPlus_Threat",
-      "UnitFramesPlus_Cooldown"
+      "UnitFramesPlus_Threat"
     ],
     "source": "curse",
     "mode": 3
