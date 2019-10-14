@@ -3134,6 +3134,16 @@
     "mode": 1
   },
   {
+    "id": 342531,
+    "name": "Armory (Classic)",
+    "key": "armory-classic",
+    "dir": [
+      "Armory"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 311977,
     "name": "Armory Link",
     "key": "armory-link",
@@ -10712,6 +10722,16 @@
     "mode": 1
   },
   {
+    "id": 347881,
+    "name": "BuffBlock",
+    "key": "buffblock",
+    "dir": [
+      "BuffBlock"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22595,
     "name": "BuffBroker",
     "key": "buffbroker",
@@ -10720,6 +10740,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347888,
+    "name": "BuffCount",
+    "key": "buffcount",
+    "dir": [
+      "BuffCount"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 13578,
@@ -12205,6 +12235,16 @@
     "mode": 3
   },
   {
+    "id": 347603,
+    "name": "Character Tooltip",
+    "key": "charactertooltip",
+    "dir": [
+      "CharacterTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 24971,
     "name": "CharacterMap",
     "key": "charactermap",
@@ -12230,16 +12270,6 @@
     "key": "characterstatsclassic",
     "dir": [
       "CharacterStatsClassic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 347603,
-    "name": "CharacterTooltip",
-    "key": "charactertooltip",
-    "dir": [
-      "CharacterTooltip"
     ],
     "source": "curse",
     "mode": 2
@@ -12273,6 +12303,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347753,
+    "name": "Chat Copy Paste",
+    "key": "chat-copy-paste",
+    "dir": [
+      "ChatCopyPaste"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 345052,
@@ -17533,6 +17573,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17541,9 +17583,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -18780,7 +18820,7 @@
   },
   {
     "id": 345066,
-    "name": "Did I Do It",
+    "name": "Did I Do It Classic",
     "key": "did-i-do-it",
     "dir": [
       "DidIDoIt"
@@ -19486,6 +19526,16 @@
     "mode": 1
   },
   {
+    "id": 347532,
+    "name": "DrinkIT",
+    "key": "drinkit",
+    "dir": [
+      "DrinkIt"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 325496,
     "name": "Dromadaire Mysterieuse",
     "key": "dromadaire-mysterieuse",
@@ -19631,12 +19681,12 @@
     "name": "DuelResponse",
     "key": "duelresponse",
     "dir": [
-      "DuelResponse_Blacklist",
-      "DuelResponse_Whisper",
-      "DuelResponse",
       "DuelResponse_Blacklist_Classic",
       "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic"
+      "DuelResponse_Whisper_Classic",
+      "DuelResponse_Blacklist",
+      "DuelResponse_Whisper",
+      "DuelResponse"
     ],
     "source": "curse",
     "mode": 3
@@ -27523,6 +27573,16 @@
     "key": "greyhandling",
     "dir": [
       "GreyHandling"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 347570,
+    "name": "GreyOnCooldown",
+    "key": "greyoncooldown",
+    "dir": [
+      "GreyOnCooldown"
     ],
     "source": "curse",
     "mode": 3
@@ -41895,6 +41955,16 @@
     "mode": 1
   },
   {
+    "id": 347453,
+    "name": "Metal Gear Sounds",
+    "key": "metal-gear-sounds",
+    "dir": [
+      "MGSSounds"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 282646,
     "name": "Meter",
     "key": "meter",
@@ -45677,6 +45747,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347690,
+    "name": "Notepad",
+    "key": "notepad",
+    "dir": [
+      "Notepad"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 29759,
@@ -54475,6 +54555,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347597,
+    "name": "RotaCast Classic",
+    "key": "rotacast-classic",
+    "dir": [
+      "RotacastClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 345255,
@@ -66356,6 +66446,16 @@
     "mode": 1
   },
   {
+    "id": 347747,
+    "name": "UI Hidden Text Remover",
+    "key": "ui-hidden-text-remover",
+    "dir": [
+      "UIHiddenTextRemover"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 303603,
     "name": "UIG Twitch Emotes",
     "key": "uig-twitch-emotes",
@@ -66839,6 +66939,17 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 345990,
+    "name": "Vanguard Raid Recorder",
+    "key": "vanguard-raid-recorder",
+    "dir": [
+      "VanguardDKP",
+      "VanguardRaidRecorder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 262852,
