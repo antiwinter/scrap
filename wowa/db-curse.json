@@ -19052,6 +19052,16 @@
     "mode": 3
   },
   {
+    "id": 347995,
+    "name": "Disenchantor",
+    "key": "disenchantor",
+    "dir": [
+      "Disenchantor"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341111,
     "name": "Dismounter",
     "key": "dismounter",
@@ -23047,6 +23057,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347815,
+    "name": "ExtraTooltip",
+    "key": "extratooltip",
+    "dir": [
+      "ExtraTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 100348,
@@ -38668,6 +38688,16 @@
     "key": "lockbox-cracker",
     "dir": [
       "LockboxCracker"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 347683,
+    "name": "Lockbox Mailer",
+    "key": "lockbox-mailer",
+    "dir": [
+      "LockboxMailer"
     ],
     "source": "curse",
     "mode": 3
@@ -57223,7 +57253,7 @@
       "SimpleInterruptAnnounce"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 287692,
@@ -57384,7 +57414,7 @@
       "SimpleTauntAnnounce"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 306692,
@@ -62095,7 +62125,7 @@
     "name": "Targeting Icons",
     "key": "targeting-icons",
     "dir": [
-      "TargetingIcons_V3.6"
+      "TargetingIcons_Classic"
     ],
     "source": "curse",
     "mode": 2
@@ -62380,6 +62410,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 346116,
+    "name": "Thaliz - Rez dem deads!",
+    "key": "thaliz-rez-dem-deads",
+    "dir": [
+      "Thaliz"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 294180,
@@ -66073,7 +66113,7 @@
       "tribloot"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 74351,
@@ -71319,6 +71359,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 347869,
+    "name": "alaGearMan",
+    "key": "alagearman",
+    "dir": [
+      "alaGearMan"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 338706,
