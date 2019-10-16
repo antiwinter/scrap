@@ -2906,6 +2906,16 @@
     "mode": 1
   },
   {
+    "id": 348102,
+    "name": "Arena Sound",
+    "key": "arena-sound",
+    "dir": [
+      "ArenaSound"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 302838,
     "name": "Arena Team Tracker",
     "key": "arena-team-tracker",
@@ -3830,8 +3840,8 @@
       "AtlasLootClassic_Collections",
       "AtlasLootClassic_Factions",
       "AtlasLootClassic_Options",
-      "AtlasLootClassic",
-      "AtlasLootClassic_Data"
+      "AtlasLootClassic_Data",
+      "AtlasLootClassic"
     ],
     "source": "curse",
     "mode": 2
@@ -7320,6 +7330,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347977,
+    "name": "Better Aura Tracker",
+    "key": "better-aura-tracker",
+    "dir": [
+      "BetterAuraTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 341217,
@@ -13260,6 +13280,16 @@
     "mode": 2
   },
   {
+    "id": 347982,
+    "name": "Classic Armory",
+    "key": "classic-armory",
+    "dir": [
+      "ClassicArmory"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20612,
     "name": "Classic Auto Complete",
     "key": "classic-auto-complete",
@@ -13580,6 +13610,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347961,
+    "name": "ClassicRageLog",
+    "key": "classicragelog",
+    "dir": [
+      "ClassicRageLog"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 340855,
@@ -18859,6 +18899,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 347444,
+    "name": "Ding! Grats",
+    "key": "ding-grats",
+    "dir": [
+      "DingGrats"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102737,
@@ -25101,6 +25151,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348056,
+    "name": "FriendBtn",
+    "key": "friendbtn",
+    "dir": [
+      "ClassicFriendBtn"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 32260,
@@ -44395,6 +44455,16 @@
     "mode": 1
   },
   {
+    "id": 348048,
+    "name": "Mythic Plus LFG Filter",
+    "key": "mythic-plus-lfg-filter",
+    "dir": [
+      "LFGFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 257025,
     "name": "Mythic Plus Run Calc",
     "key": "mythic-plus-run-calc",
@@ -45447,6 +45517,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348154,
+    "name": "No Real Friends",
+    "key": "no-real-friends",
+    "dir": [
+      "NoRealFriends"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 264633,
@@ -48147,6 +48227,16 @@
     "key": "petxp",
     "dir": [
       "PetXP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348145,
+    "name": "PetXPBar",
+    "key": "petxpbar",
+    "dir": [
+      "PetXPBar"
     ],
     "source": "curse",
     "mode": 2
@@ -53865,6 +53955,16 @@
     "mode": 1
   },
   {
+    "id": 348072,
+    "name": "RepByZone",
+    "key": "repbyzone",
+    "dir": [
+      "RepByZone"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 25107,
     "name": "RepCalc (Reputation Bars)",
     "key": "repcalc",
@@ -54094,6 +54194,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348032,
+    "name": "Retail UI",
+    "key": "retail-ui",
+    "dir": [
+      "RetailUI"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20386,
@@ -55161,6 +55271,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348059,
+    "name": "SausageRolls",
+    "key": "sausagerolls",
+    "dir": [
+      "SausageRolls"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 13998,
@@ -67175,6 +67295,16 @@
     "mode": 1
   },
   {
+    "id": 348027,
+    "name": "VendorTrashManager",
+    "key": "vendor-trash-manager",
+    "dir": [
+      "VendorTrashManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 93484,
     "name": "Vendorer",
     "key": "vendorer",
@@ -69748,6 +69878,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348079,
+    "name": "Worthless",
+    "key": "worthless",
+    "dir": [
+      "Worthless"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 78930,
