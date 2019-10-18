@@ -294,10 +294,10 @@
     "name": "AGT - Automatic Goblin Therapist",
     "key": "agt-automatic-goblin-therapist",
     "dir": [
-      "AGT"
+      "AutomaticGoblinTherapist"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 284860,
@@ -328,6 +328,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348328,
+    "name": "AHQuery",
+    "key": "ahquery",
+    "dir": [
+      "AHQuery"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20309,
@@ -559,16 +569,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 340892,
-    "name": "AbyssUIClassicRaw",
-    "key": "abyssuiclassicraw",
-    "dir": [
-      "AbyssUIClassicRaw"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 89712,
@@ -1776,6 +1776,16 @@
     "mode": 1
   },
   {
+    "id": 348167,
+    "name": "Aimed Shot Castbar Classic",
+    "key": "aimedshotcastbarclassic",
+    "dir": [
+      "AimedShotCastbarClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 67669,
     "name": "Aiue's Quest Tracker (AQT)",
     "key": "aqt",
@@ -2901,16 +2911,6 @@
     "key": "arenaraidicons",
     "dir": [
       "ArenaRaidIcons"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 348102,
-    "name": "Arena Sound",
-    "key": "arena-sound",
-    "dir": [
-      "ArenaSound"
     ],
     "source": "curse",
     "mode": 1
@@ -4752,6 +4752,16 @@
     "key": "autohiderightbar",
     "dir": [
       "AutoHideRightBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348252,
+    "name": "AutoInvitation for BfA",
+    "key": "autoinvitation",
+    "dir": [
+      "AutoInvitation"
     ],
     "source": "curse",
     "mode": 1
@@ -16112,7 +16122,7 @@
   },
   {
     "id": 294266,
-    "name": "DBM Voice Pack - Lanna 라나 (Korean Female) BfA",
+    "name": "DBM Voice Pack - Lanna 라나 (Korean Female)",
     "key": "dbm-voice-pack-lanna-korean-female",
     "dir": [
       "DBM-VPLanna"
@@ -16811,8 +16821,7 @@
     "name": "DagAssist Continued",
     "key": "dagassist-continued",
     "dir": [
-      "DagAssist",
-      "DagAssistClassic"
+      "DagAssist"
     ],
     "source": "curse",
     "mode": 3
@@ -17613,8 +17622,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17623,7 +17630,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -20056,6 +20065,16 @@
     "mode": 1
   },
   {
+    "id": 342259,
+    "name": "DynamicCam (Classic)",
+    "key": "dynamiccamclassic",
+    "dir": [
+      "DynamicCam-Classic"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 85855,
     "name": "DynamicPerformance",
     "key": "dynamic-performance",
@@ -21986,6 +22005,16 @@
     "key": "emoteldb",
     "dir": [
       "EmoteLDB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 74020,
+    "name": "EmoteLib",
+    "key": "emotelib",
+    "dir": [
+      "EmoteLib"
     ],
     "source": "curse",
     "mode": 1
@@ -25875,6 +25904,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348188,
+    "name": "GamerMaps",
+    "key": "gamermaps",
+    "dir": [
+      "GamerMaps"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 46227,
@@ -31422,6 +31461,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348256,
+    "name": "Hide Player`s Arrow",
+    "key": "world-map-player-hide-arrow",
+    "dir": [
+      "PlayerArrowHider"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 88479,
@@ -42149,6 +42198,16 @@
     "mode": 1
   },
   {
+    "id": 348168,
+    "name": "MigsAutoInvite",
+    "key": "migsautoinvite",
+    "dir": [
+      "MigsAutoInvite"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2450,
     "name": "MikScrollingBattleText",
     "key": "mik-scrolling-battle-text",
@@ -44186,10 +44245,10 @@
   },
   {
     "id": 312482,
-    "name": "MyAtunements",
-    "key": "myatunements",
+    "name": "MyAlliedRaces",
+    "key": "myalliedraces",
     "dir": [
-      "MyAtunements"
+      "MyAlliedRaces"
     ],
     "source": "curse",
     "mode": 1
@@ -49975,6 +50034,16 @@
     "mode": 1
   },
   {
+    "id": 348326,
+    "name": "PugLoot",
+    "key": "pugloot",
+    "dir": [
+      "PugLoot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 295463,
     "name": "Puggers",
     "key": "puggers",
@@ -51054,6 +51123,17 @@
     "key": "questschanged",
     "dir": [
       "QuestsChanged"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348102,
+    "name": "Queue Sound",
+    "key": "queue-sound",
+    "dir": [
+      "ArenaSound",
+      "QueueSound"
     ],
     "source": "curse",
     "mode": 1
@@ -58267,6 +58347,16 @@
     "mode": 1
   },
   {
+    "id": 348250,
+    "name": "SlashFour",
+    "key": "slashfour",
+    "dir": [
+      "SlashFour"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 26308,
     "name": "SlashIn ( /in )",
     "key": "slash-in",
@@ -61030,6 +61120,16 @@
     "mode": 1
   },
   {
+    "id": 348196,
+    "name": "SunnArtPack - Hexakill UI",
+    "key": "sunnartpack-hexakill-ui",
+    "dir": [
+      "SunnArtPackHexakill"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102474,
     "name": "SunnArtPack - Legion",
     "key": "sunnartpack-legion",
@@ -62079,6 +62179,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348158,
+    "name": "TankWarningsClassic",
+    "key": "tankwarningsclassic",
+    "dir": [
+      "TankWarningsClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 15965,
@@ -67200,6 +67310,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348086,
+    "name": "Vendetta Kill Points",
+    "key": "vendetta-kill-points",
+    "dir": [
+      "VKP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20329,
