@@ -4058,6 +4058,16 @@
     "mode": 1
   },
   {
+    "id": 347402,
+    "name": "AuctionLite-classic",
+    "key": "auctionlite-classic",
+    "dir": [
+      "AuctionLite-classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 36952,
     "name": "AuctionLite: Improved Search",
     "key": "auction-lite-improved-search",
@@ -5588,6 +5598,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348354,
+    "name": "BFFilter",
+    "key": "bffilter",
+    "dir": [
+      "BFFilter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 88210,
@@ -7157,6 +7177,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348348,
+    "name": "Become My Friend",
+    "key": "becomemyfriend",
+    "dir": [
+      "BecomeMyFriend"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 308000,
@@ -13602,6 +13632,16 @@
     "mode": 2
   },
   {
+    "id": 348415,
+    "name": "ClassicInterrupt",
+    "key": "classicinterrupt",
+    "dir": [
+      "ClassicInterrupt"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 322889,
     "name": "ClassicLFG",
     "key": "classiclfg",
@@ -16112,7 +16152,7 @@
   },
   {
     "id": 304324,
-    "name": "DBM Voice Pack - Lanna NOFX (Korean Female) BfA",
+    "name": "DBM Voice Pack - Lanna NOFX (Korean Female)",
     "key": "dbm-voice-pack-lanna-no-effects",
     "dir": [
       "DBM-VPLannaNOFX"
@@ -16715,6 +16755,16 @@
     "mode": 1
   },
   {
+    "id": 348393,
+    "name": "DPS_Tracker",
+    "key": "dps-tracker",
+    "dir": [
+      "DPS_Tracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20187,
     "name": "DRData-1.0",
     "key": "drdata-1-0",
@@ -16784,7 +16834,7 @@
       "DWMRepColoredBars"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88991,
@@ -22017,7 +22067,7 @@
       "EmoteLib"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 261072,
@@ -32149,6 +32199,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348370,
+    "name": "HonorSpy",
+    "key": "honorspy",
+    "dir": [
+      "honorspy"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 89776,
@@ -43834,6 +43894,17 @@
     "mode": 1
   },
   {
+    "id": 4493,
+    "name": "MrBuffMan Custom",
+    "key": "mr-buff-man-custom",
+    "dir": [
+      "MrBuffMan",
+      "MrBuffManCustom"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 85383,
     "name": "MrFish",
     "key": "mrfish",
@@ -44599,6 +44670,16 @@
     "key": "mythicplus-guild-best",
     "dir": [
       "MythicPlus GuildBest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348449,
+    "name": "MythicPlusDrop for BfA",
+    "key": "mythicplusdrop",
+    "dir": [
+      "MythicPlusDrop"
     ],
     "source": "curse",
     "mode": 1
@@ -47730,6 +47811,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348294,
+    "name": "Personal Resource Display",
+    "key": "personal-resource-display",
+    "dir": [
+      "Personal Resource Display"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 334578,
@@ -57008,6 +57099,16 @@
     "key": "showmemyheal",
     "dir": [
       "ShowMeMyHeal"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348425,
+    "name": "ShowMoney",
+    "key": "showmoney",
+    "dir": [
+      "ShowMoney"
     ],
     "source": "curse",
     "mode": 2
