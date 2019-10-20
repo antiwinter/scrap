@@ -1110,7 +1110,7 @@
       "AddEmote"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 18911,
@@ -11669,7 +11669,7 @@
       "CancelFormForCrafting"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 27081,
@@ -14624,7 +14624,7 @@
       "Comix"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 91498,
@@ -18057,16 +18057,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 341338,
-    "name": "DeathLUL",
-    "key": "deathlul",
-    "dir": [
-      "DeathLUL"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 342031,
@@ -34613,6 +34603,16 @@
     "mode": 1
   },
   {
+    "id": 341338,
+    "name": "KEKW On Death",
+    "key": "deathlul",
+    "dir": [
+      "DeathLUL"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340961,
     "name": "KRaidTools",
     "key": "krt",
@@ -39456,6 +39456,16 @@
     "key": "lootm",
     "dir": [
       "LootM"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 26785,
+    "name": "LootMagic",
+    "key": "lootmagic",
+    "dir": [
+      "LootMagic"
     ],
     "source": "curse",
     "mode": 1
@@ -49205,7 +49215,7 @@
       "Poisoner_Masque"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 16997,
@@ -51895,6 +51905,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 21967,
+    "name": "RPHelm",
+    "key": "rphelm",
+    "dir": [
+      "RPHelm"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 263537,
@@ -61897,7 +61917,7 @@
       "TTell"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 254341,
@@ -68854,6 +68874,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 2266,
+    "name": "WhispList",
+    "key": "whisp-list",
+    "dir": [
+      "WhispList"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 1689,
