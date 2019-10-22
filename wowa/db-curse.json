@@ -1141,7 +1141,7 @@
       "AddOnSkins"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 90853,
@@ -3595,6 +3595,16 @@
     "mode": 1
   },
   {
+    "id": 348652,
+    "name": "Astroids Guild Tools",
+    "key": "astroids-guild-tools",
+    "dir": [
+      "AstroidsGuildTools"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 301668,
     "name": "Async (AdaptiveSync)",
     "key": "async",
@@ -4296,6 +4306,16 @@
     "mode": 1
   },
   {
+    "id": 348625,
+    "name": "Auto Ammo",
+    "key": "auto-ammo",
+    "dir": [
+      "Auto Ammo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 32361,
     "name": "Auto Busy",
     "key": "auto-busy",
@@ -4354,6 +4374,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348712,
+    "name": "Auto Loot Assist",
+    "key": "auto-loot-assist",
+    "dir": [
+      "AutoLootAssist"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 100864,
@@ -6531,6 +6561,16 @@
     "key": "bang-bang",
     "dir": [
       "Bang_Bang"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348321,
+    "name": "BanishSoul",
+    "key": "banishsoul",
+    "dir": [
+      "BanishSoul"
     ],
     "source": "curse",
     "mode": 1
@@ -11629,7 +11669,7 @@
       "CantHealYou"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 283132,
@@ -12466,6 +12506,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348512,
+    "name": "Chat Observer",
+    "key": "chat-observer",
+    "dir": [
+      "ChatObserver"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 24532,
@@ -13697,6 +13747,16 @@
     "key": "classicthreatmeter",
     "dir": [
       "ClassicThreatMeter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348595,
+    "name": "ClassicTooltipItemLevel",
+    "key": "classictooltipitemlevel",
+    "dir": [
+      "ClassicTooltipItemLevel"
     ],
     "source": "curse",
     "mode": 2
@@ -17199,6 +17259,16 @@
     "mode": 1
   },
   {
+    "id": 348708,
+    "name": "Damnation",
+    "key": "damnation",
+    "dir": [
+      "Damnation"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258041,
     "name": "Dampening Display",
     "key": "dampening-display",
@@ -17672,6 +17742,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17680,9 +17752,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -23541,6 +23611,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348833,
+    "name": "FarmLog (Classic)",
+    "key": "farmlog",
+    "dir": [
+      "FarmLog"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 4983,
@@ -31383,6 +31463,16 @@
     "mode": 1
   },
   {
+    "id": 348796,
+    "name": "Hide Error Text",
+    "key": "hide-error-text",
+    "dir": [
+      "HideErrorText"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89005,
     "name": "Hide Garrison Mining Nodes",
     "key": "hide-garrison-mining-nodes",
@@ -34047,7 +34137,7 @@
       "ItemTooltipProfessionIcons"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 292525,
@@ -36978,6 +37068,16 @@
     "mode": 1
   },
   {
+    "id": 345638,
+    "name": "LibArray",
+    "key": "libarray",
+    "dir": [
+      "LibArray"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 100638,
     "name": "LibArtifactData-1.0",
     "key": "libartifactdata-1-0",
@@ -37628,6 +37728,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 20376,
+    "name": "LibHealComm-4.0",
+    "key": "libhealcomm-4-0",
+    "dir": [
+      "LibHealComm-4.0"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 92912,
@@ -40585,6 +40695,16 @@
     "mode": 1
   },
   {
+    "id": 348371,
+    "name": "Make People Greet Again!",
+    "key": "make-people-greet-again",
+    "dir": [
+      "MakePeopleGreetAgain"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103153,
     "name": "Make Tab Targeting Great Again",
     "key": "make-tab-targeting-great-again",
@@ -42133,6 +42253,16 @@
     "mode": 1
   },
   {
+    "id": 348875,
+    "name": "MessageClassifier",
+    "key": "messageclassifier",
+    "dir": [
+      "MessageClassifier"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 97244,
     "name": "MessageToaster",
     "key": "messagetoaster",
@@ -43351,6 +43481,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348868,
+    "name": "MoonscarletsChatScanner",
+    "key": "moonscarlets-chatscanner",
+    "dir": [
+      "MoonscarletsChatScanner"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 325650,
@@ -47275,7 +47415,7 @@
       "PallyPower"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 16271,
@@ -50771,6 +50911,16 @@
     "mode": 3
   },
   {
+    "id": 348615,
+    "name": "Quest Crier",
+    "key": "quest-crier",
+    "dir": [
+      "QuestCrier"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 344147,
     "name": "Quest Group Finder (LFG-AG)",
     "key": "lookingforgroup-auto-grouping-only",
@@ -51347,6 +51497,16 @@
     "key": "quickwarnings",
     "dir": [
       "QuickWarnings"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348692,
+    "name": "QuickChat for BfA",
+    "key": "quickchat",
+    "dir": [
+      "QuickChat"
     ],
     "source": "curse",
     "mode": 1
@@ -62672,6 +62832,16 @@
     "mode": 1
   },
   {
+    "id": 348895,
+    "name": "TellBunny",
+    "key": "tellbunny",
+    "dir": [
+      "TellBunny"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 8025,
     "name": "TellMeWhen",
     "key": "tellmewhen",
@@ -62738,6 +62908,16 @@
     "key": "texture-browser",
     "dir": [
       "TextureBrowser"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348853,
+    "name": "TextureAtlasViewer",
+    "key": "textureatlasviewer",
+    "dir": [
+      "TextureAtlasViewer"
     ],
     "source": "curse",
     "mode": 1
@@ -63071,6 +63251,16 @@
     "key": "threat-plates-classic",
     "dir": [
       "TidyPlates_ThreatPlates"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348879,
+    "name": "ThreatWatch Classic",
+    "key": "threatwatch-classic",
+    "dir": [
+      "ThreatWatch"
     ],
     "source": "curse",
     "mode": 2
@@ -65297,6 +65487,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348706,
+    "name": "TopGun",
+    "key": "topgun",
+    "dir": [
+      "TopGun"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102696,
@@ -70126,6 +70326,16 @@
     "key": "worth",
     "dir": [
       "Worth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348878,
+    "name": "WorthIt",
+    "key": "worthit",
+    "dir": [
+      "WIT"
     ],
     "source": "curse",
     "mode": 1
