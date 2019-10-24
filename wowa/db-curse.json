@@ -100,6 +100,16 @@
     "mode": 1
   },
   {
+    "id": 349130,
+    "name": "(Classic) Maekor Overpower Alert",
+    "key": "classic-maekor-overpower-alert",
+    "dir": [
+      "Maekor-Overpower-Alert"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 427,
     "name": "/rl",
     "key": "project-427",
@@ -2531,7 +2541,7 @@
       "AntiDaze"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 28848,
@@ -7818,7 +7828,8 @@
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace"
+      "BigWigs_EternalPalace",
+      "BigWigs_Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -13450,6 +13461,16 @@
     "mode": 1
   },
   {
+    "id": 348978,
+    "name": "Classic Heals",
+    "key": "classic-heals",
+    "dir": [
+      "ClassicHeals"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 264469,
     "name": "Classic PVP Flagging",
     "key": "classic-pvp-flagging",
@@ -13627,6 +13648,16 @@
     "dir": [
       "ClassicCensusPlus",
       "ImprovedOptionsFrames"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348918,
+    "name": "ClassicChatFilter",
+    "key": "classicchatfilter",
+    "dir": [
+      "ClassicChatFilter"
     ],
     "source": "curse",
     "mode": 2
@@ -17742,8 +17773,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17752,7 +17781,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -20778,7 +20809,7 @@
       "EasyMail"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 303761,
@@ -25956,6 +25987,16 @@
     "mode": 3
   },
   {
+    "id": 348909,
+    "name": "Gag-HellYeahBrother",
+    "key": "gag-hellyeahbrother",
+    "dir": [
+      "GagHellYeahBrotherSoundpack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 78454,
     "name": "Gag_Ankylos",
     "key": "gag_ankylos",
@@ -29383,6 +29424,16 @@
     "mode": 1
   },
   {
+    "id": 339242,
+    "name": "Guild Tooltip",
+    "key": "guild-tooltip",
+    "dir": [
+      "GuildTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 43785,
     "name": "Guild Tracker",
     "key": "guild-tracker",
@@ -29391,16 +29442,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 339242,
-    "name": "Guild and Faction Tooltip",
-    "key": "guild-and-faction-tooltip",
-    "dir": [
-      "GuildTooltip"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 17057,
@@ -38932,6 +38973,16 @@
     "mode": 1
   },
   {
+    "id": 348989,
+    "name": "Local Whispers",
+    "key": "local-whispers",
+    "dir": [
+      "LocalWhispers"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87572,
     "name": "Localized Groups",
     "key": "localized-groups",
@@ -39578,7 +39629,7 @@
       "LootMagic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 32397,
@@ -40577,7 +40628,8 @@
     "name": "MagnetButtons",
     "key": "magnetbuttons",
     "dir": [
-      "MagnetButtons"
+      "MagnetButtons",
+      "DoIt!"
     ],
     "source": "curse",
     "mode": 3
@@ -48236,6 +48288,16 @@
     "mode": 1
   },
   {
+    "id": 349030,
+    "name": "PetBattleInfo",
+    "key": "petbattleinfo",
+    "dir": [
+      "PetBattleInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 45645,
     "name": "PetBattleJunkie",
     "key": "petbattlejunkie",
@@ -52656,6 +52718,16 @@
     "mode": 1
   },
   {
+    "id": 349048,
+    "name": "RaidLedger",
+    "key": "raidledger",
+    "dir": [
+      "RaidLedger"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304758,
     "name": "RaidLootRoller",
     "key": "raidlootroller",
@@ -52704,6 +52776,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348974,
+    "name": "RaidSummon-classic",
+    "key": "raidsummon",
+    "dir": [
+      "RaidSummon"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 21308,
@@ -63756,6 +63838,16 @@
     "mode": 3
   },
   {
+    "id": 349049,
+    "name": "TinyTotemTimers",
+    "key": "tinytotemtimers",
+    "dir": [
+      "TinyTotemTimers"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22824,
     "name": "TinyXStats",
     "key": "tinystats",
@@ -65623,6 +65715,16 @@
     "mode": 2
   },
   {
+    "id": 348976,
+    "name": "Totem Dismiss",
+    "key": "totemdismiss",
+    "dir": [
+      "TotemDismiss"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95095,
     "name": "TotemFilter",
     "key": "totemfilter",
@@ -66314,6 +66416,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348948,
+    "name": "TradeSkillWhisperLookup",
+    "key": "tradeskillwhisperlookup",
+    "dir": [
+      "TradeSkillWhisperLookup"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 280203,
