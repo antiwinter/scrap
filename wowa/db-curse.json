@@ -5185,7 +5185,7 @@
       "AutoVendor"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 330366,
@@ -7572,6 +7572,16 @@
     "mode": 1
   },
   {
+    "id": 349223,
+    "name": "BetterCastbar2",
+    "key": "bettercastbar2",
+    "dir": [
+      "BetterCastbar2"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 342234,
     "name": "BetterChatSounds",
     "key": "betterchatsounds",
@@ -7761,6 +7771,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349169,
+    "name": "BigBrainTanking",
+    "key": "bigbraintanking",
+    "dir": [
+      "BigBrainTanking"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 13521,
@@ -11394,8 +11414,7 @@
       "CT_Timer",
       "CT_UnitFrames",
       "CT_Viewport",
-      "CT_Library",
-      "CT_RaidAssist_MTPlayers"
+      "CT_Library"
     ],
     "source": "curse",
     "mode": 3
@@ -13170,6 +13189,16 @@
     "mode": 1
   },
   {
+    "id": 349229,
+    "name": "Class Color HP Bar",
+    "key": "class-color-hp-bar",
+    "dir": [
+      "Class Color HP Bar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 270565,
     "name": "Class Colored Plates",
     "key": "class-colored-plates",
@@ -13459,6 +13488,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349302,
+    "name": "Classic Healing Assignments",
+    "key": "classic-healing-assignments",
+    "dir": [
+      "ClassicHealingAssignments"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 348978,
@@ -16702,6 +16741,16 @@
     "mode": 1
   },
   {
+    "id": 349286,
+    "name": "DC-TotalHealerMana",
+    "key": "dc-totalhealermana",
+    "dir": [
+      "DC-TotalHealerMana"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101606,
     "name": "DHTimers",
     "key": "dhtimers",
@@ -16962,7 +17011,8 @@
     "name": "DagAssist Continued",
     "key": "dagassist-continued",
     "dir": [
-      "DagAssist"
+      "DagAssist",
+      "DagAssistClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -20133,7 +20183,7 @@
       "DurabilityStatus"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 87490,
@@ -21132,6 +21182,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349249,
+    "name": "Ellipsis (Multi-Target DoT Timers) Continued",
+    "key": "ellipsis-multi-target-dot-timers-continued",
+    "dir": [
+      "Ellipsis_Options",
+      "Ellipsis"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 333072,
@@ -27275,7 +27336,7 @@
       "GnomTEC_Badge_Notes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 59023,
@@ -32620,16 +32681,6 @@
     "key": "i-hear-you-real-id",
     "dir": [
       "I_Hear_You_RealID"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 26385,
-    "name": "I Hear You Real ID Conversation",
-    "key": "i-hear-you-real-id-conversation",
-    "dir": [
-      "I_Hear_You_RealIDConv"
     ],
     "source": "curse",
     "mode": 1
@@ -38327,6 +38378,17 @@
     "key": "lib-s2k-factional-items",
     "dir": [
       "LibS2kFactionalItems-1.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 348450,
+    "name": "LibSHA1",
+    "key": "libsha1",
+    "dir": [
+      "LibSHA1",
+      "LibSHA1-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -49945,6 +50007,16 @@
     "mode": 1
   },
   {
+    "id": 349158,
+    "name": "PreyStation",
+    "key": "preystation",
+    "dir": [
+      "PreyStation"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 302033,
     "name": "Pride - Personal Achievements",
     "key": "pride-personal-achievements",
@@ -50953,7 +51025,7 @@
   },
   {
     "id": 319411,
-    "name": "Quest Cinematic (Retail & Classic)",
+    "name": "Quest Cinematic (Retail & Classic & FF XIV)",
     "key": "quest-cinematic",
     "dir": [
       "ClassicQuestC",
@@ -52728,6 +52800,16 @@
     "mode": 2
   },
   {
+    "id": 349157,
+    "name": "RaidLogger (Classic)",
+    "key": "raidlogger-classic",
+    "dir": [
+      "RaidLogger"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304758,
     "name": "RaidLootRoller",
     "key": "raidlootroller",
@@ -52779,7 +52861,7 @@
   },
   {
     "id": 348974,
-    "name": "RaidSummon-classic",
+    "name": "RaidSummon",
     "key": "raidsummon",
     "dir": [
       "RaidSummon"
@@ -63002,7 +63084,7 @@
       "TextureAtlasViewer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 64369,
@@ -66423,6 +66505,16 @@
     "key": "tradeskillwhisperlookup",
     "dir": [
       "TradeSkillWhisperLookup"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 349245,
+    "name": "TradeStone",
+    "key": "tradestone",
+    "dir": [
+      "TradeStone"
     ],
     "source": "curse",
     "mode": 2
@@ -73787,7 +73879,7 @@
   {
     "id": 48866,
     "name": "lua-pb",
-    "key": "lua-pb",
+    "key": "protobuf",
     "dir": [
       "lua-pb"
     ],
@@ -74571,6 +74663,16 @@
     "mode": 1
   },
   {
+    "id": 349226,
+    "name": "out of range 2.0",
+    "key": "out-of-range-2-0",
+    "dir": [
+      "out of range 2.0"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 35637,
     "name": "pNameplates",
     "key": "pnameplates",
@@ -74960,6 +75062,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349175,
+    "name": "tdBag2",
+    "key": "tdbag2",
+    "dir": [
+      "BagBrother",
+      "tdBag2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 254463,
