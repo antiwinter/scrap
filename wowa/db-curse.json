@@ -471,6 +471,16 @@
     "mode": 1
   },
   {
+    "id": 349425,
+    "name": "AT Raid Export",
+    "key": "at-raid-export",
+    "dir": [
+      "AT_Raid_Export"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22046,
     "name": "ATeam",
     "key": "ateam",
@@ -20489,16 +20499,6 @@
     "mode": 1
   },
   {
-    "id": 301511,
-    "name": "ES_Interrupt",
-    "key": "es_interrupt",
-    "dir": [
-      "ES_Interrupt"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 17234,
     "name": "ESkin",
     "key": "eskin",
@@ -21637,8 +21637,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts_Classic",
-      "ElvUI_NutsAndBolts"
+      "ElvUI_NutsAndBolts",
+      "ElvUI_NutsAndBolts_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -45134,6 +45134,16 @@
     "mode": 1
   },
   {
+    "id": 349374,
+    "name": "NPCsMarkers",
+    "key": "npcsmarkers",
+    "dir": [
+      "NPCsMarkers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 261826,
     "name": "Name2Chat",
     "key": "name2chat",
@@ -54609,6 +54619,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349354,
+    "name": "Reputation Watcher",
+    "key": "reputation-watcher",
+    "dir": [
+      "ReputationWatcher"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 101397,
