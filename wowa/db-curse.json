@@ -7582,6 +7582,16 @@
     "mode": 1
   },
   {
+    "id": 349698,
+    "name": "BetterBuffDuration",
+    "key": "betterbuffduration",
+    "dir": [
+      "BetterBuffDuration"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 349223,
     "name": "BetterCastbar2",
     "key": "bettercastbar2",
@@ -14001,7 +14011,7 @@
       "Click Menu"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 72815,
@@ -17833,6 +17843,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -17841,9 +17853,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -18988,6 +18998,16 @@
     "mode": 1
   },
   {
+    "id": 349763,
+    "name": "Devil LDB Professions",
+    "key": "devil-ldb-professions",
+    "dir": [
+      "Devil LDB Professions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 2175,
     "name": "DewdropLib",
     "key": "dewdroplib",
@@ -19380,6 +19400,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348033,
+    "name": "DoIt!",
+    "key": "doit",
+    "dir": [
+      "DoIt!"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86294,
@@ -20494,6 +20524,16 @@
     "key": "eqding",
     "dir": [
       "EQDing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 349711,
+    "name": "ES_Tradeskill",
+    "key": "es_tradeskill",
+    "dir": [
+      "ES_Tradeskill"
     ],
     "source": "curse",
     "mode": 1
@@ -27947,6 +27987,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 349264,
+    "name": "Greybeards Casino",
+    "key": "greybeards-casino",
+    "dir": [
+      "GreybeardsCasino"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 7000,
@@ -36910,6 +36960,16 @@
     "mode": 1
   },
   {
+    "id": 349435,
+    "name": "Lejon Addon",
+    "key": "lejon-addon",
+    "dir": [
+      "LejonAddon"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95019,
     "name": "Leri",
     "key": "leri",
@@ -37065,6 +37125,16 @@
     "key": "liars-dice",
     "dir": [
       "_LiarsDice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 97288,
+    "name": "Lib Details! Framework",
+    "key": "libdframework",
+    "dir": [
+      "LibDFramework-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -37515,16 +37585,6 @@
     "key": "libddi-1-0",
     "dir": [
       "LibDDI-1.0"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 97288,
-    "name": "LibDFramework",
-    "key": "libdframework",
-    "dir": [
-      "LibDFramework-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -40690,8 +40750,7 @@
     "name": "MagnetButtons",
     "key": "magnetbuttons",
     "dir": [
-      "MagnetButtons",
-      "DoIt!"
+      "MagnetButtons"
     ],
     "source": "curse",
     "mode": 3
@@ -50458,6 +50517,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349781,
+    "name": "Pulse Classic",
+    "key": "pulse-classic",
+    "dir": [
+      "Pulse"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 317878,
@@ -63530,6 +63599,16 @@
     "mode": 1
   },
   {
+    "id": 349715,
+    "name": "Tidy Minimap Classic",
+    "key": "minimapzoom",
+    "dir": [
+      "TidyMinimap_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 21409,
     "name": "Tidy Plates",
     "key": "tidy-plates",
@@ -65230,7 +65309,7 @@
       "ToggleNames"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 286886,
@@ -74811,6 +74890,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349611,
+    "name": "qrcode",
+    "key": "qrcode",
+    "dir": [
+      "qrcode-wow"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 299707,
