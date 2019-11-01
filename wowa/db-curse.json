@@ -10873,6 +10873,16 @@
     "mode": 1
   },
   {
+    "id": 349856,
+    "name": "Buff'o'mat",
+    "key": "buffomat",
+    "dir": [
+      "buffOmat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 347881,
     "name": "BuffBlock",
     "key": "buffblock",
@@ -11460,6 +11470,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349700,
+    "name": "C_B_PetBars+",
+    "key": "c_b_petbars",
+    "dir": [
+      "__C_B_PetBars"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20464,
@@ -22100,6 +22120,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 349794,
+    "name": "ElvUI_RayUI",
+    "key": "elvui_rayui",
+    "dir": [
+      "ElvUI_RayUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 102075,
@@ -42022,6 +42052,16 @@
     "mode": 3
   },
   {
+    "id": 349790,
+    "name": "MaxCamera",
+    "key": "maxcamera",
+    "dir": [
+      "MaxCamera"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258275,
     "name": "MaxDps Death Knight",
     "key": "maxdps-death-knight",
@@ -42181,6 +42221,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 349813,
+    "name": "McR Greet",
+    "key": "mcr-greet",
+    "dir": [
+      "McR_Greet"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 299986,
@@ -51532,6 +51582,16 @@
     "mode": 1
   },
   {
+    "id": 349798,
+    "name": "QuestTrackerMover",
+    "key": "questtrackermover",
+    "dir": [
+      "QuestTrackerMover"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102126,
     "name": "QuestWatchSort",
     "key": "questwatchsort",
@@ -60142,10 +60202,10 @@
   },
   {
     "id": 345951,
-    "name": "SpellAnnouncer Classic",
+    "name": "SpellAnnounce Classic",
     "key": "spellannouncer-classic",
     "dir": [
-      "SpellAnnouncer"
+      "SpellAnnouncerClassic"
     ],
     "source": "curse",
     "mode": 2
@@ -68840,6 +68900,17 @@
     "mode": 1
   },
   {
+    "id": 349620,
+    "name": "Warlock Healthstone Tracker",
+    "key": "warlock-healthstone-tracker",
+    "dir": [
+      "WarlockHealthstoneTracker_BlizzUI",
+      "WarlockHealthstoneTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17934,
     "name": "WarlockReminder",
     "key": "warlockreminder",
@@ -70571,6 +70642,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349844,
+    "name": "WorldBuffTracker",
+    "key": "worldbufftracker",
+    "dir": [
+      "WorldBuffTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87525,
@@ -74473,7 +74554,7 @@
       "newChatBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 335004,
@@ -74524,7 +74605,17 @@
       "npcGToTRP3"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
+  },
+  {
+    "id": 349864,
+    "name": "npcGenerator To Total RP 3 Classic",
+    "key": "npcgenerator-to-total-rp-3-classic",
+    "dir": [
+      "npcGToTRP3"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102195,
