@@ -8495,6 +8495,16 @@
     "mode": 1
   },
   {
+    "id": 349997,
+    "name": "BlackList Classic",
+    "key": "blacklist-classic",
+    "dir": [
+      "BlackList"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 90447,
     "name": "Blackhand Marks & Bombs",
     "key": "blackhand-marks-bombs",
@@ -14252,6 +14262,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349762,
+    "name": "Coins",
+    "key": "coins",
+    "dir": [
+      "Coins"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 254641,
@@ -43636,6 +43656,16 @@
     "mode": 2
   },
   {
+    "id": 349952,
+    "name": "Monolith DKP Bidframe",
+    "key": "monolith-dkp-bidframe",
+    "dir": [
+      "MonolithDKP_Bidhook"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 306870,
     "name": "MooInspect",
     "key": "mooinspect-1-0",
@@ -50354,7 +50384,7 @@
       "ProfessionMailer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 102607,
@@ -51583,7 +51613,7 @@
   },
   {
     "id": 349798,
-    "name": "QuestTrackerMover",
+    "name": "QuestTrackerMover for BfA",
     "key": "questtrackermover",
     "dir": [
       "QuestTrackerMover"
@@ -52405,7 +52435,7 @@
   },
   {
     "id": 283389,
-    "name": "RUF - Raeli's Unit Frames",
+    "name": "RUF",
     "key": "ruf",
     "dir": [
       "RUF"
@@ -62561,6 +62591,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350094,
+    "name": "Talent Master",
+    "key": "talent-master",
+    "dir": [
+      "TalentMaster"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101715,
