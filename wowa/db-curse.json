@@ -1323,16 +1323,6 @@
     "mode": 1
   },
   {
-    "id": 302145,
-    "name": "AdiBags - Expansion Trade Goods",
-    "key": "adibags-expansion-trade-goods",
-    "dir": [
-      "AdiBags_Expansion_Trade_Goods"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 310449,
     "name": "AdiBags - Fishing Items",
     "key": "adibags-fishing-items",
@@ -8716,7 +8706,7 @@
       "BlockSpam"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 257235,
@@ -57129,7 +57119,7 @@
       "SharedMedia_ClassicalFonts"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 296759,
@@ -70112,7 +70102,7 @@
       "WoWTexasHoldem"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 92420,
@@ -71426,7 +71416,7 @@
       "Xparky"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340269,
