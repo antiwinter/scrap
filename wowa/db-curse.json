@@ -110,6 +110,16 @@
     "mode": 2
   },
   {
+    "id": 350323,
+    "name": "(D) Hide Gryphons",
+    "key": "d-hide-gryphons",
+    "dir": [
+      "(D) Hide Gryphons"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 427,
     "name": "/rl",
     "key": "project-427",
@@ -20176,6 +20186,16 @@
     "mode": 1
   },
   {
+    "id": 350366,
+    "name": "DungeonMaps",
+    "key": "dungeonmaps",
+    "dir": [
+      "DungeonMaps"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 308723,
     "name": "DungeonRoleShortageHelper",
     "key": "dungeonroleshortagehelper",
@@ -29887,6 +29907,16 @@
     "mode": 1
   },
   {
+    "id": 350206,
+    "name": "GuildTooltip",
+    "key": "guildtooltip",
+    "dir": [
+      "GuildTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 301230,
     "name": "Guildie Note 3",
     "key": "guildie-note-3",
@@ -37105,6 +37135,16 @@
     "key": "levellogger",
     "dir": [
       "LevelLogger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 327235,
+    "name": "LevelSquish",
+    "key": "levelsquish",
+    "dir": [
+      "LevelSquish"
     ],
     "source": "curse",
     "mode": 1
@@ -52956,7 +52996,7 @@
       "RaidLedger"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 349157,
@@ -55650,6 +55690,16 @@
     "key": "sfloot",
     "dir": [
       "SFLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350331,
+    "name": "SILV",
+    "key": "silv",
+    "dir": [
+      "SILV"
     ],
     "source": "curse",
     "mode": 1
@@ -68934,8 +68984,17 @@
     "name": "Warlock Healthstone Tracker",
     "key": "warlock-healthstone-tracker",
     "dir": [
-      "WarlockHealthstoneTracker_BlizzUI",
       "WarlockHealthstoneTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 350138,
+    "name": "Warlock Healthstone Tracker - BlizzUI",
+    "key": "warlock-healthstone-tracker-blizzui",
+    "dir": [
+      "WarlockHealthstoneTracker_BlizzUI"
     ],
     "source": "curse",
     "mode": 2
@@ -75451,6 +75510,16 @@
     "key": "unitscan",
     "dir": [
       "unitscan"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 350107,
+    "name": "upne-mod",
+    "key": "upne-mod",
+    "dir": [
+      "upne"
     ],
     "source": "curse",
     "mode": 2
