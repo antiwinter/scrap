@@ -110,6 +110,16 @@
     "mode": 2
   },
   {
+    "id": 350473,
+    "name": "(D) Auto Reset Instance",
+    "key": "d-auto-reset-instance",
+    "dir": [
+      "(D) Auto Reset Instance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 350323,
     "name": "(D) Hide Gryphons",
     "key": "d-hide-gryphons",
@@ -118,6 +128,56 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 350430,
+    "name": "(D) LDB - Currencies BFA",
+    "key": "d-currencies-data-broker-display-for-battle-for",
+    "dir": [
+      "(D) LDB BFA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350431,
+    "name": "(D) LDB - Currencies Legion",
+    "key": "d-ldb-currencies-legion",
+    "dir": [
+      "(D) LDB Legion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350434,
+    "name": "(D) LDB - Currencies MOP",
+    "key": "d-ldb-currencies-mop",
+    "dir": [
+      "(D) LDB MOP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350433,
+    "name": "(D) LDB - Currencies WOD",
+    "key": "d-ldb-currencies-wod",
+    "dir": [
+      "(D) LDB WOD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 349763,
+    "name": "(D) LDB - Professions",
+    "key": "devil-ldb-professions",
+    "dir": [
+      "(D) LDB Professions"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 427,
@@ -4404,6 +4464,17 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 350454,
+    "name": "Auto Open Item",
+    "key": "auto-open-item",
+    "dir": [
+      "AutoOpenItemsSettings",
+      "AutoOpenItems"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 100864,
@@ -12638,6 +12709,16 @@
     "mode": 1
   },
   {
+    "id": 350504,
+    "name": "Chat Watcher",
+    "key": "chat-watcher",
+    "dir": [
+      "ChatFilter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 347362,
     "name": "Chat Whitelist",
     "key": "chat-whitelist",
@@ -13620,6 +13701,16 @@
     "mode": 2
   },
   {
+    "id": 350193,
+    "name": "Classic Rogue Calculator",
+    "key": "classic-rogue-calculator",
+    "dir": [
+      "ClassicRogueCalc"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340121,
     "name": "Classic Target Helper",
     "key": "classic-target-helper",
@@ -13877,6 +13968,16 @@
     "key": "classictooltipitemlevel",
     "dir": [
       "ClassicTooltipItemLevel"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 350482,
+    "name": "ClassicTravelPoints",
+    "key": "classictravelpoints",
+    "dir": [
+      "ClassicTravelPoints"
     ],
     "source": "curse",
     "mode": 2
@@ -19033,16 +19134,6 @@
     "key": "devian",
     "dir": [
       "Devian"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 349763,
-    "name": "Devil LDB Professions",
-    "key": "devil-ldb-professions",
-    "dir": [
-      "Devil LDB Professions"
     ],
     "source": "curse",
     "mode": 1
@@ -35796,6 +35887,16 @@
     "mode": 2
   },
   {
+    "id": 350500,
+    "name": "KiwiFarm",
+    "key": "kiwifarm",
+    "dir": [
+      "KiwiFarm"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 95612,
     "name": "KiwiPlates",
     "key": "kiwiplates",
@@ -46390,6 +46491,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 321505,
+    "name": "Non-intrusive quest text",
+    "key": "non-intrusive-quest-text",
+    "dir": [
+      "NonIntrusiveQuestText"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87640,
