@@ -130,6 +130,16 @@
     "mode": 3
   },
   {
+    "id": 350553,
+    "name": "(D) LDB - Currencies BC",
+    "key": "d-ldb-currencies-bc",
+    "dir": [
+      "(D) LDB BC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 350430,
     "name": "(D) LDB - Currencies BFA",
     "key": "d-currencies-data-broker-display-for-battle-for",
@@ -140,11 +150,31 @@
     "mode": 1
   },
   {
+    "id": 350552,
+    "name": "(D) LDB - Currencies Cataclysm",
+    "key": "d-ldb-currencies-cataclysm",
+    "dir": [
+      "(D) LDB Cataclysm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 350431,
     "name": "(D) LDB - Currencies Legion",
     "key": "d-ldb-currencies-legion",
     "dir": [
       "(D) LDB Legion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350554,
+    "name": "(D) LDB - Currencies Lich King",
+    "key": "d-ldb-currencies-lich-king",
+    "dir": [
+      "(D) LDB Lich King"
     ],
     "source": "curse",
     "mode": 1
@@ -1231,7 +1261,7 @@
       "AddOnSkins"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 90853,
@@ -2998,7 +3028,7 @@
   {
     "id": 302838,
     "name": "Arena Team Tracker",
-    "key": "arena-team-tracker",
+    "key": "att",
     "dir": [
       "ATT"
     ],
@@ -7234,6 +7264,18 @@
     "key": "baud-mark",
     "dir": [
       "BaudMark"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 5253,
+    "name": "Bayi's Extended Questlog",
+    "key": "bayis-extended-questlog",
+    "dir": [
+      "beql",
+      "FuBar_beqlFu",
+      "Titanbeql"
     ],
     "source": "curse",
     "mode": 3
@@ -20597,6 +20639,16 @@
     "mode": 1
   },
   {
+    "id": 350446,
+    "name": "EPGP-Classic",
+    "key": "epgp-classic",
+    "dir": [
+      "EPGP-Classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 262472,
     "name": "EPGPAutoStandby",
     "key": "epgpautostandby",
@@ -21402,16 +21454,6 @@
     "key": "elvui-armory-skin",
     "dir": [
       "ElvUI_Armory"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 91690,
-    "name": "ElvUI AuraBars Movers",
-    "key": "elvui-aurabars-movers",
-    "dir": [
-      "ElvUI_AuraBarsMovers"
     ],
     "source": "curse",
     "mode": 1
@@ -33357,7 +33399,7 @@
       "ImprovedLootFrame"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 31682,
@@ -45588,6 +45630,16 @@
     "mode": 1
   },
   {
+    "id": 350503,
+    "name": "Narcoleptic",
+    "key": "narcoleptic",
+    "dir": [
+      "Narcoleptic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22820,
     "name": "Nas",
     "key": "nas",
@@ -53963,6 +54015,19 @@
       "RazerNaga_XP",
       "RazerNaga",
       "RazerNaga_Encounter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350498,
+    "name": "Razhints BIS-lista",
+    "key": "best-in-slot-redux-updated-to-ep-mechagon",
+    "dir": [
+      "BestInSlotRedux_BfaDungeons",
+      "BestInSlotRedux_BfaRaids",
+      "BestInSlotRedux_BfaWorld",
+      "BestInSlotRedux"
     ],
     "source": "curse",
     "mode": 1
