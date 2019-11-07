@@ -7546,7 +7546,7 @@
   },
   {
     "id": 347977,
-    "name": "Better Aura Tracker",
+    "name": "Better Aura Tracker Classic",
     "key": "better-aura-tracker",
     "dir": [
       "BetterAuraTracker"
@@ -7977,6 +7977,7 @@
       "BigWigs_Plugins",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
+      "BigWigs_World",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
@@ -18026,8 +18027,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18036,7 +18035,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -26661,6 +26662,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 350035,
+    "name": "GatherMate2 Data Wowhead classic",
+    "key": "gathermate2-data-wowhead-classic",
+    "dir": [
+      "GatherMate2_Data"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 347492,
@@ -44565,7 +44576,7 @@
   },
   {
     "id": 342743,
-    "name": "MudmenItemColors",
+    "name": "MudmenItemColors and MORE",
     "key": "mudmenitemcolors",
     "dir": [
       "MudmenItemColor"
@@ -45681,7 +45692,7 @@
   },
   {
     "id": 345449,
-    "name": "NaxxChatAlarm LFG LFM Classic ",
+    "name": "NaxxChatAlarm LFG LFM Auto Post+Chat Filter ",
     "key": "naxxchatalarm",
     "dir": [
       "NaxxChatAlarm"
