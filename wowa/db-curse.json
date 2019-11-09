@@ -11783,7 +11783,7 @@
       "CalmDownandGamble"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 297604,
@@ -12597,6 +12597,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350813,
+    "name": "Chat Assistant",
+    "key": "chat-assistant",
+    "dir": [
+      "ChatAssistant"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 347753,
@@ -20206,7 +20216,7 @@
       "DugiWorkshop"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 36235,
@@ -27547,7 +27557,7 @@
       "GnomTEC"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 74237,
@@ -27557,7 +27567,7 @@
       "GnomTEC_Assistant"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 36064,
@@ -27567,7 +27577,7 @@
       "GnomTEC_Babel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 36062,
@@ -27615,7 +27625,7 @@
       "GnomTEC_NPCEmote"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 73782,
@@ -30069,6 +30079,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350686,
+    "name": "Guildie Note 4",
+    "key": "guildie-note-4",
+    "dir": [
+      "guildienote4"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 73471,
@@ -45692,7 +45712,7 @@
   },
   {
     "id": 345449,
-    "name": "NaxxChatAlarm LFG LFM Auto Post+Chat Filter ",
+    "name": "Naxx Chat Alarm LFG LFM Auto Post+Chat Filter ",
     "key": "naxxchatalarm",
     "dir": [
       "NaxxChatAlarm"
@@ -48074,6 +48094,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350790,
+    "name": "Party Pet Frames",
+    "key": "party-pet-frames",
+    "dir": [
+      "PartyPetFrames"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 258666,
@@ -51388,7 +51418,7 @@
   },
   {
     "id": 319411,
-    "name": "Quest Cinematic (Retail & Classic & FF XIV)",
+    "name": "Quest Cinematic (Retail & Classic)",
     "key": "quest-cinematic",
     "dir": [
       "ClassicQuestC",
@@ -52837,6 +52867,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350826,
+    "name": "Raid GUIDs (for ONY)",
+    "key": "raid-guids-for-ony",
+    "dir": [
+      "RaidGUIDs"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 98718,
