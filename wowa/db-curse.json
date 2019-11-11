@@ -6279,7 +6279,7 @@
       "Baggins"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20032,
@@ -6894,7 +6894,7 @@
       "Bartender4_BuffHider"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102579,
@@ -26797,6 +26797,16 @@
     "mode": 1
   },
   {
+    "id": 351050,
+    "name": "Gear to Gear Planner",
+    "key": "gear-to-gear-planner",
+    "dir": [
+      "Gear to Gear Planner"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 70731,
     "name": "Gear4Moo",
     "key": "gear4moo",
@@ -27124,7 +27134,7 @@
       "GetDKP"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 77170,
@@ -31570,6 +31580,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350985,
+    "name": "Hemlock Poison Helper",
+    "key": "hemlock",
+    "dir": [
+      "Hemlock"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14171,
@@ -43433,7 +43453,7 @@
       "MizusRaidTracker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 65658,
@@ -46416,6 +46436,16 @@
     "mode": 1
   },
   {
+    "id": 302699,
+    "name": "NoItsNot",
+    "key": "noitsnot",
+    "dir": [
+      "NoItsNot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102793,
     "name": "NoMoreGryphons",
     "key": "nomoregryphons",
@@ -47553,6 +47583,16 @@
     "mode": 1
   },
   {
+    "id": 350911,
+    "name": "Oro Transparent Chat Bubbles",
+    "key": "oro-transparent-chat-bubbles",
+    "dir": [
+      "TransparentChatBubbles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 49489,
     "name": "Otis",
     "key": "otis",
@@ -47741,6 +47781,17 @@
     "key": "pcto-portrait-combat-text",
     "dir": [
       "PortraitCombatTextOff"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 350331,
+    "name": "PHIL - Fellow Item Level (SILV)",
+    "key": "phil",
+    "dir": [
+      "SILV",
+      "PHIL"
     ],
     "source": "curse",
     "mode": 1
@@ -52870,7 +52921,7 @@
   },
   {
     "id": 350826,
-    "name": "Raid GUIDs (for ONY)",
+    "name": "Raid GUIDs",
     "key": "raid-guids-for-ony",
     "dir": [
       "RaidGUIDs"
@@ -55917,16 +55968,6 @@
     "key": "sfloot",
     "dir": [
       "SFLoot"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350331,
-    "name": "SILV",
-    "key": "silv",
-    "dir": [
-      "SILV"
     ],
     "source": "curse",
     "mode": 1
@@ -59792,6 +59833,16 @@
     "mode": 1
   },
   {
+    "id": 350620,
+    "name": "SnuuAuction",
+    "key": "snuuauction",
+    "dir": [
+      "SnuuAuction"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 74609,
     "name": "SoDEndlessChat",
     "key": "sodendlesschat",
@@ -62246,6 +62297,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350444,
+    "name": "SupplyBag",
+    "key": "supplybag",
+    "dir": [
+      "SupplyBag"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 91992,
@@ -68142,6 +68203,16 @@
     "mode": 1
   },
   {
+    "id": 350996,
+    "name": "ValhallaGuildTools",
+    "key": "valhallaguildtools",
+    "dir": [
+      "ValhallaGuildTools"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 96359,
     "name": "Valor",
     "key": "valor",
@@ -69489,6 +69560,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 350876,
+    "name": "WeaponTrainers",
+    "key": "weapontrainers",
+    "dir": [
+      "WeaponTrainers"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 2728,
@@ -71502,6 +71583,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351198,
+    "name": "XPperMIN",
+    "key": "xppermin",
+    "dir": [
+      "XPperMIN"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 78630,
@@ -75807,6 +75898,16 @@
     "key": "vui",
     "dir": [
       "vUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348688,
+    "name": "vossi auction scanner",
+    "key": "vossi-auction-scanner",
+    "dir": [
+      "VossiAuctionScan"
     ],
     "source": "curse",
     "mode": 2
