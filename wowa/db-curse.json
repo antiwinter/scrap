@@ -1553,6 +1553,16 @@
     "mode": 1
   },
   {
+    "id": 351282,
+    "name": "AdiBags_ItemRack",
+    "key": "adibags-itemrack",
+    "dir": [
+      "AdiBags_ItemRack"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 339087,
     "name": "AdiBags_Keystone",
     "key": "adibags_keystone",
@@ -11337,6 +11347,16 @@
     "mode": 1
   },
   {
+    "id": 351325,
+    "name": "Buy That Stuff",
+    "key": "buy-that-stuff",
+    "dir": [
+      "BuyThatStuff"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2590,
     "name": "BuyEmAll",
     "key": "project-2590",
@@ -11506,30 +11526,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 278727,
-    "name": "CRaidFrame",
-    "key": "craidframe",
-    "dir": [
-      "CRaidFrame_AOEH",
-      "CRaidFrame_Options",
-      "CRaidFrame"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339688,
-    "name": "CRaidFrame Classic",
-    "key": "craidframe-classic",
-    "dir": [
-      "CRaidFrame_AOEH",
-      "CRaidFrame_Options",
-      "CRaidFrame"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 88286,
@@ -13916,7 +13912,7 @@
     "mode": 2
   },
   {
-    "id": 334559,
+    "id": 351302,
     "name": "ClassicCodex",
     "key": "classiccodex",
     "dir": [
@@ -14001,6 +13997,16 @@
     "key": "classicspellactivations",
     "dir": [
       "ClassicSpellActivations"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 345674,
+    "name": "ClassicStats",
+    "key": "classicstats",
+    "dir": [
+      "ClassicStats"
     ],
     "source": "curse",
     "mode": 2
@@ -15454,17 +15460,6 @@
     "key": "controlfreak",
     "dir": [
       "ControlFreak"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 103018,
-    "name": "ControlPanel",
-    "key": "controlpanel2",
-    "dir": [
-      "ControlPanel_Options",
-      "ControlPanel"
     ],
     "source": "curse",
     "mode": 1
@@ -22135,8 +22130,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -32139,6 +32134,16 @@
     "mode": 2
   },
   {
+    "id": 351258,
+    "name": "HideChatInviteSpam",
+    "key": "hidechatinvitespam",
+    "dir": [
+      "HideChatInviteSpam"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 44145,
     "name": "HideClassBar",
     "key": "hideclassbar",
@@ -32645,6 +32650,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351320,
+    "name": "HolyStats",
+    "key": "holystats",
+    "dir": [
+      "HolyStats"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 28998,
@@ -33672,6 +33687,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351271,
+    "name": "Ingredient For Classic",
+    "key": "ingredient-for-classic",
+    "dir": [
+      "Ingredient"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 342567,
@@ -34860,6 +34885,7 @@
       "JojoMonk_JosukeHigashikata",
       "JojoMonk_JotaroKujo",
       "JojoMonk_DioBrando",
+      "JojoMonk_GiornoGiovanna",
       "JojoMonk"
     ],
     "source": "curse",
@@ -35593,7 +35619,7 @@
       "KHunterTimers"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 103142,
@@ -37534,16 +37560,6 @@
     "mode": 1
   },
   {
-    "id": 258946,
-    "name": "LibArtifactTraits",
-    "key": "libartifacttraits",
-    "dir": [
-      "LibArtifactTraits"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 292843,
     "name": "LibAuras",
     "key": "libauras",
@@ -38166,6 +38182,16 @@
     "mode": 3
   },
   {
+    "id": 351188,
+    "name": "LibHighvalue",
+    "key": "libhighvalue",
+    "dir": [
+      "LibHighvalue"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 92912,
     "name": "LibHijackMinimap-1.0",
     "key": "libhijackminimap-1-0",
@@ -38301,26 +38327,6 @@
     "key": "libkeybound-1-0",
     "dir": [
       "LibKeyBound-1.0"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 289649,
-    "name": "LibLFGActivity-enUS",
-    "key": "liblfgactivity-enus",
-    "dir": [
-      "LibLFGActivity-enUS"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 289650,
-    "name": "LibLFGActivity-zhCN",
-    "key": "liblfgactivity-zhcn",
-    "dir": [
-      "LibLFGActivity-zhCN"
     ],
     "source": "curse",
     "mode": 1
@@ -38601,27 +38607,6 @@
     "key": "libraces-1-0",
     "dir": [
       "LibRaces-1.0"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323772,
-    "name": "LibRaiderIO",
-    "key": "libraiderio",
-    "dir": [
-      "LibRaiderIO",
-      "LibRaiderIO_Loader"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 342336,
-    "name": "LibRaiderIO Loader",
-    "key": "libraiderio-loader",
-    "dir": [
-      "LibRaiderIO_Loader"
     ],
     "source": "curse",
     "mode": 1
@@ -39574,235 +39559,6 @@
     "key": "looking-satchels",
     "dir": [
       "LookingForSatchels"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 259706,
-    "name": "LookingForGroup (LFG)",
-    "key": "lookingforgroup",
-    "dir": [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Bindings",
-      "LookingForGroup_Broker",
-      "LookingForGroup_CR",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Icon",
-      "LookingForGroup_M+",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "LookingForGroup",
-      "LookingForGroup_CRE",
-      "LookingForGroup_LFDLFR",
-      "LookingForGroup_PVP",
-      "LookingForGroup_QJ",
-      "LookingForGroup_Solo"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 289757,
-    "name": "LookingForGroup Alterac Valley",
-    "key": "lookingforgroup-alterac-valley",
-    "dir": [
-      "LookingForGroup_AV_Options",
-      "LookingForGroup_AV"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 322354,
-    "name": "LookingForGroup Barrels o' Fun",
-    "key": "lookingforgroup-barrels-o-fun",
-    "dir": [
-      "LookingForGroup_Barrels_o'_Fun"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 314746,
-    "name": "LookingForGroup Blacklist CN",
-    "key": "lookingforgroup-blacklist-cn",
-    "dir": [
-      "LookingForGroup_Blacklist_CN"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 306348,
-    "name": "LookingForGroup Classic",
-    "key": "lookingforgroup-classic",
-    "dir": [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Bindings",
-      "LookingForGroup_Broker",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Icon",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "LookingForGroup"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 295140,
-    "name": "LookingForGroup Cross Realm Enhancement",
-    "key": "lookingforgroup-cross-realm-enhancement",
-    "dir": [
-      "LookingForGroup_CRE"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 294371,
-    "name": "LookingForGroup Elite",
-    "key": "lookingforgroup-elite",
-    "dir": [
-      "LookingForGroup_Elite"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 322237,
-    "name": "LookingForGroup Flags EU",
-    "key": "lookingforgroup-flags-eu",
-    "dir": [
-      "LookingForGroup_Flags_EU"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323642,
-    "name": "LookingForGroup Flags US",
-    "key": "lookingforgroup-flags-us",
-    "dir": [
-      "LookingForGroup_Flags_US"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 317550,
-    "name": "LookingForGroup Ganking",
-    "key": "lookingforgroup-ganking",
-    "dir": [
-      "LookingForGroup_Ganking"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 331888,
-    "name": "LookingForGroup Inspector",
-    "key": "lfginspector",
-    "dir": [
-      "LookingForGroup_Inspector"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 293567,
-    "name": "LookingForGroup Invasion Point",
-    "key": "lookingforgroup-invasion-point",
-    "dir": [
-      "LookingForGroup_InvasionPoint"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 289771,
-    "name": "LookingForGroup LFD/LFR",
-    "key": "lookingforgroup-lfd-lfr",
-    "dir": [
-      "LookingForGroup_LFDLFR"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 324546,
-    "name": "LookingForGroup M+",
-    "key": "lookingforgroup-m",
-    "dir": [
-      "LookingForGroup_M+"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 299459,
-    "name": "LookingForGroup PVP",
-    "key": "lookingforgroup-pvp",
-    "dir": [
-      "LookingForGroup_PVP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 294372,
-    "name": "LookingForGroup Premade Groups Filter",
-    "key": "lookingforgroup-premade-groups-filter",
-    "dir": [
-      "LookingForGroup_PGF"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 289756,
-    "name": "LookingForGroup Quick Join",
-    "key": "lookingforgroup-quick-join",
-    "dir": [
-      "LookingForGroup_QJ"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 286074,
-    "name": "LookingForGroup Raider.IO",
-    "key": "lookingforgroup-raider-io",
-    "dir": [
-      "LookingForGroup_RaiderIO",
-      "LibRaiderIO_Loader"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 268648,
-    "name": "LookingForGroup Realm Whitelist",
-    "key": "lookingforgroup-realm-whitelist",
-    "dir": [
-      "LookingForGroup_RW"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 314001,
-    "name": "LookingForGroup Solo",
-    "key": "lookingforgroup-solo",
-    "dir": [
-      "LookingForGroup_Solo"
     ],
     "source": "curse",
     "mode": 1
@@ -42537,29 +42293,6 @@
     "mode": 1
   },
   {
-    "id": 289648,
-    "name": "Meeting Stone (集合石)",
-    "key": "meeting-stone",
-    "dir": [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "MeetingStone",
-      "MeetingStone_Bindings",
-      "MeetingStone_Broker",
-      "MeetingStone_FW",
-      "MeetingStone_Icon",
-      "LookingForGroup",
-      "LookingForGroup_CR"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 43972,
     "name": "Mega Damage",
     "key": "mega-damage",
@@ -42769,20 +42502,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 282646,
-    "name": "Meter",
-    "key": "meter",
-    "dir": [
-      "Meter_Broker",
-      "Meter_Icon",
-      "Meter_O",
-      "Meter_UI",
-      "Meter"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 265581,
@@ -44730,41 +44449,6 @@
     "key": "murlocgz",
     "dir": [
       "mdgz"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 256399,
-    "name": "MusicBox",
-    "key": "musicbox",
-    "dir": [
-      "MusicBox_GameMusic",
-      "MusicBox_Icon",
-      "MusicBox_Options",
-      "MusicBox"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339674,
-    "name": "MusicBox Classic",
-    "key": "musicbox-classic",
-    "dir": [
-      "MusicBox_Icon",
-      "MusicBox_Options",
-      "MusicBox"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 256421,
-    "name": "MusicBox GameMusic EMP",
-    "key": "musicbox-gamemusic-emp",
-    "dir": [
-      "MusicBox_GameMusicEMP"
     ],
     "source": "curse",
     "mode": 1
@@ -47787,7 +47471,7 @@
   },
   {
     "id": 350331,
-    "name": "PHIL - Fellow Item Level (SILV)",
+    "name": "PHIL - Fellow Item Level",
     "key": "phil",
     "dir": [
       "SILV",
@@ -51216,104 +50900,6 @@
     "mode": 1
   },
   {
-    "id": 299984,
-    "name": "QUI",
-    "key": "qui",
-    "dir": [
-      "QUI_Ace3",
-      "QUI_Actionbar",
-      "QUI_AddOns",
-      "QUI_Auction",
-      "QUI_Aura",
-      "QUI_Bag",
-      "QUI_Binding",
-      "QUI_Castbar",
-      "QUI_Character",
-      "QUI_Chat",
-      "QUI_Collections",
-      "QUI_Communities",
-      "QUI_DBM",
-      "QUI_EncounterJournal",
-      "QUI_GameMenu",
-      "QUI_Gossip",
-      "QUI_LFG",
-      "QUI_LuaError",
-      "QUI_Macro",
-      "QUI_Map",
-      "QUI_Merchant",
-      "QUI_Microbar",
-      "QUI_Minimap",
-      "QUI_MirrorTimer",
-      "QUI_Myslot",
-      "QUI_Nameplate",
-      "QUI_O",
-      "QUI_Objective",
-      "QUI_OrderHall",
-      "QUI_PVP",
-      "QUI_ReadyCheck",
-      "QUI_SBT",
-      "QUI_Social",
-      "QUI_SpellBook",
-      "QUI_StaticPopup",
-      "QUI_Status",
-      "QUI_System",
-      "QUI_Talent",
-      "QUI_TalkingHead",
-      "QUI_Tooltip",
-      "QUI_TradeSkill",
-      "QUI_UnitFrame",
-      "QUI_WowLua",
-      "QUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 335177,
-    "name": "QUI Classic",
-    "key": "qui-classic",
-    "dir": [
-      "QUI_Ace3",
-      "QUI_Actionbar",
-      "QUI_AddOns",
-      "QUI_Auction",
-      "QUI_Aura",
-      "QUI_Bag",
-      "QUI_Castbar",
-      "QUI_Chat",
-      "QUI_Collections",
-      "QUI_DBM",
-      "QUI_EncounterJournal",
-      "QUI_GameMenu",
-      "QUI_LFG",
-      "QUI_LuaError",
-      "QUI_Macro",
-      "QUI_Merchant",
-      "QUI_Microbar",
-      "QUI_Minimap",
-      "QUI_MirrorTimer",
-      "QUI_Myslot",
-      "QUI_Nameplate",
-      "QUI_O",
-      "QUI_OrderHall",
-      "QUI_ReadyCheck",
-      "QUI_SBT",
-      "QUI_Social",
-      "QUI_StaticPopup",
-      "QUI_Status",
-      "QUI_System",
-      "QUI_Talent",
-      "QUI_TalkingHead",
-      "QUI_Tooltip",
-      "QUI_TradeSkill",
-      "QUI_UnitFrame",
-      "QUI_WowLua",
-      "QUI"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 43655,
     "name": "Qbrick's Holy Power Bar",
     "key": "qbricks-holy-power-bar",
@@ -51497,22 +51083,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 344147,
-    "name": "Quest Group Finder (LFG-AG)",
-    "key": "lookingforgroup-auto-grouping-only",
-    "dir": [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Q",
-      "LookingForGroup_Settings",
-      "LookingForGroup_SF",
-      "LookingForGroup"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 334517,
@@ -53419,167 +52989,6 @@
     "key": "raider-io-total-rp-3-tooltips",
     "dir": [
       "tRP3_RDotIO"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323958,
-    "name": "Raider.IO LOD Database EU Alliance",
-    "key": "raider-io-lod-database-eu-alliance",
-    "dir": [
-      "RaiderIO_LOD_DB_EU_A"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344282,
-    "name": "Raider.IO LOD Database EU Alliance Raid",
-    "key": "raider-io-lod-database-eu-alliance-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_EU_A_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323960,
-    "name": "Raider.IO LOD Database EU Horde",
-    "key": "raider-io-lod-database-eu-horde",
-    "dir": [
-      "RaiderIO_LOD_DB_EU_H"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344281,
-    "name": "Raider.IO LOD Database EU Horde Raid",
-    "key": "raider-io-lod-database-eu-horde-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_EU_H_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323961,
-    "name": "Raider.IO LOD Database KR Alliance",
-    "key": "raider-io-lod-database-kr-alliance",
-    "dir": [
-      "RaiderIO_LOD_DB_KR_A"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344287,
-    "name": "Raider.IO LOD Database KR Alliance Raid",
-    "key": "raider-io-lod-database-kr-alliance-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_KR_A_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323963,
-    "name": "Raider.IO LOD Database KR Horde",
-    "key": "raider-io-lod-database-kr-horde",
-    "dir": [
-      "RaiderIO_LOD_DB_KR_H"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344286,
-    "name": "Raider.IO LOD Database KR Horde Raid",
-    "key": "raider-io-lod-database-kr-horde-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_KR_H_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323964,
-    "name": "Raider.IO LOD Database TW Alliance",
-    "key": "raider-io-lod-database-tw-alliance",
-    "dir": [
-      "RaiderIO_LOD_DB_TW_A"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344289,
-    "name": "Raider.IO LOD Database TW Alliance Raid",
-    "key": "raider-io-lod-database-tw-alliance-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_TW_A_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323965,
-    "name": "Raider.IO LOD Database TW Horde",
-    "key": "raider-io-lod-database-tw-horde",
-    "dir": [
-      "RaiderIO_LOD_DB_TW_H"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344288,
-    "name": "Raider.IO LOD Database TW Horde Raid",
-    "key": "raider-io-lod-database-tw-horde-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_TW_H_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323957,
-    "name": "Raider.IO LOD Database US Alliance",
-    "key": "raider-io-lod-database-us-alliance",
-    "dir": [
-      "RaiderIO_LOD_DB_US_A"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344285,
-    "name": "Raider.IO LOD Database US Alliance Raid",
-    "key": "raider-io-lod-database-us-alliance-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_US_A_R"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 323637,
-    "name": "Raider.IO LOD Database US Horde",
-    "key": "raider-io-lod-database-us-horde",
-    "dir": [
-      "LookingForGroup_RaiderIO_DB_US_H",
-      "RaiderIO_LOD_DB_US_H"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 344284,
-    "name": "Raider.IO LOD Database US Horde Raid",
-    "key": "raider-io-lod-database-us-horde-raid",
-    "dir": [
-      "RaiderIO_LOD_DB_US_H_R"
     ],
     "source": "curse",
     "mode": 1
@@ -61678,17 +61087,6 @@
     "key": "streambuddy",
     "dir": [
       "StreamBuddy"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 277590,
-    "name": "StringExport",
-    "key": "stringexporter",
-    "dir": [
-      "StringExporter_Options",
-      "StringExporter"
     ],
     "source": "curse",
     "mode": 1
@@ -71072,26 +70470,6 @@
     "mode": 1
   },
   {
-    "id": 342413,
-    "name": "Worldmind Classic",
-    "key": "worldmind-classic",
-    "dir": [
-      "worldmind"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 298577,
-    "name": "WorldmindUI",
-    "key": "worldmind",
-    "dir": [
-      "worldmind"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 89132,
     "name": "Wormhole Centrifuge Helper",
     "key": "wormhole-centrifuge-helper",
@@ -73171,18 +72549,6 @@
     "key": "clcppb",
     "dir": [
       "clcppb"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 273656,
-    "name": "cnbnpoints",
-    "key": "cnbnpoints",
-    "dir": [
-      "cnbnpoints_lfg",
-      "cnbnpoints_options",
-      "cnbnpoints"
     ],
     "source": "curse",
     "mode": 1
