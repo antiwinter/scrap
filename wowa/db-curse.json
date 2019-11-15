@@ -12918,6 +12918,16 @@
     "mode": 1
   },
   {
+    "id": 351387,
+    "name": "ChatLinkIcons",
+    "key": "chatlinkicons",
+    "dir": [
+      "ChatLinkIcons"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 100057,
     "name": "ChatLog",
     "key": "chatlog",
@@ -17105,7 +17115,7 @@
   },
   {
     "id": 348393,
-    "name": "DPS_Tracker",
+    "name": "DPS_Tracker V1.5.1",
     "key": "dps-tracker",
     "dir": [
       "DPS_Tracker"
@@ -19028,6 +19038,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351391,
+    "name": "Detailed Durability",
+    "key": "detailed-durability",
+    "dir": [
+      "DetailedDurability"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 309125,
@@ -23597,6 +23617,26 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351447,
+    "name": "EzToggle",
+    "key": "eztoggle",
+    "dir": [
+      "EzToggle"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 351449,
+    "name": "EzToggle Classic",
+    "key": "eztoggle-classic",
+    "dir": [
+      "EzToggle"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 36504,
@@ -34880,12 +34920,12 @@
     "name": "Jojo's Bizarre adventure SFX for Monk",
     "key": "jojos-bizarre-adventure-sfx",
     "dir": [
+      "JojoMonk_DioBrando",
+      "JojoMonk_GiornoGiovanna",
       "JojoMonk_JonathanJoestar",
       "JojoMonk_JosephJoestar",
       "JojoMonk_JosukeHigashikata",
       "JojoMonk_JotaroKujo",
-      "JojoMonk_DioBrando",
-      "JojoMonk_GiornoGiovanna",
       "JojoMonk"
     ],
     "source": "curse",
@@ -35145,6 +35185,16 @@
     "mode": 2
   },
   {
+    "id": 339809,
+    "name": "Kaliel's Quest Tracker (Classic)",
+    "key": "kaliels-tracker-classic",
+    "dir": [
+      "!KalielsTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87944,
     "name": "Kaliel's Tracker",
     "key": "kaliels-tracker",
@@ -35153,16 +35203,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 339809,
-    "name": "Kaliel's Tracker (Classic)",
-    "key": "kaliels-tracker-classic",
-    "dir": [
-      "!KalielsTracker"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 299541,
@@ -51730,6 +51770,16 @@
     "mode": 2
   },
   {
+    "id": 351514,
+    "name": "QuickLeave",
+    "key": "quickleave",
+    "dir": [
+      "QuickLeave"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101610,
     "name": "QuickLink",
     "key": "quicklink",
@@ -53533,7 +53583,7 @@
   {
     "id": 350498,
     "name": "Razhints BIS-lista",
-    "key": "best-in-slot-redux-updated-to-ep-mechagon",
+    "key": "razhints-bis-lista",
     "dir": [
       "BestInSlotRedux_BfaDungeons",
       "BestInSlotRedux_BfaRaids",
@@ -55572,6 +55622,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351452,
+    "name": "Salvationed",
+    "key": "salvationed",
+    "dir": [
+      "Salvationed"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 327045,
@@ -72029,6 +72089,16 @@
     "mode": 1
   },
   {
+    "id": 351386,
+    "name": "[SDP] TrainAll",
+    "key": "sdp-trainall",
+    "dir": [
+      "TrainAll"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 293782,
     "name": "[rp:tags]",
     "key": "rp-tags",
@@ -72087,6 +72157,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351482,
+    "name": "aMageSpellsReport",
+    "key": "amagespellsreport",
+    "dir": [
+      "aMageSpellsReport"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 4938,
