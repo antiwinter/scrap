@@ -1433,6 +1433,16 @@
     "mode": 1
   },
   {
+    "id": 351282,
+    "name": "AdiBags - ItemRackSets",
+    "key": "adibags-itemracksets",
+    "dir": [
+      "AdiBags-ItemRackSets"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 325466,
     "name": "AdiBags - Mechagon Tinkering",
     "key": "adibags-mechagon-tinkering",
@@ -1551,16 +1561,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 351282,
-    "name": "AdiBags_ItemRack",
-    "key": "adibags-itemrack",
-    "dir": [
-      "AdiBags_ItemRack"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 339087,
@@ -13992,6 +13992,16 @@
     "mode": 2
   },
   {
+    "id": 351477,
+    "name": "ClassicRank",
+    "key": "classicrank",
+    "dir": [
+      "ClassicRank"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340855,
     "name": "ClassicShowGuild",
     "key": "classicshowguild",
@@ -16507,7 +16517,7 @@
       "DBM-VPLannaNOFX"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 294266,
@@ -16517,7 +16527,7 @@
       "DBM-VPLanna"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 92309,
@@ -43083,7 +43093,7 @@
   },
   {
     "id": 341275,
-    "name": "Missing Power (Mana, Energy, Rage)",
+    "name": "Missing Power (Mana, Energy, Rage) + Five Second Rule + Next Energy Tick",
     "key": "powermissing",
     "dir": [
       "[D4KiR] Missing Power"
@@ -46531,6 +46541,16 @@
     "mode": 1
   },
   {
+    "id": 351554,
+    "name": "NugPlateAuras",
+    "key": "nugplateauras",
+    "dir": [
+      "NugPlateAuras"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 27470,
     "name": "NugRunning",
     "key": "nugrunning",
@@ -47581,7 +47601,7 @@
   },
   {
     "id": 341453,
-    "name": "PVPLUL",
+    "name": "PVPLUL - Laughter when killing the enemy",
     "key": "pvplul",
     "dir": [
       "PVPLUL"
