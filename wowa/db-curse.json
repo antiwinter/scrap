@@ -13992,16 +13992,6 @@
     "mode": 2
   },
   {
-    "id": 351477,
-    "name": "ClassicRank",
-    "key": "classicrank",
-    "dir": [
-      "ClassicRank"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 340855,
     "name": "ClassicShowGuild",
     "key": "classicshowguild",
@@ -19095,7 +19085,9 @@
     "key": "details-damage-meter-classic-wow",
     "dir": [
       "Details_TinyThreat",
-      "Details"
+      "Details",
+      "Details_DataStorage",
+      "Details_Streamer"
     ],
     "source": "curse",
     "mode": 2
@@ -31707,6 +31699,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351516,
+    "name": "Hermes/CommonOrcish",
+    "key": "hermes-commonorcish",
+    "dir": [
+      "Hermes"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 271528,
@@ -53332,6 +53334,16 @@
     "mode": 2
   },
   {
+    "id": 351477,
+    "name": "RankClassic",
+    "key": "rankclassic",
+    "dir": [
+      "RankClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87369,
     "name": "Rap Sheet",
     "key": "rap-sheet",
@@ -60039,7 +60051,7 @@
   },
   {
     "id": 345951,
-    "name": "SpellAnnounce Classic",
+    "name": "SpellAnnouncer Classic",
     "key": "spellannouncer-classic",
     "dir": [
       "SpellAnnouncerClassic"
