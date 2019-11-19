@@ -1385,6 +1385,16 @@
     "mode": 1
   },
   {
+    "id": 351762,
+    "name": "AdiBags - BOEOverlay",
+    "key": "adibags-boeoverlay",
+    "dir": [
+      "AdiBags-BOEOverlay"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341171,
     "name": "AdiBags - BankStack",
     "key": "adibags-bankstack",
@@ -1421,6 +1431,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351754,
+    "name": "AdiBags - ClassicItemLevel",
+    "key": "adibags-classicitemlevel",
+    "dir": [
+      "AdiBags-ClassicItemLevel"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 310449,
@@ -1481,6 +1501,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351755,
+    "name": "AdiBags - UnusableItemOverlay",
+    "key": "adibags-unusableitemoverlay",
+    "dir": [
+      "AdiBags-UnusableItemOverlay"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 275546,
@@ -4047,6 +4077,16 @@
     "mode": 1
   },
   {
+    "id": 351776,
+    "name": "Attack Power Display",
+    "key": "attack-power-display",
+    "dir": [
+      "apd"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340473,
     "name": "Attesor Universal Language",
     "key": "attesor",
@@ -4565,6 +4605,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351604,
+    "name": "Auto Restocker",
+    "key": "autorestocker",
+    "dir": [
+      "Restocker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 90576,
@@ -12399,7 +12449,7 @@
     "name": "ChaChing",
     "key": "chaching",
     "dir": [
-      "ChaChing"
+      "DPS_Tracker"
     ],
     "source": "curse",
     "mode": 2
@@ -13357,6 +13407,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351907,
+    "name": "Civilian Warning",
+    "key": "civilian-warning",
+    "dir": [
+      "CivilianWarning"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 18704,
@@ -15841,6 +15901,16 @@
     "mode": 1
   },
   {
+    "id": 351691,
+    "name": "CraftCooldown",
+    "key": "craftcooldown",
+    "dir": [
+      "CraftCooldown"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 273437,
     "name": "CraftFromInventory",
     "key": "craftfrominventory",
@@ -17112,16 +17182,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 348393,
-    "name": "DPS_Tracker V1.5.1",
-    "key": "dps-tracker",
-    "dir": [
-      "DPS_Tracker"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 20187,
@@ -22383,6 +22443,16 @@
     "mode": 1
   },
   {
+    "id": 351740,
+    "name": "Elvin Cooldowns",
+    "key": "elvincds",
+    "dir": [
+      "!ElvinCDs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103035,
     "name": "Elvui MicroMenu Datatext",
     "key": "elvui-micromenu-datatext",
@@ -24034,6 +24104,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351688,
+    "name": "FarmingBar",
+    "key": "farmingbar",
+    "dir": [
+      "FarmingBar"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 293171,
@@ -32722,6 +32802,36 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 2526,
+    "name": "Honor Kills Counter",
+    "key": "honor-kills-counter",
+    "dir": [
+      "HKCounter"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 351773,
+    "name": "Honor Tracker",
+    "key": "honor-tracker",
+    "dir": [
+      "HonorTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 351804,
+    "name": "HonorAssist",
+    "key": "honorassist",
+    "dir": [
+      "HonorAssist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 48785,
@@ -43339,6 +43449,16 @@
     "mode": 2
   },
   {
+    "id": 351855,
+    "name": "Mog Assistant",
+    "key": "mog-assistant",
+    "dir": [
+      "MogAssistant"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100134,
     "name": "MogCollector.com ItemCollector",
     "key": "itemcollector",
@@ -44725,7 +44845,7 @@
       "MyChatAlert"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 87692,
@@ -44763,6 +44883,16 @@
     "key": "mylilpony",
     "dir": [
       "MyLilPony"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 346262,
+    "name": "MyLootList",
+    "key": "mylootlist",
+    "dir": [
+      "MyLootList"
     ],
     "source": "curse",
     "mode": 1
@@ -49629,7 +49759,7 @@
       "PoisonCharges"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 273694,
@@ -52563,7 +52693,7 @@
   },
   {
     "id": 350826,
-    "name": "Raid GUIDs",
+    "name": "Raid GUID's",
     "key": "raid-guids-for-ony",
     "dir": [
       "RaidGUIDs"
@@ -68758,6 +68888,16 @@
     "mode": 1
   },
   {
+    "id": 350438,
+    "name": "Warhawk",
+    "key": "wh",
+    "dir": [
+      "Warhawk"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28979,
     "name": "Waritko Cash Flow Monitor",
     "key": "waritko-cash-flow-monitor",
@@ -71056,7 +71196,7 @@
   },
   {
     "id": 351198,
-    "name": "XPperMIN",
+    "name": "XPperMIN include Re-follow",
     "key": "xppermin",
     "dir": [
       "XPperMIN"
@@ -71860,6 +72000,16 @@
     "key": "zum",
     "dir": [
       "Zum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 351942,
+    "name": "Zygor DataText (ZDT)",
+    "key": "zygor-datatext-zdt",
+    "dir": [
+      "ZygorDataText"
     ],
     "source": "curse",
     "mode": 1
