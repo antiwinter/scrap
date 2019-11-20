@@ -12449,7 +12449,7 @@
     "name": "ChaChing",
     "key": "chaching",
     "dir": [
-      "DPS_Tracker"
+      "ChaChing"
     ],
     "source": "curse",
     "mode": 2
@@ -18102,6 +18102,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18110,9 +18112,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -21349,6 +21349,16 @@
     "key": "ego-booster",
     "dir": [
       "EgoBooster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 351701,
+    "name": "ElFramo 3",
+    "key": "elframo-3",
+    "dir": [
+      "ElFramo3"
     ],
     "source": "curse",
     "mode": 1
@@ -27547,6 +27557,16 @@
     "mode": 1
   },
   {
+    "id": 351803,
+    "name": "GlancingMeter",
+    "key": "glancingmeter",
+    "dir": [
+      "GlancingMeter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 100981,
     "name": "GlassHUD",
     "key": "glass_hud",
@@ -29097,6 +29117,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351800,
+    "name": "Group Calendar for Classic",
+    "key": "group-calendar-for-classic",
+    "dir": [
+      "GroupCalendar"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 302556,
@@ -32804,6 +32834,16 @@
     "mode": 1
   },
   {
+    "id": 352067,
+    "name": "Honor DR Tracker",
+    "key": "honor-dr-tracker",
+    "dir": [
+      "HonorTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2526,
     "name": "Honor Kills Counter",
     "key": "honor-kills-counter",
@@ -35445,6 +35485,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352007,
+    "name": "Karmarang",
+    "key": "karmarang",
+    "dir": [
+      "Karmarang"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 8057,
@@ -40074,6 +40124,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349656,
+    "name": "Lootr",
+    "key": "lootr",
+    "dir": [
+      "Lootr"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 281960,
@@ -47359,6 +47419,16 @@
     "mode": 1
   },
   {
+    "id": 352052,
+    "name": "OpenDKP",
+    "key": "opendkp",
+    "dir": [
+      "OpenDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29758,
     "name": "OpenDefaultBag",
     "key": "opendefaultbag",
@@ -53302,6 +53372,16 @@
     "mode": 1
   },
   {
+    "id": 351984,
+    "name": "Random Dungeon Generator.",
+    "key": "random-dungeon-generator",
+    "dir": [
+      "Random Dungeon Generator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 314578,
     "name": "Random Hearthstone Toy",
     "key": "random-hearthstone-toy",
@@ -56034,6 +56114,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352017,
+    "name": "ScepCalendar Classic",
+    "key": "scepcalendar-classic",
+    "dir": [
+      "ScepCalendar"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 255158,
@@ -66695,6 +66785,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351997,
+    "name": "Tradies",
+    "key": "tradies",
+    "dir": [
+      "Tradies"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 99740,
