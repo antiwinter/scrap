@@ -6011,6 +6011,16 @@
     "mode": 1
   },
   {
+    "id": 352156,
+    "name": "BRD Escort Farm",
+    "key": "brd-escort-farm",
+    "dir": [
+      "BRDEscortFarm"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 282539,
     "name": "BT MediaPack",
     "key": "bt-mediapack",
@@ -7057,6 +7067,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 350616,
+    "name": "BastionEPGP",
+    "key": "bastionepgp",
+    "dir": [
+      "BastionEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 79863,
@@ -17134,6 +17154,16 @@
     "mode": 1
   },
   {
+    "id": 352080,
+    "name": "DKPUnity Addon",
+    "key": "dkpunity-addon",
+    "dir": [
+      "DKPUnity"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87642,
     "name": "DKRot",
     "key": "dkrot",
@@ -24201,6 +24231,16 @@
     "key": "fastid",
     "dir": [
       "FastID"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 352070,
+    "name": "FastMarks for BfA",
+    "key": "fastmarks",
+    "dir": [
+      "FastMarks"
     ],
     "source": "curse",
     "mode": 1
@@ -32854,6 +32894,16 @@
     "mode": 3
   },
   {
+    "id": 352187,
+    "name": "Honor Per Hour",
+    "key": "honor-per-hour",
+    "dir": [
+      "HPH"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 351773,
     "name": "Honor Tracker",
     "key": "honor-tracker",
@@ -40126,16 +40176,6 @@
     "mode": 1
   },
   {
-    "id": 349656,
-    "name": "Lootr",
-    "key": "lootr",
-    "dir": [
-      "Lootr"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 281960,
     "name": "Lootsturm Light",
     "key": "lootsturm-light",
@@ -43265,7 +43305,7 @@
   },
   {
     "id": 341275,
-    "name": "Missing Power (Mana, Energy, Rage) + Five Second Rule + Next Energy Tick",
+    "name": "Missing Power (Five Second Rule + Next Energy Tick)",
     "key": "powermissing",
     "dir": [
       "[D4KiR] Missing Power"
@@ -51395,6 +51435,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352043,
+    "name": "Quest Query",
+    "key": "quest-query",
+    "dir": [
+      "QuestQuery"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 21255,
@@ -64310,6 +64360,17 @@
     "mode": 2
   },
   {
+    "id": 5285,
+    "name": "Titan Panel Classic [Defense]",
+    "key": "titan-panel-defense",
+    "dir": [
+      "TitanDefense",
+      "TitanClassicDefense"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 339483,
     "name": "Titan Panel Classic [Guild]",
     "key": "titan-panel-classic-guild",
@@ -64505,16 +64566,6 @@
     "key": "titan-panel-currency",
     "dir": [
       "TitanCurrency"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 5285,
-    "name": "Titan Panel [Defense]",
-    "key": "titan-panel-defense",
-    "dir": [
-      "TitanDefense"
     ],
     "source": "curse",
     "mode": 1
@@ -68104,6 +68155,16 @@
     "mode": 2
   },
   {
+    "id": 352160,
+    "name": "Vendie",
+    "key": "vendie",
+    "dir": [
+      "vendie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20329,
     "name": "Vendomatic",
     "key": "vendomatic",
@@ -68842,6 +68903,16 @@
     "key": "wanderers-gambling",
     "dir": [
       "wanderersgambling"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 352100,
+    "name": "Wanderlust Key Roller",
+    "key": "wanderlust-key-roller",
+    "dir": [
+      "Wanderlust Key Roller"
     ],
     "source": "curse",
     "mode": 1
