@@ -4406,16 +4406,6 @@
     "mode": 1
   },
   {
-    "id": 88831,
-    "name": "AuraInfo",
-    "key": "aurainfo",
-    "dir": [
-      "AuraInfo"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 17295,
     "name": "Auracle (De)Buff Monitor",
     "key": "auracle",
@@ -14032,6 +14022,16 @@
     "mode": 2
   },
   {
+    "id": 351332,
+    "name": "ClassicHealPrediction",
+    "key": "classichealprediction",
+    "dir": [
+      "ClassicHealPrediction"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 348415,
     "name": "ClassicInterrupt",
     "key": "classicinterrupt",
@@ -19198,6 +19198,16 @@
     "key": "details-chart-viewer-plugin",
     "dir": [
       "Details_ChartViewer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 352367,
+    "name": "Details!: Explosive Orbs (plugin)",
+    "key": "details-explosive-orbs-plugin",
+    "dir": [
+      "Details_ExplosiveOrbs"
     ],
     "source": "curse",
     "mode": 1
@@ -25530,6 +25540,16 @@
     "mode": 1
   },
   {
+    "id": 352351,
+    "name": "ForHonor!",
+    "key": "forhonor",
+    "dir": [
+      "ForHonor"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 306822,
     "name": "Forager",
     "key": "forager",
@@ -29270,6 +29290,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352305,
+    "name": "GroupCalendar Classic",
+    "key": "groupcalendar-classic",
+    "dir": [
+      "GroupCalendarClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 344203,
@@ -33577,7 +33607,7 @@
       "IgnoreEnemyEmotes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 283975,
@@ -36123,7 +36153,7 @@
       "KillingBlow_Enhanced"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 6998,
@@ -39676,16 +39706,6 @@
     "mode": 3
   },
   {
-    "id": 92138,
-    "name": "LockboxHelper",
-    "key": "unlockhelper",
-    "dir": [
-      "LockboxHelper"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 274882,
     "name": "LockedOut",
     "key": "lockedout",
@@ -42892,16 +42912,6 @@
     "key": "millbutton",
     "dir": [
       "MillButton"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 89271,
-    "name": "MillHelper",
-    "key": "millhelper",
-    "dir": [
-      "MillHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -46610,6 +46620,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352260,
+    "name": "Notation",
+    "key": "notation",
+    "dir": [
+      "Notation"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 318346,
@@ -50799,16 +50819,6 @@
     "mode": 3
   },
   {
-    "id": 92123,
-    "name": "ProspectHelper",
-    "key": "prospecthelper",
-    "dir": [
-      "ProspectHelper"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 68152,
     "name": "ProspectORE",
     "key": "prospect-ore",
@@ -51038,6 +51048,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352250,
+    "name": "PvP Tracker",
+    "key": "pvp-tracker",
+    "dir": [
+      "PvP Tracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 17354,
@@ -52249,7 +52269,7 @@
       "QuoteMediaBroStudios"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 289084,
@@ -66105,6 +66125,16 @@
     "mode": 1
   },
   {
+    "id": 352247,
+    "name": "TotemStatus",
+    "key": "totemstatus",
+    "dir": [
+      "TotemStatus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 6384,
     "name": "TotemTimers",
     "key": "totemtimers",
@@ -66528,26 +66558,6 @@
     "mode": 1
   },
   {
-    "id": 29790,
-    "name": "TradeSkillMaster_Accounting",
-    "key": "tradeskillmaster_accounting",
-    "dir": [
-      "TradeSkillMaster_Accounting"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 54601,
-    "name": "TradeSkillMaster_Additions",
-    "key": "tradeskillmaster_additions",
-    "dir": [
-      "TradeSkillMaster_Additions"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 83317,
     "name": "TradeSkillMaster_AppHelper",
     "key": "tradeskillmaster_apphelper",
@@ -66556,26 +66566,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 27351,
-    "name": "TradeSkillMaster_AuctionDB",
-    "key": "tradeskillmaster_auctiondb",
-    "dir": [
-      "TradeSkillMaster_AuctionDB"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 27360,
-    "name": "TradeSkillMaster_Auctioning",
-    "key": "tradeskillmaster_auctioning",
-    "dir": [
-      "TradeSkillMaster_Auctioning"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 59650,
@@ -66598,41 +66588,11 @@
     "mode": 1
   },
   {
-    "id": 27182,
-    "name": "TradeSkillMaster_Crafting",
-    "key": "tradeskillmaster_crafting",
-    "dir": [
-      "TradeSkillMaster_Crafting"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 27987,
-    "name": "TradeSkillMaster_Destroying",
-    "key": "tradeskillmaster_destroying",
-    "dir": [
-      "TradeSkillMaster_Destroying"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 73501,
     "name": "TradeSkillMaster_GuildSorter",
     "key": "tradeskillmaster_guildsorter",
     "dir": [
       "TradeSkillMaster_GuildSorter"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 27352,
-    "name": "TradeSkillMaster_Mailing",
-    "key": "tradeskillmaster_mailing",
-    "dir": [
-      "TradeSkillMaster_Mailing"
     ],
     "source": "curse",
     "mode": 1
@@ -66653,16 +66613,6 @@
     "key": "tradeskillmaster_pricereply",
     "dir": [
       "TradeSkillMaster_PriceReply"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 27261,
-    "name": "TradeSkillMaster_Shopping",
-    "key": "tradeskillmaster_shopping",
-    "dir": [
-      "TradeSkillMaster_Shopping"
     ],
     "source": "curse",
     "mode": 1
@@ -66703,36 +66653,6 @@
     "key": "tradeskillmaster_vendor",
     "dir": [
       "TradeSkillMaster_Vendor"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 88699,
-    "name": "TradeSkillMaster_Vendoring",
-    "key": "tradeskillmaster_vendoring",
-    "dir": [
-      "TradeSkillMaster_Vendoring"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 35451,
-    "name": "TradeSkillMaster_Warehousing",
-    "key": "tradeskillmaster_warehousing",
-    "dir": [
-      "TradeSkillMaster_Warehousing"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 38733,
-    "name": "TradeSkillMaster_WoWuction",
-    "key": "tradeskillmaster_wowuction",
-    "dir": [
-      "TradeSkillMaster_WoWuction"
     ],
     "source": "curse",
     "mode": 1
@@ -67859,16 +67779,6 @@
     "key": "unsheathmove",
     "dir": [
       "UnsheathMove"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 265039,
-    "name": "Unskilled Guildies Matter",
-    "key": "unskilled-guildies-matter",
-    "dir": [
-      "UnskilledGuildiesMatter"
     ],
     "source": "curse",
     "mode": 1
@@ -72517,6 +72427,16 @@
     "key": "amagespellsreport",
     "dir": [
       "aMageSpellsReport"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 352404,
+    "name": "aPVPName1s2s",
+    "key": "apvpname1s2s",
+    "dir": [
+      "aPVPName1s2s"
     ],
     "source": "curse",
     "mode": 2
