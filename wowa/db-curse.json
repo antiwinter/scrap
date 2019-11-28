@@ -10974,6 +10974,16 @@
     "mode": 1
   },
   {
+    "id": 336400,
+    "name": "BtWLoadouts",
+    "key": "btwloadouts",
+    "dir": [
+      "BtWLoadouts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 280369,
     "name": "BtWQuests",
     "key": "btw-quests",
@@ -24223,7 +24233,7 @@
       "FarmingBar"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 293171,
@@ -31579,6 +31589,16 @@
     "mode": 1
   },
   {
+    "id": 352582,
+    "name": "HealCommClassic",
+    "key": "healcommclassic",
+    "dir": [
+      "HealCommClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 314094,
     "name": "Healer Mana Only",
     "key": "healer-mana-only",
@@ -31806,7 +31826,7 @@
       "HellbenderDKP"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86090,
@@ -32995,7 +33015,7 @@
   },
   {
     "id": 352187,
-    "name": "Honor Per Hour",
+    "name": "Honor Per Hour (Classic)",
     "key": "honor-per-hour",
     "dir": [
       "HPH"
@@ -33588,6 +33608,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 352495,
+    "name": "Icecreamer",
+    "key": "icecreamer",
+    "dir": [
+      "Icecreamer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 24783,
@@ -34901,6 +34931,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352828,
+    "name": "ItemSurveyClassic",
+    "key": "itemsurveyclassic",
+    "dir": [
+      "ItemSurveyClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 336695,
@@ -38682,7 +38722,7 @@
       "LibKarma-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14295,
@@ -44273,6 +44313,16 @@
     "mode": 1
   },
   {
+    "id": 352765,
+    "name": "MountSteps (Classic)",
+    "key": "mount-steps",
+    "dir": [
+      "MountSteps"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 293642,
     "name": "Mounted SFX",
     "key": "mounted-sfx",
@@ -46481,6 +46531,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352827,
+    "name": "NoMoreBlizzardGroupUI",
+    "key": "nomoreblizzardgroupui",
+    "dir": [
+      "NoMoreBlizzardGroupUI"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102793,
@@ -51437,17 +51497,6 @@
     "mode": 3
   },
   {
-    "id": 319411,
-    "name": "Quest Cinematic (Retail & Classic)",
-    "key": "quest-cinematic",
-    "dir": [
-      "ClassicQuestC",
-      "QuestC"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 27328,
     "name": "Quest Completist",
     "key": "quest_completist",
@@ -53013,7 +53062,7 @@
       "RaidTracker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20921,
@@ -56055,6 +56104,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352786,
+    "name": "SappableClassic",
+    "key": "sappableclassic",
+    "dir": [
+      "SappableClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 39338,
@@ -63352,7 +63411,7 @@
       "TellTrack"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 348895,
@@ -67312,7 +67371,7 @@
   },
   {
     "id": 352617,
-    "name": "TurnTheHeadOff",
+    "name": "TurnTheHeadOff for BfA",
     "key": "turntheheadoff",
     "dir": [
       "TurnTheHeadOff"
@@ -75812,6 +75871,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 338841,
+    "name": "whoa UnitFrames (for WoW Classic)",
+    "key": "whoa-unitframes-for-wow-classic",
+    "dir": [
+      "whoaUnitFrames_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 94725,
