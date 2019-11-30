@@ -367,7 +367,7 @@
       "AFK_fullscreen"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28207,
@@ -1882,7 +1882,7 @@
       "Afflicted"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 103055,
@@ -13820,6 +13820,16 @@
     "mode": 2
   },
   {
+    "id": 352405,
+    "name": "Classic Loot Assistant",
+    "key": "classic-loot-assistant",
+    "dir": [
+      "ClassicLootAssistant"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 264469,
     "name": "Classic PVP Flagging",
     "key": "classic-pvp-flagging",
@@ -14067,6 +14077,16 @@
     "key": "classicguide",
     "dir": [
       "ClassicGuide"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 352992,
+    "name": "ClassicHealAssignments",
+    "key": "classichealassignments",
+    "dir": [
+      "ClassicHealAssignments"
     ],
     "source": "curse",
     "mode": 2
@@ -15814,6 +15834,16 @@
     "key": "coordinates",
     "dir": [
       "Coordinates"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 5299,
+    "name": "Coords",
+    "key": "coords",
+    "dir": [
+      "Coords"
     ],
     "source": "curse",
     "mode": 3
@@ -23868,7 +23898,7 @@
       "FFLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 339921,
@@ -24227,8 +24257,8 @@
   },
   {
     "id": 351688,
-    "name": "FarmingBar",
-    "key": "farmingbar",
+    "name": "Farming Bar",
+    "key": "farming-bar",
     "dir": [
       "FarmingBar"
     ],
@@ -29906,6 +29936,16 @@
     "mode": 1
   },
   {
+    "id": 352821,
+    "name": "Guild Loot Tracker",
+    "key": "guild-loot-tracker",
+    "dir": [
+      "guild-loot-tracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20458,
     "name": "Guild Lottery and Raffle",
     "key": "guild-lottery",
@@ -30799,6 +30839,16 @@
     "key": "handynotes-ferry-network",
     "dir": [
       "HandyNotes_FerryNetwork"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 352950,
+    "name": "HandyNotes Pandaria",
+    "key": "handynotes-pandaria",
+    "dir": [
+      "Handynotes_Pandaria"
     ],
     "source": "curse",
     "mode": 1
@@ -33648,6 +33698,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 352995,
+    "name": "IconMarks",
+    "key": "iconmarks",
+    "dir": [
+      "IconMarks"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 286395,
@@ -37911,6 +37971,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 352953,
+    "name": "LibAddonUtils",
+    "key": "libaddonutils",
+    "dir": [
+      "LibAddonUtils"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 15745,
@@ -45962,6 +46032,16 @@
     "mode": 1
   },
   {
+    "id": 344130,
+    "name": "NeedsFoodBadly",
+    "key": "needsfoodbadly",
+    "dir": [
+      "NeedsFoodBadly"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 54081,
     "name": "NeedyGreedy",
     "key": "needygreedy",
@@ -51487,6 +51567,17 @@
     "mode": 1
   },
   {
+    "id": 319411,
+    "name": "Queso (Retail & Classic)",
+    "key": "quest-cinematic",
+    "dir": [
+      "Queso Brie",
+      "Queso"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 3607,
     "name": "Quest Announce 3",
     "key": "quest-announce-3",
@@ -51753,6 +51844,16 @@
     "key": "questguru_classic",
     "dir": [
       "QuestGuru"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 351758,
+    "name": "QuestHerald",
+    "key": "questherald",
+    "dir": [
+      "QuestHerald"
     ],
     "source": "curse",
     "mode": 2
@@ -64110,6 +64211,16 @@
     "key": "timeinqueue",
     "dir": [
       "TimeInQueue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 352437,
+    "name": "TimePerLevel",
+    "key": "timeperlevel",
+    "dir": [
+      "TimePerLevel"
     ],
     "source": "curse",
     "mode": 1
