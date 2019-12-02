@@ -77,7 +77,7 @@
       "Shitlist"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 44359,
@@ -1190,7 +1190,7 @@
       "ActionBarSaver"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 300273,
@@ -9878,7 +9878,7 @@
       "BrokerPack"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 93796,
@@ -43482,7 +43482,7 @@
       "zz_MiscHelper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 74585,
@@ -51571,11 +51571,10 @@
     "name": "Queso (Retail & Classic)",
     "key": "quest-cinematic",
     "dir": [
-      "Queso Brie",
       "Queso"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 3607,
@@ -76301,7 +76300,7 @@
       "zz_Bags"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 22760,
@@ -76311,7 +76310,7 @@
       "zz_Coords"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 39075,
@@ -76321,7 +76320,7 @@
       "zz_Friends"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 84059,
@@ -76341,7 +76340,7 @@
       "zz_Infoclock"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 39073,
@@ -76351,7 +76350,7 @@
       "zz_Mailbox"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 39054,
@@ -76361,7 +76360,7 @@
       "zz_Money"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 39023,
@@ -76371,7 +76370,7 @@
       "zz_Repair"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86409,
@@ -76401,7 +76400,7 @@
       "zz_itemsdb"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 335565,
