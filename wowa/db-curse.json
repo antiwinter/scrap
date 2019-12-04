@@ -14142,6 +14142,16 @@
     "mode": 1
   },
   {
+    "id": 353572,
+    "name": "ClassicProfessionFilter",
+    "key": "classicprofessionfilter",
+    "dir": [
+      "ClassicProfessionFilter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 347961,
     "name": "ClassicRageLog",
     "key": "classicragelog",
@@ -20207,6 +20217,16 @@
     "mode": 1
   },
   {
+    "id": 353364,
+    "name": "DressingSlots",
+    "key": "dressingslots",
+    "dir": [
+      "DressingSlots"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102570,
     "name": "DressupDeluxe",
     "key": "dressup-deluxe",
@@ -23253,6 +23273,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353472,
+    "name": "ErrorDKP",
+    "key": "errordkp",
+    "dir": [
+      "ErrorDKP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20371,
@@ -27348,6 +27378,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353349,
+    "name": "GermanPvPNameFix",
+    "key": "germanpvpnamefix",
+    "dir": [
+      "GermanPvPNameFix"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102318,
@@ -34131,16 +34171,6 @@
     "mode": 1
   },
   {
-    "id": 351271,
-    "name": "Ingredient For Classic",
-    "key": "ingredient-for-classic",
-    "dir": [
-      "Ingredient"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 342567,
     "name": "Innervate Noise",
     "key": "innervatenoise",
@@ -40325,6 +40355,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 22783,
+    "name": "LootTrain",
+    "key": "loottrain",
+    "dir": [
+      "LootTrain-Manager",
+      "LootTrain"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 20869,
@@ -51417,7 +51458,7 @@
     "name": "QTR-Quests",
     "key": "qtr-quests",
     "dir": [
-      "QTR_Quests"
+      "WoWinEnglish_Quests"
     ],
     "source": "curse",
     "mode": 1
@@ -51574,7 +51615,7 @@
       "Queso"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 3607,
@@ -57954,6 +57995,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353401,
+    "name": "ShowQuestXP",
+    "key": "showquestxp",
+    "dir": [
+      "ShowQuestXP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101401,
@@ -66646,6 +66697,16 @@
     "mode": 2
   },
   {
+    "id": 353327,
+    "name": "Tracking Switcher",
+    "key": "tracking-switcher",
+    "dir": [
+      "TrackingSwitcher"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304464,
     "name": "Trackster",
     "key": "trackster",
@@ -70310,6 +70371,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353297,
+    "name": "WoW 1d String Repair Classic",
+    "key": "wow-1d-string-repair-classic",
+    "dir": [
+      "WoW_String_Repair"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 90075,
@@ -74879,6 +74950,16 @@
     "key": "nui-warlock-dashboard-skin",
     "dir": [
       "nUI_Warlock"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 353573,
+    "name": "nakaGold",
+    "key": "nakagold",
+    "dir": [
+      "nakaGold"
     ],
     "source": "curse",
     "mode": 1
