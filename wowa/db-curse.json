@@ -16920,6 +16920,16 @@
     "mode": 1
   },
   {
+    "id": 353611,
+    "name": "DBM Voicepack LazyCrazyJoe",
+    "key": "dbm-voicepack-lazycrazyjoe",
+    "dir": [
+      "DBM-VPLazyCrazyJoe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 269924,
     "name": "DBM Voicepack Mununyu (무뉴뉴) Korean",
     "key": "dbm-voicepack-mununyu",
@@ -20353,6 +20363,16 @@
     "key": "druidhealing",
     "dir": [
       "DruidHealing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 353686,
+    "name": "Druidism",
+    "key": "druidism",
+    "dir": [
+      "Druidism"
     ],
     "source": "curse",
     "mode": 1
@@ -24766,6 +24786,16 @@
     "mode": 2
   },
   {
+    "id": 353674,
+    "name": "FindGUID",
+    "key": "findguid",
+    "dir": [
+      "FindGUID"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 92976,
     "name": "FindIt",
     "key": "findit",
@@ -25312,6 +25342,16 @@
     "key": "flight-masters-classic",
     "dir": [
       "FlightMastersClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 353684,
+    "name": "FlightDanger-Classic",
+    "key": "flightdanger-classic",
+    "dir": [
+      "FlightDanger"
     ],
     "source": "curse",
     "mode": 2
@@ -36664,6 +36704,16 @@
     "mode": 1
   },
   {
+    "id": 353676,
+    "name": "KreicUI",
+    "key": "kreicui",
+    "dir": [
+      "KreicUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 258615,
     "name": "Krosus Assist",
     "key": "krosus-assist",
@@ -44602,6 +44652,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353636,
+    "name": "Movable Bags",
+    "key": "movablebags",
+    "dir": [
+      "MovableBags"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 27784,
@@ -70751,16 +70811,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 296474,
-    "name": "WoWpoPolsku-Bubbles",
-    "key": "wowpopolsku-bubbles",
-    "dir": [
-      "WoWpoPolsku_Bubbles"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 34192,
