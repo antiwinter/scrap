@@ -27237,6 +27237,16 @@
     "mode": 1
   },
   {
+    "id": 353762,
+    "name": "GearQuipper",
+    "key": "gearquipper",
+    "dir": [
+      "GearQuipper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 88611,
     "name": "GearRenter",
     "key": "gearrenter",
@@ -35811,8 +35821,8 @@
     "name": "Karmarang",
     "key": "karmarang",
     "dir": [
-      "ChatThrottleLib",
-      "Karmarang"
+      "Karmarang",
+      "ChatThrottleLib"
     ],
     "source": "curse",
     "mode": 2
@@ -57472,6 +57482,16 @@
     "mode": 1
   },
   {
+    "id": 353766,
+    "name": "Share Items",
+    "key": "share-items",
+    "dir": [
+      "ShareItems"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 273378,
     "name": "Share The Rare (Hunter Helper)",
     "key": "share-the-rare-hunter-helper",
@@ -65803,6 +65823,16 @@
     "mode": 3
   },
   {
+    "id": 353717,
+    "name": "Tofu",
+    "key": "tofu",
+    "dir": [
+      "Tofu"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85760,
     "name": "Toggle All Sound",
     "key": "toggle-all-sound",
@@ -70811,6 +70841,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 296474,
+    "name": "WoWpoPolsku-Bubbles",
+    "key": "wowpopolsku-bubbles",
+    "dir": [
+      "WoWpoPolsku_Bubbles"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 34192,
@@ -75868,6 +75908,16 @@
     "key": "tekticles",
     "dir": [
       "tekticles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 353605,
+    "name": "toggleObjectives",
+    "key": "toggleobjectives",
+    "dir": [
+      "HideObjectives"
     ],
     "source": "curse",
     "mode": 1
