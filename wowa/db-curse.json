@@ -62741,6 +62741,16 @@
     "mode": 1
   },
   {
+    "id": 353823,
+    "name": "Switchboard Classic",
+    "key": "switchboard-classic",
+    "dir": [
+      "Switchboard"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 36615,
     "name": "Swyn's Guild Promoter",
     "key": "swyns-guild-promoter",
