@@ -16534,16 +16534,6 @@
     "mode": 1
   },
   {
-    "id": 318150,
-    "name": "D4KiRs HUD",
-    "key": "d4kirshud",
-    "dir": [
-      "[D4KiR] D4KiRs HUD"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 28576,
     "name": "DArcBinds",
     "key": "darcmarks",
@@ -17178,6 +17168,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 318150,
+    "name": "DHUD",
+    "key": "d4kirshud",
+    "dir": [
+      "D4KiR DHUD"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 15406,
@@ -20526,6 +20526,16 @@
     "mode": 1
   },
   {
+    "id": 354059,
+    "name": "Dungeon Entrances",
+    "key": "dungeon-entrances",
+    "dir": [
+      "DungeonEntrances"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 337027,
     "name": "Dungeon Finder - Classic",
     "key": "dungeon-finder-classic",
@@ -22402,8 +22412,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -25843,6 +25853,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353969,
+    "name": "FrameRangeFade",
+    "key": "framerangefade",
+    "dir": [
+      "FrameRangeFade"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 311935,
@@ -31753,7 +31773,7 @@
     "name": "Healer Protection",
     "key": "d4hp",
     "dir": [
-      "[D4KiR] Healer Protection"
+      "D4KiR Healer Protection"
     ],
     "source": "curse",
     "mode": 3
@@ -40417,6 +40437,16 @@
     "mode": 1
   },
   {
+    "id": 354087,
+    "name": "LootTables Classic",
+    "key": "loottables-classic",
+    "dir": [
+      "LootTables"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22783,
     "name": "LootTrain",
     "key": "loottrain",
@@ -43600,7 +43630,7 @@
     "name": "Missing Power (Five Second Rule + Next Energy Tick)",
     "key": "powermissing",
     "dir": [
-      "[D4KiR] Missing Power"
+      "D4KiR Missing Power"
     ],
     "source": "curse",
     "mode": 3
@@ -48024,6 +48054,16 @@
     "mode": 1
   },
   {
+    "id": 354101,
+    "name": "OverheadCombo",
+    "key": "overheadcombo",
+    "dir": [
+      "OverheadCombo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 79864,
     "name": "Overkill's Automaton",
     "key": "overkills-automaton",
@@ -50174,6 +50214,16 @@
     "mode": 1
   },
   {
+    "id": 353879,
+    "name": "PlusOne RollTracker",
+    "key": "plusone-rolltracker",
+    "dir": [
+      "PlusOneRollTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 282848,
     "name": "Pocket Raid Leader",
     "key": "pocket-raid-leader",
@@ -50419,6 +50469,16 @@
     "key": "project-1702",
     "dir": [
       "PortraitDamage"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 353970,
+    "name": "PortraitDamageText",
+    "key": "portraitdamagetext",
+    "dir": [
+      "PortraitDamageText"
     ],
     "source": "curse",
     "mode": 1
@@ -50945,6 +51005,16 @@
     "key": "plg",
     "dir": [
       "PLG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 353313,
+    "name": "Profession Material Tracker",
+    "key": "profession-material-tracker",
+    "dir": [
+      "ProfessionMaterialTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -53276,6 +53346,16 @@
     "mode": 3
   },
   {
+    "id": 354100,
+    "name": "Raid Trap Audio Library",
+    "key": "raid-trap-audio-library",
+    "dir": [
+      "RaidTrapAudioLibrary"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20921,
     "name": "RaidAchievement",
     "key": "raidachievement",
@@ -55326,6 +55406,16 @@
     "key": "return-buff-tracker",
     "dir": [
       "ReturnBuffTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 354113,
+    "name": "Return Target Icon Bar",
+    "key": "return-target-icon-bar",
+    "dir": [
+      "ReturnTargetIconBar"
     ],
     "source": "curse",
     "mode": 2
@@ -60699,6 +60789,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353778,
+    "name": "SpellBinding Classic",
+    "key": "spellbinding-classic",
+    "dir": [
+      "SpellBinding"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 3917,
