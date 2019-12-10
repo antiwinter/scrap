@@ -20463,7 +20463,7 @@
       "DugisGuideViewerZ"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101766,
@@ -40508,6 +40508,16 @@
     "mode": 1
   },
   {
+    "id": 349656,
+    "name": "Lootr",
+    "key": "lootr",
+    "dir": [
+      "Lootr"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 281960,
     "name": "Lootsturm Light",
     "key": "lootsturm-light",
@@ -48684,7 +48694,7 @@
       "Peggle"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 44808,
@@ -56254,6 +56264,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 18962,
+    "name": "SSPVP",
+    "key": "sspvp3",
+    "dir": [
+      "SSPVP3",
+      "SSPVP"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 283939,
@@ -73618,6 +73639,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 28081,
+    "name": "drashQuestCompleteSound",
+    "key": "drash_questcompletesound",
+    "dir": [
+      "Drash_QuestCompleteSound",
+      "DrashQuestCompleteSound"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 340125,
