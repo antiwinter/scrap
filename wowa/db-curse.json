@@ -5650,7 +5650,7 @@
       "AzeriteUI_Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 298648,
@@ -7086,7 +7086,7 @@
       "BastionEPGP"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 79863,
@@ -8526,7 +8526,7 @@
       "Bing"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 52702,
@@ -13840,6 +13840,16 @@
     "mode": 1
   },
   {
+    "id": 353572,
+    "name": "Classic Profession Filter",
+    "key": "classicprofessionfilter",
+    "dir": [
+      "ClassicProfessionFilter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 338617,
     "name": "Classic Quest Chinese Translator",
     "key": "classic-quest-chinese-translator",
@@ -14140,16 +14150,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 353572,
-    "name": "ClassicProfessionFilter",
-    "key": "classicprofessionfilter",
-    "dir": [
-      "ClassicProfessionFilter"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 347961,
@@ -24723,7 +24723,7 @@
       "FieldGuide"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 96076,
@@ -27522,6 +27522,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 18997,
+    "name": "Get To The Point",
+    "key": "get-to-the-point",
+    "dir": [
+      "GetToThePoint"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 1447,
@@ -56270,7 +56280,6 @@
     "name": "SSPVP",
     "key": "sspvp3",
     "dir": [
-      "SSPVP3",
       "SSPVP"
     ],
     "source": "curse",
@@ -56513,6 +56522,16 @@
     "key": "saved_instances",
     "dir": [
       "SavedInstances"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 301716,
+    "name": "SavedInstancesSync",
+    "key": "savedinstancessync",
+    "dir": [
+      "SavedInstancesSync"
     ],
     "source": "curse",
     "mode": 1
@@ -59388,7 +59407,7 @@
       "Skillet-Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 86676,
@@ -60819,7 +60838,7 @@
       "SpellBinding"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 3917,
@@ -67329,6 +67348,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 353296,
+    "name": "TranqRotate",
+    "key": "tranqrotate",
+    "dir": [
+      "TranqRotate"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 27295,
