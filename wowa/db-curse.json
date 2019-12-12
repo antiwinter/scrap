@@ -8065,15 +8065,15 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
-      "BigWigs_World",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
-      "BigWigs_Nyalotha"
+      "BigWigs_Nyalotha",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
+      "BigWigs_World"
     ],
     "source": "curse",
     "mode": 3
@@ -11127,6 +11127,16 @@
     "mode": 1
   },
   {
+    "id": 354300,
+    "name": "BuffCheck3",
+    "key": "buffcheck3",
+    "dir": [
+      "BuffCheck3"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 347888,
     "name": "BuffCount",
     "key": "buffcount",
@@ -12896,16 +12906,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 71709,
-    "name": "ChatAlphaZero",
-    "key": "chatalphazero",
-    "dir": [
-      "ChatAlphaZero"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 340226,
@@ -20422,12 +20422,12 @@
     "name": "DuelResponse",
     "key": "duelresponse",
     "dir": [
-      "DuelResponse_Blacklist_Classic",
-      "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic",
       "DuelResponse_Blacklist",
       "DuelResponse_Whisper",
-      "DuelResponse"
+      "DuelResponse",
+      "DuelResponse_Blacklist_Classic",
+      "DuelResponse_Classic",
+      "DuelResponse_Whisper_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -23011,7 +23011,7 @@
       "ClassicWorldMapEnhanced"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 278353,
@@ -33164,16 +33164,6 @@
     "mode": 1
   },
   {
-    "id": 352067,
-    "name": "Honor DR Tracker",
-    "key": "honor-dr-tracker",
-    "dir": [
-      "HonorTracker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 2526,
     "name": "Honor Kills Counter",
     "key": "honor-kills-counter",
@@ -33197,6 +33187,16 @@
     "id": 351773,
     "name": "Honor Tracker",
     "key": "honor-tracker",
+    "dir": [
+      "HonorTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 352067,
+    "name": "Honor Tracking Statistics",
+    "key": "honor-dr-tracker",
     "dir": [
       "HonorTracker"
     ],
@@ -35173,6 +35173,16 @@
     "mode": 1
   },
   {
+    "id": 354337,
+    "name": "JPostal",
+    "key": "jpostal",
+    "dir": [
+      "JPostal"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 28018,
     "name": "JSHB 4 - Formerly JS' Hunter Bar",
     "key": "js-hunter-focus-bar",
@@ -35887,6 +35897,16 @@
       "LibDeflate",
       "Ace3",
       "LibBrazier"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 354296,
+    "name": "KaymonsCloset",
+    "key": "kaymonscloset",
+    "dir": [
+      "KaymonsCloset"
     ],
     "source": "curse",
     "mode": 2
@@ -45088,16 +45108,6 @@
     "mode": 1
   },
   {
-    "id": 290830,
-    "name": "Musician",
-    "key": "musician",
-    "dir": [
-      "Musician"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 306254,
     "name": "MusicianList",
     "key": "musicianlist",
@@ -52480,7 +52490,7 @@
       "QuickLeave"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 101610,
@@ -53780,7 +53790,7 @@
       "RaiderIO_DB_US_H_R"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 299023,
@@ -59397,7 +59407,7 @@
       "Skillet"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 339820,
@@ -72486,6 +72496,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354266,
+    "name": "Zods Raid Assign",
+    "key": "zods-raid-assign",
+    "dir": [
+      "ZodsRaidAssign"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 38063,
