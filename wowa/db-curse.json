@@ -5613,6 +5613,16 @@
     "mode": 1
   },
   {
+    "id": 354529,
+    "name": "AzeriteLess",
+    "key": "azeriteless",
+    "dir": [
+      "AzeriteLess"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301898,
     "name": "AzeritePowerWeights",
     "key": "azeritepowerweights",
@@ -7086,7 +7096,7 @@
       "BastionEPGP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 79863,
@@ -7217,6 +7227,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354439,
+    "name": "BattleInfo",
+    "key": "battleinfo",
+    "dir": [
+      "BattleInfo"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 296059,
@@ -11194,7 +11214,7 @@
       "Buffet"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 334677,
@@ -12908,6 +12928,16 @@
     "mode": 1
   },
   {
+    "id": 71709,
+    "name": "ChatAlphaZero",
+    "key": "chatalphazero",
+    "dir": [
+      "ChatAlphaZero"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 340226,
     "name": "ChatBar Classic",
     "key": "chatbar-classic",
@@ -13814,7 +13844,8 @@
     "name": "Classic Heals",
     "key": "classic-heals",
     "dir": [
-      "ClassicHeals"
+      "QoL_ClassicHeals",
+      "QoL_Core"
     ],
     "source": "curse",
     "mode": 2
@@ -14150,6 +14181,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354484,
+    "name": "ClassicPremade",
+    "key": "classicpremade",
+    "dir": [
+      "ClassicPremade"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 347961,
@@ -24906,6 +24947,16 @@
     "mode": 2
   },
   {
+    "id": 354488,
+    "name": "Fishbringer (EN/DE/RU)",
+    "key": "fishbringer-multilanguage",
+    "dir": [
+      "Fishbringer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 13844,
     "name": "FishermansFriend",
     "key": "fishermans-friend",
@@ -35428,6 +35479,16 @@
     "mode": 1
   },
   {
+    "id": 354424,
+    "name": "Join In The Battle",
+    "key": "join-in-the-battle",
+    "dir": [
+      "JoinInTheBattle"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 309815,
     "name": "Join Timer",
     "key": "jointimer",
@@ -35861,8 +35922,8 @@
     "name": "Karmarang",
     "key": "karmarang",
     "dir": [
-      "Karmarang",
-      "ChatThrottleLib"
+      "ChatThrottleLib",
+      "Karmarang"
     ],
     "source": "curse",
     "mode": 2
@@ -38413,6 +38474,16 @@
     "mode": 2
   },
   {
+    "id": 354607,
+    "name": "LibClassicSpellActionCount",
+    "key": "libclassicspellactioncount",
+    "dir": [
+      "LibClassicSpellActionCount-1.0"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 83930,
     "name": "LibColors-1.0",
     "key": "libstringcoloring-1-0",
@@ -39496,6 +39567,16 @@
     "mode": 1
   },
   {
+    "id": 354600,
+    "name": "LibTotemInfo",
+    "key": "libtoteminfo",
+    "dir": [
+      "!LibTotemInfo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 336268,
     "name": "LibTourist Classic 1.0",
     "key": "libtourist-classic",
@@ -39971,7 +40052,9 @@
     "name": "Local Whispers",
     "key": "local-whispers",
     "dir": [
-      "LocalWhispers"
+      "LocalWhispers",
+      "QoL_LocalWhispers",
+      "QoL_Core"
     ],
     "source": "curse",
     "mode": 2
@@ -45108,6 +45191,16 @@
     "mode": 1
   },
   {
+    "id": 290830,
+    "name": "Musician",
+    "key": "musician",
+    "dir": [
+      "Musician"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 306254,
     "name": "MusicianList",
     "key": "musicianlist",
@@ -46070,7 +46163,7 @@
   },
   {
     "id": 345449,
-    "name": "Naxx Chat Alarm LFG LFM Auto Post+Chat Filter ",
+    "name": "Naxx Chat Alarm LFG LFM Post+Chat Filter ",
     "key": "naxxchatalarm",
     "dir": [
       "NaxxChatAlarm"
@@ -51670,9 +51763,9 @@
     "dir": [
       "Quafe_MEKA_Classic",
       "Quafe",
+      "Quafe_Libs_Classic",
       "Quafe_Libs",
-      "Quafe_MEKA",
-      "Quafe_Libs_Classic"
+      "Quafe_MEKA"
     ],
     "source": "curse",
     "mode": 3
@@ -65733,6 +65826,16 @@
     "mode": 1
   },
   {
+    "id": 354443,
+    "name": "Titan Panel [Weekly Conquest]",
+    "key": "titan-panel-weekly-conquest",
+    "dir": [
+      "TitanConquestWeekly"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87625,
     "name": "Titan Panel [Work Orders] (BETA)",
     "key": "titan-panel-work-orders",
@@ -67064,7 +67167,7 @@
       "TradeSkillDW"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14834,
@@ -72096,7 +72199,7 @@
       "xyiremod"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 322942,
