@@ -11097,6 +11097,16 @@
     "mode": 1
   },
   {
+    "id": 354613,
+    "name": "Buff Duty",
+    "key": "buff-duty",
+    "dir": [
+      "BuffDuty"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101032,
     "name": "Buff Off",
     "key": "buffoff",
@@ -22325,7 +22335,7 @@
       "ElvUI_SLE"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88204,
@@ -27582,7 +27592,7 @@
       "GetToThePoint"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 1447,
@@ -38161,7 +38171,7 @@
       "LibActionButton-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 345720,
@@ -40067,7 +40077,7 @@
       "LocalizedGroups"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 93327,
@@ -40228,16 +40238,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 342800,
-    "name": "Looking For Group Classic",
-    "key": "looking-for-group-113",
-    "dir": [
-      "LFG113"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 88851,
@@ -45211,6 +45211,16 @@
     "mode": 3
   },
   {
+    "id": 29869,
+    "name": "Mute Annoying WoW Sounds",
+    "key": "mute-wow-sounds",
+    "dir": [
+      "MuteAnnoyingWoWSounds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 326625,
     "name": "Mute Ban-Lu",
     "key": "mute-ban-lu",
@@ -47286,7 +47296,7 @@
       "NumPadBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 75133,
@@ -52913,7 +52923,7 @@
       "RCLootCouncil_Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100772,
@@ -75126,7 +75136,7 @@
       "myHonor"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 1787,
