@@ -591,6 +591,16 @@
     "mode": 1
   },
   {
+    "id": 354815,
+    "name": "AVQ",
+    "key": "avq",
+    "dir": [
+      "AVQ"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 53302,
     "name": "Aanye Mail",
     "key": "aanye-mail",
@@ -2950,6 +2960,16 @@
     "key": "archimonde-raid-buttons-arb",
     "dir": [
       "ARB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 354259,
+    "name": "Archivist",
+    "key": "archivist",
+    "dir": [
+      "Archivist"
     ],
     "source": "curse",
     "mode": 1
@@ -7317,6 +7337,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354748,
+    "name": "Battleground Taskbar Notifier",
+    "key": "battleground-notifier",
+    "dir": [
+      "BattlegroundNotifier"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 95070,
@@ -17906,6 +17936,16 @@
     "mode": 1
   },
   {
+    "id": 354937,
+    "name": "DarkNameplates",
+    "key": "darknameplates",
+    "dir": [
+      "DarkNameplates"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 283611,
     "name": "DarkSoulsSCT",
     "key": "darksoulssct",
@@ -20572,16 +20612,6 @@
     "key": "dungeon-difficulty",
     "dir": [
       "DungeonDifficulty"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 354059,
-    "name": "Dungeon Entrances",
-    "key": "dungeon-entrances",
-    "dir": [
-      "DungeonEntrances"
     ],
     "source": "curse",
     "mode": 1
@@ -25075,6 +25105,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354767,
+    "name": "Fix Totem Mods",
+    "key": "fix-totem-mods",
+    "dir": [
+      "TotemModFix"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 255791,
@@ -55030,6 +55070,16 @@
     "mode": 1
   },
   {
+    "id": 354781,
+    "name": "ReloadNow",
+    "key": "reloadnow",
+    "dir": [
+      "ReloadNow"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 324465,
     "name": "ReloadUI Button",
     "key": "reloadui-button",
@@ -59550,7 +59600,7 @@
       "Skinner"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 87520,
@@ -62461,16 +62511,6 @@
     "key": "sunrise-sunset",
     "dir": [
       "Sunrise_Sunset"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 319986,
-    "name": "Super Duper Macro",
-    "key": "super-duper-macro",
-    "dir": [
-      "SuperDuperMacro"
     ],
     "source": "curse",
     "mode": 1
@@ -66374,6 +66414,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 320699,
+    "name": "TomCat's Tours: PvP",
+    "key": "tomcats-tours-pvp",
+    "dir": [
+      "TomCats-PvP"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 309091,
@@ -73249,6 +73299,16 @@
     "mode": 1
   },
   {
+    "id": 354848,
+    "name": "autoScaleRaid",
+    "key": "autoscaleraid",
+    "dir": [
+      "autoRaidScale"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 339258,
     "name": "aux",
     "key": "aux",
@@ -76112,6 +76172,16 @@
     "dir": [
       "BagBrother",
       "tdBag2"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 354831,
+    "name": "tdBag2_Facade",
+    "key": "tdbag2_facade",
+    "dir": [
+      "tdBag2_Facade"
     ],
     "source": "curse",
     "mode": 2
