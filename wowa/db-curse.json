@@ -1835,6 +1835,16 @@
     "mode": 1
   },
   {
+    "id": 353141,
+    "name": "Adventure Journal 2",
+    "key": "adventure-journal-2",
+    "dir": [
+      "AdventureJournal2"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304629,
     "name": "AdventureGuideBosses",
     "key": "adventureguidebosses",
@@ -2349,6 +2359,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354628,
+    "name": "AmakHealsTextures",
+    "key": "amakhealstextures",
+    "dir": [
+      "AmakHealsTextures"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 322782,
@@ -5891,6 +5911,16 @@
     "mode": 1
   },
   {
+    "id": 355024,
+    "name": "BG Numbers",
+    "key": "bg-numbers",
+    "dir": [
+      "BGNumbers"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85219,
     "name": "BGCallouts",
     "key": "bgcallouts",
@@ -7367,6 +7397,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354766,
+    "name": "BattlegroundTargets Classic",
+    "key": "battlegroundtargets-classic",
+    "dir": [
+      "BattlegroundTargets"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 266132,
@@ -14842,6 +14882,16 @@
     "mode": 1
   },
   {
+    "id": 355120,
+    "name": "Combat Crit Tracker",
+    "key": "combat-crit-tracker",
+    "dir": [
+      "CombatCritTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 69834,
     "name": "Combat Log Remover",
     "key": "combat-log-remover",
@@ -20617,6 +20667,16 @@
     "mode": 1
   },
   {
+    "id": 354981,
+    "name": "Dungeon Entrances",
+    "key": "dungeon-entrances",
+    "dir": [
+      "DungeonEntrances"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 337027,
     "name": "Dungeon Finder - Classic",
     "key": "dungeon-finder-classic",
@@ -25111,7 +25171,7 @@
     "name": "Fix Totem Mods",
     "key": "fix-totem-mods",
     "dir": [
-      "TotemModFix"
+      "!TotemModFix"
     ],
     "source": "curse",
     "mode": 2
@@ -29490,6 +29550,16 @@
     "mode": 2
   },
   {
+    "id": 351800,
+    "name": "Group / Guild Calendar for Classic",
+    "key": "group-calendar-for-classic",
+    "dir": [
+      "GroupCalendar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 344012,
     "name": "Group Bulletin Board",
     "key": "group-bulletin-board",
@@ -29508,16 +29578,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 351800,
-    "name": "Group Calendar for Classic",
-    "key": "group-calendar-for-classic",
-    "dir": [
-      "GroupCalendar"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 302556,
@@ -31825,13 +31885,16 @@
       "TitanHealBot",
       "HealBot_br",
       "HealBot_cn",
+      "HealBot_Data",
       "HealBot_de",
+      "HealBot_en",
       "HealBot_es",
       "HealBot_fr",
       "HealBot_gr",
       "HealBot_hu",
       "HealBot_it",
       "HealBot_kr",
+      "HealBot_Options",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw"
@@ -32284,7 +32347,7 @@
       "HeroCache"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86131,
@@ -34099,6 +34162,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355022,
+    "name": "Improved Blizzard UI (Classic Edition)",
+    "key": "improved-blizzard-ui-classic-edition",
+    "dir": [
+      "ImprovedBlizzardUI_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 103019,
@@ -42987,7 +43060,7 @@
       "McR_Greet"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 299986,
@@ -52212,6 +52285,26 @@
     "mode": 2
   },
   {
+    "id": 355055,
+    "name": "QuestHerald-Quests-Part-I",
+    "key": "questherald-quests-part-i",
+    "dir": [
+      "QuestHerald-Quests-Part-I"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 355056,
+    "name": "QuestHerald-Quests-Part-II",
+    "key": "questherald-quests-part-ii",
+    "dir": [
+      "QuestHerald-Quests-Part-II"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 303976,
     "name": "QuestInfo",
     "key": "questinfo",
@@ -61425,6 +61518,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355111,
+    "name": "Stackpack (Classic)",
+    "key": "stackpack-classic",
+    "dir": [
+      "Stackpack"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87346,
@@ -72102,6 +72205,16 @@
     "mode": 1
   },
   {
+    "id": 355071,
+    "name": "XckMasterLootAdvanced",
+    "key": "xckmasterlootadvanced",
+    "dir": [
+      "XckMasterLootAdvanced"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 35300,
     "name": "XengaInfo",
     "key": "xengainfo",
@@ -76415,7 +76528,7 @@
       "vUI"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 348688,
