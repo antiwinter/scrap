@@ -7329,6 +7329,16 @@
     "mode": 1
   },
   {
+    "id": 354716,
+    "name": "BattleQueue",
+    "key": "battlequeue",
+    "dir": [
+      "BattleQueue"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 286437,
     "name": "BattleRes",
     "key": "battleres",
@@ -16010,6 +16020,16 @@
     "mode": 1
   },
   {
+    "id": 355243,
+    "name": "CoreHoundLooter",
+    "key": "corehoundlooter",
+    "dir": [
+      "CoreHoundLooter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15869,
     "name": "Cork",
     "key": "cork",
@@ -18383,8 +18403,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18393,7 +18411,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -20796,16 +20816,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 302086,
-    "name": "Dunning UI",
-    "key": "dui",
-    "dir": [
-      "DunningUI"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 101506,
@@ -24864,7 +24874,7 @@
       "FieldGuide"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 96076,
@@ -24980,6 +24990,16 @@
     "id": 341835,
     "name": "FindParty - Fan Update",
     "key": "findparty-fanfix-for-classic-kr-realm-only",
+    "dir": [
+      "FindParty"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 355220,
+    "name": "FindParty Russian",
+    "key": "findparty-russian",
     "dir": [
       "FindParty"
     ],
@@ -25506,16 +25526,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 339124,
-    "name": "Flight Masters Classic",
-    "key": "flight-masters-classic",
-    "dir": [
-      "FlightMastersClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 353684,
@@ -35178,16 +35188,6 @@
     "mode": 1
   },
   {
-    "id": 304302,
-    "name": "ItemDestroyerButton",
-    "key": "itemdestroyerbutton",
-    "dir": [
-      "ItemDestroyerButton"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 45324,
     "name": "ItemGuard",
     "key": "itemguard",
@@ -37182,6 +37182,16 @@
     "mode": 2
   },
   {
+    "id": 355297,
+    "name": "LFG MatchMaker",
+    "key": "lfg-matchmaker",
+    "dir": [
+      "LFG_MatchMaker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 24721,
     "name": "LFG Shout / Trade Shout",
     "key": "lfgshout",
@@ -37378,6 +37388,26 @@
     "key": "lhptoolkit",
     "dir": [
       "LHPToolkit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 355139,
+    "name": "LJDProfession",
+    "key": "ljdprofession",
+    "dir": [
+      "LJDProfession"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 355144,
+    "name": "LJDSpellInterrupt",
+    "key": "ljdspellinterrupt",
+    "dir": [
+      "LJDSpellInterrupt"
     ],
     "source": "curse",
     "mode": 1
@@ -39695,16 +39725,6 @@
     "key": "libtoteminfo",
     "dir": [
       "!LibTotemInfo"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 336268,
-    "name": "LibTourist Classic 1.0",
-    "key": "libtourist-classic",
-    "dir": [
-      "LibTouristClassic-1.0"
     ],
     "source": "curse",
     "mode": 2
@@ -52285,26 +52305,6 @@
     "mode": 2
   },
   {
-    "id": 355055,
-    "name": "QuestHerald-Quests-Part-I",
-    "key": "questherald-quests-part-i",
-    "dir": [
-      "QuestHerald-Quests-Part-I"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 355056,
-    "name": "QuestHerald-Quests-Part-II",
-    "key": "questherald-quests-part-ii",
-    "dir": [
-      "QuestHerald-Quests-Part-II"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 303976,
     "name": "QuestInfo",
     "key": "questinfo",
@@ -60480,6 +60480,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355115,
+    "name": "Songbird: Songflower Timers",
+    "key": "songbird",
+    "dir": [
+      "Songbird"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 344051,
@@ -72185,6 +72195,16 @@
     "mode": 2
   },
   {
+    "id": 355170,
+    "name": "XTranqManager",
+    "key": "xtranqmanager",
+    "dir": [
+      "XTranqManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 303151,
     "name": "XarBar",
     "key": "xarbar",
@@ -72959,6 +72979,26 @@
     "key": "zygor-link",
     "dir": [
       "ZygorLink"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 302086,
+    "name": "[8.2.5]Dunning UI",
+    "key": "dui",
+    "dir": [
+      "DunningUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 304302,
+    "name": "[8.2.5]ItemDestroyerButton",
+    "key": "itemdestroyerbutton",
+    "dir": [
+      "ItemDestroyerButton"
     ],
     "source": "curse",
     "mode": 1
