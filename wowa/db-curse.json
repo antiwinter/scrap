@@ -18403,6 +18403,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18411,9 +18413,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -27404,6 +27404,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 345496,
+    "name": "GearMenu",
+    "key": "gearmenu",
+    "dir": [
+      "GearMenu"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 309332,
@@ -38648,7 +38658,7 @@
   },
   {
     "id": 50001,
-    "name": "LibCombatLogHealth-1.0",
+    "name": "LibCombatLogHealth",
     "key": "libcombatloghealth-1-0",
     "dir": [
       "LibCombatLogHealth-1.0"
@@ -72901,7 +72911,7 @@
       "ZoomerBegone"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 54591,
@@ -74156,6 +74166,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 351820,
+    "name": "fbitemprice",
+    "key": "fbitemprice",
+    "dir": [
+      "fbItemPrice"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 15955,
