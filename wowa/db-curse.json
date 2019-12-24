@@ -24082,6 +24082,16 @@
     "mode": 1
   },
   {
+    "id": 355780,
+    "name": "FADE World Timers",
+    "key": "fade-world-timers",
+    "dir": [
+      "FADEWorldTimers"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 259973,
     "name": "FBGF",
     "key": "fbgf",
@@ -34634,6 +34644,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355561,
+    "name": "InstanceCounter",
+    "key": "instancecounter",
+    "dir": [
+      "InstanceCounter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 303670,
@@ -56556,6 +56576,7 @@
     "name": "SSPVP",
     "key": "sspvp3",
     "dir": [
+      "SSPVP3",
       "SSPVP"
     ],
     "source": "curse",
@@ -73476,7 +73497,7 @@
     "name": "autoScaleRaid",
     "key": "autoscaleraid",
     "dir": [
-      "autoRaidScale"
+      "autoScaleRaid"
     ],
     "source": "curse",
     "mode": 2
