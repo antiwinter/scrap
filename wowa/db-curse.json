@@ -7675,6 +7675,17 @@
     "mode": 1
   },
   {
+    "id": 355717,
+    "name": "Best in Slot (BIS)",
+    "key": "exolink-bis",
+    "dir": [
+      "ExoLink_BIS",
+      "ExoLink"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 310241,
     "name": "BestFoodLite",
     "key": "bestfoodlite",
@@ -17910,6 +17921,16 @@
     "mode": 1
   },
   {
+    "id": 355800,
+    "name": "DamageLord",
+    "key": "damagelord",
+    "dir": [
+      "DamageLord"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 348708,
     "name": "Damnation",
     "key": "damnation",
@@ -20818,6 +20839,26 @@
     "mode": 2
   },
   {
+    "id": 355557,
+    "name": "Dunning Auto Logger",
+    "key": "dunning-auto-logger",
+    "dir": [
+      "Dunning Auto Logger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 302086,
+    "name": "Dunning UI",
+    "key": "dui",
+    "dir": [
+      "DunningUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101506,
     "name": "Durability And ItemLevel",
     "key": "durability-and-itemlevel",
@@ -22152,6 +22193,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355679,
+    "name": "ElvUI Fog of War Classic",
+    "key": "elvui-fog-of-war-classic",
+    "dir": [
+      "ElvUI_FogofWar"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 277856,
@@ -35218,6 +35269,16 @@
     "mode": 1
   },
   {
+    "id": 304302,
+    "name": "ItemDestroyerButton",
+    "key": "itemdestroyerbutton",
+    "dir": [
+      "ItemDestroyerButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 45324,
     "name": "ItemGuard",
     "key": "itemguard",
@@ -35292,6 +35353,16 @@
     "dir": [
       "ItemRackOptions",
       "ItemRack"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 355831,
+    "name": "ItemRackAutoRidingGear",
+    "key": "itemrackautoridinggear",
+    "dir": [
+      "ItemRackAutoRidingGear"
     ],
     "source": "curse",
     "mode": 2
@@ -54573,6 +54644,16 @@
     "mode": 1
   },
   {
+    "id": 355902,
+    "name": "Rawr Classic",
+    "key": "rawr-classic",
+    "dir": [
+      "RawrClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 51506,
     "name": "Razer Gaming Keypad Add-on",
     "key": "razer-orbweaver-add",
@@ -73020,26 +73101,6 @@
     "key": "zygor-link",
     "dir": [
       "ZygorLink"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 302086,
-    "name": "[8.2.5]Dunning UI",
-    "key": "dui",
-    "dir": [
-      "DunningUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 304302,
-    "name": "[8.2.5]ItemDestroyerButton",
-    "key": "itemdestroyerbutton",
-    "dir": [
-      "ItemDestroyerButton"
     ],
     "source": "curse",
     "mode": 1
