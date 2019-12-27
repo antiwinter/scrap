@@ -591,6 +591,16 @@
     "mode": 1
   },
   {
+    "id": 355926,
+    "name": "AV Queue Companion",
+    "key": "av-queue-companion",
+    "dir": [
+      "AVQueueCompanion"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 354815,
     "name": "AVQ",
     "key": "avq",
@@ -6593,7 +6603,7 @@
       "Bagnon_Scrap"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 316133,
@@ -16580,6 +16590,16 @@
     "mode": 1
   },
   {
+    "id": 356016,
+    "name": "CursorMod",
+    "key": "cursormod",
+    "dir": [
+      "CursorMod"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 272840,
     "name": "CursorTrail",
     "key": "cursortrail",
@@ -17484,6 +17504,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355207,
+    "name": "DPS_Tracker",
+    "key": "dps-tracker",
+    "dir": [
+      "DPS_Tracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20187,
@@ -19659,6 +19689,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 355597,
+    "name": "Dice",
+    "key": "dice",
+    "dir": [
+      "Dice"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 18614,
@@ -23838,7 +23878,7 @@
       "ExpMessage"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 16400,
@@ -24318,7 +24358,7 @@
     "mode": 1
   },
   {
-    "id": 303046,
+    "id": 356040,
     "name": "FadeObjectiveTracker",
     "key": "fadeobjectivetracker",
     "dir": [
@@ -27270,7 +27310,7 @@
       "GatherLite"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 26120,
@@ -27360,7 +27400,7 @@
       "GatherSage2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 346151,
@@ -32305,7 +32345,7 @@
   },
   {
     "id": 350985,
-    "name": "Hemlock Poison Helper",
+    "name": "Hemlock (Poison Helper)",
     "key": "hemlock",
     "dir": [
       "Hemlock"
@@ -35443,16 +35483,6 @@
     "key": "jphf",
     "dir": [
       "JPHF"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 354337,
-    "name": "JPostal",
-    "key": "jpostal",
-    "dir": [
-      "JPostal"
     ],
     "source": "curse",
     "mode": 1
@@ -45550,8 +45580,8 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic",
-      "MyBuddies"
+      "MyBuddies",
+      "MyBuddies_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -55808,16 +55838,6 @@
     "mode": 2
   },
   {
-    "id": 354113,
-    "name": "Return Target Icon Bar",
-    "key": "return-target-icon-bar",
-    "dir": [
-      "ReturnTargetIconBar"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 17018,
     "name": "Revelation",
     "key": "revelation",
@@ -57050,11 +57070,11 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
+      "Scorpio",
       "Scorpio.MVC",
       "Scorpio.Secure",
       "Scorpio.UI",
-      "Scorpio.Widget",
-      "Scorpio"
+      "Scorpio.Widget"
     ],
     "source": "curse",
     "mode": 3
@@ -57078,7 +57098,8 @@
       "Scrap_Options",
       "Scrap_Spotlight",
       "Scrap_Merchant",
-      "Scrap"
+      "Scrap",
+      "Scrap_Config"
     ],
     "source": "curse",
     "mode": 3
@@ -57091,7 +57112,7 @@
       "Scrap_Broker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 27192,
@@ -57101,7 +57122,7 @@
       "Scrap_Cleaner"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 292949,
@@ -64602,6 +64623,16 @@
     "key": "threat-plates-classic",
     "dir": [
       "TidyPlates_ThreatPlates"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 355497,
+    "name": "ThreatClassic2",
+    "key": "threatclassic2",
+    "dir": [
+      "ThreatClassic2"
     ],
     "source": "curse",
     "mode": 2
