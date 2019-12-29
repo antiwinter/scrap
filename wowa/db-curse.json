@@ -13962,6 +13962,16 @@
     "mode": 2
   },
   {
+    "id": 356061,
+    "name": "Classic Looking For Group",
+    "key": "classic-looking-for-group",
+    "dir": [
+      "LFG113"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 352405,
     "name": "Classic Loot Assistant",
     "key": "classic-loot-assistant",
@@ -25449,16 +25459,6 @@
     "mode": 1
   },
   {
-    "id": 6079,
-    "name": "Fizzle",
-    "key": "fizzle",
-    "dir": [
-      "Fizzle"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 304709,
     "name": "FlabbyBirb",
     "key": "flabbybirb",
@@ -25627,6 +25627,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 339124,
+    "name": "Flight Masters Classic",
+    "key": "flight-masters-classic",
+    "dir": [
+      "FlightMastersClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 353684,
@@ -33449,6 +33459,16 @@
     "mode": 1
   },
   {
+    "id": 352067,
+    "name": "Honor Grinding Tracker",
+    "key": "honor-dr-tracker",
+    "dir": [
+      "HonorTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2526,
     "name": "Honor Kills Counter",
     "key": "honor-kills-counter",
@@ -33472,16 +33492,6 @@
     "id": 351773,
     "name": "Honor Tracker",
     "key": "honor-tracker",
-    "dir": [
-      "HonorTracker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 352067,
-    "name": "Honor Tracking Statistics",
-    "key": "honor-dr-tracker",
     "dir": [
       "HonorTracker"
     ],
@@ -34546,6 +34556,28 @@
     "mode": 1
   },
   {
+    "id": 355986,
+    "name": "Inked!_Classic",
+    "key": "inked-_classic",
+    "dir": [
+      "Inked",
+      "Inked_!Options"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 355985,
+    "name": "Inked!_Retail",
+    "key": "inked-_retail",
+    "dir": [
+      "Inked",
+      "Inked_!Options"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342567,
     "name": "Innervate Noise",
     "key": "innervatenoise",
@@ -35289,6 +35321,16 @@
     "mode": 1
   },
   {
+    "id": 356073,
+    "name": "ItemAutocomplete",
+    "key": "itemautocomplete",
+    "dir": [
+      "ItemAutocomplete"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 276896,
     "name": "ItemBonus-Display",
     "key": "itembonus-display",
@@ -35483,6 +35525,16 @@
     "key": "jphf",
     "dir": [
       "JPHF"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 354337,
+    "name": "JPostal",
+    "key": "jpostal",
+    "dir": [
+      "JPostal"
     ],
     "source": "curse",
     "mode": 1
@@ -40534,6 +40586,16 @@
     "mode": 1
   },
   {
+    "id": 355324,
+    "name": "LookingForTank",
+    "key": "lookingfortank",
+    "dir": [
+      "LookingForTank"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 270511,
     "name": "Loose Pebble",
     "key": "loose-pebble",
@@ -41208,7 +41270,7 @@
       "LunarSphere"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 302966,
@@ -50391,6 +50453,16 @@
     "mode": 3
   },
   {
+    "id": 356107,
+    "name": "Pixel Perfect Raid Frames",
+    "key": "pixel-perfect-raid-frames",
+    "dir": [
+      "PPRF"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 298171,
     "name": "Pizza Per Second",
     "key": "pizza-per-second",
@@ -52037,9 +52109,9 @@
     "dir": [
       "Quafe_MEKA_Classic",
       "Quafe",
-      "Quafe_Libs_Classic",
       "Quafe_Libs",
-      "Quafe_MEKA"
+      "Quafe_MEKA",
+      "Quafe_Libs_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -61479,6 +61551,17 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 340195,
+    "name": "Spinx Cookie",
+    "key": "spinx-cookie",
+    "dir": [
+      "Buffet",
+      "SpinxCookie"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 24064,
