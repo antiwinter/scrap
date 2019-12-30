@@ -34561,7 +34561,9 @@
     "key": "inked-_classic",
     "dir": [
       "Inked",
-      "Inked_!Options"
+      "Inked_!Options",
+      "Inked_Auras",
+      "Inked_Tooltip"
     ],
     "source": "curse",
     "mode": 2
@@ -34572,7 +34574,10 @@
     "key": "inked-_retail",
     "dir": [
       "Inked",
-      "Inked_!Options"
+      "Inked_!Options",
+      "Inked_Auras",
+      "Inked_Skins",
+      "Inked_Tooltip"
     ],
     "source": "curse",
     "mode": 1
