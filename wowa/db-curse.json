@@ -18464,6 +18464,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18472,9 +18474,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -20062,7 +20062,7 @@
       "DoIt!"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 86294,
@@ -21986,7 +21986,7 @@
       "ElvUI_Armory"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 52063,
@@ -25178,16 +25178,6 @@
     "mode": 2
   },
   {
-    "id": 354488,
-    "name": "Fishbringer (EN/DE/RU)",
-    "key": "fishbringer-multilanguage",
-    "dir": [
-      "Fishbringer"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 13844,
     "name": "FishermansFriend",
     "key": "fishermans-friend",
@@ -27894,7 +27884,7 @@
       "GinkoFont"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 3324,
@@ -34563,6 +34553,7 @@
       "Inked",
       "Inked_!Options",
       "Inked_Auras",
+      "Inked_Chat",
       "Inked_Tooltip"
     ],
     "source": "curse",
@@ -44745,6 +44736,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 356478,
+    "name": "MooseSell",
+    "key": "moosesell",
+    "dir": [
+      "MooseSell"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 344163,
