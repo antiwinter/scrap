@@ -593,7 +593,7 @@
   {
     "id": 355926,
     "name": "AV Queue Companion",
-    "key": "av-queue-companion",
+    "key": "avqueuecompanion",
     "dir": [
       "AVQueueCompanion"
     ],
@@ -34554,7 +34554,8 @@
       "Inked_!Options",
       "Inked_Auras",
       "Inked_Chat",
-      "Inked_Tooltip"
+      "Inked_Tooltip",
+      "Inked_Maps"
     ],
     "source": "curse",
     "mode": 2
@@ -34567,6 +34568,7 @@
       "Inked",
       "Inked_!Options",
       "Inked_Auras",
+      "Inked_Maps",
       "Inked_Skins",
       "Inked_Tooltip"
     ],
@@ -55102,6 +55104,16 @@
     "mode": 1
   },
   {
+    "id": 356629,
+    "name": "Rebuff",
+    "key": "rebuff",
+    "dir": [
+      "Rebuff"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3624,
     "name": "Recap",
     "key": "recap-hawksy",
@@ -56755,11 +56767,10 @@
     "name": "SSPVP",
     "key": "sspvp3",
     "dir": [
-      "SSPVP3",
       "SSPVP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 283939,
@@ -63872,6 +63883,16 @@
     "mode": 1
   },
   {
+    "id": 356625,
+    "name": "Tank-O-Meter",
+    "key": "tank-o-meter",
+    "dir": [
+      "Tank-O-Meter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 88763,
     "name": "TankAssist",
     "key": "tankassist",
@@ -68602,6 +68623,16 @@
     "id": 5801,
     "name": "UberInventory",
     "key": "uber-inventory",
+    "dir": [
+      "UberInventory"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 356042,
+    "name": "UberInventory Reborn",
+    "key": "uberinventory-reborn",
     "dir": [
       "UberInventory"
     ],
