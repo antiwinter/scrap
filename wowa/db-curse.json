@@ -25449,6 +25449,16 @@
     "mode": 1
   },
   {
+    "id": 6079,
+    "name": "Fizzle",
+    "key": "fizzle",
+    "dir": [
+      "Fizzle"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 304709,
     "name": "FlabbyBirb",
     "key": "flabbybirb",
@@ -34552,10 +34562,12 @@
     "dir": [
       "Inked",
       "Inked_!Options",
+      "Inked_ActionBars",
       "Inked_Auras",
       "Inked_Chat",
-      "Inked_Tooltip",
-      "Inked_Maps"
+      "Inked_Maps",
+      "Inked_NamePlates",
+      "Inked_Tooltip"
     ],
     "source": "curse",
     "mode": 2
@@ -34567,10 +34579,13 @@
     "dir": [
       "Inked",
       "Inked_!Options",
+      "Inked_ActionBars",
       "Inked_Auras",
       "Inked_Maps",
+      "Inked_NamePlates",
       "Inked_Skins",
-      "Inked_Tooltip"
+      "Inked_Tooltip",
+      "Inked_UnitFrames"
     ],
     "source": "curse",
     "mode": 1
@@ -35523,16 +35538,6 @@
     "key": "jphf",
     "dir": [
       "JPHF"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 354337,
-    "name": "JPostal",
-    "key": "jpostal",
-    "dir": [
-      "JPostal"
     ],
     "source": "curse",
     "mode": 1
