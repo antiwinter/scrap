@@ -11873,6 +11873,16 @@
     "mode": 1
   },
   {
+    "id": 356974,
+    "name": "CaffDKP",
+    "key": "caffdkp",
+    "dir": [
+      "CaffDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 82663,
     "name": "CalEventNotifier",
     "key": "caleventnotifier",
@@ -15904,6 +15914,16 @@
     "key": "cooldamagefont",
     "dir": [
       "CoolDamageFont"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 356973,
+    "name": "CoolLine (classic updated)",
+    "key": "coolline-classic-updated",
+    "dir": [
+      "CoolLine"
     ],
     "source": "curse",
     "mode": 1
@@ -22125,6 +22145,16 @@
     "mode": 1
   },
   {
+    "id": 356978,
+    "name": "ElvUI CoolLine Wrapper",
+    "key": "elvui-coolline-wrapper",
+    "dir": [
+      "ElvUI_CoolLine_Wrapper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 99116,
     "name": "ElvUI Currencies Datatext",
     "key": "elvui-currencies-datatext",
@@ -26764,6 +26794,16 @@
     "key": "gdkpd",
     "dir": [
       "GDKPd"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 356857,
+    "name": "GFDI - Death Sound",
+    "key": "gfdi-death-sound",
+    "dir": [
+      "GFDI"
     ],
     "source": "curse",
     "mode": 1
@@ -40569,6 +40609,33 @@
     "mode": 1
   },
   {
+    "id": 356767,
+    "name": "LookingForGroup (LFG)",
+    "key": "lookingforgroup-lfg",
+    "dir": [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Bindings",
+      "LookingForGroup_Broker",
+      "LookingForGroup_CR",
+      "LookingForGroup_CRE",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Icon",
+      "LookingForGroup_LFDLFR",
+      "LookingForGroup_M+",
+      "LookingForGroup_Options",
+      "LookingForGroup_PVP",
+      "LookingForGroup_Q",
+      "LookingForGroup_QJ",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "LookingForGroup_Solo",
+      "LookingForGroup"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 300383,
     "name": "LookingForQuest",
     "key": "lookingforquest",
@@ -41361,6 +41428,16 @@
     "key": "mdguildbest",
     "dir": [
       "MDGuildBest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 356775,
+    "name": "MDT Guide",
+    "key": "mdt-guide",
+    "dir": [
+      "MDTGuide"
     ],
     "source": "curse",
     "mode": 1
@@ -44745,6 +44822,17 @@
     "mode": 1
   },
   {
+    "id": 356948,
+    "name": "MoosePortal",
+    "key": "mooseportal",
+    "dir": [
+      "MoosePortalAdvanced",
+      "MoosePortal"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 356478,
     "name": "MooseSell",
     "key": "moosesell",
@@ -47426,6 +47514,16 @@
     "mode": 1
   },
   {
+    "id": 356711,
+    "name": "Not Toxic",
+    "key": "not-toxic",
+    "dir": [
+      "Not Toxic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 299720,
     "name": "NotMyFault",
     "key": "notmyfault",
@@ -48451,6 +48549,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 356701,
+    "name": "Outfitter - Classic",
+    "key": "outfitter-classic",
+    "dir": [
+      "Outfitter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 7749,
@@ -61579,11 +61687,10 @@
     "name": "Spinx Cookie",
     "key": "spinx-cookie",
     "dir": [
-      "Buffet",
       "SpinxCookie"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24064,
