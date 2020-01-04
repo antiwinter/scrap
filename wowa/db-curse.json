@@ -15926,7 +15926,7 @@
       "CoolLine"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20148,
@@ -22152,7 +22152,7 @@
       "ElvUI_CoolLine_Wrapper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 99116,
@@ -23683,6 +23683,16 @@
     "key": "esprit-primordial",
     "dir": [
       "EspritPrimordial"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 356969,
+    "name": "Essence Button",
+    "key": "essence-button",
+    "dir": [
+      "EssenceButton"
     ],
     "source": "curse",
     "mode": 1
@@ -45780,6 +45790,16 @@
     "mode": 1
   },
   {
+    "id": 346262,
+    "name": "My Journal",
+    "key": "myjournal",
+    "dir": [
+      "MyLootList"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 31081,
     "name": "My Little Companion",
     "key": "my-little-companion",
@@ -45885,16 +45905,6 @@
     "key": "mylilpony",
     "dir": [
       "MyLilPony"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 346262,
-    "name": "MyLootList",
-    "key": "mylootlist",
-    "dir": [
-      "MyLootList"
     ],
     "source": "curse",
     "mode": 1
@@ -54217,6 +54227,16 @@
     "mode": 1
   },
   {
+    "id": 357001,
+    "name": "RaidRestore",
+    "key": "raidrestore",
+    "dir": [
+      "RaidRestore"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 90077,
     "name": "RaidSequence",
     "key": "raidsequence",
@@ -55218,7 +55238,7 @@
   },
   {
     "id": 356629,
-    "name": "Rebuff",
+    "name": "Rebuff Broadcast",
     "key": "rebuff",
     "dir": [
       "Rebuff"
@@ -60242,6 +60262,16 @@
     "mode": 2
   },
   {
+    "id": 356970,
+    "name": "Small Friendly Nameplates",
+    "key": "small-friendly-nameplates",
+    "dir": [
+      "SmallFriendlyNameplates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29547,
     "name": "Smart Critter Killer",
     "key": "smart-critter-killer",
@@ -64003,6 +64033,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 356845,
+    "name": "TankAddon",
+    "key": "tankaddon",
+    "dir": [
+      "TankAddon"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 88763,
@@ -67881,6 +67921,16 @@
     "mode": 1
   },
   {
+    "id": 357038,
+    "name": "TradeSkillSearch",
+    "key": "tradeskillsearch",
+    "dir": [
+      "TradeSkillSearch"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 52032,
     "name": "TradeSkillTracker",
     "key": "tradeskilltracker",
@@ -68729,7 +68779,7 @@
       "Uber UI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 5801,
@@ -68798,6 +68848,16 @@
     "key": "umberrunes",
     "dir": [
       "UmberRunes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 357087,
+    "name": "UnclaimedChests",
+    "key": "unclaimedchests",
+    "dir": [
+      "UnclaimedChest"
     ],
     "source": "curse",
     "mode": 1
@@ -70714,8 +70774,8 @@
     "name": "Where To Gather",
     "key": "where-to-gather",
     "dir": [
-      "WhereToGather",
-      "WhereToGatherClassic"
+      "WhereToGatherClassic",
+      "WhereToGather"
     ],
     "source": "curse",
     "mode": 3
