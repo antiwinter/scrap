@@ -34612,7 +34612,6 @@
     "dir": [
       "Inked",
       "Inked_!Options",
-      "Inked_ActionBars",
       "Inked_Auras",
       "Inked_Chat",
       "Inked_Maps",
@@ -34629,7 +34628,6 @@
     "dir": [
       "Inked",
       "Inked_!Options",
-      "Inked_ActionBars",
       "Inked_Auras",
       "Inked_Maps",
       "Inked_NamePlates",
@@ -40621,7 +40619,7 @@
   {
     "id": 356767,
     "name": "LookingForGroup (LFG)",
-    "key": "lookingforgroup-lfg",
+    "key": "lookingforgroup",
     "dir": [
       "LookingForGroup_Auto",
       "LookingForGroup_Bindings",
@@ -52241,8 +52239,7 @@
       "Quafe_MEKA_Classic",
       "Quafe",
       "Quafe_Libs",
-      "Quafe_MEKA",
-      "Quafe_Libs_Classic"
+      "Quafe_MEKA"
     ],
     "source": "curse",
     "mode": 3
@@ -70774,8 +70771,8 @@
     "name": "Where To Gather",
     "key": "where-to-gather",
     "dir": [
-      "WhereToGatherClassic",
-      "WhereToGather"
+      "WhereToGather",
+      "WhereToGatherClassic"
     ],
     "source": "curse",
     "mode": 3
