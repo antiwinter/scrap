@@ -3876,6 +3876,16 @@
     "mode": 1
   },
   {
+    "id": 357237,
+    "name": "Atlas Battle for Azeroth",
+    "key": "atlas-battle-for-azeroth",
+    "dir": [
+      "Atlas_BattleforAzeroth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 32829,
     "name": "Atlas Battlegrounds",
     "key": "atlas-battlegrounds",
@@ -39964,6 +39974,16 @@
     "mode": 2
   },
   {
+    "id": 336268,
+    "name": "LibTourist Classic",
+    "key": "libtourist-classic",
+    "dir": [
+      "LibTouristClassic-1.0"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 14330,
     "name": "LibTourist-3.0",
     "key": "libtourist-3-0",
@@ -47452,6 +47472,16 @@
     "mode": 1
   },
   {
+    "id": 357444,
+    "name": "Noiseless",
+    "key": "noiseless",
+    "dir": [
+      "Noiseless"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 65954,
     "name": "NomGuildRepair",
     "key": "nomguildrepair",
@@ -48761,6 +48791,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 356943,
+    "name": "PM WishList",
+    "key": "pm-wishlist",
+    "dir": [
+      "PMWishList"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 263607,
@@ -52238,7 +52278,6 @@
     "dir": [
       "Quafe_MEKA_Classic",
       "Quafe",
-      "Quafe_Libs",
       "Quafe_MEKA"
     ],
     "source": "curse",
@@ -52765,6 +52804,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 356411,
+    "name": "QuestSync",
+    "key": "questsync",
+    "dir": [
+      "QuestSync"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 296929,
@@ -58927,16 +58976,6 @@
     "mode": 1
   },
   {
-    "id": 325971,
-    "name": "Silent Bodyguard",
-    "key": "silentbodyguard",
-    "dir": [
-      "SilentBodyguard"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 85962,
     "name": "Silent Running",
     "key": "silent-running",
@@ -59795,7 +59834,7 @@
       "Simulationcraft"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 273060,
@@ -70148,6 +70187,16 @@
     "mode": 1
   },
   {
+    "id": 357399,
+    "name": "WarCard",
+    "key": "warcard",
+    "dir": [
+      "WarCard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 283406,
     "name": "WarGameHelper",
     "key": "wargamehelper",
@@ -72674,7 +72723,7 @@
       "XckMasterLootAdvanced"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 35300,
