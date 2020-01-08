@@ -2318,7 +2318,7 @@
       "Alts"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 310188,
@@ -2378,7 +2378,7 @@
       "AmakHealsTextures"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 322782,
@@ -7836,6 +7836,16 @@
     "mode": 2
   },
   {
+    "id": 357619,
+    "name": "Better Raid Buffs",
+    "key": "better-raid-buffs",
+    "dir": [
+      "BetterRaidBuffs"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101819,
     "name": "Better Scoreboard",
     "key": "better-scoreboard",
@@ -9705,6 +9715,16 @@
     "mode": 1
   },
   {
+    "id": 357353,
+    "name": "Bossneeder",
+    "key": "bossneeder",
+    "dir": [
+      "bossneeder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15422,
     "name": "BottleCap",
     "key": "bottle-cap",
@@ -11236,6 +11256,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357708,
+    "name": "Buff Owner",
+    "key": "buff-owner",
+    "dir": [
+      "BuffOwner"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 349856,
@@ -12773,7 +12803,7 @@
       "CharacterNotes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 43974,
@@ -14289,6 +14319,16 @@
     "key": "classichonortracker",
     "dir": [
       "HonorTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 357521,
+    "name": "ClassicHunterPetInfo",
+    "key": "classichunterpetinfo",
+    "dir": [
+      "ClassicHunterPetInfo"
     ],
     "source": "curse",
     "mode": 2
@@ -16079,16 +16119,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 355243,
-    "name": "CoreHoundLooter",
-    "key": "corehoundlooter",
-    "dir": [
-      "CoreHoundLooter"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 15869,
@@ -25627,6 +25657,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357579,
+    "name": "FlavorFactions",
+    "key": "flavorfactions",
+    "dir": [
+      "FlavorFactions"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 319425,
@@ -57183,6 +57223,16 @@
     "mode": 2
   },
   {
+    "id": 357612,
+    "name": "Saved!",
+    "key": "saved",
+    "dir": [
+      "SavedClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 13998,
     "name": "SavedInstances",
     "key": "saved_instances",
@@ -59834,7 +59884,7 @@
       "Simulationcraft"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 273060,
@@ -72348,6 +72398,16 @@
     "mode": 1
   },
   {
+    "id": 355170,
+    "name": "X Tranq Manager",
+    "key": "xtranqmanager",
+    "dir": [
+      "XTranqManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102943,
     "name": "X and Y",
     "key": "x-and-y",
@@ -72686,16 +72746,6 @@
     "mode": 2
   },
   {
-    "id": 355170,
-    "name": "XTranqManager",
-    "key": "xtranqmanager",
-    "dir": [
-      "XTranqManager"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 303151,
     "name": "XarBar",
     "key": "xarbar",
@@ -72717,13 +72767,23 @@
   },
   {
     "id": 355071,
-    "name": "XckMasterLootAdvanced",
+    "name": "Xck MasterLoot Advanced",
     "key": "xckmasterlootadvanced",
     "dir": [
       "XckMasterLootAdvanced"
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 357515,
+    "name": "Xck Raid Sub Manager",
+    "key": "xckraidsubmanager",
+    "dir": [
+      "XckRaidSubManager"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 35300,
@@ -76804,7 +76864,6 @@
     "name": "tdBag2",
     "key": "tdbag2",
     "dir": [
-      "BagBrother",
       "tdBag2"
     ],
     "source": "curse",
@@ -77600,5 +77659,15 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 357503,
+    "name": "🖖️WOEZ Calendar Invit",
+    "key": "wo-ez-calendar-guild-invits",
+    "dir": [
+      "WO_ezcalinvit"
+    ],
+    "source": "curse",
+    "mode": 1
   }
 ]
