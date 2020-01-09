@@ -29032,16 +29032,6 @@
     "mode": 3
   },
   {
-    "id": 349264,
-    "name": "Greybeards Casino",
-    "key": "greybeards-casino",
-    "dir": [
-      "GreybeardsCasino"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 7000,
     "name": "Grid",
     "key": "grid",
@@ -56447,6 +56437,17 @@
     "mode": 1
   },
   {
+    "id": 349264,
+    "name": "Roll Casino",
+    "key": "greybeards-casino",
+    "dir": [
+      "GreybeardsCasino",
+      "RollCasino"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 21947,
     "name": "Roll For Blame",
     "key": "rollforblame",
@@ -58484,6 +58485,16 @@
     "key": "sharedmediagoblintalk",
     "dir": [
       "GoblinTalk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 357782,
+    "name": "SharedMedia_AlexaPlayCreed",
+    "key": "sharedmedia-alexa-play-creed",
+    "dir": [
+      "SharedMedia_AlexaPlayCreed"
     ],
     "source": "curse",
     "mode": 1
@@ -65848,6 +65859,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357722,
+    "name": "Titan Panel [CraftCooldown]",
+    "key": "titan-panel-tradecooldown-fanupdate",
+    "dir": [
+      "TitanCraftCooldown"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 94508,
