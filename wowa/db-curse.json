@@ -16892,6 +16892,16 @@
     "mode": 1
   },
   {
+    "id": 357169,
+    "name": "DBM Anti Disable",
+    "key": "dbm-anti-disable",
+    "dir": [
+      "DBM-AntiDisable"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 97618,
     "name": "DBM Battlestandards",
     "key": "battleground-banners",
@@ -31626,6 +31636,17 @@
     "mode": 1
   },
   {
+    "id": 357905,
+    "name": "HandyNotes: Visions of N'zoth by TomCat's tours",
+    "key": "tomcats-tours-visions-of-nzoth",
+    "dir": [
+      "TomCats-NzothUldum",
+      "TomCats-NzothVale"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 302439,
     "name": "HandyNotes: Warfront Treasure",
     "key": "handynotes-warfront-treasure",
@@ -32976,6 +32997,16 @@
     "key": "hide-the-flash",
     "dir": [
       "Hide the Flash!"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 357892,
+    "name": "HideBackground",
+    "key": "hidebackground",
+    "dir": [
+      "HideBackground"
     ],
     "source": "curse",
     "mode": 1
@@ -64884,6 +64915,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357940,
+    "name": "TheoryCraftClassic",
+    "key": "theorycraftclassic",
+    "dir": [
+      "TheoryCraftClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 21974,
