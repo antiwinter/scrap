@@ -20949,16 +20949,6 @@
     "mode": 1
   },
   {
-    "id": 334609,
-    "name": "Dungeoneer Tracker",
-    "key": "dungeoneer-tracker",
-    "dir": [
-      "DungeoneerTracker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 355557,
     "name": "Dunning Auto Logger",
     "key": "dunning-auto-logger",
@@ -31640,8 +31630,7 @@
     "name": "HandyNotes: Visions of N'zoth by TomCat's tours",
     "key": "tomcats-tours-visions-of-nzoth",
     "dir": [
-      "TomCats-NzothUldum",
-      "TomCats-NzothVale"
+      "TomCats-Nzoth"
     ],
     "source": "curse",
     "mode": 1
@@ -35550,6 +35539,16 @@
     "mode": 1
   },
   {
+    "id": 357857,
+    "name": "ItemQuests",
+    "key": "itemquests",
+    "dir": [
+      "ItemQuests"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 1186,
     "name": "ItemRack",
     "key": "itemrack",
@@ -36569,6 +36568,16 @@
     "key": "keyed",
     "dir": [
       "Keyed"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 357952,
+    "name": "Keyrunner",
+    "key": "keyrunner",
+    "dir": [
+      "KeyRunner"
     ],
     "source": "curse",
     "mode": 1
@@ -48803,6 +48812,16 @@
     "mode": 1
   },
   {
+    "id": 357955,
+    "name": "PADKP Tool Tip",
+    "key": "padkp-tool-tip",
+    "dir": [
+      "PADKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89737,
     "name": "PBT_TeamInfo",
     "key": "pbt_teaminfo",
@@ -53825,16 +53844,6 @@
     "dir": [
       "IskarAssist",
       "RaidAssist"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 297234,
-    "name": "Raid Attendance Tracker - (RAT)",
-    "key": "raid-attendance-tracker-rat",
-    "dir": [
-      "RaidAttendanceTracker"
     ],
     "source": "curse",
     "mode": 1
