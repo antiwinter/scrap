@@ -19061,31 +19061,11 @@
     "mode": 1
   },
   {
-    "id": 284467,
-    "name": "Def's Addon Control",
-    "key": "defs-addon-control",
-    "dir": [
-      "Def's Addon Control"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 90919,
     "name": "Def's Camera Zoom",
     "key": "defs-camera-zoom",
     "dir": [
       "Def's Camera Zoom"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 90983,
-    "name": "Def's Class Colored Chat",
-    "key": "defs-class-colored-chat",
-    "dir": [
-      "Def's Class Colored Chat"
     ],
     "source": "curse",
     "mode": 1
@@ -20112,7 +20092,7 @@
       "Divisor"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 298344,
@@ -31627,7 +31607,7 @@
   },
   {
     "id": 357905,
-    "name": "HandyNotes: Visions of N'zoth by TomCat's tours",
+    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's tours",
     "key": "tomcats-tours-visions-of-nzoth",
     "dir": [
       "TomCats-Nzoth"
@@ -41042,16 +41022,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 354087,
-    "name": "LootTables Classic",
-    "key": "loottables-classic",
-    "dir": [
-      "LootTables"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 22783,
@@ -53877,6 +53847,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357020,
+    "name": "Raid Buff Tracker",
+    "key": "raid-buff-tracker",
+    "dir": [
+      "RaidBuffTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87801,
