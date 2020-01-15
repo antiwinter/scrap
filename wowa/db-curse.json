@@ -4858,6 +4858,26 @@
     "mode": 1
   },
   {
+    "id": 358047,
+    "name": "AutoCancelForms",
+    "key": "autocancelforms",
+    "dir": [
+      "AutoCancelForms"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 358528,
+    "name": "AutoCancelGhostWolf",
+    "key": "autocancelghostwolf",
+    "dir": [
+      "AutoCancelGhostWolf"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 260030,
     "name": "AutoClickThrough",
     "key": "autoclickthrough",
@@ -4906,6 +4926,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358434,
+    "name": "AutoDeleteItems",
+    "key": "autodeleteitems",
+    "dir": [
+      "AutoDeleteItems"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 302738,
@@ -5196,6 +5226,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358433,
+    "name": "AutoOpen",
+    "key": "autoopen",
+    "dir": [
+      "AutoOpen"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 262816,
@@ -7369,6 +7409,16 @@
     "mode": 1
   },
   {
+    "id": 358351,
+    "name": "BattleScoreNameHighlight",
+    "key": "battlescorenamehighlight",
+    "dir": [
+      "BattleScoreNameHighlight"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22343,
     "name": "Battleground Bang",
     "key": "battleground-bang",
@@ -8206,15 +8256,15 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
+      "BigWigs_World",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
-      "BigWigs_Nyalotha",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
-      "BigWigs_World"
+      "BigWigs_Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -9002,6 +9052,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357629,
+    "name": "Blizzard Raid Frames Fix",
+    "key": "blizzardraidframesfix",
+    "dir": [
+      "!BlizzardRaidFramesFix"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 59610,
@@ -14082,6 +14142,16 @@
     "mode": 1
   },
   {
+    "id": 358382,
+    "name": "Classic Raid Assist",
+    "key": "classic-raid-assist",
+    "dir": [
+      "ClassicRaidAssist"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 344365,
     "name": "Classic Raid Tracker",
     "key": "classic-raid-tracker",
@@ -14180,6 +14250,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 358421,
+    "name": "ClassicAggroHighlight",
+    "key": "classicaggrohighlight",
+    "dir": [
+      "ClassicAggroHighlight"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 323806,
@@ -18534,8 +18614,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18544,7 +18622,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -18601,7 +18681,7 @@
   },
   {
     "id": 61621,
-    "name": "Deadly Boss Mods (DBM) - Challenges",
+    "name": "Deadly Boss Mods (DBM) - Challenges (Visions)",
     "key": "dbm-challenges",
     "dir": [
       "DBM-Challenges"
@@ -18735,7 +18815,7 @@
       "DBM-SpellTimers"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 84414,
@@ -19126,16 +19206,6 @@
     "key": "defs-sapped",
     "dir": [
       "Def's Sapped"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 100101,
-    "name": "Def's Target Threat Percentage",
-    "key": "defs-target-threat-percentage",
-    "dir": [
-      "Def's Target Threat Percentage"
     ],
     "source": "curse",
     "mode": 1
@@ -21703,7 +21773,7 @@
       "EasyReport"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 305443,
@@ -23100,6 +23170,16 @@
     "key": "emotive",
     "dir": [
       "Emotive"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358165,
+    "name": "EnableTargetSwitchSound",
+    "key": "enabletargetswitchsound",
+    "dir": [
+      "EnableTargetSwitchSound"
     ],
     "source": "curse",
     "mode": 1
@@ -31366,6 +31446,16 @@
     "mode": 1
   },
   {
+    "id": 358246,
+    "name": "HandyNotes: Ahn'Qiraj Scarab Coffers (AQ20/40)",
+    "key": "handynotes-ahnqiraj-scarab-coffers-aq20-40",
+    "dir": [
+      "HandyNotes_ScarabCoffers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297435,
     "name": "HandyNotes: Battle for Azeroth Treasures",
     "key": "handynotes-battle-for-azeroth-treasures",
@@ -31606,8 +31696,18 @@
     "mode": 1
   },
   {
+    "id": 358359,
+    "name": "HandyNotes: Visions of N'Zoth",
+    "key": "handynotes-visions-of-nzoth",
+    "dir": [
+      "HandyNotes_VisionsOfNZoth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357905,
-    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's tours",
+    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's Tours (Uldum and Vale of Eternal Blossoms)",
     "key": "tomcats-tours-visions-of-nzoth",
     "dir": [
       "TomCats-Nzoth"
@@ -33750,6 +33850,16 @@
     "mode": 1
   },
   {
+    "id": 358123,
+    "name": "Hunter Pet XP",
+    "key": "hunter-pet-xp",
+    "dir": [
+      "HunterPetXP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 86158,
     "name": "Hunter Pets",
     "key": "hunter-pets",
@@ -34335,6 +34445,16 @@
     "mode": 3
   },
   {
+    "id": 358250,
+    "name": "Immersive Character Needs",
+    "key": "immersive-character-needs",
+    "dir": [
+      "ImmersiveCharacterNeeds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 302630,
     "name": "Immersive Warfront Map",
     "key": "immersive-warfront-map",
@@ -34433,6 +34553,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358454,
+    "name": "Improved Raid Frame Status Text",
+    "key": "improvedraidframestatustext",
+    "dir": [
+      "ImprovedRaidFrameStatusText"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 30136,
@@ -34689,6 +34819,16 @@
     "mode": 2
   },
   {
+    "id": 356606,
+    "name": "Innkeep",
+    "key": "innkeep",
+    "dir": [
+      "Innkeep"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 308923,
     "name": "InsaneSets",
     "key": "insanesets",
@@ -34915,6 +35055,16 @@
     "key": "instant-message-closer",
     "dir": [
       "IM_Closer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358447,
+    "name": "Instant Sell, Repair, & Autoloot",
+    "key": "instant-sell-repair-autoloot",
+    "dir": [
+      "NakedSellandRepair"
     ],
     "source": "curse",
     "mode": 1
@@ -36061,7 +36211,7 @@
       "Junk_Filter"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 77884,
@@ -39069,7 +39219,7 @@
       "LibDogTag-3.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14281,
@@ -39099,7 +39249,7 @@
       "LibDogTag-Unit-3.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 298617,
@@ -41689,7 +41839,7 @@
       "MacroMaker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 345333,
@@ -43654,6 +43804,16 @@
     "mode": 3
   },
   {
+    "id": 358350,
+    "name": "MessageQueue",
+    "key": "messagequeue",
+    "dir": [
+      "MessageQueue"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 97244,
     "name": "MessageToaster",
     "key": "messagetoaster",
@@ -44231,6 +44391,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 358106,
+    "name": "Missing Raid Buffs",
+    "key": "missing-raid-buffs",
+    "dir": [
+      "MissingRaidBuffs"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 340839,
@@ -53189,6 +53359,16 @@
     "mode": 1
   },
   {
+    "id": 358430,
+    "name": "QuickLooter",
+    "key": "quicklooter",
+    "dir": [
+      "QuickLooter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2414,
     "name": "QuickMark",
     "key": "quick-mark",
@@ -53819,6 +53999,16 @@
     "mode": 1
   },
   {
+    "id": 297234,
+    "name": "Raid Attendance Tracker - (RAT)",
+    "key": "raid-attendance-tracker-rat",
+    "dir": [
+      "RaidAttendanceTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 79901,
     "name": "Raid Browser Mass Invite - Outdated",
     "key": "raid-browser-mass-invite",
@@ -54444,7 +54634,7 @@
   },
   {
     "id": 316956,
-    "name": "Raider.IO - Total RP 3 Tooltips",
+    "name": "Raider.IO Info in Total RP 3 Tooltips",
     "key": "raider-io-total-rp-3-tooltips",
     "dir": [
       "tRP3_RDotIO"
@@ -55223,6 +55413,16 @@
     "mode": 2
   },
   {
+    "id": 358278,
+    "name": "RealDamage",
+    "key": "realdamage",
+    "dir": [
+      "RealDamage"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 24443,
     "name": "RealID Toons",
     "key": "realid-toons",
@@ -55812,6 +56012,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 87511,
+    "name": "RemoveGriffons",
+    "key": "removegriffons",
+    "dir": [
+      "RemoveGriffons"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 49719,
@@ -60499,7 +60709,7 @@
       "SmartError"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88074,
@@ -68916,7 +69126,7 @@
       "Uber UI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 5801,
@@ -69700,12 +69910,22 @@
     "mode": 1
   },
   {
+    "id": 358502,
+    "name": "VikingSpy",
+    "key": "vikingspy",
+    "dir": [
+      "VikingSpy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 83550,
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "Viks_ConfigUI",
-      "ViksUI"
+      "ViksUI",
+      "Viks_ConfigUI"
     ],
     "source": "curse",
     "mode": 1
@@ -71138,7 +71358,7 @@
       "WhoTaunted"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 273612,
@@ -71401,6 +71621,16 @@
     "mode": 1
   },
   {
+    "id": 358053,
+    "name": "WindfuryComm",
+    "key": "windfurycomm",
+    "dir": [
+      "WindfuryComm"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102784,
     "name": "Wings",
     "key": "wings",
@@ -71548,7 +71778,7 @@
       "WowDings"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 96949,
@@ -77580,6 +77810,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 358584,
+    "name": "zrMinimap",
+    "key": "zrminimap",
+    "dir": [
+      "zrMM"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86475,
