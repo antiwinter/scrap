@@ -1553,6 +1553,16 @@
     "mode": 1
   },
   {
+    "id": 358635,
+    "name": "AdiBags Azerite Essence items",
+    "key": "adibags-azerite-essence-items",
+    "dir": [
+      "AdiBags_Azerite_Essence_items"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89177,
     "name": "AdiBags BoE & BoA",
     "key": "adibags-boe-boa",
@@ -16805,6 +16815,16 @@
     "mode": 1
   },
   {
+    "id": 357941,
+    "name": "CustomKeystones",
+    "key": "customkeystones",
+    "dir": [
+      "CustomKeystones"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 338957,
     "name": "CustomSearch-1.0",
     "key": "customsearch",
@@ -22520,8 +22540,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts",
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts_Classic",
+      "ElvUI_NutsAndBolts"
     ],
     "source": "curse",
     "mode": 3
@@ -22784,8 +22804,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -37095,6 +37115,16 @@
     "mode": 1
   },
   {
+    "id": 358590,
+    "name": "Kills Until No Rest",
+    "key": "kills-until-no-rest",
+    "dir": [
+      "KillsRestedXP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20819,
     "name": "Killshot",
     "key": "killshot",
@@ -41581,6 +41611,33 @@
     "mode": 1
   },
   {
+    "id": 300687,
+    "name": "LynxUI",
+    "key": "lynxui",
+    "dir": [
+      "LynxUI_ActionBar",
+      "LynxUI_Bags",
+      "LynxUI_Bundle",
+      "LynxUI_CastingBar",
+      "LynxUI_Chat",
+      "LynxUI_Details",
+      "LynxUI_Frames",
+      "LynxUI_Interrupts",
+      "LynxUI_Mailbox",
+      "LynxUI_Options",
+      "LynxUI_SellJunk",
+      "LynxUI_Skin",
+      "LynxUI_Speedometer",
+      "LynxUI_Tooltip",
+      "LynxUI_Tweaks",
+      "LynxUI_UnitFrames",
+      "LynxUI",
+      "LynxUI_Hints"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 279812,
     "name": "M+ Ledger",
     "key": "mplusledger",
@@ -41839,7 +41896,7 @@
       "MacroMaker"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 345333,
@@ -47862,6 +47919,16 @@
     "mode": 1
   },
   {
+    "id": 358695,
+    "name": "Nucleus DKP Values",
+    "key": "nucleus-dkp-values",
+    "dir": [
+      "Nucleus_DKP_Values"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 19038,
     "name": "Nudist",
     "key": "nudist",
@@ -53647,6 +53714,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358318,
+    "name": "RCLootCouncil - EPGP Classic",
+    "key": "rclootcouncil-epgp-classic",
+    "dir": [
+      "RCLootCouncil_EPGP_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 257427,
@@ -69911,7 +69988,7 @@
   },
   {
     "id": 358502,
-    "name": "VikingSpy",
+    "name": "Viking Spy",
     "key": "vikingspy",
     "dir": [
       "VikingSpy"
@@ -70292,6 +70369,16 @@
     "key": "wartifactreliclist",
     "dir": [
       "WArtifactRelicList"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 326357,
+    "name": "WCCC Clubbing Companion",
+    "key": "wcccaddon",
+    "dir": [
+      "WCCCAddOn"
     ],
     "source": "curse",
     "mode": 1
