@@ -6603,7 +6603,7 @@
       "Bagnon_Facade"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 276936,
@@ -14364,6 +14364,16 @@
     "mode": 2
   },
   {
+    "id": 358777,
+    "name": "ClassicCraft",
+    "key": "classiccraft",
+    "dir": [
+      "ClassicCraft"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 345382,
     "name": "ClassicGearSet",
     "key": "classicgearset",
@@ -15275,7 +15285,7 @@
       "Combuctor_Broker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 46876,
@@ -15305,7 +15315,7 @@
       "Combuctor_Masque"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20021,
@@ -15315,7 +15325,7 @@
       "Combuctor_Scrap"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 342274,
@@ -19221,6 +19231,16 @@
     "mode": 1
   },
   {
+    "id": 358779,
+    "name": "Def's Rare Safari",
+    "key": "defs-rare-safari",
+    "dir": [
+      "Defs-Rare-Safari"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101548,
     "name": "Def's Sapped",
     "key": "defs-sapped",
@@ -22804,8 +22824,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -40867,33 +40887,6 @@
     "mode": 1
   },
   {
-    "id": 356767,
-    "name": "LookingForGroup (LFG)",
-    "key": "lookingforgroup",
-    "dir": [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Bindings",
-      "LookingForGroup_Broker",
-      "LookingForGroup_CR",
-      "LookingForGroup_CRE",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Icon",
-      "LookingForGroup_LFDLFR",
-      "LookingForGroup_M+",
-      "LookingForGroup_Options",
-      "LookingForGroup_PVP",
-      "LookingForGroup_Q",
-      "LookingForGroup_QJ",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "LookingForGroup_Solo",
-      "LookingForGroup"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 300383,
     "name": "LookingForQuest",
     "key": "lookingforquest",
@@ -41698,6 +41691,16 @@
     "mode": 1
   },
   {
+    "id": 358411,
+    "name": "MBB - Classic",
+    "key": "mbb-classic",
+    "dir": [
+      "MBB"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 324379,
     "name": "MDGuildBest",
     "key": "mdguildbest",
@@ -41914,16 +41917,6 @@
     "key": "macromilling",
     "dir": [
       "MacroMilling"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 58952,
-    "name": "MacroPoster",
-    "key": "macroposter",
-    "dir": [
-      "MacroPoster"
     ],
     "source": "curse",
     "mode": 1
@@ -45619,6 +45612,16 @@
     "mode": 2
   },
   {
+    "id": 358737,
+    "name": "Move Sanity Orb Button",
+    "key": "move-sanity-orb-button",
+    "dir": [
+      "ZAFtoEAB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101884,
     "name": "Move Unit Frames",
     "key": "moveunitframes",
@@ -45677,6 +45680,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358752,
+    "name": "Mr KnowItAll",
+    "key": "mr-knowitall",
+    "dir": [
+      "MrKnowItAll"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 301827,
@@ -55068,6 +55081,16 @@
     "mode": 1
   },
   {
+    "id": 358718,
+    "name": "Rare Share: Visions of N'Zoth",
+    "key": "rare-share-visions-of-nzoth",
+    "dir": [
+      "RareShareVisionsOfNZoth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 18980,
     "name": "Rare Spawn Overlay",
     "key": "rare-spawn-overlay",
@@ -55143,6 +55166,26 @@
     "key": "raretrackernazjatar-rtn",
     "dir": [
       "RareTrackerNazjatar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358796,
+    "name": "RareTrackerUldum (RTU)",
+    "key": "raretrackeruldum-rtu",
+    "dir": [
+      "RareTrackerUldum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358797,
+    "name": "RareTrackerVale (RTV)",
+    "key": "raretrackervale-rtv",
+    "dir": [
+      "RareTrackerVale"
     ],
     "source": "curse",
     "mode": 1
