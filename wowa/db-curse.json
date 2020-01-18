@@ -2348,7 +2348,7 @@
       "AlwaysLogging"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 33436,
@@ -22202,16 +22202,6 @@
     "mode": 1
   },
   {
-    "id": 98232,
-    "name": "ElvUI CastBarOverlay",
-    "key": "elvui-castbaroverlay",
-    "dir": [
-      "ElvUI_CastBarOverlay"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 42415,
     "name": "ElvUI ChannelAlerts",
     "key": "elvui-customchannelalert",
@@ -22315,16 +22305,6 @@
     "mode": 1
   },
   {
-    "id": 89371,
-    "name": "ElvUI CustomTweaks",
-    "key": "elvui-customtweaks",
-    "dir": [
-      "ElvUI_CustomTweaks"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 93977,
     "name": "ElvUI Datatext Bars 2",
     "key": "elvui-datatext-bars-2",
@@ -22370,16 +22350,6 @@
     "key": "elvui-equipmentsetsdt",
     "dir": [
       "ElvUI_EquipmentSetsDT"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 37961,
-    "name": "ElvUI ExtraActionBars",
-    "key": "elvui-oneextraactionbar",
-    "dir": [
-      "ElvUI_ExtraActionBars"
     ],
     "source": "curse",
     "mode": 1
@@ -22755,16 +22725,6 @@
     "key": "elvui_titlesdatatext",
     "dir": [
       "ElvUI_TitlesDatatext"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 44301,
-    "name": "ElvUI VisualAuraTimers",
-    "key": "elvui-visualauratimers",
-    "dir": [
-      "ElvUI_VisualAuraTimers"
     ],
     "source": "curse",
     "mode": 1
@@ -32751,6 +32711,16 @@
     "mode": 1
   },
   {
+    "id": 358864,
+    "name": "HiddenIDs",
+    "key": "hiddenids",
+    "dir": [
+      "HiddenIDs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 261939,
     "name": "HiddenPlayerFrame",
     "key": "hiddenplayerframe",
@@ -34140,16 +34110,6 @@
       "bIamPrepared_Warlock",
       "bIamPrepared_Warrior",
       "bIamPrepared"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 54565,
-    "name": "I'm So Random",
-    "key": "im-so-random-wow-edition",
-    "dir": [
-      "ImSoRandom"
     ],
     "source": "curse",
     "mode": 1
@@ -47342,6 +47302,16 @@
     "mode": 1
   },
   {
+    "id": 358087,
+    "name": "NightRaider",
+    "key": "nightraider",
+    "dir": [
+      "NightRaider"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 285589,
     "name": "Nihongo",
     "key": "nihongo",
@@ -49267,6 +49237,16 @@
     "key": "panoshot",
     "dir": [
       "PanoShot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358868,
+    "name": "Pants",
+    "key": "pants",
+    "dir": [
+      "Pants"
     ],
     "source": "curse",
     "mode": 1
@@ -53579,16 +53559,6 @@
     "mode": 1
   },
   {
-    "id": 37648,
-    "name": "QuikEmotes",
-    "key": "quikemotes",
-    "dir": [
-      "QuikEmotes"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 320971,
     "name": "QuikTells",
     "key": "quiktells",
@@ -55076,6 +55046,26 @@
     "key": "nazjatar-rare-share",
     "dir": [
       "RareShareNazjatar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358863,
+    "name": "Rare Share: Uldum (8.3)",
+    "key": "rare-share-uldum-8-3",
+    "dir": [
+      "RareShare_Uldum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358918,
+    "name": "Rare Share: Vale of Eternal Blossoms (8.3)",
+    "key": "rare-share-vale-of-eternal-blossoms-8-3",
+    "dir": [
+      "RareShare_Vale of Eternal Blossoms"
     ],
     "source": "curse",
     "mode": 1
@@ -63739,8 +63729,8 @@
   },
   {
     "id": 21538,
-    "name": "Sushi-3.0",
-    "key": "sushi-3-0",
+    "name": "Sushi-3.1",
+    "key": "sushi-3-1",
     "dir": [
       "Sushi-2.0",
       "Sushi-3.0"
@@ -72000,7 +71990,7 @@
       "WoWUnit"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 25256,
@@ -73791,6 +73781,16 @@
     "key": "zone-quest-abandon",
     "dir": [
       "ZoneQuestAbandon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358767,
+    "name": "ZoneAbilityBinding",
+    "key": "zoneabilitybinding",
+    "dir": [
+      "ZoneAbilityBinding"
     ],
     "source": "curse",
     "mode": 1
