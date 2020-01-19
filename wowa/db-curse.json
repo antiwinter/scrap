@@ -1253,6 +1253,16 @@
     "mode": 1
   },
   {
+    "id": 301668,
+    "name": "AdaptiveSync",
+    "key": "async",
+    "dir": [
+      "Async"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20830,
     "name": "AddEmote",
     "key": "addemote",
@@ -3835,16 +3845,6 @@
     "mode": 2
   },
   {
-    "id": 301668,
-    "name": "Async (AdaptiveSync)",
-    "key": "async",
-    "dir": [
-      "Async"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 336237,
     "name": "AtaxyUI",
     "key": "ataxyui",
@@ -4866,16 +4866,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 358047,
-    "name": "AutoCancelForms",
-    "key": "autocancelforms",
-    "dir": [
-      "AutoCancelForms"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 358528,
@@ -32711,16 +32701,6 @@
     "mode": 1
   },
   {
-    "id": 358864,
-    "name": "HiddenIDs",
-    "key": "hiddenids",
-    "dir": [
-      "HiddenIDs"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 261939,
     "name": "HiddenPlayerFrame",
     "key": "hiddenplayerframe",
@@ -46563,8 +46543,8 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossipClassic",
-      "NPCRPGossip"
+      "NPCRPGossip",
+      "NPCRPGossipClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -55821,16 +55801,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 336005,
-    "name": "RedtuzkUI Classic",
-    "key": "redtuzkui-classic",
-    "dir": [
-      "ElvUI_RedtuzkClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 101997,
