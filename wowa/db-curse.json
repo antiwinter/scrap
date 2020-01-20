@@ -2445,10 +2445,10 @@
     "name": "AnS",
     "key": "ans",
     "dir": [
+      "AnsAuctionData",
       "AnsAuctionSnipe",
       "AnsAuctions",
-      "AnS",
-      "AnsAuctionData"
+      "AnS"
     ],
     "source": "curse",
     "mode": 3
@@ -23436,16 +23436,6 @@
     "mode": 1
   },
   {
-    "id": 54554,
-    "name": "EnhancedPetBattleUI",
-    "key": "tukui-elvui-petbattlehud",
-    "dir": [
-      "EnhancedPetBattleUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 13813,
     "name": "EnhancedStackSplit",
     "key": "enhanced-stack-split",
@@ -42114,7 +42104,7 @@
       "MagnetButtons"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 92914,
@@ -44543,7 +44533,7 @@
       "MobInfo2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340619,
@@ -45649,7 +45639,7 @@
       "MrBigglesworthDeath"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 4493,
@@ -48392,16 +48382,6 @@
     "key": "oldraidframes",
     "dir": [
       "OldRaidFrames"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 299835,
-    "name": "OldScoolGuildFrame",
-    "key": "oldscoolguildframe",
-    "dir": [
-      "GuildTab"
     ],
     "source": "curse",
     "mode": 1
@@ -51882,10 +51862,11 @@
     "name": "Profession Assistance",
     "key": "profession_assistance",
     "dir": [
+      "Profession_Assistance_Classic",
       "Profession_Assistance"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 268301,
@@ -68215,7 +68196,7 @@
       "TradeSkillMaster_StringConverter"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 83317,
@@ -70966,7 +70947,8 @@
       "WeakAurasOptions",
       "WeakAurasModelPaths",
       "WeakAurasTemplates",
-      "WeakAuras"
+      "WeakAuras",
+      "WeakAurasArchive"
     ],
     "source": "curse",
     "mode": 3
