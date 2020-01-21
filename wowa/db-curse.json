@@ -2402,10 +2402,11 @@
   },
   {
     "id": 322782,
-    "name": "Amalu Soundpack",
+    "name": "Amalu Soundpack (plus+)",
     "key": "amalu-soundpack",
     "dir": [
-      "Amalu Soundpack"
+      "Amalu Soundpack",
+      "Amalu Soundpack (plus+)"
     ],
     "source": "curse",
     "mode": 3
@@ -8965,7 +8966,7 @@
     "name": "Blitz (Quest Turn-In)",
     "key": "blitz",
     "dir": [
-      "Blitz_Options",
+      "Blitz_Config",
       "Blitz_Progress",
       "Blitz"
     ],
@@ -14061,17 +14062,6 @@
     "mode": 2
   },
   {
-    "id": 348978,
-    "name": "Classic Heals",
-    "key": "classic-heals",
-    "dir": [
-      "QoL_ClassicHeals",
-      "QoL_Core"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 356061,
     "name": "Classic Looking For Group",
     "key": "classic-looking-for-group",
@@ -18661,7 +18651,7 @@
   },
   {
     "id": 16442,
-    "name": "Deadly Boss Mods (DBM) - BC & Vanilla/Classic mods",
+    "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods",
     "key": "dbm-bc",
     "dir": [
       "DBM-Karazhan",
@@ -22774,8 +22764,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -32311,7 +32301,7 @@
       "HearKitty"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 301389,
@@ -40625,18 +40615,6 @@
     "mode": 1
   },
   {
-    "id": 348989,
-    "name": "Local Whispers",
-    "key": "local-whispers",
-    "dir": [
-      "LocalWhispers",
-      "QoL_LocalWhispers",
-      "QoL_Core"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 87572,
     "name": "Localized Groups",
     "key": "localized-groups",
@@ -45935,6 +45913,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358535,
+    "name": "MutexDelay-1.0",
+    "key": "mutexdelay-1-0",
+    "dir": [
+      "MutexDelay-1.0"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20535,
@@ -52533,6 +52521,29 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348978,
+    "name": "Quality of Life: Classic Heals",
+    "key": "classic-heals",
+    "dir": [
+      "QoL_ClassicHeals",
+      "QoL_Core"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 348989,
+    "name": "Quality of Life: Local Whispers",
+    "key": "local-whispers",
+    "dir": [
+      "LocalWhispers",
+      "QoL_LocalWhispers",
+      "QoL_Core"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 320938,
@@ -67359,7 +67370,7 @@
       "TomCats-PvP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 309091,
@@ -71671,6 +71682,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358824,
+    "name": "WildAddon-1.0",
+    "key": "wildaddon-1-0",
+    "dir": [
+      "WildAddon-1.0"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 298262,
