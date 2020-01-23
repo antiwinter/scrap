@@ -4896,7 +4896,7 @@
       "AutoCombatLogger"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86883,
@@ -8721,6 +8721,16 @@
     "mode": 3
   },
   {
+    "id": 359127,
+    "name": "Bingo",
+    "key": "bingo",
+    "dir": [
+      "Bingo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 52702,
     "name": "Bitten's SpellFlash Key Bindings",
     "key": "bittens-spellflash-key-bindings",
@@ -9285,6 +9295,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359577,
+    "name": "BoTD Guild Addon",
+    "key": "botd-guild-addon-beta",
+    "dir": [
+      "BoTD"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 57828,
@@ -14746,6 +14766,16 @@
     "mode": 1
   },
   {
+    "id": 359102,
+    "name": "Close Quest Fix",
+    "key": "close-quest-fix",
+    "dir": [
+      "CloseQuestFix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 1930,
     "name": "CloseUp",
     "key": "close-up",
@@ -18161,6 +18191,16 @@
     "mode": 1
   },
   {
+    "id": 359439,
+    "name": "Danes of Honor Guild Addon",
+    "key": "danes-of-honor-guild-addon",
+    "dir": [
+      "DanesOfHonor"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95548,
     "name": "DankMemes",
     "key": "dankmemes",
@@ -20614,6 +20654,16 @@
     "key": "dressup-deluxe",
     "dir": [
       "DressupDeluxe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 359065,
+    "name": "Drift",
+    "key": "drift",
+    "dir": [
+      "Drift"
     ],
     "source": "curse",
     "mode": 1
@@ -27101,6 +27151,16 @@
     "mode": 1
   },
   {
+    "id": 359224,
+    "name": "Gains To Next Rep Level",
+    "key": "gains-to-next-rep-level",
+    "dir": [
+      "GainsToNextRep"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 309199,
     "name": "Gallywix Balance",
     "key": "gallywix-balance",
@@ -27737,6 +27797,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359101,
+    "name": "Geared",
+    "key": "geared",
+    "dir": [
+      "Geared"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 41878,
@@ -34576,6 +34646,16 @@
     "mode": 3
   },
   {
+    "id": 359508,
+    "name": "InRange",
+    "key": "inrange",
+    "dir": [
+      "InRange"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 269853,
     "name": "InTerroremRT",
     "key": "interroremrt",
@@ -36037,6 +36117,16 @@
       "JojoMonk_JosukeHigashikata",
       "JojoMonk_JotaroKujo",
       "JojoMonk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358959,
+    "name": "JokPlates",
+    "key": "jokplates",
+    "dir": [
+      "JokPlates"
     ],
     "source": "curse",
     "mode": 1
@@ -45969,8 +46059,8 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies",
-      "MyBuddies_Classic"
+      "MyBuddies_Classic",
+      "MyBuddies"
     ],
     "source": "curse",
     "mode": 3
@@ -47946,6 +48036,16 @@
     "key": "nuginspect",
     "dir": [
       "NugInspect"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 359317,
+    "name": "NugKeyFeedback",
+    "key": "nugkeyfeedback",
+    "dir": [
+      "NugKeyFeedback"
     ],
     "source": "curse",
     "mode": 3
@@ -51220,6 +51320,16 @@
     "mode": 1
   },
   {
+    "id": 359170,
+    "name": "Poncho-2.0",
+    "key": "poncho-2-0",
+    "dir": [
+      "Poncho-2.0"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 96980,
     "name": "Pong",
     "key": "pong",
@@ -51418,7 +51528,7 @@
       "PowerAuras"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88987,
@@ -52507,7 +52617,8 @@
     "dir": [
       "Quafe_MEKA_Classic",
       "Quafe",
-      "Quafe_MEKA"
+      "Quafe_MEKA",
+      "Quafe_Overwatch"
     ],
     "source": "curse",
     "mode": 3
@@ -52528,6 +52639,16 @@
     "key": "classic-heals",
     "dir": [
       "QoL_ClassicHeals",
+      "QoL_Core"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 359295,
+    "name": "Quality of Life: Core",
+    "key": "quality-of-life-core",
+    "dir": [
       "QoL_Core"
     ],
     "source": "curse",
@@ -55296,9 +55417,6 @@
     "name": "Razhints BIS-lista",
     "key": "razhints-bis-lista",
     "dir": [
-      "BestInSlotRedux_BfaDungeons",
-      "BestInSlotRedux_BfaRaids",
-      "BestInSlotRedux_BfaWorld",
       "BestInSlotRedux"
     ],
     "source": "curse",
@@ -62805,16 +62923,6 @@
     "mode": 1
   },
   {
-    "id": 299819,
-    "name": "Sticky Clicky",
-    "key": "stickyclicky",
-    "dir": [
-      "StickyClicky"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 334233,
     "name": "Sticky Gloves",
     "key": "sticky-gloves",
@@ -62845,21 +62953,11 @@
     "mode": 1
   },
   {
-    "id": 299640,
-    "name": "Sticky SoundFX",
-    "key": "stickysoundfx",
+    "id": 299819,
+    "name": "StickyClicky",
+    "key": "stickyclicky",
     "dir": [
-      "StickySoundFX"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 101234,
-    "name": "Sticky Target",
-    "key": "stickytarget",
-    "dir": [
-      "StickyTarget"
+      "StickyClicky"
     ],
     "source": "curse",
     "mode": 1
@@ -62870,6 +62968,26 @@
     "key": "sticky-loot-window",
     "dir": [
       "StickyLootWindow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 299640,
+    "name": "StickySoundFX",
+    "key": "stickysoundfx",
+    "dir": [
+      "StickySoundFX"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 101234,
+    "name": "StickyTarget",
+    "key": "stickytarget",
+    "dir": [
+      "StickyTarget"
     ],
     "source": "curse",
     "mode": 1
@@ -63695,7 +63813,7 @@
     "key": "sushi-3-1",
     "dir": [
       "Sushi-2.0",
-      "Sushi-3.0"
+      "Sushi-3.1"
     ],
     "source": "curse",
     "mode": 3
@@ -69262,6 +69380,16 @@
     "mode": 1
   },
   {
+    "id": 358964,
+    "name": "UltraSquirt",
+    "key": "ultrasquirt",
+    "dir": [
+      "UltraSquirt"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 40889,
     "name": "UmberRunes",
     "key": "umberrunes",
@@ -70839,6 +70967,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359543,
+    "name": "Water Dispenser",
+    "key": "water-dispenser",
+    "dir": [
+      "WaterDispenser"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 40508,
