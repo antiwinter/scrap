@@ -13390,6 +13390,16 @@
     "mode": 1
   },
   {
+    "id": 359327,
+    "name": "ChatToDoList",
+    "key": "chattodolist",
+    "dir": [
+      "ChatToDoList"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 53991,
     "name": "ChatWho",
     "key": "chatwho",
@@ -16586,7 +16596,7 @@
       "Crosshairs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 277931,
@@ -35632,6 +35642,16 @@
     "mode": 1
   },
   {
+    "id": 359645,
+    "name": "ItemCountTooltip",
+    "key": "itemcounttooltip",
+    "dir": [
+      "ItemCountTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 3866,
     "name": "ItemDataCache",
     "key": "item-data-cache",
@@ -42516,7 +42536,7 @@
       "MapLine"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 2955,
@@ -62963,6 +62983,16 @@
     "mode": 1
   },
   {
+    "id": 359615,
+    "name": "StickyClicky Classic",
+    "key": "stickyclicky-classic",
+    "dir": [
+      "StickyClickyClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 93939,
     "name": "StickyLootWindow",
     "key": "sticky-loot-window",
@@ -62983,6 +63013,16 @@
     "mode": 1
   },
   {
+    "id": 359616,
+    "name": "StickySoundFX Classic",
+    "key": "stickysoundfx-classic",
+    "dir": [
+      "StickySoundFXClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101234,
     "name": "StickyTarget",
     "key": "stickytarget",
@@ -62991,6 +63031,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359618,
+    "name": "StickyTarget Classic",
+    "key": "stickytarget-classic",
+    "dir": [
+      "StickyTargetClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 289889,
@@ -72667,8 +72717,7 @@
     "name": "WorldFlightMap",
     "key": "worldflightmap",
     "dir": [
-      "WorldFlightMap",
-      "!WorldFlightMapLoader"
+      "WorldFlightMap"
     ],
     "source": "curse",
     "mode": 1
