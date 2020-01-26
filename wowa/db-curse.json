@@ -1254,13 +1254,14 @@
   },
   {
     "id": 301668,
-    "name": "AdaptiveSync",
-    "key": "async",
+    "name": "AdaptiveRes",
+    "key": "adaptiveres",
     "dir": [
-      "Async"
+      "Async",
+      "AdaptiveRes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20830,
@@ -5407,6 +5408,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359741,
+    "name": "AutoSitCrit",
+    "key": "autositcrit",
+    "dir": [
+      "AutoSitCrit"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101867,
@@ -14646,6 +14657,16 @@
     "mode": 1
   },
   {
+    "id": 359798,
+    "name": "CleanBattlemap",
+    "key": "cleanbattlemap",
+    "dir": [
+      "CleanBattlemap"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15287,
     "name": "CleanMinimap",
     "key": "cleanminimap",
@@ -20679,6 +20700,16 @@
     "mode": 1
   },
   {
+    "id": 359705,
+    "name": "Drift Classic",
+    "key": "driftclassic",
+    "dir": [
+      "Drift"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341287,
     "name": "Drill Sergeant",
     "key": "drill-sergeant",
@@ -23823,6 +23854,16 @@
     "key": "essence-button",
     "dir": [
       "EssenceButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 359714,
+    "name": "Essence Set Manager",
+    "key": "essence-set-manager",
+    "dir": [
+      "EssenceSetManager"
     ],
     "source": "curse",
     "mode": 1
@@ -30237,6 +30278,16 @@
     "mode": 2
   },
   {
+    "id": 359655,
+    "name": "Guidelime Phelx's Dungeon Quest Guide",
+    "key": "guidelime-phelxs-dungeon-quest-guide",
+    "dir": [
+      "Guidelime_Phelx's Dungeon Quest Guide"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 335852,
     "name": "Guidelime_Bustea's 1-60 Horde Leveling Guide",
     "key": "guidelime-busteas-1-60-leveling",
@@ -34704,6 +34755,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359713,
+    "name": "Incite Raid Helper",
+    "key": "incite-raid-helper",
+    "dir": [
+      "Incite-RaidHelper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 21121,
@@ -48455,6 +48516,16 @@
     "mode": 1
   },
   {
+    "id": 359737,
+    "name": "Old God Whispers",
+    "key": "old-god-whispers",
+    "dir": [
+      "OldGodWhispers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 254413,
     "name": "Old MacDonald",
     "key": "old-macdonald",
@@ -53882,6 +53953,16 @@
     "key": "reb",
     "dir": [
       "REB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 359808,
+    "name": "RECrystallize - Auction House Scanner",
+    "key": "recrystallize-auction-house-scanner",
+    "dir": [
+      "RECrystallize"
     ],
     "source": "curse",
     "mode": 1
