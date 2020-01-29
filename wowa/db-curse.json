@@ -24219,7 +24219,7 @@
       "XKeyBinding"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 322428,
@@ -42435,7 +42435,7 @@
       "ManaCostPerc"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 301469,
@@ -43367,6 +43367,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 360007,
+    "name": "Master Looter Reminder",
+    "key": "master-looter-reminder",
+    "dir": [
+      "MasterLooterReminder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86832,
@@ -45716,6 +45726,16 @@
     "key": "move-anything",
     "dir": [
       "MoveAnything"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 360406,
+    "name": "MoveAround",
+    "key": "movearound",
+    "dir": [
+      "MoveAround"
     ],
     "source": "curse",
     "mode": 1
@@ -49851,6 +49871,16 @@
     "key": "persistence-of-chattiness",
     "dir": [
       "POC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 360039,
+    "name": "Persistent World Map",
+    "key": "persistent-world-map",
+    "dir": [
+      "PersistentWorldMap"
     ],
     "source": "curse",
     "mode": 1
@@ -58525,6 +58555,16 @@
     "key": "serrah_lio",
     "dir": [
       "Serrah_Lio"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 359894,
+    "name": "SerthanaUI",
+    "key": "serthanaui",
+    "dir": [
+      "SerthanaUI"
     ],
     "source": "curse",
     "mode": 1
@@ -70231,6 +70271,16 @@
     "mode": 1
   },
   {
+    "id": 359854,
+    "name": "Vex Runes - BFA",
+    "key": "vex-runes-bfa",
+    "dir": [
+      "vexrunes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295678,
     "name": "Vignette Announcer",
     "key": "vignetteannouncer",
@@ -70255,8 +70305,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
-      "Viks_ConfigUI"
+      "Viks_ConfigUI",
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
@@ -70879,6 +70929,16 @@
     "mode": 2
   },
   {
+    "id": 360085,
+    "name": "Warcraft Utils",
+    "key": "warcraft-utils",
+    "dir": [
+      "WarcraftUtils"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341918,
     "name": "Wardrobe",
     "key": "wardrobe",
@@ -71263,6 +71323,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 359931,
+    "name": "WeaponBuffTracker",
+    "key": "weaponbufftracker",
+    "dir": [
+      "WeaponBuffTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 321914,
@@ -71811,6 +71881,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 360210,
+    "name": "WhoPulledAV",
+    "key": "whopulledav",
+    "dir": [
+      "WhoPulledAV"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 285401,
@@ -72544,6 +72624,16 @@
     "mode": 1
   },
   {
+    "id": 360247,
+    "name": "Worgen Barber Frame",
+    "key": "worgen-barber-frame",
+    "dir": [
+      "WorgenBarberFrame"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 28196,
     "name": "WorgenSniffRemover",
     "key": "worgensniffremover",
@@ -72769,6 +72859,16 @@
     "key": "world-quests-list",
     "dir": [
       "WorldQuestsList"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 360158,
+    "name": "World of Meme",
+    "key": "world-of-meme",
+    "dir": [
+      "WorldOfMemes"
     ],
     "source": "curse",
     "mode": 1
