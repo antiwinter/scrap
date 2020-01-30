@@ -22862,6 +22862,16 @@
     "mode": 3
   },
   {
+    "id": 41145,
+    "name": "ElvUI_CardinalPoints",
+    "key": "elvui_cardinalpoints",
+    "dir": [
+      "ElvUI_CardinalPoints"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 92930,
     "name": "ElvUI_ChatTextures",
     "key": "elvui_chattextures",
@@ -34168,6 +34178,16 @@
     "key": "ilearnedwhat",
     "dir": [
       "ILearnedWhat"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 360469,
+    "name": "I Need a Hero",
+    "key": "i-need-a-hero",
+    "dir": [
+      "INeedAHero"
     ],
     "source": "curse",
     "mode": 1
