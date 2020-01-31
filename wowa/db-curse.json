@@ -22034,7 +22034,7 @@
       "Elephant"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 29339,
@@ -22855,8 +22855,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -32540,6 +32540,16 @@
     "key": "heavyloot",
     "dir": [
       "HeavyLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 360603,
+    "name": "Heck Trade Chat",
+    "key": "heck-trade-chat",
+    "dir": [
+      "HeckTradeChat"
     ],
     "source": "curse",
     "mode": 1
@@ -72081,6 +72091,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 360572,
+    "name": "Windfury HUD",
+    "key": "windfury-hud",
+    "dir": [
+      "Windfury_HUD"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 358053,
