@@ -38156,7 +38156,7 @@
       "LagBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 273409,
@@ -56805,7 +56805,7 @@
       "RightClickSelfCast"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 279102,
@@ -78145,7 +78145,7 @@
       "XanBuffTimers"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28603,
@@ -78167,7 +78167,7 @@
       "XanDebuffTimers"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28561,
@@ -78178,7 +78178,7 @@
       "XanDurability"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86075,
@@ -78199,7 +78199,7 @@
       "XanEXP"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 304744,
@@ -78209,7 +78209,7 @@
       "xanGoldMine"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28600,
