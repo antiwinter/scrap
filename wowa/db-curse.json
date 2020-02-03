@@ -5772,7 +5772,7 @@
       "AzeriteUI_Classic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 298648,
@@ -41263,7 +41263,7 @@
       "LootRollMover"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14347,
@@ -64940,7 +64940,7 @@
       "TargetClassButton"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 345018,
