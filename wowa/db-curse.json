@@ -16313,6 +16313,16 @@
     "mode": 1
   },
   {
+    "id": 360960,
+    "name": "Corruption Tooltips",
+    "key": "corruption-tooltips",
+    "dir": [
+      "CorruptionTooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13715,
     "name": "Cosplay",
     "key": "cosplay",
@@ -21776,6 +21786,16 @@
     "mode": 1
   },
   {
+    "id": 360813,
+    "name": "EasyDestroy Revived",
+    "key": "easydestroy",
+    "dir": [
+      "EasyDestroyRevived"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 103196,
     "name": "EasyDisenchant",
     "key": "easydisenchant",
@@ -22344,6 +22364,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 360982,
+    "name": "ElvUI Corruption Datatext",
+    "key": "elvui-corruption-datatext",
+    "dir": [
+      "ElvUI_CorruptionDT"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 99116,
@@ -34706,6 +34736,16 @@
     "mode": 1
   },
   {
+    "id": 360127,
+    "name": "In Memory DKP Prices",
+    "key": "in-memory-dkp-prices",
+    "dir": [
+      "In_Memory_DKP_Values"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89139,
     "name": "In Progress Missions",
     "key": "ipm",
@@ -41469,6 +41509,16 @@
     "mode": 1
   },
   {
+    "id": 360927,
+    "name": "Lorti UI Remake",
+    "key": "lorti-ui-remake",
+    "dir": [
+      "Lorti-UI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 16305,
     "name": "LoseControl",
     "key": "losecontrol",
@@ -41577,6 +41627,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 361038,
+    "name": "LowSpeak",
+    "key": "lowspeak",
+    "dir": [
+      "LowSpeak"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 82114,
@@ -44427,6 +44487,16 @@
     "key": "minimapclock",
     "dir": [
       "MinimapClock"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 361142,
+    "name": "MinimapCoordinates",
+    "key": "minimapcoordinates",
+    "dir": [
+      "MinimapCoordinates"
     ],
     "source": "curse",
     "mode": 1
@@ -49491,6 +49561,16 @@
     "mode": 1
   },
   {
+    "id": 361116,
+    "name": "Paragon Rewards",
+    "key": "paragon-rewards",
+    "dir": [
+      "ParagonRewards"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 265315,
     "name": "ParagonBars",
     "key": "paragonbars",
@@ -54098,6 +54178,16 @@
     "mode": 1
   },
   {
+    "id": 361173,
+    "name": "RHEL",
+    "key": "rhel",
+    "dir": [
+      "RHEL"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 294515,
     "name": "RP Adjutant",
     "key": "rp-adjutant",
@@ -54300,6 +54390,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361272,
+    "name": "Ragequit Guild Addon",
+    "key": "ragequitguild",
+    "dir": [
+      "Ragequit"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 92060,
@@ -56303,6 +56403,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 360868,
+    "name": "Remindr",
+    "key": "remindr",
+    "dir": [
+      "Remindr"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 89325,
@@ -60697,6 +60807,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361015,
+    "name": "Skill Info +",
+    "key": "skill-info",
+    "dir": [
+      "SkillInfoPlus"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14660,
@@ -69465,6 +69585,16 @@
     "key": "ui-hidden-text-remover",
     "dir": [
       "UIHiddenTextRemover"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 361208,
+    "name": "UIFader Classic",
+    "key": "uifader-classic",
+    "dir": [
+      "UIFader_Classic"
     ],
     "source": "curse",
     "mode": 2
