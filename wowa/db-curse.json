@@ -34646,6 +34646,16 @@
     "mode": 1
   },
   {
+    "id": 361391,
+    "name": "Import Data for Group Calendar (Classic)",
+    "key": "import-data-group-calendar-classic",
+    "dir": [
+      "GroupCalendar_ImportData"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 103336,
     "name": "Improved Blizzard UI",
     "key": "improved-blizzard-ui",
@@ -51904,6 +51914,16 @@
     "mode": 1
   },
   {
+    "id": 361123,
+    "name": "Premade Applicants Filter",
+    "key": "premade-applicants-filter",
+    "dir": [
+      "PremadeApplicantsFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87733,
     "name": "Premade Filter",
     "key": "premade-filter",
@@ -55495,6 +55515,16 @@
     "mode": 1
   },
   {
+    "id": 361260,
+    "name": "RareTrackerCore (RT)",
+    "key": "raretrackercore-rt",
+    "dir": [
+      "RareTrackerCore"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327286,
     "name": "RareTrackerMechagon (RTM)",
     "key": "raretrackermechagon-rtm",
@@ -56406,7 +56436,7 @@
   },
   {
     "id": 360868,
-    "name": "Remindr",
+    "name": "Remindr - Simple Reminders",
     "key": "remindr",
     "dir": [
       "Remindr"
@@ -62640,6 +62670,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361395,
+    "name": "Square One DKP Values",
+    "key": "square-one-dkp-values",
+    "dir": [
+      "SQ1_DKP_Values"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 82944,
