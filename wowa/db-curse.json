@@ -330,6 +330,16 @@
     "mode": 1
   },
   {
+    "id": 361413,
+    "name": "ABGP",
+    "key": "abgp",
+    "dir": [
+      "ABGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 274868,
     "name": "ACE3 GUI Panel Widget",
     "key": "ace3-gui-panel-widget",
@@ -706,6 +716,16 @@
     "key": "abstractionmarks",
     "dir": [
       "AbstractionMarks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 361453,
+    "name": "AbyAuctionFavoritesSavior",
+    "key": "abyauctionfavoritessavior",
+    "dir": [
+      "AbyAuctionFavoritesSavior"
     ],
     "source": "curse",
     "mode": 1
@@ -1484,6 +1504,16 @@
     "mode": 2
   },
   {
+    "id": 361466,
+    "name": "AdiBags - Corruption Gear",
+    "key": "adibags-corruption-gear",
+    "dir": [
+      "AdiBags_CorruptionGear"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 310449,
     "name": "AdiBags - Fishing Items",
     "key": "adibags-fishing-items",
@@ -1584,6 +1614,16 @@
     "mode": 1
   },
   {
+    "id": 361415,
+    "name": "AdiBags Corrupted Items",
+    "key": "adibags-corrupted-items",
+    "dir": [
+      "AdiBags_Corrupted"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102083,
     "name": "AdiBags Hearthstones",
     "key": "adibags-hearthstones",
@@ -1609,6 +1649,16 @@
     "key": "adibags_armourtype",
     "dir": [
       "AdiBags_ArmourType"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 361561,
+    "name": "AdiBags_BlackEmpireGear",
+    "key": "adibags_blackempiregear",
+    "dir": [
+      "AdiBags_BlackEmpireGear"
     ],
     "source": "curse",
     "mode": 1
@@ -2503,7 +2553,7 @@
       "AngryAssignments"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 73468,
@@ -13298,7 +13348,7 @@
       "ChatInputTop"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 351387,
@@ -20136,6 +20186,16 @@
     "mode": 1
   },
   {
+    "id": 361422,
+    "name": "Disable Map Maximize",
+    "key": "disable-map-maximize",
+    "dir": [
+      "DisableMapMaximize"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101983,
     "name": "DisableAutoAddSpells",
     "key": "disableautoaddspells",
@@ -22885,8 +22945,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -30529,8 +30589,8 @@
   },
   {
     "id": 82308,
-    "name": "Guild Bank Snapshots",
-    "key": "guild-bank-snapshots",
+    "name": "Guild Bank Tools",
+    "key": "guild-bank-tools",
     "dir": [
       "GuildBankSnapshots"
     ],
@@ -32329,6 +32389,31 @@
     "mode": 1
   },
   {
+    "id": 361516,
+    "name": "HealBot Classic",
+    "key": "healbot-classic",
+    "dir": [
+      "HealBot_br",
+      "HealBot_cn",
+      "HealBot_Data",
+      "HealBot_de",
+      "HealBot_en",
+      "HealBot_es",
+      "HealBot_fr",
+      "HealBot_gr",
+      "HealBot_hu",
+      "HealBot_it",
+      "HealBot_kr",
+      "HealBot_Options",
+      "HealBot_ru",
+      "HealBot_Tips",
+      "HealBot_tw",
+      "HealBot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2743,
     "name": "HealBot Continued",
     "key": "heal-bot-continued",
@@ -32352,7 +32437,7 @@
       "HealBot_tw"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 321755,
@@ -42546,6 +42631,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 360448,
+    "name": "ManaBreak",
+    "key": "manabreak",
+    "dir": [
+      "ManaBreak"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 279991,
@@ -54757,6 +54852,16 @@
     "mode": 1
   },
   {
+    "id": 361228,
+    "name": "RaidAnnouncement",
+    "key": "raidannouncement",
+    "dir": [
+      "RaidAnnouncement"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 14556,
     "name": "RaidBuffStatus",
     "key": "raidbuffstatus",
@@ -57772,7 +57877,7 @@
       "SafeQueue"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 313058,
@@ -78419,7 +78524,7 @@
       "xanTooltipHoudini"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28605,
@@ -78429,7 +78534,7 @@
       "xanTooltipIcon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19609,
