@@ -2067,6 +2067,16 @@
     "mode": 2
   },
   {
+    "id": 361312,
+    "name": "AjDKP",
+    "key": "ajdkp",
+    "dir": [
+      "AjDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 317378,
     "name": "AkiTools",
     "key": "akitools",
@@ -9062,7 +9072,7 @@
       "BlizzMove"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 283494,
@@ -10979,6 +10989,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361735,
+    "name": "Broker_REHack",
+    "key": "broker_rehack",
+    "dir": [
+      "Broker_REHack"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 45504,
@@ -19849,6 +19869,16 @@
     "mode": 1
   },
   {
+    "id": 361700,
+    "name": "Details!: SunderCount (plugin)",
+    "key": "details-sundercount-plugin",
+    "dir": [
+      "Details_SunderCount"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95101,
     "name": "Details!: Target Caller (plugin)",
     "key": "details-target-caller-plugin",
@@ -23715,7 +23745,7 @@
       "EpicMusicPlayer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102376,
@@ -44604,7 +44634,7 @@
       "MinimapCoordinates"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 277070,
@@ -45754,6 +45784,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361714,
+    "name": "MouseSensitivity",
+    "key": "mousesensitivity",
+    "dir": [
+      "MouseSensitivity"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 318962,
@@ -47385,6 +47425,16 @@
     "mode": 1
   },
   {
+    "id": 361780,
+    "name": "NefHunterHelper",
+    "key": "nefhunterhelper",
+    "dir": [
+      "NefHunterHelper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 36236,
     "name": "NeonChat v3.2",
     "key": "neonchat",
@@ -48991,6 +49041,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361219,
+    "name": "Ony Bag Mate",
+    "key": "ony-bag-mate",
+    "dir": [
+      "OnyBagMate"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 285838,
@@ -71144,6 +71204,16 @@
     "mode": 1
   },
   {
+    "id": 361656,
+    "name": "WanMark",
+    "key": "wanmark",
+    "dir": [
+      "WanMark"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 261947,
     "name": "Wanderers Gambling",
     "key": "wanderers-gambling",
@@ -76507,6 +76577,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361649,
+    "name": "itruliaSunder",
+    "key": "itruliasunder",
+    "dir": [
+      "itruliaSunder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 262053,
