@@ -1436,16 +1436,6 @@
     "mode": 1
   },
   {
-    "id": 325447,
-    "name": "AdiBags - BFA Zone Items",
-    "key": "adibags-zone-items",
-    "dir": [
-      "AdiBags_BfAZoneItems"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 351762,
     "name": "AdiBags - BOEOverlay",
     "key": "adibags-boeoverlay",
@@ -1582,6 +1572,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 325447,
+    "name": "AdiBags - Zone Items",
+    "key": "adibags-zone-items",
+    "dir": [
+      "AdiBags_BfAZoneItems"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 275546,
@@ -2353,33 +2353,33 @@
     "key": "altoholic",
     "dir": [
       "Altoholic",
-      "Altoholic_Achievements",
+      "DataStore_Mails",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore_Spells",
+      "DataStore_Stats",
+      "DataStore_Talents",
       "Altoholic_Agenda",
       "Altoholic_Characters",
       "Altoholic_Grids",
       "Altoholic_Guild",
       "Altoholic_Search",
       "Altoholic_Summary",
-      "DataStore_Stats",
-      "DataStore_Talents",
-      "DataStore_Achievements",
       "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
+      "DataStore_Inventory",
+      "DataStore",
+      "Altoholic_Achievements",
+      "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
-      "DataStore_Inventory",
-      "DataStore_Mails",
-      "DataStore_Pets",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore_Spells",
-      "DataStore"
+      "DataStore_Pets"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 99157,
@@ -19870,7 +19870,7 @@
   },
   {
     "id": 361700,
-    "name": "Details!: SunderCount (plugin)",
+    "name": "Details!: Sunder Count (plugin)",
     "key": "details-sundercount-plugin",
     "dir": [
       "Details_SunderCount"
@@ -63744,6 +63744,16 @@
     "mode": 2
   },
   {
+    "id": 361649,
+    "name": "Sunder Armor Counter",
+    "key": "itruliasunder",
+    "dir": [
+      "itruliaSunder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3769,
     "name": "Sunn - Viewport Art",
     "key": "sunn-viewport-art",
@@ -70042,9 +70052,9 @@
     "dir": [
       "UnitFramesPlus_Options",
       "UnitFramesPlus",
+      "UnitFramesPlus_Threat",
       "UnitFramesPlus_Cooldown",
-      "UnitFramesPlus_MobHealth",
-      "UnitFramesPlus_Threat"
+      "UnitFramesPlus_MobHealth"
     ],
     "source": "curse",
     "mode": 3
@@ -76577,16 +76587,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 361649,
-    "name": "itruliaSunder",
-    "key": "itruliasunder",
-    "dir": [
-      "itruliaSunder"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 262053,
