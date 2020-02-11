@@ -2353,30 +2353,30 @@
     "key": "altoholic",
     "dir": [
       "Altoholic",
-      "DataStore_Mails",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore_Spells",
-      "DataStore_Stats",
-      "DataStore_Talents",
+      "Altoholic_Achievements",
       "Altoholic_Agenda",
       "Altoholic_Characters",
       "Altoholic_Grids",
       "Altoholic_Guild",
       "Altoholic_Search",
       "Altoholic_Summary",
+      "DataStore_Talents",
+      "DataStore_Achievements",
       "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
-      "DataStore_Inventory",
-      "DataStore",
-      "Altoholic_Achievements",
-      "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
-      "DataStore_Pets"
+      "DataStore_Inventory",
+      "DataStore_Mails",
+      "DataStore_Pets",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore_Spells",
+      "DataStore_Stats",
+      "DataStore"
     ],
     "source": "curse",
     "mode": 3
@@ -3506,6 +3506,16 @@
     "mode": 1
   },
   {
+    "id": 362102,
+    "name": "Artemis",
+    "key": "artemis",
+    "dir": [
+      "Artemis"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102327,
     "name": "Artifact Button",
     "key": "artifactbutton",
@@ -3835,6 +3845,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354008,
+    "name": "AskMrRobotClassic",
+    "key": "askmrrobotclassic",
+    "dir": [
+      "AskMrRobotClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101501,
@@ -5205,6 +5225,16 @@
     "key": "autologgerclassic",
     "dir": [
       "AutoLoggerClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 361114,
+    "name": "AutoLogoutAlert",
+    "key": "autologoutalert",
+    "dir": [
+      "AutoLogoutAlert"
     ],
     "source": "curse",
     "mode": 2
@@ -8331,6 +8361,7 @@
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
+      "BigWigs_BlackwingLair",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
@@ -18775,6 +18806,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18783,9 +18816,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -32650,6 +32681,16 @@
     "mode": 1
   },
   {
+    "id": 362050,
+    "name": "HeartShapedBoxTracker",
+    "key": "heartshapedboxtracker",
+    "dir": [
+      "HeartShapedBoxTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 85421,
     "name": "Heartbeat",
     "key": "heartbeat",
@@ -34689,6 +34730,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 362188,
+    "name": "Immersion ExtraFade",
+    "key": "immersion-extrafade",
+    "dir": [
+      "Immersion_ExtraFade"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 283226,
@@ -54841,6 +54892,16 @@
     "mode": 1
   },
   {
+    "id": 362259,
+    "name": "Raid-Helper Classic",
+    "key": "raid-helper-classic",
+    "dir": [
+      "Raid-Helper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20921,
     "name": "RaidAchievement",
     "key": "raidachievement",
@@ -66513,6 +66574,16 @@
     "mode": 1
   },
   {
+    "id": 362122,
+    "name": "Tip2Mouse",
+    "key": "tip2mouse",
+    "dir": [
+      "Tip2Mouse"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 4829,
     "name": "TipTac",
     "key": "tip-tac",
@@ -70664,6 +70735,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 361950,
+    "name": "Viking HUD",
+    "key": "viking-hud",
+    "dir": [
+      "VikingHud"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 358502,
