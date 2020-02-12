@@ -20013,6 +20013,16 @@
     "mode": 1
   },
   {
+    "id": 362256,
+    "name": "Diablo Artwork and Action Bars by Stormhand",
+    "key": "diablo-artwork-and-action-bars-by-stormhand",
+    "dir": [
+      "DiabloArtWork"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 100658,
     "name": "DiabolicUI for WoW Retail",
     "key": "diabolicui",
@@ -34739,7 +34749,7 @@
       "Immersion_ExtraFade"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 283226,
@@ -38711,6 +38721,16 @@
     "key": "leecher",
     "dir": [
       "Leecher"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 361971,
+    "name": "Leeroy Hill Cats Power",
+    "key": "leeroy-hill-cats-power",
+    "dir": [
+      "LHCP"
     ],
     "source": "curse",
     "mode": 1
