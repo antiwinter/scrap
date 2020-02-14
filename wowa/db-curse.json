@@ -2360,23 +2360,23 @@
       "Altoholic_Guild",
       "Altoholic_Search",
       "Altoholic_Summary",
-      "DataStore_Talents",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
       "DataStore_Inventory",
       "DataStore_Mails",
-      "DataStore_Pets",
       "DataStore_Quests",
       "DataStore_Reputations",
+      "DataStore",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
+      "DataStore_Pets",
       "DataStore_Spells",
       "DataStore_Stats",
-      "DataStore"
+      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 3
@@ -9609,6 +9609,16 @@
     "mode": 1
   },
   {
+    "id": 362383,
+    "name": "Bookie",
+    "key": "bookie",
+    "dir": [
+      "Bookie"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 302041,
     "name": "Boomerang Anti-Snipe",
     "key": "boomerang-anti-snipe",
@@ -11526,6 +11536,16 @@
     "key": "buffenoughclassic",
     "dir": [
       "BuffEnoughClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 362203,
+    "name": "BuffMe",
+    "key": "buffme",
+    "dir": [
+      "BuffMe"
     ],
     "source": "curse",
     "mode": 2
@@ -19718,6 +19738,16 @@
     "key": "demonbolt",
     "dir": [
       "Demonbolt"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 91219,
+    "name": "Deprecated - Tasks",
+    "key": "tasks",
+    "dir": [
+      "Tasks"
     ],
     "source": "curse",
     "mode": 1
@@ -28969,6 +28999,16 @@
     "mode": 1
   },
   {
+    "id": 362567,
+    "name": "Gold Standard Gear Points",
+    "key": "gold-standard-gear-points",
+    "dir": [
+      "GoldPoints"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 98691,
     "name": "Gold Tracker Plus",
     "key": "gold-tracker-plus",
@@ -33376,6 +33416,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 362636,
+    "name": "Hide quest Objectives",
+    "key": "hide-quest-objectives",
+    "dir": [
+      "HideQuestObjectives"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 255249,
@@ -47372,6 +47422,16 @@
     "mode": 3
   },
   {
+    "id": 360681,
+    "name": "Neat Plates: BlizzardPlates",
+    "key": "neat-plates-blizzardplates",
+    "dir": [
+      "NeatPlates_BlizzardPlates"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 299093,
     "name": "NeatPlates",
     "key": "neatplates",
@@ -47625,6 +47685,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 362524,
+    "name": "NexusRaidTracker",
+    "key": "nexusraidtracker",
+    "dir": [
+      "ClassicRaidTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 96705,
@@ -50270,6 +50340,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 362574,
+    "name": "Personal Dps Assistant (PDA) - Classic",
+    "key": "personal-dps-assistant-pda-classic",
+    "dir": [
+      "PDA-Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102044,
@@ -65430,16 +65510,6 @@
     "mode": 1
   },
   {
-    "id": 91219,
-    "name": "Tasks",
-    "key": "tasks",
-    "dir": [
-      "Tasks"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 2796,
     "name": "Taste The Naimbow",
     "key": "taste-the-naimbow",
@@ -66039,6 +66109,16 @@
     "key": "threatclassic2",
     "dir": [
       "ThreatClassic2"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 362403,
+    "name": "ThreatMeterQuery",
+    "key": "threatmeterquery",
+    "dir": [
+      "ThreatMeterQuery"
     ],
     "source": "curse",
     "mode": 2
