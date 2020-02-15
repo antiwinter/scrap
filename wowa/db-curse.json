@@ -16434,6 +16434,16 @@
     "mode": 1
   },
   {
+    "id": 362731,
+    "name": "Corruption Name Tooltips",
+    "key": "corruption-name-tooltips",
+    "dir": [
+      "CorruptionNameTooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 360960,
     "name": "Corruption Tooltips",
     "key": "corruption-tooltips",
@@ -16473,6 +16483,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 362766,
+    "name": "CountIt",
+    "key": "countit",
+    "dir": [
+      "CountIt"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 273079,
@@ -59567,6 +59587,16 @@
     "mode": 1
   },
   {
+    "id": 362799,
+    "name": "SharedMedia_Maslengo",
+    "key": "sharedmedia_maslengo",
+    "dir": [
+      "SharedMedia_Maslengo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 322243,
     "name": "SharedMedia_N6",
     "key": "sharedmedia_n6",
@@ -64807,6 +64837,16 @@
     "mode": 1
   },
   {
+    "id": 362834,
+    "name": "Séparateur de nombre",
+    "key": "separateur-de-nombre",
+    "dir": [
+      "Separateur_de_nombre"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 300235,
     "name": "TBag-GagStv",
     "key": "tbag-gagstv",
@@ -65407,6 +65447,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 362811,
+    "name": "TargetAnnouncer",
+    "key": "targetannouncer",
+    "dir": [
+      "TargetAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 560,
