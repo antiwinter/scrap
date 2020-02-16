@@ -6541,7 +6541,7 @@
       "BagSync"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 5845,
@@ -41782,7 +41782,7 @@
       "Lorti-UI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 16305,
@@ -59046,6 +59046,16 @@
     "mode": 1
   },
   {
+    "id": 362834,
+    "name": "Separateur de nombre",
+    "key": "separateur-de-nombre",
+    "dir": [
+      "Separateur_de_nombre"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101569,
     "name": "Seraphim Dice",
     "key": "seraphim-dice",
@@ -64837,16 +64847,6 @@
     "mode": 1
   },
   {
-    "id": 362834,
-    "name": "Séparateur de nombre",
-    "key": "separateur-de-nombre",
-    "dir": [
-      "Separateur_de_nombre"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 300235,
     "name": "TBag-GagStv",
     "key": "tbag-gagstv",
@@ -70488,7 +70488,7 @@
       "ValhallaGuildTools"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 96359,
@@ -78774,7 +78774,7 @@
       "xanErrorDevourer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 22072,
