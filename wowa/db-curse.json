@@ -2678,7 +2678,7 @@
   {
     "id": 325843,
     "name": "Announce Rare",
-    "key": "announce-rare",
+    "key": "announcerare",
     "dir": [
       "AnnounceRare"
     ],
@@ -14576,6 +14576,16 @@
     "mode": 2
   },
   {
+    "id": 358014,
+    "name": "ClassicInstantHealth",
+    "key": "classicinstanthealth",
+    "dir": [
+      "ClassicInstantHealth"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 348415,
     "name": "ClassicInterrupt",
     "key": "classicinterrupt",
@@ -22549,7 +22559,7 @@
   {
     "id": 360982,
     "name": "ElvUI Corruption Datatext",
-    "key": "elvui-corruption-datatext",
+    "key": "elvui-corruptiondt",
     "dir": [
       "ElvUI_CorruptionDT"
     ],
@@ -22677,16 +22687,6 @@
     "mode": 1
   },
   {
-    "id": 322663,
-    "name": "ElvUI Game Menu Datatext",
-    "key": "elvui-micro-menu-datatext",
-    "dir": [
-      "ElvUI_MicroMenuDatatext"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 87690,
     "name": "ElvUI Garrison Resources DataText",
     "key": "elvui_garrisonres",
@@ -22739,7 +22739,7 @@
   {
     "id": 50157,
     "name": "ElvUI Item Level Datatext",
-    "key": "elvui_itemlevel",
+    "key": "elvui-itemleveldatatext",
     "dir": [
       "ElvUI_ItemLevelDatatext"
     ],
@@ -22798,6 +22798,16 @@
     "mode": 3
   },
   {
+    "id": 322663,
+    "name": "ElvUI Micro Menu Datatext",
+    "key": "elvui-micromenudatatext",
+    "dir": [
+      "ElvUI_MicroMenuDatatext"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 35686,
     "name": "ElvUI Microbar Enhancement",
     "key": "elvui-microbar",
@@ -22841,7 +22851,7 @@
   {
     "id": 40227,
     "name": "ElvUI Professions Datatext",
-    "key": "elvui_professions",
+    "key": "elvui-professions",
     "dir": [
       "ElvUI_Professions"
     ],
@@ -27199,6 +27209,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 362868,
+    "name": "GBankClassic",
+    "key": "gbankclassic",
+    "dir": [
+      "GBankClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 25575,
@@ -33358,6 +33378,16 @@
     "mode": 1
   },
   {
+    "id": 362636,
+    "name": "Hide Quest Objectives",
+    "key": "hide-quest-objectives",
+    "dir": [
+      "HideQuestObjectives"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 56253,
     "name": "Hide Quest Tracker",
     "key": "hide-quest-tracker",
@@ -33436,16 +33466,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 362636,
-    "name": "Hide quest Objectives",
-    "key": "hide-quest-objectives",
-    "dir": [
-      "HideQuestObjectives"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 255249,
@@ -40008,6 +40028,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358013,
+    "name": "LibInstantHealth",
+    "key": "libinstanthealth-1-0",
+    "dir": [
+      "LibInstantHealth-1.0"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14292,
@@ -64696,6 +64726,26 @@
     "mode": 1
   },
   {
+    "id": 362985,
+    "name": "Sweetsour's Audio Pack - Theun",
+    "key": "sweetsours-audio-pack-theun",
+    "dir": [
+      "CustomAudio-Theun"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 362986,
+    "name": "Sweetsour's Audio Pack - Wolf",
+    "key": "sweetsours-audio-pack-wolf",
+    "dir": [
+      "CustomAudio-Wolf"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 285044,
     "name": "Sweetsour's Audio Pack - Yoshi",
     "key": "sweetsours-audio-pack-yoshi",
@@ -64721,6 +64771,46 @@
     "key": "sweetsours-custom-audio",
     "dir": [
       "CustomAudio"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 362971,
+    "name": "Sweetsour's Custom Audio Voicepack - Fish",
+    "key": "sweetsours-custom-audio-voicepack-fish",
+    "dir": [
+      "CustomAudio-Fish"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 362972,
+    "name": "Sweetsour's Custom Audio Voicepack - Katt",
+    "key": "sweetsours-custom-audio-voicepack-katt",
+    "dir": [
+      "CustomAudio-Katt"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 362976,
+    "name": "Sweetsour's Custom Audio Voicepack - MissBunnieBell",
+    "key": "sweetsours-custom-audio-voicepack-missbunniebell",
+    "dir": [
+      "CustomAudio-MissBunnieBell"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 362979,
+    "name": "Sweetsour's Custom Audio Voicepack - Spelnos",
+    "key": "sweetsours-custom-audio-voicepack-spelnos",
+    "dir": [
+      "CustomAudio-Spelnos"
     ],
     "source": "curse",
     "mode": 1
@@ -68393,6 +68483,16 @@
     "key": "tooltip-item-count",
     "dir": [
       "TooltipItemCount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 363098,
+    "name": "Tooltip Item Level",
+    "key": "tooltip-item-level",
+    "dir": [
+      "TooltipItemLevel"
     ],
     "source": "curse",
     "mode": 1
@@ -76486,6 +76586,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 362904,
+    "name": "iEPGP",
+    "key": "iepgp",
+    "dir": [
+      "iEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 99700,
