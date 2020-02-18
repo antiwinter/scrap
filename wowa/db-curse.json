@@ -9616,7 +9616,7 @@
       "Bookie"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 302041,
@@ -14740,7 +14740,6 @@
     "name": "Claw",
     "key": "claw",
     "dir": [
-      "Claw_Resources",
       "Claw",
       "Basic_Resources"
     ],
@@ -16459,6 +16458,16 @@
     "key": "corruption-tooltips",
     "dir": [
       "CorruptionTooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 363347,
+    "name": "CorruptionAffix",
+    "key": "corruptionaffix",
+    "dir": [
+      "CorruptionAffix"
     ],
     "source": "curse",
     "mode": 1
@@ -18856,8 +18865,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18866,7 +18873,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -74212,6 +74221,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 363346,
+    "name": "Xanesh Practice",
+    "key": "xanesh-practice",
+    "dir": [
+      "XaneshPractice"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 303151,
