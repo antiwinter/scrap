@@ -18865,6 +18865,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -18873,9 +18875,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -20727,6 +20727,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363571,
+    "name": "Doughboy",
+    "key": "doughboy",
+    "dir": [
+      "Doughboy"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 23033,
@@ -23181,6 +23191,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363472,
+    "name": "ElvUI_LuckyoneUI",
+    "key": "elvui_luckyoneui",
+    "dir": [
+      "ElvUI_LuckyoneUI"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 312002,
@@ -41411,6 +41431,16 @@
     "mode": 2
   },
   {
+    "id": 363570,
+    "name": "Loot Spec Swapper",
+    "key": "lootspecswapper",
+    "dir": [
+      "LootSpecSwapper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 93818,
     "name": "Loot Toasts",
     "key": "loot-toasts",
@@ -45192,6 +45222,16 @@
     "mode": 2
   },
   {
+    "id": 363463,
+    "name": "Modern TargetFrame",
+    "key": "modern-targetframe",
+    "dir": [
+      "ModernTargetFrame"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 351855,
     "name": "Mog Assistant",
     "key": "mog-assistant",
@@ -47714,6 +47754,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363583,
+    "name": "Never Locky",
+    "key": "never-locky",
+    "dir": [
+      "NeverLocky"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 301155,
@@ -52764,6 +52814,16 @@
     "mode": 3
   },
   {
+    "id": 363452,
+    "name": "ProletenBäm",
+    "key": "proletenbam",
+    "dir": [
+      "ProletenBam"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 261091,
     "name": "PromisesCounter",
     "key": "promisescounter",
@@ -56279,16 +56339,6 @@
     "mode": 1
   },
   {
-    "id": 338835,
-    "name": "Real Mob Health",
-    "key": "real-mob-health",
-    "dir": [
-      "RealMobHealth"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 358278,
     "name": "RealDamage",
     "key": "realdamage",
@@ -58148,6 +58198,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363233,
+    "name": "Safe Pull Classic",
+    "key": "safe-pull-classic",
+    "dir": [
+      "SafePullClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 29171,
@@ -78365,16 +78425,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 349175,
-    "name": "tdBag2",
-    "key": "tdbag2",
-    "dir": [
-      "tdBag2"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 354831,
