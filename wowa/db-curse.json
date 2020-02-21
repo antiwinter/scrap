@@ -2360,23 +2360,23 @@
       "Altoholic_Guild",
       "Altoholic_Search",
       "Altoholic_Summary",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
-      "DataStore_Inventory",
-      "DataStore_Mails",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
       "DataStore_Currencies",
       "DataStore_Garrisons",
+      "DataStore_Inventory",
+      "DataStore_Mails",
       "DataStore_Pets",
+      "DataStore_Quests",
+      "DataStore_Reputations",
       "DataStore_Spells",
       "DataStore_Stats",
-      "DataStore_Talents"
+      "DataStore_Talents",
+      "DataStore"
     ],
     "source": "curse",
     "mode": 3
@@ -7764,6 +7764,16 @@
     "mode": 1
   },
   {
+    "id": 360318,
+    "name": "Best In Slot - Classic",
+    "key": "best-in-slot-classic",
+    "dir": [
+      "BestInSlotClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 282320,
     "name": "Best In Slot Redux",
     "key": "bestinslotredux",
@@ -9114,6 +9124,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363665,
+    "name": "Blizzard Interface Display Manager",
+    "key": "blizzard-interface-display-manager",
+    "dir": [
+      "BlizzardInterfaceDisplayManager"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 257283,
@@ -17251,6 +17271,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363640,
+    "name": "DBM Voice Pack - Dowbones Classic",
+    "key": "dbm-voice-pack-dowbones-classic",
+    "dir": [
+      "DBM-VPDowbonesClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 285833,
@@ -36507,6 +36537,16 @@
     "key": "jerk-script",
     "dir": [
       "JerkScript"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 345010,
+    "name": "JitterDKP Classic",
+    "key": "jitterdkp-classic",
+    "dir": [
+      "JitterDKP"
     ],
     "source": "curse",
     "mode": 2
