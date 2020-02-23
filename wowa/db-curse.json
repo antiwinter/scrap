@@ -2057,6 +2057,16 @@
     "mode": 2
   },
   {
+    "id": 363289,
+    "name": "Air Warlock Classic",
+    "key": "air-warlock-classic",
+    "dir": [
+      "AirWarlock"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 67669,
     "name": "Aiue's Quest Tracker (AQT)",
     "key": "aqt",
@@ -15037,6 +15047,16 @@
     "mode": 1
   },
   {
+    "id": 363803,
+    "name": "Cloudy Tooltip Mod (Classic)",
+    "key": "cloudy-tooltip-mod-classic",
+    "dir": [
+      "CloudyTooltipMod"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 60238,
     "name": "Cloudy TradeSkill",
     "key": "cloudy-trade-skill",
@@ -15047,6 +15067,16 @@
     "mode": 1
   },
   {
+    "id": 363811,
+    "name": "Cloudy TradeSkill (Classic)",
+    "key": "cloudy-tradeskill-classic",
+    "dir": [
+      "CloudyTradeSkill"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 51819,
     "name": "Cloudy Tweaks",
     "key": "cloudy-tweaks",
@@ -15055,6 +15085,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363809,
+    "name": "Cloudy Tweaks (Classic)",
+    "key": "cloudy-tweaks-classic",
+    "dir": [
+      "CloudyTweaks"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 50465,
@@ -19947,7 +19987,7 @@
   },
   {
     "id": 75162,
-    "name": "Details!: Advanced Death Logs (plugin)",
+    "name": "Details! Damage Meter: Advanced Death Logs (plugin)",
     "key": "details-advanced-death-logs-plug",
     "dir": [
       "Details_DeathGraphs"
@@ -19957,10 +19997,40 @@
   },
   {
     "id": 79620,
-    "name": "Details!: Chart Viewer (plugin)",
+    "name": "Details! Damage Meter: Chart Viewer (plugin)",
     "key": "details-chart-viewer-plugin",
     "dir": [
       "Details_ChartViewer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 68269,
+    "name": "Details! Damage Meter: Raid Power Bars (plugin)",
+    "key": "details_raidpowerbars",
+    "dir": [
+      "Details_RaidPowerBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 95101,
+    "name": "Details! Damage Meter: Target Caller (plugin)",
+    "key": "details-target-caller-plugin",
+    "dir": [
+      "Details_TargetCaller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 70350,
+    "name": "Details! Damage Meter: Time Line (plugin)",
+    "key": "details_timeline",
+    "dir": [
+      "Details_TimeLine"
     ],
     "source": "curse",
     "mode": 1
@@ -19971,6 +20041,16 @@
     "key": "details-explosive-orbs-plugin",
     "dir": [
       "Details_ExplosiveOrbs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 97288,
+    "name": "Details!: Framework (library)",
+    "key": "libdframework",
+    "dir": [
+      "LibDFramework-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -19989,16 +20069,6 @@
     "mode": 1
   },
   {
-    "id": 68269,
-    "name": "Details!: Raid Power Bars (plugin)",
-    "key": "details_raidpowerbars",
-    "dir": [
-      "Details_RaidPowerBars"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 361700,
     "name": "Details!: Sunder Count (plugin)",
     "key": "details-sundercount-plugin",
@@ -20007,26 +20077,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 95101,
-    "name": "Details!: Target Caller (plugin)",
-    "key": "details-target-caller-plugin",
-    "dir": [
-      "Details_TargetCaller"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 70350,
-    "name": "Details!: Time Line (plugin)",
-    "key": "details_timeline",
-    "dir": [
-      "Details_TimeLine"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 325056,
@@ -23230,7 +23280,7 @@
       "ElvUI_LuckyoneUI"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 312002,
@@ -30877,6 +30927,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363791,
+    "name": "Guild In Tooltip",
+    "key": "guildintooltip",
+    "dir": [
+      "GuildInTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 271917,
@@ -39257,16 +39317,6 @@
     "mode": 1
   },
   {
-    "id": 97288,
-    "name": "Lib Details! Framework",
-    "key": "libdframework",
-    "dir": [
-      "LibDFramework-1.0"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102037,
     "name": "Lib-Scenarios",
     "key": "lib-scenarios",
@@ -42263,6 +42313,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363880,
+    "name": "MHealth",
+    "key": "mhealth",
+    "dir": [
+      "MHealth"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 290344,
@@ -51180,6 +51240,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363764,
+    "name": "PhantomPlates",
+    "key": "phantomplates",
+    "dir": [
+      "PhantomPlates"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 70476,
@@ -78816,6 +78886,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 363785,
+    "name": "whoa BlueShamans",
+    "key": "whoa-blueshamans",
+    "dir": [
+      "whoaBlueShamans"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102099,
