@@ -36347,6 +36347,16 @@
     "mode": 1
   },
   {
+    "id": 361017,
+    "name": "J4FTools",
+    "key": "j4ftools",
+    "dir": [
+      "J4FTools"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 317881,
     "name": "JCS Media Sounds",
     "key": "jcs-media-sounds",
@@ -51124,7 +51134,8 @@
       "PetTracker_Config",
       "PetTracker_Upgrades",
       "PetTracker_Journal",
-      "PetTracker"
+      "PetTracker",
+      "PetTracker_Battle"
     ],
     "source": "curse",
     "mode": 1
