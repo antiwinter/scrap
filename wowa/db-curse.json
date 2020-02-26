@@ -5050,6 +5050,16 @@
     "mode": 2
   },
   {
+    "id": 364525,
+    "name": "AutoDispell",
+    "key": "autodispell",
+    "dir": [
+      "AutoDispell"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 81161,
     "name": "AutoDrink",
     "key": "auto-drink",
@@ -13831,6 +13841,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 364226,
+    "name": "Chumli died!",
+    "key": "chumli-died",
+    "dir": [
+      "ChumliDied"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 98937,
@@ -22921,8 +22941,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts_Classic",
-      "ElvUI_NutsAndBolts"
+      "ElvUI_NutsAndBolts",
+      "ElvUI_NutsAndBolts_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -23175,8 +23195,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -23484,6 +23504,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 364372,
+    "name": "Emoji",
+    "key": "emoji",
+    "dir": [
+      "Emoji"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 307318,
@@ -30609,7 +30639,7 @@
   },
   {
     "id": 335816,
-    "name": "GuideLime_TUGs The Ultimate Alliance Leveling Guide | All Races | 1-60 | 1-5man viable",
+    "name": "GuideLime_The_Ultimate_Leveling_Guide",
     "key": "guidelime_tugs",
     "dir": [
       "GuideLime_TUGs"
@@ -30653,6 +30683,16 @@
     "key": "guidelime-busteas-1-60-leveling",
     "dir": [
       "Guidelime_Bustea's 1-60 leveling"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 364472,
+    "name": "Guidelime_Bustea's 1-60 Horde and Alliance Grinding Guide",
+    "key": "guidelime_busteas-1-60-horde-and-alliance-grinding",
+    "dir": [
+      "Guidelime_Bustea's 1-60 Grinding Horde and Alliance"
     ],
     "source": "curse",
     "mode": 2
@@ -32432,6 +32472,16 @@
     "key": "handynotes_suramarlocations",
     "dir": [
       "HandyNotes_SuramarLocations"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 345781,
+    "name": "HandyNotes_Syd'sChestAddOn",
+    "key": "handynotes-syds-chest-addon",
+    "dir": [
+      "HandyNotes_WitheredChests"
     ],
     "source": "curse",
     "mode": 1
@@ -47581,6 +47631,16 @@
     "mode": 1
   },
   {
+    "id": 364376,
+    "name": "NauticusClassic",
+    "key": "nauticusclassic",
+    "dir": [
+      "NauticusClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 71177,
     "name": "Navigator ",
     "key": "nav",
@@ -61919,6 +61979,16 @@
     "mode": 1
   },
   {
+    "id": 290416,
+    "name": "SmartTooltip",
+    "key": "smarttooltip",
+    "dir": [
+      "SmartTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86565,
     "name": "Smashed Library",
     "key": "smashed-library",
@@ -71179,7 +71249,7 @@
   {
     "id": 361950,
     "name": "Viking HUD",
-    "key": "viking-hud",
+    "key": "vikinghud",
     "dir": [
       "VikingHud"
     ],
@@ -71192,6 +71262,16 @@
     "key": "vikingspy",
     "dir": [
       "VikingSpy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 364561,
+    "name": "VikingSharedLib",
+    "key": "vikingsharedlib",
+    "dir": [
+      "VikingSharedLib"
     ],
     "source": "curse",
     "mode": 2
@@ -71582,6 +71662,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 364070,
+    "name": "WEmote",
+    "key": "wemote",
+    "dir": [
+      "WEmote"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 94717,
@@ -73628,6 +73718,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 363828,
+    "name": "World Buff Tracker Evolution",
+    "key": "world-buff-tracker-evolution",
+    "dir": [
+      "WorldBuffTrackerEvolution"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 53217,
