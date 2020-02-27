@@ -24956,7 +24956,7 @@
       "FadeObjectiveTracker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 40144,
@@ -65799,6 +65799,16 @@
     "mode": 1
   },
   {
+    "id": 364668,
+    "name": "TargetActionsButton (Follow, Inspect, Trade)",
+    "key": "targetactionsbutton-follow-inspect-trade",
+    "dir": [
+      "TargetActionsButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 362811,
     "name": "TargetAnnouncer",
     "key": "targetannouncer",
@@ -70633,9 +70643,9 @@
     "dir": [
       "UnitFramesPlus_Options",
       "UnitFramesPlus",
-      "UnitFramesPlus_Threat",
       "UnitFramesPlus_Cooldown",
-      "UnitFramesPlus_MobHealth"
+      "UnitFramesPlus_MobHealth",
+      "UnitFramesPlus_Threat"
     ],
     "source": "curse",
     "mode": 3
@@ -71245,16 +71255,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 361950,
-    "name": "Viking HUD",
-    "key": "vikinghud",
-    "dir": [
-      "VikingHud"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 358502,
@@ -78646,6 +78646,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 349175,
+    "name": "tdBag2",
+    "key": "tdbag2",
+    "dir": [
+      "tdBag2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 354831,
