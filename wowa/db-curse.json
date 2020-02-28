@@ -48895,7 +48895,7 @@
       "Nys_ToDoList"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86005,
@@ -55366,8 +55366,8 @@
     "name": "RaidAchievement_WoD",
     "key": "raidachievement_wod",
     "dir": [
-      "RaidAchievement_WoDRaids",
-      "RaidAchievement_WoDHeroics"
+      "RaidAchievement_WoDHeroics",
+      "RaidAchievement_WoDRaids"
     ],
     "source": "curse",
     "mode": 1
@@ -65016,6 +65016,16 @@
     "mode": 1
   },
   {
+    "id": 364790,
+    "name": "Sweetsour's Auto Tracker",
+    "key": "sweetsours-auto-tracker",
+    "dir": [
+      "AutoTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 296418,
     "name": "Sweetsour's Azerite Power Finder",
     "key": "sweetsours-azerite-power-finder",
@@ -71255,6 +71265,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 364713,
+    "name": "Viking HUD",
+    "key": "vikinghud",
+    "dir": [
+      "VikingHud"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 358502,
@@ -79245,7 +79265,7 @@
       "xanSoundAlerts"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28601,
