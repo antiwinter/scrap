@@ -1053,6 +1053,16 @@
     "mode": 1
   },
   {
+    "id": 364877,
+    "name": "AchievementHelperRe",
+    "key": "achievementhelperre",
+    "dir": [
+      "AchievementHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 56954,
     "name": "AchievementsReminder",
     "key": "achievementsreminder",
