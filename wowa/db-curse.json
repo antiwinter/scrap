@@ -9397,16 +9397,6 @@
     "mode": 1
   },
   {
-    "id": 334684,
-    "name": "BlueShamans",
-    "key": "blueshamans",
-    "dir": [
-      "BlueShamans"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 287472,
     "name": "Blueberry (Entropic Embrace Sound Notification)",
     "key": "blueberry",
@@ -23205,8 +23195,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -30475,16 +30465,6 @@
     "mode": 1
   },
   {
-    "id": 309586,
-    "name": "GroupLootContainerFix",
-    "key": "grouplootcontainerfix",
-    "dir": [
-      "GroupLootContainerFix"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 66055,
     "name": "GroupProgress",
     "key": "groupprogress",
@@ -36357,6 +36337,16 @@
     "mode": 2
   },
   {
+    "id": 365049,
+    "name": "ItemRoller",
+    "key": "itemroller",
+    "dir": [
+      "ItemRoller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 21900,
     "name": "ItemScore",
     "key": "itemscore",
@@ -40496,7 +40486,7 @@
       "LibProcessable"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 342783,
@@ -42263,33 +42253,6 @@
     "key": "lustpopper",
     "dir": [
       "LustPopper"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 300687,
-    "name": "LynxUI",
-    "key": "lynxui",
-    "dir": [
-      "LynxUI_ActionBar",
-      "LynxUI_Bags",
-      "LynxUI_Bundle",
-      "LynxUI_CastingBar",
-      "LynxUI_Chat",
-      "LynxUI_Details",
-      "LynxUI_Frames",
-      "LynxUI_Interrupts",
-      "LynxUI_Mailbox",
-      "LynxUI_Options",
-      "LynxUI_SellJunk",
-      "LynxUI_Skin",
-      "LynxUI_Speedometer",
-      "LynxUI_Tooltip",
-      "LynxUI_Tweaks",
-      "LynxUI_UnitFrames",
-      "LynxUI",
-      "LynxUI_Hints"
     ],
     "source": "curse",
     "mode": 1
@@ -52244,7 +52207,7 @@
       "PortalMage"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101962,
@@ -59927,6 +59890,16 @@
     "mode": 1
   },
   {
+    "id": 365276,
+    "name": "SharedMedia_dnnsGT",
+    "key": "sharedmedia_dnnsgt",
+    "dir": [
+      "SharedMedia_dnnsGT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295122,
     "name": "SharpRangeCollector",
     "key": "sharprangecollector",
@@ -60453,6 +60426,26 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365227,
+    "name": "Silly Jump Sound",
+    "key": "silly-jump-sound",
+    "dir": [
+      "SillyJumpSound"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 365081,
+    "name": "SillyPrice",
+    "key": "sillyprice",
+    "dir": [
+      "SillyPrice"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 338675,
@@ -67011,7 +67004,7 @@
       "TinyPad"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 2403,
@@ -71275,6 +71268,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365391,
+    "name": "Viking Graveyards",
+    "key": "vikinggraveyards",
+    "dir": [
+      "VikingGraveyards"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 364713,
