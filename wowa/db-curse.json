@@ -2372,7 +2372,6 @@
     "name": "Altoholic",
     "key": "altoholic",
     "dir": [
-      "Altoholic",
       "Altoholic_Achievements",
       "Altoholic_Agenda",
       "Altoholic_Characters",
@@ -2380,23 +2379,24 @@
       "Altoholic_Guild",
       "Altoholic_Search",
       "Altoholic_Summary",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
+      "Altoholic",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
       "DataStore_Inventory",
       "DataStore_Mails",
-      "DataStore_Pets",
       "DataStore_Quests",
       "DataStore_Reputations",
+      "DataStore",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
+      "DataStore_Pets",
       "DataStore_Spells",
       "DataStore_Stats",
-      "DataStore_Talents",
-      "DataStore"
+      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 3
@@ -8068,6 +8068,16 @@
     "mode": 1
   },
   {
+    "id": 365590,
+    "name": "Better Tool Tip",
+    "key": "better-tool-tip",
+    "dir": [
+      "BetterTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 321889,
     "name": "Better Twitch Emotes",
     "key": "better-twitch-emotes",
@@ -11459,6 +11469,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365262,
+    "name": "Buff Cap Tracker (Classic)",
+    "key": "buff-cap-tracker-classic",
+    "dir": [
+      "BCT"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 96236,
@@ -24239,6 +24259,17 @@
     "mode": 1
   },
   {
+    "id": 365416,
+    "name": "Essential DKP",
+    "key": "essential-dkp",
+    "dir": [
+      "MonolithDKP",
+      "EssentialDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 86104,
     "name": "Evening Wear",
     "key": "evening-wear",
@@ -33235,6 +33266,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365465,
+    "name": "HiberniaDKP",
+    "key": "hiberniadkp",
+    "dir": [
+      "HiberniaDKP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 255274,
@@ -54422,6 +54463,16 @@
     "mode": 1
   },
   {
+    "id": 354632,
+    "name": "QuickStatsLive",
+    "key": "quickstatslive",
+    "dir": [
+      "QuickStatsLive-Classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 335287,
     "name": "QuickTargets",
     "key": "quicktargets",
@@ -65752,6 +65803,16 @@
     "mode": 1
   },
   {
+    "id": 364996,
+    "name": "Target 3D Model Viewer",
+    "key": "target-3d-model-viewer",
+    "dir": [
+      "Target_3D_Model_Viewer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 94693,
     "name": "Target Check",
     "key": "targetcheck",
@@ -65780,6 +65841,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 364951,
+    "name": "Target Health",
+    "key": "target-health",
+    "dir": [
+      "TargetHealth"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20590,
@@ -66161,7 +66232,7 @@
       "Tetra"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 27494,
