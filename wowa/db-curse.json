@@ -2380,23 +2380,23 @@
       "Altoholic_Search",
       "Altoholic_Summary",
       "Altoholic",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
-      "DataStore_Inventory",
-      "DataStore_Mails",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
       "DataStore_Currencies",
       "DataStore_Garrisons",
+      "DataStore_Inventory",
+      "DataStore_Mails",
       "DataStore_Pets",
+      "DataStore_Quests",
+      "DataStore_Reputations",
       "DataStore_Spells",
       "DataStore_Stats",
-      "DataStore_Talents"
+      "DataStore_Talents",
+      "DataStore"
     ],
     "source": "curse",
     "mode": 3
@@ -41038,7 +41038,7 @@
       "Lifebloomer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28741,
@@ -66195,6 +66195,16 @@
     "mode": 1
   },
   {
+    "id": 365680,
+    "name": "Temni Ugolok Emoji",
+    "key": "temni-ugolok",
+    "dir": [
+      "TemniUgolok"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 259473,
     "name": "Tempest Light",
     "key": "tempest-light",
@@ -77730,6 +77740,16 @@
     "key": "moui",
     "dir": [
       "moUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 365711,
+    "name": "moetQOL",
+    "key": "moetqol",
+    "dir": [
+      "moetQOL"
     ],
     "source": "curse",
     "mode": 1
