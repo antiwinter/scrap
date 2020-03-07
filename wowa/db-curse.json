@@ -21984,6 +21984,16 @@
     "mode": 1
   },
   {
+    "id": 365984,
+    "name": "Easy Invite",
+    "key": "easy-invite",
+    "dir": [
+      "EasyInvite"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 271524,
     "name": "Easy List",
     "key": "easylist",
@@ -23854,7 +23864,7 @@
       "ClassicWorldMapEnhanced"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 278353,
@@ -34509,6 +34519,16 @@
     "mode": 1
   },
   {
+    "id": 365878,
+    "name": "HunterPetBuffs",
+    "key": "hunterpetbuffs",
+    "dir": [
+      "HunterPetBuffs"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102652,
     "name": "HunterTracker",
     "key": "huntertracker",
@@ -38901,6 +38921,16 @@
     "key": "lazyspecs",
     "dir": [
       "LazySpecs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 365128,
+    "name": "Lazy_Raider",
+    "key": "lazy_raider",
+    "dir": [
+      "Lazy_Raider"
     ],
     "source": "curse",
     "mode": 1
@@ -53629,7 +53659,7 @@
   },
   {
     "id": 319411,
-    "name": "Queso (Retail & Classic)",
+    "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
       "Queso"
@@ -63279,16 +63309,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 341507,
-    "name": "Spinx Focus (Classic)",
-    "key": "spinx-focus",
-    "dir": [
-      "SpinxFocus"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 340193,
