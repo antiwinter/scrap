@@ -5571,6 +5571,16 @@
     "mode": 1
   },
   {
+    "id": 366057,
+    "name": "AutoTrack_Classic",
+    "key": "autotrack_classic",
+    "dir": [
+      "AutoTrack"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 39229,
     "name": "AutoTrackerAchievement",
     "key": "autotrackerachievement",
@@ -7792,6 +7802,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365975,
+    "name": "Berserkerclan",
+    "key": "berserkerclan",
+    "dir": [
+      "Berserker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 360318,
@@ -26050,6 +26070,16 @@
     "mode": 1
   },
   {
+    "id": 366173,
+    "name": "FixTransmogOutfits",
+    "key": "fixtransmogoutfits",
+    "dir": [
+      "FixTransmogOutfits"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102629,
     "name": "FixedBlackList",
     "key": "fixedblacklist",
@@ -35323,6 +35353,16 @@
     "mode": 1
   },
   {
+    "id": 364375,
+    "name": "Inception Loot Priority",
+    "key": "inception-bis-list",
+    "dir": [
+      "Inception_BIS_List"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 359713,
     "name": "Incite Raid Helper",
     "key": "incite-raid-helper",
@@ -35986,6 +36026,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365918,
+    "name": "InventorySets",
+    "key": "inventory-sets",
+    "dir": [
+      "InventorySets"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 28246,
@@ -45334,6 +45384,16 @@
     "mode": 1
   },
   {
+    "id": 366124,
+    "name": "MobHealthClassic",
+    "key": "mobhealthclassic",
+    "dir": [
+      "MobHealthClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 1080,
     "name": "MobInfo2",
     "key": "mobinfo2",
@@ -48738,6 +48798,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 366310,
+    "name": "Nova World Buffs",
+    "key": "nova-world-buffs",
+    "dir": [
+      "NovaWorldBuffs"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 270891,
@@ -53665,7 +53735,7 @@
       "Queso"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 3607,
@@ -56522,6 +56592,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 366194,
+    "name": "Reagent Recipes Classic",
+    "key": "reagent-recipes-classic",
+    "dir": [
+      "ReagentRecipeClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20991,
