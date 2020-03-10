@@ -35355,9 +35355,10 @@
   {
     "id": 364375,
     "name": "Inception Loot Priority",
-    "key": "inception-bis-list",
+    "key": "inception-loot-prio",
     "dir": [
-      "Inception_BIS_List"
+      "Inception_BIS_List",
+      "Inception_Loot_Priority"
     ],
     "source": "curse",
     "mode": 2
@@ -45823,6 +45824,16 @@
     "key": "monolith-dkp-bidframe",
     "dir": [
       "MonolithDKP_Bidhook"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 366490,
+    "name": "MonolithDKP EasyBid",
+    "key": "monolithdkp-easybid",
+    "dir": [
+      "MonolithDKP_EasyBid"
     ],
     "source": "curse",
     "mode": 2
@@ -69939,6 +69950,16 @@
     "mode": 1
   },
   {
+    "id": 366481,
+    "name": "Tranquilize",
+    "key": "tranquilize",
+    "dir": [
+      "Tranquilize"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 90136,
     "name": "Transcendence",
     "key": "transcendence",
@@ -70950,6 +70971,16 @@
     "key": "unstuck-windowed-from-top",
     "dir": [
       "UnstuckWindowedFromTop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 366511,
+    "name": "UnusedEssenceSlotGTFO",
+    "key": "unusedessenceslotgtfo",
+    "dir": [
+      "UnusedEssenceSlotGTFO"
     ],
     "source": "curse",
     "mode": 1
