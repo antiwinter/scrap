@@ -2308,6 +2308,16 @@
     "mode": 2
   },
   {
+    "id": 366702,
+    "name": "AltMythicList",
+    "key": "altmythiclist",
+    "dir": [
+      "AltMythicList"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 6290,
     "name": "AltTabber",
     "key": "alttab",
@@ -2734,6 +2744,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358602,
+    "name": "Announcer-Tank",
+    "key": "announcer-tank",
+    "dir": [
+      "Announcer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 41148,
@@ -4500,6 +4520,16 @@
     "mode": 1
   },
   {
+    "id": 366826,
+    "name": "Auctionator ClassicFix",
+    "key": "auctionator-classicfix",
+    "dir": [
+      "Auctionator"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 35148,
     "name": "Auctionator MiniFeatures",
     "key": "auctionator-minifeatures",
@@ -5067,7 +5097,7 @@
       "AutoDispell"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 81161,
@@ -11548,7 +11578,7 @@
       "BuffOwner"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 349856,
@@ -18995,8 +19025,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19005,7 +19033,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -27089,6 +27119,16 @@
     "mode": 1
   },
   {
+    "id": 366761,
+    "name": "Frostbolt Meter",
+    "key": "frostbolt-meter",
+    "dir": [
+      "FrostboltMeter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 335563,
     "name": "Frostbolt counter",
     "key": "frostbolt-counter",
@@ -29397,6 +29437,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 366649,
+    "name": "GoodEPGP",
+    "key": "goodepgp",
+    "dir": [
+      "GoodEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20453,
@@ -44901,6 +44951,36 @@
     "mode": 1
   },
   {
+    "id": 366599,
+    "name": "MiniHUD - AXP",
+    "key": "minihudaxp",
+    "dir": [
+      "AXPView"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 366602,
+    "name": "MiniHUD - Wallet",
+    "key": "minihudwallet",
+    "dir": [
+      "Wallet"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 366601,
+    "name": "MiniHUD - XP",
+    "key": "minihudxp",
+    "dir": [
+      "XPView"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 43440,
     "name": "MiniLoot",
     "key": "miniloot",
@@ -50171,6 +50251,16 @@
     "mode": 1
   },
   {
+    "id": 366766,
+    "name": "PajMinimapArrow",
+    "key": "pajminimaparrow",
+    "dir": [
+      "PajMinimapArrow"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2703,
     "name": "PallyPower",
     "key": "pally-power",
@@ -53743,10 +53833,11 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
+      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 3607,
@@ -56652,7 +56743,7 @@
       "ReagentCount"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 38814,
@@ -57647,6 +57738,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 366586,
+    "name": "Rewind Aggro Alert",
+    "key": "classic-rewind-aggro-alert-rwa",
+    "dir": [
+      "RWA"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 286044,
@@ -67312,6 +67413,18 @@
     "mode": 1
   },
   {
+    "id": 366808,
+    "name": "TipTac Classic",
+    "key": "tiptac-classic",
+    "dir": [
+      "TipTacOptions",
+      "TipTac",
+      "TipTacItemRef"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 53952,
     "name": "TipTacMSP",
     "key": "tiptacmsp",
@@ -71489,7 +71602,7 @@
       "VikingGraveyards"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 364713,
@@ -71499,7 +71612,7 @@
       "VikingHud"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 358502,
@@ -71509,7 +71622,7 @@
       "VikingSpy"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 364561,
@@ -71519,7 +71632,7 @@
       "VikingSharedLib"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 83550,
