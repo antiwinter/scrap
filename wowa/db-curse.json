@@ -56448,6 +56448,16 @@
     "mode": 1
   },
   {
+    "id": 366563,
+    "name": "RatBG Battleground Target Frames",
+    "key": "ratbg-battleground-target-frames",
+    "dir": [
+      "RatBG"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3377,
     "name": "RatingBuster",
     "key": "rating-buster",
