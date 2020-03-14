@@ -24323,7 +24323,6 @@
     "name": "Essential DKP",
     "key": "essential-dkp",
     "dir": [
-      "MonolithDKP",
       "EssentialDKP"
     ],
     "source": "curse",
@@ -71622,7 +71621,7 @@
       "VikingHud"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 358502,
