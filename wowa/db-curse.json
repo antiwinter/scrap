@@ -21080,24 +21080,24 @@
     "mode": 1
   },
   {
-    "id": 359065,
-    "name": "Drift",
-    "key": "drift",
-    "dir": [
-      "Drift"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 359705,
-    "name": "Drift Classic",
+    "name": "Drift (Classic)",
     "key": "driftclassic",
     "dir": [
       "Drift"
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 359065,
+    "name": "Drift (Retail)",
+    "key": "drift",
+    "dir": [
+      "Drift"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 341287,
@@ -36298,16 +36298,6 @@
     "mode": 1
   },
   {
-    "id": 102804,
-    "name": "Item Name Localized",
-    "key": "item-name-localized",
-    "dir": [
-      "ItemNameLocalized"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 16148,
     "name": "Item Notes",
     "key": "itemnotes",
@@ -36451,6 +36441,16 @@
     "key": "itemlinker",
     "dir": [
       "ItemLinker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 102804,
+    "name": "ItemNameLocalized Core",
+    "key": "item-name-localized",
+    "dir": [
+      "ItemNameLocalized_Core"
     ],
     "source": "curse",
     "mode": 1
@@ -57422,6 +57422,16 @@
     "dir": [
       "Rep2",
       "rep2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 44154,
+    "name": "RepBarColors",
+    "key": "repbarcolors",
+    "dir": [
+      "RepBarColors"
     ],
     "source": "curse",
     "mode": 1
