@@ -6878,6 +6878,16 @@
     "mode": 1
   },
   {
+    "id": 367491,
+    "name": "Baguette",
+    "key": "baguette",
+    "dir": [
+      "Baguette"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 299420,
     "name": "Baik Actionbar Module",
     "key": "baik-actionbar-module",
@@ -9776,7 +9786,7 @@
       "BootyBayGazette"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 298759,
@@ -36456,6 +36466,76 @@
     "mode": 1
   },
   {
+    "id": 367366,
+    "name": "ItemNameLocalized [French module]",
+    "key": "itemnamelocalized-frfr",
+    "dir": [
+      "ItemNameLocalized_frFR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 367361,
+    "name": "ItemNameLocalized [German module]",
+    "key": "itemnamelocalized-dede",
+    "dir": [
+      "ItemNameLocalized_deDE"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 367370,
+    "name": "ItemNameLocalized [Italian module]",
+    "key": "itemnamelocalized-itit",
+    "dir": [
+      "ItemNameLocalized_itIT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 367371,
+    "name": "ItemNameLocalized [Portuguese module]",
+    "key": "itemnamelocalized-ptbr",
+    "dir": [
+      "ItemNameLocalized_ptBR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 367372,
+    "name": "ItemNameLocalized [Russian module]",
+    "key": "itemnamelocalized-ruru",
+    "dir": [
+      "ItemNameLocalized_ruRU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 367364,
+    "name": "ItemNameLocalized [Spanish (Latin American) module]",
+    "key": "itemnamelocalized-esmx",
+    "dir": [
+      "ItemNameLocalized_esMX"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 367357,
+    "name": "ItemNameLocalized [Spanish (Spain) module]",
+    "key": "itemnamelocalized-eses",
+    "dir": [
+      "ItemNameLocalized_esES"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357857,
     "name": "ItemQuests",
     "key": "itemquests",
@@ -53682,6 +53762,16 @@
     "mode": 1
   },
   {
+    "id": 367559,
+    "name": "Quack",
+    "key": "quack",
+    "dir": [
+      "Quack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 319533,
     "name": "Quafe UI ( Quafe MEKA / Quafe Overwatch )",
     "key": "quafe-ui",
@@ -65572,6 +65662,16 @@
     "mode": 3
   },
   {
+    "id": 367548,
+    "name": "TTHide",
+    "key": "tthide",
+    "dir": [
+      "TTHide"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3250,
     "name": "TTell",
     "key": "ttell",
@@ -66042,6 +66142,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 367588,
+    "name": "Target Box",
+    "key": "target-box",
+    "dir": [
+      "Target"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 94693,
@@ -69786,7 +69896,8 @@
     "name": "TradeSkillMaster String Converter",
     "key": "tradeskillmaster-string-converter",
     "dir": [
-      "TradeSkillMaster_StringConverter"
+      "TradeSkillMaster_StringConverter",
+      "TSM_StringConverter"
     ],
     "source": "curse",
     "mode": 3
@@ -71088,6 +71199,16 @@
     "mode": 1
   },
   {
+    "id": 362640,
+    "name": "UnregisterGlobalMouse",
+    "key": "unregisterglobalmouse",
+    "dir": [
+      "UnregisterGlobalMouse"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102287,
     "name": "UnsheathMove",
     "key": "unsheathmove",
@@ -71641,7 +71762,7 @@
       "VikingSpy"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 364561,
@@ -75129,6 +75250,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 366245,
+    "name": "Yatabar",
+    "key": "yatabar",
+    "dir": [
+      "Yatabar"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 27332,
