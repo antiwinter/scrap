@@ -1405,6 +1405,16 @@
     "mode": 1
   },
   {
+    "id": 367503,
+    "name": "AdeChoresTracker",
+    "key": "adechorestracker",
+    "dir": [
+      "AdeChoresTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 267382,
     "name": "AdeptsGuideLocations",
     "key": "adeptsguidelocations",
@@ -19035,6 +19045,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19043,9 +19055,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -62635,6 +62645,16 @@
     "mode": 1
   },
   {
+    "id": 367807,
+    "name": "Socially Undead",
+    "key": "socially-undead",
+    "dir": [
+      "SociallyUndead"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 318761,
     "name": "Sokoban",
     "key": "sokoban",
@@ -71742,7 +71762,7 @@
       "VikingGraveyards"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 364713,
@@ -71759,7 +71779,8 @@
     "name": "Viking Spy",
     "key": "vikingspy",
     "dir": [
-      "VikingSpy"
+      "VikingSpy",
+      "VikingSharedLib"
     ],
     "source": "curse",
     "mode": 2
