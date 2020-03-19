@@ -26612,6 +26612,16 @@
     "mode": 2
   },
   {
+    "id": 368043,
+    "name": "FollowMePls - Auto-follow addon",
+    "key": "followmepls-auto-follow-addon",
+    "dir": [
+      "FollowMePls"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 47557,
     "name": "FollowMePlz",
     "key": "followmeplz",
