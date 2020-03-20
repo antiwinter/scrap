@@ -18017,6 +18017,16 @@
     "mode": 1
   },
   {
+    "id": 352080,
+    "name": "DKP Unity Addon",
+    "key": "dkpunity-addon",
+    "dir": [
+      "DKPUnity"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22404,
     "name": "DKPTooltip",
     "key": "dkptooltip",
@@ -18025,16 +18035,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 352080,
-    "name": "DKPUnity Addon",
-    "key": "dkpunity-addon",
-    "dir": [
-      "DKPUnity"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 87642,
@@ -23295,8 +23295,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -30447,6 +30447,16 @@
     "key": "grindon",
     "dir": [
       "Grindon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 366592,
+    "name": "Grindstone",
+    "key": "grindstone",
+    "dir": [
+      "Grindstone"
     ],
     "source": "curse",
     "mode": 1
@@ -57658,6 +57668,16 @@
     "mode": 1
   },
   {
+    "id": 366594,
+    "name": "Repper",
+    "key": "repper",
+    "dir": [
+      "Repper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 271270,
     "name": "Reprobate Files",
     "key": "reprobate-files",
@@ -58386,6 +58406,16 @@
     "key": "routes",
     "dir": [
       "Routes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 368332,
+    "name": "Routes Import/Export",
+    "key": "routes-import-export",
+    "dir": [
+      "RoutesImportExport"
     ],
     "source": "curse",
     "mode": 1
@@ -63922,6 +63952,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 368054,
+    "name": "Stat Weights Classic",
+    "key": "stat-weights-classic",
+    "dir": [
+      "stat_weights_classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14696,
@@ -70409,6 +70449,16 @@
     "key": "transmorpherstfu",
     "dir": [
       "TransmorpherSTFU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 44396,
+    "name": "Trapper's Sense",
+    "key": "trappers-sense",
+    "dir": [
+      "TrappersSense"
     ],
     "source": "curse",
     "mode": 1
