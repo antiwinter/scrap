@@ -1544,6 +1544,16 @@
     "mode": 2
   },
   {
+    "id": 366993,
+    "name": "AdiBags - Lootboxes Continuation",
+    "key": "adibags-lootboxes-continuation",
+    "dir": [
+      "AdiBags_lootboxes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 325466,
     "name": "AdiBags - Mechagon Tinkering",
     "key": "adibags-mechagon-tinkering",
@@ -26773,6 +26783,16 @@
     "mode": 1
   },
   {
+    "id": 368618,
+    "name": "FormatFix",
+    "key": "formatfix",
+    "dir": [
+      "FormatFix"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 97090,
     "name": "ForosUI frames",
     "key": "forosui-frames",
@@ -31407,6 +31427,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 368410,
+    "name": "GuildColors",
+    "key": "guildcolors",
+    "dir": [
+      "GuildColors"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 91775,
@@ -49782,6 +49812,16 @@
     "key": "ony-bag-mate",
     "dir": [
       "OnyBagMate"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 368538,
+    "name": "Onyxia Scale Cloak Checker",
+    "key": "onyxia-scale-cloak-checker",
+    "dir": [
+      "OnyxiaCloakChecker"
     ],
     "source": "curse",
     "mode": 2
