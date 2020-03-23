@@ -14890,8 +14890,7 @@
     "name": "Claw",
     "key": "claw",
     "dir": [
-      "Claw",
-      "Basic_Resources"
+      "Claw"
     ],
     "source": "curse",
     "mode": 1
@@ -41161,16 +41160,6 @@
     "mode": 1
   },
   {
-    "id": 354600,
-    "name": "LibTotemInfo",
-    "key": "libtoteminfo",
-    "dir": [
-      "!LibTotemInfo"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 336268,
     "name": "LibTourist Classic",
     "key": "libtourist-classic",
@@ -43122,7 +43111,7 @@
       "MagnetButtons"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 92914,
@@ -75950,6 +75939,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354600,
+    "name": "[Discarded] LibTotemInfo",
+    "key": "libtoteminfo",
+    "dir": [
+      "!LibTotemInfo"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 37275,
