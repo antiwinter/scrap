@@ -2523,6 +2523,16 @@
     "mode": 3
   },
   {
+    "id": 368990,
+    "name": "Amendments to the UI",
+    "key": "amendments-to-the-ui",
+    "dir": [
+      "AmendmentsUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 344535,
     "name": "Ammo Meter",
     "key": "ammo-meter",
@@ -6333,6 +6343,16 @@
     "mode": 1
   },
   {
+    "id": 369032,
+    "name": "BPGP Loot System",
+    "key": "bpgp-loot-system",
+    "dir": [
+      "BPGP-Loot-System"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 352156,
     "name": "BRD Escort Farm",
     "key": "brd-escort-farm",
@@ -7882,6 +7902,18 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 369136,
+    "name": "Best In Slot NG",
+    "key": "best-in-slot-ng",
+    "dir": [
+      "BestInSlotNG_BattleForAzerothDungeons",
+      "BestInSlotNG_BattleForAzerothRaids",
+      "BestInSlotNG"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 282320,
@@ -34136,6 +34168,16 @@
     "mode": 2
   },
   {
+    "id": 369265,
+    "name": "HidingBar",
+    "key": "hidingbar",
+    "dir": [
+      "HidingBar"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 309145,
     "name": "High Tide Mana Tracker",
     "key": "high-tide-mana-tracker",
@@ -43111,7 +43153,7 @@
       "MagnetButtons"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 92914,
@@ -53700,6 +53742,16 @@
     "mode": 1
   },
   {
+    "id": 369274,
+    "name": "Pvp Flag Timer",
+    "key": "pvp-flag-timer",
+    "dir": [
+      "PvpFlagTimer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 19579,
     "name": "PyriteStacks",
     "key": "pyritestacks",
@@ -55060,7 +55112,7 @@
       "RCLootCouncil_Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100772,
@@ -57064,6 +57116,16 @@
     "mode": 1
   },
   {
+    "id": 368844,
+    "name": "Recent",
+    "key": "recent",
+    "dir": [
+      "Recent"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295503,
     "name": "Recent Unreal Tournament Caller",
     "key": "ucalls",
@@ -57560,6 +57622,16 @@
     "key": "rep-items",
     "dir": [
       "RepItems"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 44155,
+    "name": "Rep Rate",
+    "key": "rep-rate",
+    "dir": [
+      "RepRate"
     ],
     "source": "curse",
     "mode": 1
@@ -70583,6 +70655,16 @@
     "mode": 1
   },
   {
+    "id": 370670,
+    "name": "TricksForMiki",
+    "key": "tricksformiki",
+    "dir": [
+      "TricksForMiki"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 258024,
     "name": "Trilliax Scrubber",
     "key": "trilliax-scrubber",
@@ -73565,6 +73647,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 368757,
+    "name": "Why Are You Running",
+    "key": "why-are-you-running",
+    "dir": [
+      "WhyAreYouRunning"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87636,
@@ -77290,6 +77382,16 @@
     "key": "myfonts",
     "dir": [
       "gmFonts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 368760,
+    "name": "gmGuildFriends",
+    "key": "gmguildfriends",
+    "dir": [
+      "gmGuildFriends"
     ],
     "source": "curse",
     "mode": 1
