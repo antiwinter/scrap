@@ -5530,6 +5530,16 @@
     "mode": 1
   },
   {
+    "id": 370757,
+    "name": "AutoResClassic",
+    "key": "autoresclassic",
+    "dir": [
+      "AutoResClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 313876,
     "name": "AutoResurrectAccept",
     "key": "autoresurrectaccept",
@@ -35372,6 +35382,16 @@
     "mode": 1
   },
   {
+    "id": 371116,
+    "name": "Improved LFG Search",
+    "key": "improved-lfg-search",
+    "dir": [
+      "ImprovedLFGSearch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 30888,
     "name": "Improved Loot Frame",
     "key": "improved-loot-frame",
@@ -36367,6 +36387,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 371178,
+    "name": "It Ended in Stratholme",
+    "key": "it-ended-in-stratholme",
+    "dir": [
+      "ItEndedInStratholme"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 48794,
@@ -42504,6 +42534,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 371155,
+    "name": "LuckyCharmsClassic",
+    "key": "luckycharmsclassic",
+    "dir": [
+      "LuckyCharmsClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 301803,
@@ -55112,7 +55152,7 @@
       "RCLootCouncil_Classic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 100772,
@@ -59626,6 +59666,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 370833,
+    "name": "Sekten Buff Snapshot",
+    "key": "sekten-buff-snapshot",
+    "dir": [
+      "SektenBuffSnapshot"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 45081,
@@ -66170,6 +66220,16 @@
     "key": "talkingheadframe_settings",
     "dir": [
       "TalkingHeadFrame_Settings"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 370707,
+    "name": "TameTheBeastWithin",
+    "key": "tamethebeastwithin",
+    "dir": [
+      "TameTheBeastWithin"
     ],
     "source": "curse",
     "mode": 1
@@ -73653,7 +73713,7 @@
     "name": "Why Are You Running",
     "key": "why-are-you-running",
     "dir": [
-      "WhyAreYouRunning"
+      "WhyAreYouRunningv0_2"
     ],
     "source": "curse",
     "mode": 2
