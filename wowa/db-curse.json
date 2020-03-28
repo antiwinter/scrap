@@ -1704,6 +1704,16 @@
     "mode": 1
   },
   {
+    "id": 371294,
+    "name": "AdiBags_Cosmetic",
+    "key": "adibags_cosmetic",
+    "dir": [
+      "AdiBags_Cosmetic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89334,
     "name": "AdiBags_Garrison",
     "key": "adibags_garrison",
@@ -5615,6 +5625,16 @@
     "key": "autospecequip",
     "dir": [
       "AutoSpecEquip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 371254,
+    "name": "AutoSpit",
+    "key": "autospit",
+    "dir": [
+      "AutoSpit"
     ],
     "source": "curse",
     "mode": 1
@@ -17464,6 +17484,16 @@
     "mode": 1
   },
   {
+    "id": 370973,
+    "name": "DBM Fail Sounds",
+    "key": "dbm-fail-sounds",
+    "dir": [
+      "DBM-Fail-Sounds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 306880,
     "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v8.0.1)",
     "key": "dbm-voice-pack-korean-female-dingdiring",
@@ -18894,16 +18924,6 @@
     "key": "datastore_crafts",
     "dir": [
       "DataStore_Crafts"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20207,
-    "name": "DataStore_Currencies",
-    "key": "datastore_currencies",
-    "dir": [
-      "DataStore_Currencies"
     ],
     "source": "curse",
     "mode": 1
@@ -28256,6 +28276,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 371278,
+    "name": "Gathering",
+    "key": "gathering",
+    "dir": [
+      "Gathering"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 272769,
@@ -41522,16 +41552,6 @@
     "mode": 1
   },
   {
-    "id": 29851,
-    "name": "Liquidator",
-    "key": "liquidator",
-    "dir": [
-      "Liquidator"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 47184,
     "name": "Liquorice",
     "key": "liquorice",
@@ -47990,7 +48010,8 @@
     "name": "Narcissus",
     "key": "narcissus",
     "dir": [
-      "Narcissus"
+      "Narcissus",
+      "Narcissus_Database"
     ],
     "source": "curse",
     "mode": 1
