@@ -37292,16 +37292,6 @@
     "mode": 1
   },
   {
-    "id": 24848,
-    "name": "JunkDrop",
-    "key": "junkdrop",
-    "dir": [
-      "junkdrop"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 305270,
     "name": "Junker",
     "key": "junker",
@@ -75934,6 +75924,16 @@
     "mode": 1
   },
   {
+    "id": 371686,
+    "name": "Zone Mount",
+    "key": "zone-mount",
+    "dir": [
+      "ZoneMount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 299232,
     "name": "Zone Quest Abandon",
     "key": "zone-quest-abandon",
@@ -79665,6 +79665,16 @@
     "key": "vcore",
     "dir": [
       "vCore"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 371632,
+    "name": "vGambler",
+    "key": "vgambler",
+    "dir": [
+      "vGambler"
     ],
     "source": "curse",
     "mode": 1
