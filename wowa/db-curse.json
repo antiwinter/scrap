@@ -1332,7 +1332,7 @@
       "AddOnSkins"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 90853,
@@ -7119,6 +7119,16 @@
     "mode": 1
   },
   {
+    "id": 371996,
+    "name": "BananaraidSpliT - easy raid split",
+    "key": "bananaraidsplit",
+    "dir": [
+      "BananaraidSpliT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29691,
     "name": "Bandits Guile Helper",
     "key": "bandits-guile-helper",
@@ -12122,6 +12132,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 370700,
+    "name": "CCRA Gnoblinboi",
+    "key": "ccra-gnoblinboi",
+    "dir": [
+      "ClassicRaidAssist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 28769,
@@ -21974,6 +21994,16 @@
     "mode": 1
   },
   {
+    "id": 372044,
+    "name": "EXT - Ed's XP Tracker",
+    "key": "ext-eds-experience-tracker",
+    "dir": [
+      "EXT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 345585,
     "name": "EZ Mount",
     "key": "ez-mount",
@@ -23366,8 +23396,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -34586,6 +34616,16 @@
     "mode": 2
   },
   {
+    "id": 372147,
+    "name": "Hoot Monitor",
+    "key": "hoot-monitor",
+    "dir": [
+      "HootMonitor"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89776,
     "name": "Hop",
     "key": "hop",
@@ -36244,6 +36284,16 @@
     "key": "inventory-sets",
     "dir": [
       "InventorySets"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 371881,
+    "name": "InvictusRaidAddon",
+    "key": "invictusraidaddon",
+    "dir": [
+      "SaladcreamDied"
     ],
     "source": "curse",
     "mode": 2
@@ -50532,6 +50582,16 @@
     "mode": 1
   },
   {
+    "id": 367232,
+    "name": "PantheonDKP",
+    "key": "pantheondkp",
+    "dir": [
+      "PantheonDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 358868,
     "name": "Pants",
     "key": "pants",
@@ -55301,6 +55361,16 @@
     "mode": 1
   },
   {
+    "id": 372241,
+    "name": "RP Chat Bubbles",
+    "key": "rp-chat-bubbles",
+    "dir": [
+      "RoleplayChatBubbles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 57891,
     "name": "RP Combat Dice",
     "key": "rp-combat-dice",
@@ -56707,6 +56777,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 372122,
+    "name": "Rated Skirmish",
+    "key": "rated-skirmish",
+    "dir": [
+      "RatedSkirmish"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 3377,
@@ -62162,6 +62242,16 @@
     "mode": 1
   },
   {
+    "id": 371596,
+    "name": "Skirmish Rating Tooltip",
+    "key": "skirmish-rating-tooltip",
+    "dir": [
+      "SkirmishRatingTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 70906,
     "name": "SkyUI",
     "key": "skyui",
@@ -64442,6 +64532,16 @@
     "key": "stealpurgedispel",
     "dir": [
       "StealPurgeDispel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 372133,
+    "name": "Steal, Purge & Dispel - Terran Update",
+    "key": "stealpurgedispel-terranupdate",
+    "dir": [
+      "StealPurgeDispelTerran"
     ],
     "source": "curse",
     "mode": 1
