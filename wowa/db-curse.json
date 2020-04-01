@@ -19136,8 +19136,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19146,7 +19144,9 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 3
@@ -21996,7 +21996,7 @@
   {
     "id": 372044,
     "name": "EXT - Ed's XP Tracker",
-    "key": "ext-eds-experience-tracker",
+    "key": "ext-xp-tracker",
     "dir": [
       "EXT"
     ],
@@ -55351,6 +55351,16 @@
     "mode": 2
   },
   {
+    "id": 371931,
+    "name": "RIP Rockhoof",
+    "key": "rip-rockhoof",
+    "dir": [
+      "RIP_Rockhoof"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 294515,
     "name": "RP Adjutant",
     "key": "rp-adjutant",
@@ -73144,8 +73154,8 @@
       "WeakAurasOptions",
       "WeakAurasModelPaths",
       "WeakAurasTemplates",
-      "WeakAuras",
-      "WeakAurasArchive"
+      "WeakAurasArchive",
+      "WeakAuras"
     ],
     "source": "curse",
     "mode": 3
