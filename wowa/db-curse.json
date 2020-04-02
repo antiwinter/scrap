@@ -29051,6 +29051,16 @@
     "mode": 1
   },
   {
+    "id": 372253,
+    "name": "Global Font (Std W4)",
+    "key": "global-font-std-w4",
+    "dir": [
+      "!GlobalFont_StdW4"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 88009,
     "name": "Global Ignore List and Chat Spam Filter",
     "key": "global-ignore-list",
@@ -54144,11 +54154,10 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
-      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 3607,
@@ -55104,6 +55113,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 372411,
+    "name": "QuoteMediaGA",
+    "key": "quotemediaga",
+    "dir": [
+      "QuoteMediaGA"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87635,
@@ -72671,6 +72690,16 @@
     "key": "wagon-detector",
     "dir": [
       "WagonDetector"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 372401,
+    "name": "Wait's Healer Soundpack",
+    "key": "waits-healer-soundpack",
+    "dir": [
+      "WaitSoundpack"
     ],
     "source": "curse",
     "mode": 1
