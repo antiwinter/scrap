@@ -2412,31 +2412,31 @@
     "name": "Altoholic",
     "key": "altoholic",
     "dir": [
-      "Altoholic_Achievements",
+      "Altoholic",
+      "DataStore_Mails",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore_Spells",
+      "DataStore_Stats",
+      "DataStore_Talents",
       "Altoholic_Agenda",
       "Altoholic_Characters",
       "Altoholic_Grids",
       "Altoholic_Guild",
       "Altoholic_Search",
       "Altoholic_Summary",
-      "Altoholic",
-      "DataStore_Achievements",
       "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
+      "DataStore_Inventory",
+      "DataStore",
+      "Altoholic_Achievements",
+      "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
-      "DataStore_Inventory",
-      "DataStore_Mails",
-      "DataStore_Pets",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore_Spells",
-      "DataStore_Stats",
-      "DataStore_Talents",
-      "DataStore"
+      "DataStore_Pets"
     ],
     "source": "curse",
     "mode": 3
@@ -29051,11 +29051,41 @@
     "mode": 1
   },
   {
+    "id": 372729,
+    "name": "Global Font (Std W2)",
+    "key": "global-font-std-w2",
+    "dir": [
+      "!GlobalFont_StdW2"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 372731,
+    "name": "Global Font (Std W3)",
+    "key": "global-font-std-w3",
+    "dir": [
+      "!GlobalFont_StdW3"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 372253,
     "name": "Global Font (Std W4)",
     "key": "global-font-std-w4",
     "dir": [
       "!GlobalFont_StdW4"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 372733,
+    "name": "Global Font (Std W6)",
+    "key": "global-font-std-w6",
+    "dir": [
+      "!GlobalFont_StdW6"
     ],
     "source": "curse",
     "mode": 3
@@ -29742,6 +29772,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 372817,
+    "name": "Grats Mosin",
+    "key": "grats-mosin",
+    "dir": [
+      "GratsMosin"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 14098,
@@ -47013,6 +47053,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 282045,
+    "name": "MuffinFactionizer",
+    "key": "muffinfactionizer",
+    "dir": [
+      "MuffinFactionizer"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 282016,
@@ -79816,7 +79866,7 @@
       "vGambler"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 97807,
