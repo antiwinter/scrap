@@ -19136,6 +19136,8 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19144,9 +19146,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -35872,6 +35872,16 @@
     "key": "inspect-item-level",
     "dir": [
       "InspectItemLevel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 372994,
+    "name": "Inspect iLvl",
+    "key": "inspect-ilvl",
+    "dir": [
+      "InspectiLvl"
     ],
     "source": "curse",
     "mode": 1
