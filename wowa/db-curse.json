@@ -54214,10 +54214,11 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
+      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 3607,
@@ -56363,16 +56364,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 299023,
-    "name": "Raidframe Profile Switcher",
-    "key": "raidframe-profile-switcher",
-    "dir": [
-      "RaidframeProfileSwitcher"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 338637,
