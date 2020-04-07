@@ -8925,6 +8925,16 @@
     "mode": 1
   },
   {
+    "id": 373612,
+    "name": "BiggestExecute",
+    "key": "biggestexecute",
+    "dir": [
+      "BiggestExecute"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 303859,
     "name": "Bigwigs Voice - Chinese voice pack (mandarin) by XF夕风",
     "key": "chinese-voice-pack",
@@ -11124,6 +11134,16 @@
     "mode": 1
   },
   {
+    "id": 373604,
+    "name": "Broker_MicroMenu",
+    "key": "broker_micromenu",
+    "dir": [
+      "Broker_MicroMenu"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 21420,
     "name": "Broker_MicroMenu",
     "key": "broker_micromenue",
@@ -11468,6 +11488,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 373616,
+    "name": "Broker_Zygor",
+    "key": "broker_zygor",
+    "dir": [
+      "Broker_Zygor"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 48465,
@@ -16332,6 +16362,16 @@
     "mode": 1
   },
   {
+    "id": 373521,
+    "name": "Consequence - Summons",
+    "key": "consequence-summons",
+    "dir": [
+      "Consequence-Summons"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29155,
     "name": "ConsoleCalc - Calculator",
     "key": "consolecalc",
@@ -19163,7 +19203,7 @@
   },
   {
     "id": 16442,
-    "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods",
+    "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail)",
     "key": "dbm-bc",
     "dir": [
       "DBM-Karazhan",
@@ -27133,7 +27173,7 @@
     "name": "FriendBtn",
     "key": "friendbtn",
     "dir": [
-      "ClassicFriendBtn"
+      "FriendBtn"
     ],
     "source": "curse",
     "mode": 2
@@ -30099,16 +30139,6 @@
     "mode": 1
   },
   {
-    "id": 85825,
-    "name": "GridIndicatorExtra",
-    "key": "gridindicatorextra",
-    "dir": [
-      "GridIndicatorExtra"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 88760,
     "name": "GridIndicatorExtraText",
     "key": "grid-indicator-extra-text",
@@ -30239,16 +30269,6 @@
     "mode": 1
   },
   {
-    "id": 27326,
-    "name": "GridStatusDirectionArrows",
-    "key": "gridstatusdirectionarrows",
-    "dir": [
-      "GridStatusDirectionArrows"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 83874,
     "name": "GridStatusDungeonDebuff",
     "key": "gridstatusdungeondebuff",
@@ -30305,16 +30325,6 @@
     "key": "gridstatusfasthealth",
     "dir": [
       "GridStatusFastHealth"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 89651,
-    "name": "GridStatusGermination",
-    "key": "gridstatusgermination",
-    "dir": [
-      "GridStatusGermination"
     ],
     "source": "curse",
     "mode": 1
@@ -36834,16 +36844,6 @@
     "dir": [
       "ItemRackOptions",
       "ItemRack"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 355831,
-    "name": "ItemRackAutoRidingGear",
-    "key": "itemrackautoridinggear",
-    "dir": [
-      "ItemRackAutoRidingGear"
     ],
     "source": "curse",
     "mode": 2
@@ -50602,6 +50602,16 @@
     "mode": 1
   },
   {
+    "id": 373461,
+    "name": "PajGuildHelper",
+    "key": "pajguildhelper",
+    "dir": [
+      "PajGuildHelper"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 366766,
     "name": "PajMinimapArrow",
     "key": "pajminimaparrow",
@@ -50609,7 +50619,7 @@
       "PajMinimapArrow"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 2703,
@@ -54326,6 +54336,16 @@
     "key": "questspam",
     "dir": [
       "QuestSpam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 373457,
+    "name": "Quest Stash",
+    "key": "quest-stash",
+    "dir": [
+      "QuestStash"
     ],
     "source": "curse",
     "mode": 1
@@ -74681,16 +74701,6 @@
     "mode": 1
   },
   {
-    "id": 363828,
-    "name": "World Buff Tracker Evolution",
-    "key": "world-buff-tracker-evolution",
-    "dir": [
-      "WorldBuffTrackerEvolution"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 53217,
     "name": "World Map Ping Hider",
     "key": "world-map-ping-hider",
@@ -75442,7 +75452,7 @@
       "XToLevel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 323209,
@@ -77113,6 +77123,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 373425,
+    "name": "cleangroupassigns",
+    "key": "cleangroupassigns",
+    "dir": [
+      "cleangroupassigns"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86798,
