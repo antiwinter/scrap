@@ -7924,16 +7924,6 @@
     "mode": 1
   },
   {
-    "id": 365975,
-    "name": "Berserkerclan",
-    "key": "berserkerclan",
-    "dir": [
-      "Berserker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 360318,
     "name": "Best In Slot - Classic",
     "key": "best-in-slot-classic",
@@ -10407,6 +10397,16 @@
     "mode": 1
   },
   {
+    "id": 373604,
+    "name": "Broker MicroMenu",
+    "key": "broker_micromenu",
+    "dir": [
+      "Broker_MicroMenu"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15182,
     "name": "Broker Money",
     "key": "broker_money",
@@ -10537,6 +10537,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 373616,
+    "name": "Broker Zygor",
+    "key": "broker_zygor",
+    "dir": [
+      "Broker_Zygor"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 13563,
@@ -11134,16 +11144,6 @@
     "mode": 1
   },
   {
-    "id": 373604,
-    "name": "Broker_MicroMenu",
-    "key": "broker_micromenu",
-    "dir": [
-      "Broker_MicroMenu"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 21420,
     "name": "Broker_MicroMenu",
     "key": "broker_micromenue",
@@ -11488,16 +11488,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 373616,
-    "name": "Broker_Zygor",
-    "key": "broker_zygor",
-    "dir": [
-      "Broker_Zygor"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 48465,
@@ -16810,6 +16800,16 @@
     "key": "countit",
     "dir": [
       "CountIt"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 373746,
+    "name": "CounterspellAlert",
+    "key": "counterspellalert",
+    "dir": [
+      "CounterspellAlert"
     ],
     "source": "curse",
     "mode": 2
@@ -23131,7 +23131,7 @@
     "name": "ElvUI Kringels MediaTags",
     "key": "elvui-kringels-mediatags",
     "dir": [
-      "ElvUI_KMediaTags"
+      "!KMediaTags"
     ],
     "source": "curse",
     "mode": 1
@@ -54698,6 +54698,16 @@
     "key": "questwatchsort",
     "dir": [
       "QuestWatchSort"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 371206,
+    "name": "Quest_Compass",
+    "key": "quest_compass",
+    "dir": [
+      "Quest_Compass"
     ],
     "source": "curse",
     "mode": 1
