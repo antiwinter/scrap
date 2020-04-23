@@ -4980,6 +4980,16 @@
     "mode": 1
   },
   {
+    "id": 377741,
+    "name": "AutoAcceptShare",
+    "key": "autoacceptshare",
+    "dir": [
+      "AutoAcceptShare"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 93192,
     "name": "AutoAccepter",
     "key": "autoaccepter",
@@ -5290,6 +5300,16 @@
     "mode": 1
   },
   {
+    "id": 377054,
+    "name": "AutoKeystone",
+    "key": "autokeystone",
+    "dir": [
+      "AutoKeystone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334702,
     "name": "AutoLFGRole",
     "key": "autolfgrole",
@@ -5588,6 +5608,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 377746,
+    "name": "AutoRoll (Classic)",
+    "key": "autoroll-classic",
+    "dir": [
+      "AutoRoll"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 293820,
@@ -7119,6 +7149,16 @@
     "mode": 1
   },
   {
+    "id": 372329,
+    "name": "BananaBar Raid Symbols Classic",
+    "key": "bananabar-raid-symbols",
+    "dir": [
+      "BananaBarClassic"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 371996,
     "name": "BananaraidSpliT - easy raid split",
     "key": "bananaraidsplit",
@@ -7761,6 +7801,16 @@
     "mode": 1
   },
   {
+    "id": 374057,
+    "name": "Battlegrounds Historian",
+    "key": "bghistorian",
+    "dir": [
+      "BGHistorian"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3600,
     "name": "Baud Bag",
     "key": "baud-bag",
@@ -7788,7 +7838,7 @@
       "BaudMark"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 5253,
@@ -7922,6 +7972,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365975,
+    "name": "Berserkerclan",
+    "key": "berserkerclan",
+    "dir": [
+      "Berserker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 360318,
@@ -8260,6 +8320,18 @@
     "mode": 3
   },
   {
+    "id": 374657,
+    "name": "BetterBlizzFrames",
+    "key": "betterblizzframes",
+    "dir": [
+      "!BlizzardRaidFramesFix",
+      "BetterBlizzFrames",
+      "ShowRaidFrameSoloandHidePlayerFrame"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13508,
     "name": "BetterBlizzOptions",
     "key": "better-blizz-options",
@@ -8446,6 +8518,16 @@
     "key": "bis-tracker-classic",
     "dir": [
       "BiSTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 376654,
+    "name": "BiS Tracker - Classic 2020",
+    "key": "bis-tracker-classic-updated-to-phase-6",
+    "dir": [
+      "BiSTracker2020"
     ],
     "source": "curse",
     "mode": 2
@@ -8916,7 +8998,7 @@
   },
   {
     "id": 373612,
-    "name": "BiggestExecute",
+    "name": "BiggestExecute - Execute Tracker",
     "key": "biggestexecute",
     "dir": [
       "BiggestExecute"
@@ -11583,6 +11665,16 @@
     "mode": 1
   },
   {
+    "id": 297378,
+    "name": "BtWQuests: Cataclysm",
+    "key": "btw-quests-cataclysm",
+    "dir": [
+      "BtWQuestsCataclysm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297375,
     "name": "BtWQuests: Classic",
     "key": "btw-quests-classic",
@@ -11598,6 +11690,26 @@
     "key": "btw-quests-legion",
     "dir": [
       "BtWQuestsLegion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 297379,
+    "name": "BtWQuests: Mists of Pandaria",
+    "key": "btw-quests-mists-of-pandaria",
+    "dir": [
+      "BtWQuestsMistsOfPandaria"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 297380,
+    "name": "BtWQuests: Warlords of Draenor",
+    "key": "btw-quests-warlords",
+    "dir": [
+      "BtWQuestsWarlordsOfDraenor"
     ],
     "source": "curse",
     "mode": 1
@@ -12508,6 +12620,16 @@
     "mode": 1
   },
   {
+    "id": 102862,
+    "name": "Call to Arms",
+    "key": "call-to-arms-list",
+    "dir": [
+      "CallToArms"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 15049,
     "name": "CallbackHandler-1.0",
     "key": "callbackhandler",
@@ -12862,6 +12984,16 @@
     "key": "cartographer_icons_smalldiamond",
     "dir": [
       "Cartographer_Icons_SmallDiamondPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 374973,
+    "name": "Cascade v2",
+    "key": "cascade-v2",
+    "dir": [
+      "Cascade"
     ],
     "source": "curse",
     "mode": 1
@@ -14476,6 +14608,16 @@
     "mode": 2
   },
   {
+    "id": 374590,
+    "name": "Classic LFG Filter",
+    "key": "classic-lfg-filter",
+    "dir": [
+      "CFilter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 356061,
     "name": "Classic Looking For Group",
     "key": "classic-looking-for-group",
@@ -14806,6 +14948,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 376663,
+    "name": "ClassicHitMarker",
+    "key": "classichitmarker",
+    "dir": [
+      "ClassicHitMarker"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 352465,
@@ -16581,6 +16733,16 @@
     "mode": 1
   },
   {
+    "id": 374751,
+    "name": "Cooldown Watcher",
+    "key": "cooldown-watcher",
+    "dir": [
+      "CoolDownWatcher"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 37981,
     "name": "CooldownAnnouncer",
     "key": "cooldown-announcer",
@@ -16729,6 +16891,16 @@
     "dir": [
       "CorruptedRaidAttendance",
       "corruptedraidattendance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 374979,
+    "name": "Corruption Character",
+    "key": "corruption-character",
+    "dir": [
+      "CorruptionCharacter"
     ],
     "source": "curse",
     "mode": 1
@@ -17555,7 +17727,7 @@
   },
   {
     "id": 306880,
-    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v8.0.1)",
+    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v8.3.0)",
     "key": "dbm-voice-pack-korean-female-dingdiring",
     "dir": [
       "DBM-VPDingdiringKR"
@@ -17909,6 +18081,16 @@
     "key": "dbm-voicepack-dbyams",
     "dir": [
       "DBM-VPDBYams"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 373926,
+    "name": "DBM Voicepack: Littprince 小王子语音包",
+    "key": "dbm-voicepack-littprince",
+    "dir": [
+      "DBM-VPZoeEvans"
     ],
     "source": "curse",
     "mode": 1
@@ -19147,7 +19329,7 @@
       "Deadpool"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 13756,
@@ -19176,8 +19358,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19186,7 +19366,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -19243,7 +19427,7 @@
   },
   {
     "id": 61621,
-    "name": "Deadly Boss Mods (DBM) - Challenges (Visions)",
+    "name": "Deadly Boss Mods (DBM) - Challenges (Visions/Torghast)",
     "key": "dbm-challenges",
     "dir": [
       "DBM-Challenges"
@@ -19518,6 +19702,16 @@
     "dir": [
       "Death_Roll_Game",
       "Death_Roll"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 375014,
+    "name": "Death Sound",
+    "key": "death-sound",
+    "dir": [
+      "DeathSound"
     ],
     "source": "curse",
     "mode": 1
@@ -19860,7 +20054,7 @@
       "DejaAutoMark"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 44033,
@@ -19980,7 +20174,7 @@
       "DejaPRFader"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 292609,
@@ -20031,6 +20225,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 377586,
+    "name": "DeleteConfirmer",
+    "key": "deleteconfirmer",
+    "dir": [
+      "DeleteConfirmer"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 100911,
@@ -21178,6 +21382,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 375206,
+    "name": "Dream Arrows Classic",
+    "key": "dream-arrows-classic",
+    "dir": [
+      "DreamArrowsClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 93945,
@@ -25344,7 +25558,8 @@
     "name": "FarmHud",
     "key": "farmhud",
     "dir": [
-      "FarmHud"
+      "FarmHud",
+      "FarmHud_QuestArrow"
     ],
     "source": "curse",
     "mode": 3
@@ -25941,8 +26156,8 @@
   },
   {
     "id": 355220,
-    "name": "FindParty Russian",
-    "key": "findparty-russian",
+    "name": "FindParty-GagStv",
+    "key": "findparty-gagstv",
     "dir": [
       "FindParty"
     ],
@@ -26329,6 +26544,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 376167,
+    "name": "Flare - NinjaList",
+    "key": "flare-ninjalist",
+    "dir": [
+      "Flare"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 36772,
@@ -26760,7 +26985,7 @@
       "FollowMePls"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 47557,
@@ -29058,7 +29283,7 @@
       "Glance_Gold"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 351803,
@@ -29159,6 +29384,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 377190,
+    "name": "GlobalPlayed",
+    "key": "globalplayed",
+    "dir": [
+      "GlobalPlayed"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 45394,
@@ -29524,6 +29759,16 @@
     "key": "gold-standard-gear-points",
     "dir": [
       "GoldPoints"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 376629,
+    "name": "Gold Standard:  Gold Raid Loot Council Prio",
+    "key": "gold-standard-gold-raid-loot-council-prio",
+    "dir": [
+      "GoldLCPrio"
     ],
     "source": "curse",
     "mode": 2
@@ -30999,6 +31244,16 @@
     "mode": 2
   },
   {
+    "id": 375475,
+    "name": "Guidelime Package by Milksmuggler and Tactics_lol",
+    "key": "milksmuggler-tacticslol-guidelime",
+    "dir": [
+      "Guidelime_Milksmuggler"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 359655,
     "name": "Guidelime Phelx's Dungeon Quest Guide",
     "key": "guidelime-phelxs-dungeon-quest-guide",
@@ -31214,6 +31469,16 @@
     "key": "guidelime_ahmp",
     "dir": [
       "Guidelime_ahmp"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 374458,
+    "name": "Guild Bank List Creator",
+    "key": "guild-bank-list-creator",
+    "dir": [
+      "GuildBankListCreator"
     ],
     "source": "curse",
     "mode": 2
@@ -32758,6 +33023,16 @@
     "mode": 1
   },
   {
+    "id": 376346,
+    "name": "HandyNotes_LimitedSupplyVendors",
+    "key": "handynotes_limitedsupplyvendors",
+    "dir": [
+      "HandyNotes_LimitedSupplyVendors"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 45902,
     "name": "HandyNotes_LunarFestival",
     "key": "handynotes_lunarfestival",
@@ -33060,6 +33335,7 @@
       "HealBot_de",
       "HealBot_en",
       "HealBot_es",
+      "HealBot_ExtraSkins",
       "HealBot_fr",
       "HealBot_gr",
       "HealBot_hu",
@@ -33087,6 +33363,7 @@
       "HealBot_de",
       "HealBot_en",
       "HealBot_es",
+      "HealBot_ExtraSkins",
       "HealBot_fr",
       "HealBot_gr",
       "HealBot_hu",
@@ -33993,6 +34270,16 @@
     "key": "hide-the-flash",
     "dir": [
       "Hide the Flash!"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 376500,
+    "name": "HideActionBarArt",
+    "key": "hideactionbarart",
+    "dir": [
+      "HideActionBarArt"
     ],
     "source": "curse",
     "mode": 1
@@ -35667,7 +35954,6 @@
     "name": "Inception Loot Priority",
     "key": "inception-loot-prio",
     "dir": [
-      "Inception_BIS_List",
       "Inception_Loot_Priority"
     ],
     "source": "curse",
@@ -35887,6 +36173,16 @@
     "mode": 1
   },
   {
+    "id": 375474,
+    "name": "Inspect List Creator",
+    "key": "inspectlistcreator",
+    "dir": [
+      "InspectListCreator"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 372994,
     "name": "Inspect iLvl",
     "key": "inspect-ilvl",
@@ -36102,7 +36398,17 @@
     "name": "Instant Sell, Repair, & Autoloot",
     "key": "instant-sell-repair-autoloot",
     "dir": [
-      "NakedSellandRepair"
+      "InstantSellRepairandLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 375407,
+    "name": "Instant Sell, Repair, and Autoloot - No Guild",
+    "key": "instant-sell-repair-and-autoloot-no-guild",
+    "dir": [
+      "InstantSellRepairandLootNoGuild"
     ],
     "source": "curse",
     "mode": 1
@@ -36387,6 +36693,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 377106,
+    "name": "Invite Repair Reminder (Classic)",
+    "key": "invite-repair-reminder-classic",
+    "dir": [
+      "InviteRepairReminder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 1836,
@@ -37503,6 +37819,16 @@
     "mode": 2
   },
   {
+    "id": 374093,
+    "name": "KTracker",
+    "key": "ktracker",
+    "dir": [
+      "!KTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 339809,
     "name": "Kaliel's Quest Tracker (Classic)",
     "key": "kaliels-tracker-classic",
@@ -37633,6 +37959,16 @@
     "mode": 1
   },
   {
+    "id": 374756,
+    "name": "Karls Simple UI",
+    "key": "karls-pvp-ui",
+    "dir": [
+      "KarlsUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101984,
     "name": "Karma Musicbox",
     "key": "karma-musicbox",
@@ -37698,6 +38034,16 @@
     "mode": 2
   },
   {
+    "id": 377020,
+    "name": "KazKeys",
+    "key": "kazkeys",
+    "dir": [
+      "KazKeys"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 308041,
     "name": "Kazotsky Kick",
     "key": "kazotsky-kick",
@@ -37716,6 +38062,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 374696,
+    "name": "Keep The Herbs",
+    "key": "keep-the-herbs",
+    "dir": [
+      "KeepTheHerbs"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 306872,
@@ -38076,6 +38432,16 @@
     "key": "kiki-utils",
     "dir": [
       "KikiUtils"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 373554,
+    "name": "Kill Counter 2020",
+    "key": "kill-counter-2020",
+    "dir": [
+      "KillCounter"
     ],
     "source": "curse",
     "mode": 1
@@ -38945,6 +39311,16 @@
     "mode": 1
   },
   {
+    "id": 375750,
+    "name": "LFR [of the past]",
+    "key": "lfr-of-the-past",
+    "dir": [
+      "LFR_of_the_past"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29638,
     "name": "LFRAdvanced",
     "key": "lfradvanced",
@@ -39285,6 +39661,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 377552,
+    "name": "Layer Hopper",
+    "key": "layer-hopper",
+    "dir": [
+      "LayerHopper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 100049,
@@ -39774,6 +40160,16 @@
     "key": "levelupannouncer",
     "dir": [
       "LevelUpAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 377976,
+    "name": "Level Up Queen Sound",
+    "key": "level-up-queen",
+    "dir": [
+      "LevelupQueenSound"
     ],
     "source": "curse",
     "mode": 1
@@ -41592,6 +41988,16 @@
     "mode": 1
   },
   {
+    "id": 377047,
+    "name": "LinkSpellsClassic",
+    "key": "linkspellsclassic",
+    "dir": [
+      "LinkSpellsClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3579,
     "name": "LinkWrangler",
     "key": "link-wrangler-1-7",
@@ -41988,6 +42394,16 @@
     "key": "long-strange-trip",
     "dir": [
       "LongStrangeTrip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 376541,
+    "name": "LongRoll",
+    "key": "longroll",
+    "dir": [
+      "LongRoll"
     ],
     "source": "curse",
     "mode": 1
@@ -43242,6 +43658,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 375746,
+    "name": "Magic Button",
+    "key": "magic-button",
+    "dir": [
+      "MagicButton"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 16111,
@@ -45175,16 +45601,6 @@
     "mode": 1
   },
   {
-    "id": 102862,
-    "name": "Militant Call to Arms",
-    "key": "militant-call-arms",
-    "dir": [
-      "Militant_CallToArms"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 31873,
     "name": "MillButton",
     "key": "millbutton",
@@ -45285,7 +45701,18 @@
     "name": "MiniHUD - AXP",
     "key": "minihudaxp",
     "dir": [
-      "AXPView"
+      "AXPView",
+      "MiniHudAXP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 375305,
+    "name": "MiniHUD - Currency",
+    "key": "minihudcurrency",
+    "dir": [
+      "MiniHUDCurrency"
     ],
     "source": "curse",
     "mode": 1
@@ -45295,7 +45722,8 @@
     "name": "MiniHUD - Wallet",
     "key": "minihudwallet",
     "dir": [
-      "Wallet"
+      "Wallet",
+      "MiniHudWallet"
     ],
     "source": "curse",
     "mode": 1
@@ -45305,7 +45733,8 @@
     "name": "MiniHUD - XP",
     "key": "minihudxp",
     "dir": [
-      "XPView"
+      "XPView",
+      "MiniHudXP"
     ],
     "source": "curse",
     "mode": 1
@@ -46027,6 +46456,16 @@
     "mode": 1
   },
   {
+    "id": 375024,
+    "name": "Moisty Emojis",
+    "key": "moisty-emojis",
+    "dir": [
+      "TwitchEmotesAcuity"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20338,
     "name": "Molinari",
     "key": "molinari",
@@ -46339,17 +46778,6 @@
     "mode": 1
   },
   {
-    "id": 356948,
-    "name": "MoosePortal",
-    "key": "mooseportal",
-    "dir": [
-      "MoosePortalAdvanced",
-      "MoosePortal"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 356478,
     "name": "MooseSell",
     "key": "moosesell",
@@ -46408,6 +46836,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 376341,
+    "name": "MoreItemStats",
+    "key": "moreitemstats",
+    "dir": [
+      "MoreItemStats"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 1243,
@@ -47235,6 +47673,16 @@
     "mode": 1
   },
   {
+    "id": 376943,
+    "name": "Mute Obsidian Nightwing",
+    "key": "mute-obsidian-nightwing",
+    "dir": [
+      "MuteObsidianNightwing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 298815,
     "name": "Mute Premade Groups Alerts",
     "key": "mute-premade-groups-alerts",
@@ -47385,6 +47833,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 374645,
+    "name": "My Very Own Doomguy",
+    "key": "my-very-own-doomguy",
+    "dir": [
+      "MyVeryOwnDoomguy"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 312482,
@@ -48792,6 +49250,17 @@
     "mode": 1
   },
   {
+    "id": 377478,
+    "name": "No Pink Classes",
+    "key": "no-pink-classes",
+    "dir": [
+      "GoldPaladins",
+      "BlueShamans"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 300173,
     "name": "No Popcorn",
     "key": "no-popcorn",
@@ -48820,6 +49289,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 375477,
+    "name": "No Talking Heads",
+    "key": "no-talking-heads",
+    "dir": [
+      "NoTalkingHeads"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 264633,
@@ -49725,6 +50204,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 374501,
+    "name": "Odyssey Bis Tracker",
+    "key": "oddyssey-bis-tracker",
+    "dir": [
+      "BiSTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 4487,
@@ -52363,6 +52852,16 @@
     "mode": 1
   },
   {
+    "id": 375958,
+    "name": "Pixel Font",
+    "key": "pixel-font",
+    "dir": [
+      "PixelFont"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 331518,
     "name": "Pixel Perfect Align",
     "key": "pixel-perfect-align",
@@ -52901,6 +53400,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 375493,
+    "name": "Poster",
+    "key": "poster",
+    "dir": [
+      "POSTER"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86973,
@@ -54603,6 +55112,16 @@
     "mode": 1
   },
   {
+    "id": 377157,
+    "name": "QuestMover",
+    "key": "questmover",
+    "dir": [
+      "QuestMover"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 23401,
     "name": "QuestNoise",
     "key": "questnoise",
@@ -55313,7 +55832,7 @@
       "RCLootCouncil_ExtraUtilities"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102435,
@@ -55323,7 +55842,7 @@
       "RCLootCouncil_GroupGear"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 332955,
@@ -56168,6 +56687,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 375357,
+    "name": "RaidInvite Classic",
+    "key": "raidinvite-classic",
+    "dir": [
+      "RaidInvite"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 103306,
@@ -57668,6 +58197,16 @@
     "mode": 1
   },
   {
+    "id": 376901,
+    "name": "Remaining XP",
+    "key": "remaining-xp",
+    "dir": [
+      "RemainingXP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 66047,
     "name": "Rematch",
     "key": "rematch",
@@ -58946,6 +59485,16 @@
     "mode": 1
   },
   {
+    "id": 375845,
+    "name": "SD_Values",
+    "key": "sd_values",
+    "dir": [
+      "SD_DKP_Values"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 259238,
     "name": "SEED_UI",
     "key": "seed_ui",
@@ -59446,6 +59995,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 377697,
+    "name": "ScalzBam",
+    "key": "scalzbam",
+    "dir": [
+      "ScalzBam"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 352017,
@@ -60614,6 +61173,16 @@
     "mode": 1
   },
   {
+    "id": 373102,
+    "name": "SharedMedia_Abain",
+    "key": "sharedmedia_abain",
+    "dir": [
+      "SharedMedia_Abain"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357782,
     "name": "SharedMedia_AlexaPlayCreed",
     "key": "sharedmedia-alexa-play-creed",
@@ -60629,6 +61198,16 @@
     "key": "sharedmedia_causese",
     "dir": [
       "SharedMedia_Causese"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 377082,
+    "name": "SharedMedia_HMG",
+    "key": "sharedmedia_hmg",
+    "dir": [
+      "SharedMedia_HMG"
     ],
     "source": "curse",
     "mode": 1
@@ -61264,8 +61843,8 @@
       "SilverDragon_Warlords",
       "SilverDragon_Legion",
       "SilverDragon",
-      "SilverDragon_BattleForAzeroth",
-      "SilverDragon_Classic"
+      "SilverDragon_Classic",
+      "SilverDragon_BattleForAzeroth"
     ],
     "source": "curse",
     "mode": 3
@@ -61296,6 +61875,16 @@
     "key": "silvertabtarget",
     "dir": [
       "SilverTabTarget"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 373825,
+    "name": "Silverhelms-Rollouts",
+    "key": "silverhelms-rollouts",
+    "dir": [
+      "Silverhelms-Rollouts"
     ],
     "source": "curse",
     "mode": 1
@@ -62706,6 +63295,16 @@
     "mode": 1
   },
   {
+    "id": 375367,
+    "name": "SmartLoot for Classic",
+    "key": "smartloot-for-classic",
+    "dir": [
+      "SmartLoot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 100978,
     "name": "SmartQuestTracker",
     "key": "smartquesttracker",
@@ -63005,6 +63604,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 377144,
+    "name": "Snuden's Raid Checker",
+    "key": "snudens-raid-utilities",
+    "dir": [
+      "SnudensRaidChecker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 350620,
@@ -69357,6 +69966,16 @@
     "mode": 1
   },
   {
+    "id": 376730,
+    "name": "Token Reward Helper",
+    "key": "token-reward-helper",
+    "dir": [
+      "TokenRewardHelper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95615,
     "name": "Token Tips",
     "key": "tokentips",
@@ -70906,6 +71525,16 @@
     "mode": 1
   },
   {
+    "id": 375234,
+    "name": "TremorWatch",
+    "key": "tremorwatch",
+    "dir": [
+      "TremorWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 315877,
     "name": "TrialHelper",
     "key": "trialhelper",
@@ -72252,8 +72881,11 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
+      "ViksUI",
       "Viks_ConfigUI",
-      "ViksUI"
+      "Bartender4",
+      "Masque",
+      "Skada"
     ],
     "source": "curse",
     "mode": 1
@@ -73457,6 +74089,16 @@
     "key": "whatadrop",
     "dir": [
       "WhatADrop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 377737,
+    "name": "Whatcha Say Death Sound",
+    "key": "whatcha-say-death-sound",
+    "dir": [
+      "Whatcha_Say_Death_Sound"
     ],
     "source": "curse",
     "mode": 1
@@ -75940,6 +76582,26 @@
     "mode": 2
   },
   {
+    "id": 376631,
+    "name": "ZG AutoRoll",
+    "key": "zgautoroll",
+    "dir": [
+      "ZGAutoRoll"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 377671,
+    "name": "ZG Bijou Roller",
+    "key": "zg-bijou-roller",
+    "dir": [
+      "ZGBijouRoller"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341055,
     "name": "ZMobDB Advanced",
     "key": "zmobdb-advanced",
@@ -76983,6 +77645,16 @@
     "mode": 1
   },
   {
+    "id": 377953,
+    "name": "cLootPriority",
+    "key": "clootpriority",
+    "dir": [
+      "cLootPriority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 280220,
     "name": "cPointDisplay",
     "key": "cpointdisplay",
@@ -77357,6 +78029,16 @@
     "mode": 3
   },
   {
+    "id": 376090,
+    "name": "dwgAutoRoller",
+    "key": "dwgautoroller",
+    "dir": [
+      "AutoLooter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340125,
     "name": "eAlign Classic",
     "key": "ealignclassic",
@@ -77609,8 +78291,8 @@
   },
   {
     "id": 48955,
-    "name": "gmAggromon",
-    "key": "aggromon",
+    "name": "gmAggromon-Old",
+    "key": "aggromon-old",
     "dir": [
       "gmAggroMon"
     ],
@@ -77650,7 +78332,7 @@
   {
     "id": 57489,
     "name": "gmDurability",
-    "key": "mydurability",
+    "key": "gmdurability",
     "dir": [
       "gmDurability"
     ],
@@ -77683,6 +78365,26 @@
     "key": "myfonts",
     "dir": [
       "gmFonts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 375729,
+    "name": "gmFriends",
+    "key": "gmfriends",
+    "dir": [
+      "gmFriends"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 375609,
+    "name": "gmGuild",
+    "key": "gmguild",
+    "dir": [
+      "gmGuild"
     ],
     "source": "curse",
     "mode": 1
@@ -79247,6 +79949,16 @@
     "mode": 1
   },
   {
+    "id": 373892,
+    "name": "oUF_Nihlathak",
+    "key": "nihlathak",
+    "dir": [
+      "oUF_Nihlathak"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 19939,
     "name": "oUF_Phanx",
     "key": "ouf-phanx",
@@ -79950,6 +80662,16 @@
     "mode": 3
   },
   {
+    "id": 376377,
+    "name": "vUI Memory Data Text",
+    "key": "vui-memory-data-text",
+    "dir": [
+      "vUI_MemoryDataText"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348688,
     "name": "vossi auction scanner",
     "key": "vossi-auction-scanner",
@@ -80057,7 +80779,7 @@
       "weizPVP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 363785,
