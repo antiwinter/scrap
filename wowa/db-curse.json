@@ -9077,16 +9077,6 @@
     "mode": 1
   },
   {
-    "id": 24984,
-    "name": "Binder",
-    "key": "binder",
-    "dir": [
-      "Binder"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 88868,
     "name": "Binds When?",
     "key": "bindswhen",
@@ -11707,7 +11697,7 @@
   {
     "id": 297380,
     "name": "BtWQuests: Warlords of Draenor",
-    "key": "btw-quests-warlords",
+    "key": "btw-quests-warlords-of-draenor",
     "dir": [
       "BtWQuestsWarlordsOfDraenor"
     ],
@@ -14698,6 +14688,16 @@
     "mode": 2
   },
   {
+    "id": 378126,
+    "name": "Classic Raid Assist Fury",
+    "key": "classic-raid-assist-fury",
+    "dir": [
+      "ClassicRaidAssistFury"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 344365,
     "name": "Classic Raid Tracker",
     "key": "classic-raid-tracker",
@@ -14813,6 +14813,16 @@
     "key": "classicauradurations",
     "dir": [
       "ClassicAuraDurations"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 378122,
+    "name": "ClassicAutoRepair",
+    "key": "classicautorepair",
+    "dir": [
+      "ClassicAutoRepair"
     ],
     "source": "curse",
     "mode": 2
@@ -20896,16 +20906,6 @@
     "key": "discazeritearmor",
     "dir": [
       "DiscAzeriteArmor"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 301319,
-    "name": "Discord Emoji",
-    "key": "discord-emoji",
-    "dir": [
-      "DiscordEmoji"
     ],
     "source": "curse",
     "mode": 1
@@ -37586,6 +37586,16 @@
     "mode": 1
   },
   {
+    "id": 24984,
+    "name": "Jordan Taylor",
+    "key": "binder",
+    "dir": [
+      "Binder"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297779,
     "name": "Journal",
     "key": "journal",
@@ -39668,6 +39678,16 @@
     "key": "layer-hopper",
     "dir": [
       "LayerHopper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 378029,
+    "name": "LayerChecker",
+    "key": "layerchecker",
+    "dir": [
+      "LayerChecker"
     ],
     "source": "curse",
     "mode": 2
@@ -48281,6 +48301,16 @@
     "key": "nukular",
     "dir": [
       "N.U.K.U.L.A.R"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 378028,
+    "name": "NC Media",
+    "key": "nc-media",
+    "dir": [
+      "NCMedia"
     ],
     "source": "curse",
     "mode": 1
@@ -61709,6 +61739,16 @@
     "mode": 1
   },
   {
+    "id": 378139,
+    "name": "Sigma Profession Filter (Classic)",
+    "key": "sigma-profession-filter-classic",
+    "dir": [
+      "SigmaProfessionFilter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 14510,
     "name": "SignOn",
     "key": "sign-on",
@@ -72881,11 +72921,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
       "Viks_ConfigUI",
-      "Bartender4",
-      "Masque",
-      "Skada"
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
