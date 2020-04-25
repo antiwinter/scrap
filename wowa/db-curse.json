@@ -18460,6 +18460,16 @@
     "mode": 1
   },
   {
+    "id": 378294,
+    "name": "DTLite",
+    "key": "dtlite",
+    "dir": [
+      "DTLite"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 93193,
     "name": "DTM's Repair Enforcer",
     "key": "dtmre",
@@ -38042,6 +38052,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 378464,
+    "name": "KazAuctionValue",
+    "key": "kazauctionvalue",
+    "dir": [
+      "KazAuctionValue"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 377020,
@@ -75610,6 +75630,16 @@
     "mode": 1
   },
   {
+    "id": 378410,
+    "name": "WorthIT - Classic",
+    "key": "worthit-classic",
+    "dir": [
+      "WIT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 348878,
     "name": "WorthIt",
     "key": "worthit",
@@ -78328,8 +78358,8 @@
   },
   {
     "id": 48955,
-    "name": "gmAggromon-Old",
-    "key": "aggromon-old",
+    "name": "gmAggromon-old",
+    "key": "gmaggromon",
     "dir": [
       "gmAggroMon"
     ],
