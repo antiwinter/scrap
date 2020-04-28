@@ -1574,26 +1574,6 @@
     "mode": 1
   },
   {
-    "id": 266370,
-    "name": "AdiBags - Revelry!",
-    "key": "adibags-revelry",
-    "dir": [
-      "AdiBags_Revelry"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 258158,
-    "name": "AdiBags - Tackle Box",
-    "key": "adibags-tackle-box",
-    "dir": [
-      "AdiBags_TackleBox"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 351755,
     "name": "AdiBags - UnusableItemOverlay",
     "key": "adibags-unusableitemoverlay",
@@ -3004,6 +2984,26 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 379130,
+    "name": "Applebandit Assignments",
+    "key": "applebandit-assignments",
+    "dir": [
+      "Applebandit_Assignments"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 379136,
+    "name": "Applebandit Standby Loot",
+    "key": "applebandit-standby-loot",
+    "dir": [
+      "Applebandit_Standby_Loot"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 280790,
@@ -12035,6 +12035,16 @@
     "mode": 1
   },
   {
+    "id": 379181,
+    "name": "Bulo Layer changer",
+    "key": "bulo-layer-changer",
+    "dir": [
+      "BuloLayer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 312414,
     "name": "BuloUI",
     "key": "bulo-ui",
@@ -15535,6 +15545,16 @@
     "key": "cod-do-batter",
     "dir": [
       "Cod_Do_Batter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 378313,
+    "name": "CoffinDeathSound",
+    "key": "coffindeathsound",
+    "dir": [
+      "CoffinDeathSound"
     ],
     "source": "curse",
     "mode": 1
@@ -31736,7 +31756,7 @@
   },
   {
     "id": 269644,
-    "name": "Guild Roster Manager",
+    "name": "Guild Roster Manager (GRM)",
     "key": "guild-roster-manager",
     "dir": [
       "Guild_Roster_Manager"
@@ -32102,6 +32122,16 @@
     "key": "guildtooltip",
     "dir": [
       "GuildTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 375578,
+    "name": "Guildbook",
+    "key": "guildbook",
+    "dir": [
+      "Guildbook"
     ],
     "source": "curse",
     "mode": 2
@@ -38173,7 +38203,7 @@
       "KethoInstanceTimer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 262714,
@@ -38868,6 +38898,16 @@
     "key": "kniggel",
     "dir": [
       "Kniggel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 379236,
+    "name": "KnockoutOfficial",
+    "key": "knockoutofficial",
+    "dir": [
+      "KnockoutAddon"
     ],
     "source": "curse",
     "mode": 1
@@ -45219,6 +45259,16 @@
     "mode": 1
   },
   {
+    "id": 378633,
+    "name": "MayceiaAlts",
+    "key": "mayceiaalts",
+    "dir": [
+      "MayceiaAlts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342432,
     "name": "McCapFix",
     "key": "mccapfix",
@@ -46431,6 +46481,16 @@
     "key": "mogit-settransmog",
     "dir": [
       "MogIt_SetTransmog"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 378613,
+    "name": "MogIt_AllTransmo",
+    "key": "mogit_alltransmo",
+    "dir": [
+      "MogIt_AllTransmo"
     ],
     "source": "curse",
     "mode": 1
@@ -48980,6 +49040,16 @@
     "mode": 2
   },
   {
+    "id": 378847,
+    "name": "NeverForget",
+    "key": "neverforget",
+    "dir": [
+      "NeverForget"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 301155,
     "name": "New Loot Pool",
     "key": "new-loot-pool",
@@ -50911,6 +50981,16 @@
     "mode": 1
   },
   {
+    "id": 379298,
+    "name": "Owen Wilson Redux",
+    "key": "owen-wilson-redux",
+    "dir": [
+      "OwenWilson"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301549,
     "name": "Owen Wilson Wow Addon",
     "key": "owen-wilson-loot-addon",
@@ -52254,16 +52334,6 @@
     "key": "petscan",
     "dir": [
       "PetScan"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 274194,
-    "name": "PetShopping",
-    "key": "petshopping",
-    "dir": [
-      "PetShopping"
     ],
     "source": "curse",
     "mode": 1
@@ -61759,6 +61829,16 @@
     "mode": 1
   },
   {
+    "id": 378652,
+    "name": "Sigma Helm and Cloak (Classic)",
+    "key": "sigma-helm-and-cloak-classic",
+    "dir": [
+      "SigmaHelmAndCloak"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 378139,
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
@@ -67849,6 +67929,16 @@
     "mode": 1
   },
   {
+    "id": 378663,
+    "name": "The McGratzer",
+    "key": "the-mcgratzer",
+    "dir": [
+      "TheMcGratzer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341677,
     "name": "The Mother Tongue",
     "key": "the-mother-tongue",
@@ -68295,6 +68385,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 378553,
+    "name": "TidyBar Classic",
+    "key": "tidybar-classic",
+    "dir": [
+      "TidyBar"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 103339,
@@ -74031,6 +74131,16 @@
     "mode": 1
   },
   {
+    "id": 378908,
+    "name": "WeekKeys",
+    "key": "weekkeys",
+    "dir": [
+      "WeekKeys"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88337,
     "name": "Weekly",
     "key": "weekly",
@@ -77401,6 +77511,16 @@
     "mode": 1
   },
   {
+    "id": 379125,
+    "name": "alaCalendar",
+    "key": "alacalendar",
+    "dir": [
+      "alaCalendar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 296551,
     "name": "alaChat",
     "key": "alachat",
@@ -80478,6 +80598,16 @@
     "mode": 2
   },
   {
+    "id": 378606,
+    "name": "tdBag2 Glass",
+    "key": "tdbag2-glass",
+    "dir": [
+      "tdBag2_Glass"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 354831,
     "name": "tdBag2_Facade",
     "key": "tdbag2_facade",
@@ -80736,7 +80866,17 @@
       "vUI_MemoryDataText"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
+  },
+  {
+    "id": 378871,
+    "name": "vcLootPriority",
+    "key": "vclootpriority",
+    "dir": [
+      "vcLootPriority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 348688,
