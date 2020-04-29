@@ -2533,6 +2533,16 @@
     "mode": 2
   },
   {
+    "id": 379458,
+    "name": "AmmoCount",
+    "key": "ammocount",
+    "dir": [
+      "AmmoCount"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15639,
     "name": "Ampere",
     "key": "ampere",
@@ -5055,6 +5065,16 @@
     "key": "autocancelghostwolf",
     "dir": [
       "AutoCancelGhostWolf"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 379452,
+    "name": "AutoCarrot",
+    "key": "autocarrot",
+    "dir": [
+      "AutoCarrot"
     ],
     "source": "curse",
     "mode": 2
@@ -18425,6 +18445,17 @@
     "key": "dmfautodailyquest",
     "dir": [
       "DMFAutoDailyQuest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 377293,
+    "name": "DMWoWRPG",
+    "key": "los-protectores-wowrpg",
+    "dir": [
+      "DiceMaster_UnitFrames",
+      "DiceMaster"
     ],
     "source": "curse",
     "mode": 1
@@ -42489,6 +42520,16 @@
     "mode": 1
   },
   {
+    "id": 376141,
+    "name": "Longboi death roll",
+    "key": "longboi-death-roll",
+    "dir": [
+      "longboi-death-roll"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88851,
     "name": "Looking for Satchels",
     "key": "looking-satchels",
@@ -50843,6 +50884,16 @@
     "key": "ouroloot",
     "dir": [
       "Ouro_Loot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 379384,
+    "name": "OutOfMana",
+    "key": "outofmana",
+    "dir": [
+      "OutOfMana"
     ],
     "source": "curse",
     "mode": 1
