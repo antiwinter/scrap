@@ -14036,6 +14036,16 @@
     "mode": 1
   },
   {
+    "id": 379563,
+    "name": "Checkmate Guild - Herod - Loot Priority Tooltips",
+    "key": "checkmate-herod-loot-priority",
+    "dir": [
+      "Checkmate_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 36324,
     "name": "Chef Time",
     "key": "chef-time",
@@ -14718,11 +14728,11 @@
     "mode": 2
   },
   {
-    "id": 378126,
-    "name": "Classic Raid Assist Fury",
-    "key": "classic-raid-assist-fury",
+    "id": 379660,
+    "name": "Classic Raid Assist Ziggurat",
+    "key": "classic-raid-assist-ziggurat",
     "dir": [
-      "ClassicRaidAssistFury"
+      "ClassicRaidAssist"
     ],
     "source": "curse",
     "mode": 2
@@ -25255,6 +25265,16 @@
     "key": "exxark-dps",
     "dir": [
       "Exxark-DPS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 379674,
+    "name": "EzMo",
+    "key": "ezmo",
+    "dir": [
+      "EzMo"
     ],
     "source": "curse",
     "mode": 1
@@ -53644,6 +53664,16 @@
     "mode": 1
   },
   {
+    "id": 378126,
+    "name": "Power Raid",
+    "key": "power-raid",
+    "dir": [
+      "ClassicRaidAssistFury"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 27509,
     "name": "PowerDing",
     "key": "powerding",
@@ -74690,16 +74720,6 @@
     "mode": 1
   },
   {
-    "id": 340863,
-    "name": "WhoHasWhat",
-    "key": "whw",
-    "dir": [
-      "WhoHasWhat"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 14897,
     "name": "WhoLib",
     "key": "wholib",
@@ -75909,6 +75929,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 379725,
+    "name": "Wowkemon Classic",
+    "key": "wowkemon-classic",
+    "dir": [
+      "Wowkemon_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 29681,
