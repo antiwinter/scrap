@@ -1574,6 +1574,16 @@
     "mode": 1
   },
   {
+    "id": 379893,
+    "name": "AdiBags - TSM Price Groups",
+    "key": "adibags-filter-for-tsm-by-price",
+    "dir": [
+      "AdiBags_TSM_Price_Groups"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 351755,
     "name": "AdiBags - UnusableItemOverlay",
     "key": "adibags-unusableitemoverlay",
@@ -5198,6 +5208,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 380093,
+    "name": "AutoEnterBWL",
+    "key": "autoenterbwl",
+    "dir": [
+      "AutoEnterBWL"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 28517,
@@ -28967,7 +28987,7 @@
       "Genie"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 85730,
@@ -31816,6 +31836,16 @@
     "mode": 3
   },
   {
+    "id": 379888,
+    "name": "Guild Roster Manager (GRM) - Group Info",
+    "key": "guild-roster-manager-group-info",
+    "dir": [
+      "Guild_Roster_Manager_Group_Info"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 25054,
     "name": "Guild Search",
     "key": "guild-search",
@@ -34361,6 +34391,16 @@
     "key": "hide-the-flash",
     "dir": [
       "Hide the Flash!"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 380076,
+    "name": "Hide/Remove Default Action Bar",
+    "key": "remove-default-actionbar",
+    "dir": [
+      "HideBlizzardDefaultBar"
     ],
     "source": "curse",
     "mode": 1
@@ -53668,7 +53708,7 @@
     "name": "Power Raid",
     "key": "power-raid",
     "dir": [
-      "ClassicRaidAssistFury"
+      "PowerRaid"
     ],
     "source": "curse",
     "mode": 2
@@ -55636,6 +55676,16 @@
     "mode": 1
   },
   {
+    "id": 380127,
+    "name": "QuickEPGP",
+    "key": "quickepgp",
+    "dir": [
+      "QuickEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258292,
     "name": "QuickGroup",
     "key": "quickgroup",
@@ -56704,8 +56754,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionHeroics",
-      "RaidAchievement_LegionRaids"
+      "RaidAchievement_LegionRaids",
+      "RaidAchievement_LegionHeroics"
     ],
     "source": "curse",
     "mode": 1
@@ -61910,6 +61960,16 @@
     "mode": 1
   },
   {
+    "id": 380310,
+    "name": "Sigma AddOn Manager (Classic)",
+    "key": "sigma-addon-manager-classic",
+    "dir": [
+      "SigmaAddOnManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 378652,
     "name": "Sigma Helm and Cloak (Classic)",
     "key": "sigma-helm-and-cloak-classic",
@@ -62326,6 +62386,19 @@
     "key": "simple-holy-power",
     "dir": [
       "SimpleHolyPower"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 379966,
+    "name": "Simple Ilvl",
+    "key": "simple-ilvl",
+    "dir": [
+      "SimpleILvl_Group",
+      "SimpleILvl_Resilience",
+      "SimpleILvl_Social",
+      "SimpleILvl"
     ],
     "source": "curse",
     "mode": 1
@@ -66200,6 +66273,16 @@
     "key": "sunrise-sunset",
     "dir": [
       "Sunrise_Sunset"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 379988,
+    "name": "Super Emotes and Sounds",
+    "key": "super-emotes-and-sounds",
+    "dir": [
+      "SuperEmotesAndSounds"
     ],
     "source": "curse",
     "mode": 1
@@ -76992,6 +77075,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 380150,
+    "name": "Zishor Raid Reset",
+    "key": "zishor-raid-reset",
+    "dir": [
+      "ZishorRaidReset"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 97147,
