@@ -11706,7 +11706,7 @@
   },
   {
     "id": 297375,
-    "name": "BtWQuests: Classic",
+    "name": "BtWQuests: Classic (for Retail)",
     "key": "btw-quests-classic",
     "dir": [
       "BtWQuestsClassic"
@@ -14212,6 +14212,16 @@
     "key": "chromietime",
     "dir": [
       "ChromieTime"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358172,
+    "name": "Chronicles",
+    "key": "chronicles",
+    "dir": [
+      "Chronicles"
     ],
     "source": "curse",
     "mode": 1
@@ -17102,16 +17112,6 @@
     "key": "crackcooldown",
     "dir": [
       "CrackCooldown"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 26539,
-    "name": "CraftBar",
-    "key": "craftbar",
-    "dir": [
-      "CraftBar"
     ],
     "source": "curse",
     "mode": 1
@@ -43749,6 +43749,16 @@
     "mode": 1
   },
   {
+    "id": 379325,
+    "name": "Mage Damage",
+    "key": "mage-damage",
+    "dir": [
+      "MageDamage"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 25557,
     "name": "Mage Gate",
     "key": "mage-gate",
@@ -61984,6 +61994,8 @@
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
     "dir": [
+      "SigmaProfessionFilterBeastTraining",
+      "SigmaProfessionFilterEnchanting",
       "SigmaProfessionFilter"
     ],
     "source": "curse",
@@ -73198,7 +73210,7 @@
       "VikingSharedLib"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 83550,
