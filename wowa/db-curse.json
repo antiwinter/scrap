@@ -16935,6 +16935,26 @@
     "mode": 1
   },
   {
+    "id": 380979,
+    "name": "CopyWhoList",
+    "key": "copywholist",
+    "dir": [
+      "CopyWhoList"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 380527,
+    "name": "Core DKP",
+    "key": "core-dkp",
+    "dir": [
+      "CDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15869,
     "name": "Cork",
     "key": "cork",
@@ -42490,6 +42510,16 @@
     "mode": 1
   },
   {
+    "id": 361477,
+    "name": "LoggerHead - Classic",
+    "key": "loggerhead-classic",
+    "dir": [
+      "LoggerHeadClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 65523,
     "name": "LoggerHeadLite",
     "key": "loggerheadlite",
@@ -49201,6 +49231,16 @@
     "mode": 2
   },
   {
+    "id": 380557,
+    "name": "Nice",
+    "key": "nice",
+    "dir": [
+      "Nice"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 96705,
     "name": "Nice Puppy",
     "key": "nice-puppy",
@@ -51237,6 +51277,16 @@
     "key": "pt3browser",
     "dir": [
       "PT3Browser"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 380267,
+    "name": "PUG Hero",
+    "key": "pug-hero",
+    "dir": [
+      "PUG_Hero"
     ],
     "source": "curse",
     "mode": 1
@@ -54984,11 +55034,10 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
-      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 3607,
@@ -72538,9 +72587,9 @@
     "dir": [
       "UnitFramesPlus_Options",
       "UnitFramesPlus",
+      "UnitFramesPlus_Threat",
       "UnitFramesPlus_Cooldown",
-      "UnitFramesPlus_MobHealth",
-      "UnitFramesPlus_Threat"
+      "UnitFramesPlus_MobHealth"
     ],
     "source": "curse",
     "mode": 3
@@ -73187,6 +73236,16 @@
     "key": "vikinghud",
     "dir": [
       "VikingHud"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 380566,
+    "name": "Viking Raid Notes",
+    "key": "vikingraidnotes",
+    "dir": [
+      "VikingRaidNotes"
     ],
     "source": "curse",
     "mode": 2
@@ -77752,6 +77811,26 @@
     "key": "alatalentemu",
     "dir": [
       "alaTalentEmu"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 380888,
+    "name": "alaTrade",
+    "key": "alatrade",
+    "dir": [
+      "alaTrade"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 380889,
+    "name": "alaTradeFrame",
+    "key": "alatradeframe",
+    "dir": [
+      "alaTradeFrame"
     ],
     "source": "curse",
     "mode": 2
