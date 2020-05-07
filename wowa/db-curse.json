@@ -5607,7 +5607,7 @@
       "AutoResClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 313876,
@@ -8573,6 +8573,16 @@
     "mode": 2
   },
   {
+    "id": 381099,
+    "name": "BiSTooltip",
+    "key": "bistooltip",
+    "dir": [
+      "BiSTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 94112,
     "name": "Bich, the Spell Tracker",
     "key": "bich",
@@ -9848,6 +9858,16 @@
     "key": "bonusrollwindowhide",
     "dir": [
       "BonusRollWindowHide"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 381465,
+    "name": "Bonus XP",
+    "key": "bonus-xp",
+    "dir": [
+      "BonusXP"
     ],
     "source": "curse",
     "mode": 1
@@ -20602,6 +20622,16 @@
     "mode": 1
   },
   {
+    "id": 381128,
+    "name": "Details!: Elitism (plugin)",
+    "key": "details-elitism-plugin",
+    "dir": [
+      "Details_Elitism"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 352367,
     "name": "Details!: Explosive Orbs (plugin)",
     "key": "details-explosive-orbs-plugin",
@@ -22083,7 +22113,7 @@
       "DynamicCam"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 342259,
@@ -54220,6 +54250,16 @@
     "mode": 1
   },
   {
+    "id": 379184,
+    "name": "Profession Leveling Guide",
+    "key": "profession-leveling-guide",
+    "dir": [
+      "PLG"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 77415,
     "name": "Profession Leveling Guide",
     "key": "plg",
@@ -55034,10 +55074,11 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
+      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 3607,
@@ -56937,6 +56978,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 381179,
+    "name": "RaidExporter",
+    "key": "raidexporter",
+    "dir": [
+      "RaidExporter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 83767,
@@ -65591,6 +65642,16 @@
     "mode": 1
   },
   {
+    "id": 381327,
+    "name": "StayUnsheathed Continued",
+    "key": "stayunsheathed-continued",
+    "dir": [
+      "StayUnsheathed"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 91628,
     "name": "Stay_Dead",
     "key": "stay_dead",
@@ -67555,6 +67616,16 @@
     "key": "tankrage",
     "dir": [
       "Tankrage"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 381226,
+    "name": "TanksEventsHelper",
+    "key": "tankseventshelper",
+    "dir": [
+      "TanksEventsHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -71303,6 +71374,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 381100,
+    "name": "TradeShout",
+    "key": "tradeshout",
+    "dir": [
+      "TradeShout"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 17118,
@@ -75655,6 +75736,16 @@
     "mode": 1
   },
   {
+    "id": 381440,
+    "name": "Woons!",
+    "key": "woons",
+    "dir": [
+      "Woons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 360247,
     "name": "Worgen Barber Frame",
     "key": "worgen-barber-frame",
@@ -77303,6 +77394,16 @@
     "key": "zonespec",
     "dir": [
       "ZoneSpec"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 381310,
+    "name": "ZoomInterrupts",
+    "key": "zoominterrupts",
+    "dir": [
+      "ZoomInterrupts"
     ],
     "source": "curse",
     "mode": 1
