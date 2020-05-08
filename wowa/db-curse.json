@@ -581,6 +581,16 @@
     "mode": 1
   },
   {
+    "id": 381592,
+    "name": "AQ War Effort",
+    "key": "aq-war-effort",
+    "dir": [
+      "AQWarEffort"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 349425,
     "name": "AT Raid Export",
     "key": "at-raid-export",
@@ -8014,16 +8024,6 @@
     "mode": 1
   },
   {
-    "id": 365975,
-    "name": "Berserkerclan",
-    "key": "berserkerclan",
-    "dir": [
-      "Berserker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 360318,
     "name": "Best In Slot - Classic",
     "key": "best-in-slot-classic",
@@ -9095,6 +9095,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 381594,
+    "name": "BijouRR",
+    "key": "bijourr",
+    "dir": [
+      "BijouRR"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 29042,
@@ -12314,6 +12324,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 381568,
+    "name": "CCAM",
+    "key": "ccam",
+    "dir": [
+      "CCAM"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 96784,
@@ -32453,6 +32473,16 @@
     "mode": 1
   },
   {
+    "id": 381630,
+    "name": "HPCustomer",
+    "key": "hpcustomer",
+    "dir": [
+      "HPCustomer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 46679,
     "name": "HPetBattleAny",
     "key": "hpetbattleany",
@@ -33613,10 +33643,11 @@
     "name": "Healing Groups Sucks Continued",
     "key": "hgscontinued",
     "dir": [
-      "HGS"
+      "HGS",
+      "hgscontinued"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 282244,
@@ -47144,6 +47175,16 @@
     "key": "motivateui",
     "dir": [
       "MotivateUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 381438,
+    "name": "Mount Collector",
+    "key": "mount-collector",
+    "dir": [
+      "MountCollector"
     ],
     "source": "curse",
     "mode": 1
@@ -62471,6 +62512,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 381728,
+    "name": "Simple Dungeon List",
+    "key": "simple-dungeon-list",
+    "dir": [
+      "SimpleDungeonList"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 302482,
@@ -78844,7 +78895,7 @@
   },
   {
     "id": 48955,
-    "name": "gmAggromon-old",
+    "name": "gmAggromon",
     "key": "gmaggromon",
     "dir": [
       "gmAggroMon"
