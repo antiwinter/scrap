@@ -5460,6 +5460,16 @@
     "mode": 1
   },
   {
+    "id": 381896,
+    "name": "AutoMailer",
+    "key": "automailer",
+    "dir": [
+      "AutoMailer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340988,
     "name": "AutoMarkTarget",
     "key": "automarktarget",
@@ -8022,6 +8032,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 365975,
+    "name": "Berserkerclan",
+    "key": "berserkerclan",
+    "dir": [
+      "Berserker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 360318,
@@ -13514,7 +13534,7 @@
   },
   {
     "id": 338856,
-    "name": "CharacterStatsClassic",
+    "name": "CharacterStatsClassic (Character Stats Classic)",
     "key": "characterstatsclassic",
     "dir": [
       "CharacterStatsClassic"
@@ -14643,6 +14663,16 @@
     "key": "classic-autoquest",
     "dir": [
       "ClassicAutoQuest"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 381954,
+    "name": "Classic Bag Search",
+    "key": "classic-bag-search",
+    "dir": [
+      "ClassicBagSearch"
     ],
     "source": "curse",
     "mode": 2
@@ -43214,6 +43244,16 @@
     "mode": 1
   },
   {
+    "id": 381913,
+    "name": "Lost Keys",
+    "key": "lost-keys",
+    "dir": [
+      "LostKeys"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 57588,
     "name": "Lost Treasure Check",
     "key": "lost-treasure-check",
@@ -54168,6 +54208,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 380426,
+    "name": "Prio3",
+    "key": "prio3",
+    "dir": [
+      "Prio3"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 72962,
