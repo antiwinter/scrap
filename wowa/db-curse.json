@@ -12353,7 +12353,7 @@
       "CCAM"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 96784,
@@ -14064,6 +14064,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 13896,
+    "name": "CheckFearWard",
+    "key": "check-fear-ward",
+    "dir": [
+      "CheckFearWard3"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 313290,
@@ -27092,7 +27102,6 @@
     "key": "flyoutbutton-custom",
     "dir": [
       "FlyoutButtonCustom",
-      "NoTaint_Glow",
       "TinyExtraBars_MacroTextHelpers"
     ],
     "source": "curse",
@@ -31996,6 +32005,16 @@
     "mode": 1
   },
   {
+    "id": 381775,
+    "name": "Guild Tradeskills",
+    "key": "guild-tradeskills",
+    "dir": [
+      "GuildTradeskills"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17057,
     "name": "Guild and Friend Note Announcer",
     "key": "noteannouncer",
@@ -36337,12 +36356,7 @@
     "key": "inked-_classic",
     "dir": [
       "Inked",
-      "Inked_!Options",
-      "Inked_Auras",
-      "Inked_Chat",
-      "Inked_Maps",
-      "Inked_NamePlates",
-      "Inked_Tooltip"
+      "Inked_AB"
     ],
     "source": "curse",
     "mode": 2
@@ -36353,13 +36367,7 @@
     "key": "inked-_retail",
     "dir": [
       "Inked",
-      "Inked_!Options",
-      "Inked_Auras",
-      "Inked_Maps",
-      "Inked_NamePlates",
-      "Inked_Skins",
-      "Inked_Tooltip",
-      "Inked_UnitFrames"
+      "Inked_AB"
     ],
     "source": "curse",
     "mode": 1
@@ -62186,6 +62194,7 @@
     "key": "sigma-profession-filter-classic",
     "dir": [
       "SigmaProfessionFilterBeastTraining",
+      "SigmaProfessionFilterCooking",
       "SigmaProfessionFilterEnchanting",
       "SigmaProfessionFilter"
     ],
@@ -68979,8 +68988,7 @@
     "key": "tinyextrabars",
     "dir": [
       "TinyExtraBars",
-      "TinyExtraBars_MacroTextHelpers",
-      "NoTaint_Glow"
+      "TinyExtraBars_MacroTextHelpers"
     ],
     "source": "curse",
     "mode": 1
