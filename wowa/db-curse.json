@@ -26066,6 +26066,18 @@
     "mode": 1
   },
   {
+    "id": 378773,
+    "name": "FdH raid Tool",
+    "key": "fdh-raid-tool",
+    "dir": [
+      "FdHrT_AutoRoll",
+      "FdHrT_Offi",
+      "FdHrT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 80136,
     "name": "FearlessFrames",
     "key": "fearless-frames",
