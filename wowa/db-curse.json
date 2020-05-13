@@ -4728,6 +4728,16 @@
     "mode": 1
   },
   {
+    "id": 381204,
+    "name": "Aurora Borealis",
+    "key": "aurora-borealis",
+    "dir": [
+      "AuroraBorealis"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 339950,
     "name": "AutionerFast",
     "key": "auctionfaster-by-therebro-rus",
@@ -5230,6 +5240,16 @@
     "mode": 2
   },
   {
+    "id": 382140,
+    "name": "AutoEquip Classic",
+    "key": "autoequip-classic",
+    "dir": [
+      "AutoEquip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28517,
     "name": "AutoEquipQuestItem",
     "key": "autoequipquestitem",
@@ -5675,6 +5695,16 @@
     "key": "autoroll-classic",
     "dir": [
       "AutoRoll"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 382676,
+    "name": "AutoRoll Master",
+    "key": "autoroll-master",
+    "dir": [
+      "AutoRollMaster"
     ],
     "source": "curse",
     "mode": 2
@@ -17906,6 +17936,16 @@
     "mode": 1
   },
   {
+    "id": 382409,
+    "name": "DBM Lobos Countdown",
+    "key": "dbm-lobos-countdown",
+    "dir": [
+      "DBM-CountPack-Lobos"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 306880,
     "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v8.3.0)",
     "key": "dbm-voice-pack-korean-female-dingdiring",
@@ -19463,6 +19503,16 @@
     "mode": 1
   },
   {
+    "id": 382716,
+    "name": "DauntlessBidder",
+    "key": "dauntlessbidder",
+    "dir": [
+      "DauntlessBidder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102731,
     "name": "Dawnsounds",
     "key": "dawnsounds",
@@ -20023,6 +20073,16 @@
     "key": "debuffup",
     "dir": [
       "DebuffUp"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 382165,
+    "name": "DebugLog",
+    "key": "debuglog",
+    "dir": [
+      "_DebugLog"
     ],
     "source": "curse",
     "mode": 1
@@ -20884,6 +20944,16 @@
     "dir": [
       "DiceMaster_UnitFrames",
       "DiceMaster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 382310,
+    "name": "DictionaryFNP",
+    "key": "dictionaryfnp",
+    "dir": [
+      "DictionaryFNP"
     ],
     "source": "curse",
     "mode": 1
@@ -26066,18 +26136,6 @@
     "mode": 1
   },
   {
-    "id": 378773,
-    "name": "FdH raid Tool",
-    "key": "fdh-raid-tool",
-    "dir": [
-      "FdHrT_AutoRoll",
-      "FdHrT_Offi",
-      "FdHrT"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 80136,
     "name": "FearlessFrames",
     "key": "fearless-frames",
@@ -29111,6 +29169,16 @@
     "mode": 3
   },
   {
+    "id": 381999,
+    "name": "Genkai's DKP Loot System - Classic",
+    "key": "genkais-dkp-loot-system-classic",
+    "dir": [
+      "GenkaiDKPBid"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85730,
     "name": "Geppetto",
     "key": "geppetto",
@@ -29484,25 +29552,25 @@
     "key": "glance",
     "dir": [
       "Glance",
-      "Glance_FrameRate",
-      "Glance_Guild",
-      "Glance_Emblems",
-      "Glance_DualSpec",
       "Glance_Armor",
       "Glance_Bags",
+      "Glance_Clock",
+      "Glance_FrameRate",
+      "Glance_Friends",
+      "Glance_Gold",
+      "Glance_Guild",
+      "Glance_Latency",
       "Glance_Location",
-      "Glance_Pets",
+      "Glance_Memory",
+      "Glance_Options",
+      "Glance_Professions",
       "Glance_Reputation",
       "Glance_XP",
-      "Glance_Latency",
-      "Glance_Professions",
-      "Glance_Memory",
-      "Glance_Clock",
+      "Glance_Emblems",
       "Glance_Mounts",
-      "Glance_Friends",
-      "Glance_Titles",
-      "Glance_Options",
-      "Glance_Gold"
+      "Glance_Pets",
+      "Glance_ReSpec",
+      "Glance_Titles"
     ],
     "source": "curse",
     "mode": 3
@@ -34908,6 +34976,16 @@
     "mode": 1
   },
   {
+    "id": 382753,
+    "name": "Highlighter",
+    "key": "highlighter",
+    "dir": [
+      "Highlighter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102670,
     "name": "Hippo Alert",
     "key": "hippo-alert",
@@ -37427,6 +37505,16 @@
     "mode": 2
   },
   {
+    "id": 382098,
+    "name": "ItemRack Classic Tooltip",
+    "key": "itemrack_tooltip",
+    "dir": [
+      "ItemRack_Tooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 365049,
     "name": "ItemRoller",
     "key": "itemroller",
@@ -39226,6 +39314,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 380960,
+    "name": "KrapLoot",
+    "key": "kraploot",
+    "dir": [
+      "KrapLoot"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 353676,
@@ -45621,6 +45719,16 @@
     "mode": 1
   },
   {
+    "id": 381894,
+    "name": "MeetingHorn",
+    "key": "meetinghorn",
+    "dir": [
+      "MeetingHorn"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 43972,
     "name": "Mega Damage",
     "key": "mega-damage",
@@ -47749,6 +47857,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 382875,
+    "name": "Mr Pickpocket",
+    "key": "mr-pickpocket",
+    "dir": [
+      "MrPickpocket"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 301827,
@@ -51533,6 +51651,16 @@
     "mode": 3
   },
   {
+    "id": 382225,
+    "name": "PajMarker",
+    "key": "pajmarker",
+    "dir": [
+      "PajMarker"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 366766,
     "name": "PajMinimapArrow",
     "key": "pajminimaparrow",
@@ -53862,6 +53990,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 382116,
+    "name": "Potion Seller",
+    "key": "potion-seller",
+    "dir": [
+      "ClassicRaidAssist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 30362,
@@ -59987,6 +60125,16 @@
     "mode": 1
   },
   {
+    "id": 318982,
+    "name": "SIR - Snaginanesh Interrupt Rotation",
+    "key": "sir-snaginanesh-interrupt-rotation",
+    "dir": [
+      "Snaginanesh_Interrupt_Rotation"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 5095,
     "name": "SLTimex",
     "key": "project-5095",
@@ -60103,6 +60251,16 @@
     "key": "sui",
     "dir": [
       "SUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 382204,
+    "name": "SV_Addon",
+    "key": "sv_addon",
+    "dir": [
+      "SV_Addon"
     ],
     "source": "curse",
     "mode": 1
@@ -66562,6 +66720,16 @@
     "mode": 1
   },
   {
+    "id": 376491,
+    "name": "SuperBag!",
+    "key": "super-bag",
+    "dir": [
+      "SuperBag"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 30226,
     "name": "SuperGuildInvite",
     "key": "superguildinvite",
@@ -71507,6 +71675,16 @@
     "mode": 2
   },
   {
+    "id": 382799,
+    "name": "TradeShout (English)",
+    "key": "tradeshout-english",
+    "dir": [
+      "TradeShout"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17118,
     "name": "TradeSkill HD",
     "key": "tradeskillhd",
@@ -73098,6 +73276,16 @@
     "mode": 2
   },
   {
+    "id": 382449,
+    "name": "Vanilla Veterans Loot Priority",
+    "key": "vanilla-veterans-loot-priority",
+    "dir": [
+      "VanillaVeterans_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 262852,
     "name": "Vantus Rune Checker",
     "key": "vantus-rune-checker",
@@ -74119,7 +74307,7 @@
       "WarGameHelper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 341900,
