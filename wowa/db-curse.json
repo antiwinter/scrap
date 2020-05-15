@@ -5701,10 +5701,10 @@
   },
   {
     "id": 382676,
-    "name": "AutoRoll Master",
+    "name": "AutoRoll3000",
     "key": "autoroll-master",
     "dir": [
-      "AutoRollMaster"
+      "AutoRoll3000"
     ],
     "source": "curse",
     "mode": 2
@@ -8591,6 +8591,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 383173,
+    "name": "BeyondUltra",
+    "key": "beyondultra",
+    "dir": [
+      "BeyondUltra"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 303270,
@@ -19609,6 +19619,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19617,11 +19631,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -22564,6 +22574,16 @@
     "key": "ezjunk",
     "dir": [
       "EZJunk"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 383394,
+    "name": "EZPriest",
+    "key": "ezpriest",
+    "dir": [
+      "EZPriest"
     ],
     "source": "curse",
     "mode": 2
@@ -64928,6 +64948,16 @@
     "mode": 1
   },
   {
+    "id": 383360,
+    "name": "SpeedOfIthgar",
+    "key": "speedofithgar",
+    "dir": [
+      "SpeedOfIthgar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304591,
     "name": "Speedometer",
     "key": "speedometer",
@@ -65227,6 +65257,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 383411,
+    "name": "SpellWhisper",
+    "key": "spellwhisper",
+    "dir": [
+      "SpellWhisper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 86821,
@@ -72740,16 +72780,6 @@
     "mode": 1
   },
   {
-    "id": 27933,
-    "name": "URNotePad (Uncle Roald's Notepad, Notes)",
-    "key": "uncle-roalds-notepad-urnotepad",
-    "dir": [
-      "URNotePad"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 278183,
     "name": "US-realm Free CD [Horde]",
     "key": "mianfeicd",
@@ -73983,6 +74013,16 @@
     "key": "vortexchat",
     "dir": [
       "VortexChat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 383152,
+    "name": "VortexInviter",
+    "key": "vortexinviter",
+    "dir": [
+      "VortexInviter"
     ],
     "source": "curse",
     "mode": 2
@@ -79720,6 +79760,16 @@
     "key": "isold_more_classic",
     "dir": [
       "iSold_More"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 380224,
+    "name": "iSpam",
+    "key": "ispam",
+    "dir": [
+      "iSpam"
     ],
     "source": "curse",
     "mode": 2
