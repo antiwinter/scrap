@@ -8593,16 +8593,6 @@
     "mode": 1
   },
   {
-    "id": 383173,
-    "name": "BeyondUltra",
-    "key": "beyondultra",
-    "dir": [
-      "BeyondUltra"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 303270,
     "name": "BfA Rare Tracker",
     "key": "wowraretracker",
@@ -12424,6 +12414,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 383530,
+    "name": "CChatFilter",
+    "key": "cchatfilter",
+    "dir": [
+      "CChatFilter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 90796,
@@ -22251,16 +22251,6 @@
     "key": "dynamiccam",
     "dir": [
       "DynamicCam"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 342259,
-    "name": "DynamicCam (Classic)",
-    "key": "dynamiccamclassic",
-    "dir": [
-      "DynamicCam-Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -34586,6 +34576,16 @@
     "mode": 1
   },
   {
+    "id": 383541,
+    "name": "Hide Stance Bar (Classic)",
+    "key": "hide-stance-bar-classic",
+    "dir": [
+      "HideStanceBar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 21355,
     "name": "Hide UI Original",
     "key": "hide-ui-original",
@@ -37520,16 +37520,6 @@
     "dir": [
       "ItemRackOptions",
       "ItemRack"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 382098,
-    "name": "ItemRack Classic Tooltip",
-    "key": "itemrack_tooltip",
-    "dir": [
-      "ItemRack_Tooltip"
     ],
     "source": "curse",
     "mode": 2
@@ -41452,6 +41442,16 @@
     "key": "libguildpositions-1-0",
     "dir": [
       "LibGuildPositions-1.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 383484,
+    "name": "LibHash",
+    "key": "libhash",
+    "dir": [
+      "LibHash-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -53048,6 +53048,16 @@
     "mode": 1
   },
   {
+    "id": 381654,
+    "name": "PhenomRaidTools",
+    "key": "phenomraidtools",
+    "dir": [
+      "PhenomRaidTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20812,
     "name": "PhoenixStyle",
     "key": "phoenixstyle",
@@ -57725,6 +57735,16 @@
     "mode": 1
   },
   {
+    "id": 378931,
+    "name": "RandomMounter",
+    "key": "randommounter",
+    "dir": [
+      "RandomMounter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 5648,
     "name": "RandomPet",
     "key": "random-pet",
@@ -59102,8 +59122,8 @@
     "name": "RepHelper",
     "key": "rephelper",
     "dir": [
-      "RepHelper",
-      "RepHelper_Classic"
+      "RepHelper_Classic",
+      "RepHelper"
     ],
     "source": "curse",
     "mode": 3
@@ -67417,6 +67437,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 383555,
+    "name": "TEA Roll helper",
+    "key": "tea-roll-helper",
+    "dir": [
+      "TEARollHelper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 282337,
