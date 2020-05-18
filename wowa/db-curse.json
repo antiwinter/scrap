@@ -62403,9 +62403,13 @@
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
     "dir": [
+      "SigmaProfessionFilterAlchemy",
       "SigmaProfessionFilterBeastTraining",
       "SigmaProfessionFilterCooking",
       "SigmaProfessionFilterEnchanting",
+      "SigmaProfessionFilterFirstAid",
+      "SigmaProfessionFilterMining",
+      "SigmaProfessionFilterPoisons",
       "SigmaProfessionFilter"
     ],
     "source": "curse",
@@ -63604,7 +63608,7 @@
       "Skillet"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 339820,
@@ -63614,7 +63618,7 @@
       "Skillet-Classic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 86676,
