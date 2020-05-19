@@ -460,6 +460,16 @@
     "mode": 2
   },
   {
+    "id": 383977,
+    "name": "AHTabControl",
+    "key": "ahtabcontrol",
+    "dir": [
+      "zAHTabControl"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20309,
     "name": "AH_ShowBid",
     "key": "ah_showbid",
@@ -6117,7 +6127,7 @@
   {
     "id": 298648,
     "name": "AzeriteUI for WoW Retail",
-    "key": "azeriteui",
+    "key": "azeriteui-retail",
     "dir": [
       "AzeriteUI"
     ],
@@ -17325,6 +17335,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384297,
+    "name": "Cream Armory Profiler",
+    "key": "cream-armory-profiler",
+    "dir": [
+      "CreamArmoryProfiler"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 341153,
@@ -33393,6 +33413,16 @@
     "mode": 1
   },
   {
+    "id": 384181,
+    "name": "HandyNotes_MinimapButton",
+    "key": "handynotes_minimapbutton",
+    "dir": [
+      "HandyNotes_MinimapButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 340222,
     "name": "HandyNotes_NPCs (Classic)",
     "key": "handynotes_npcs-classic",
@@ -38424,6 +38454,16 @@
     "mode": 1
   },
   {
+    "id": 383813,
+    "name": "KazSoundPack",
+    "key": "kazsoundpack",
+    "dir": [
+      "KazSoundPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 308041,
     "name": "Kazotsky Kick",
     "key": "kazotsky-kick",
@@ -42759,6 +42799,16 @@
     "mode": 1
   },
   {
+    "id": 384014,
+    "name": "LoggerHeadLite - Classic",
+    "key": "loggerheadlite-classic",
+    "dir": [
+      "LoggerHeadLiteClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 36374,
     "name": "Logging",
     "key": "logging",
@@ -43420,6 +43470,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 383869,
+    "name": "LotusTimer",
+    "key": "lotustimer",
+    "dir": [
+      "LotusTimer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 3807,
@@ -55510,6 +55570,16 @@
     "mode": 1
   },
   {
+    "id": 383997,
+    "name": "Quest Value",
+    "key": "quest-value",
+    "dir": [
+      "QuestValue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 335807,
     "name": "Quest XP Tracker",
     "key": "quest-xp-tracker",
@@ -63621,6 +63691,16 @@
     "mode": 2
   },
   {
+    "id": 384005,
+    "name": "SkilletTSMPlugin",
+    "key": "skillettsmplugin",
+    "dir": [
+      "SkilletTSMPlugin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86676,
     "name": "Skin",
     "key": "skin",
@@ -67438,6 +67518,16 @@
     "key": "tbagclassic-gagstv",
     "dir": [
       "TBag"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 382634,
+    "name": "TCC Loot Priority",
+    "key": "tcc-loot-priority",
+    "dir": [
+      "TCC_Loot_Priority"
     ],
     "source": "curse",
     "mode": 2
