@@ -2462,6 +2462,30 @@
     "mode": 1
   },
   {
+    "id": 384737,
+    "name": "Altoholic-Classic",
+    "key": "altoholic-classic",
+    "dir": [
+      "Altoholic",
+      "Altoholic_Characters",
+      "Altoholic_Grids",
+      "Altoholic_Guild",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Auctions",
+      "DataStore_Characters",
+      "DataStore_Containers",
+      "DataStore_Crafts",
+      "DataStore_Inventory",
+      "DataStore_Mails",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 26572,
     "name": "Alts",
     "key": "alts",
@@ -17777,6 +17801,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384555,
+    "name": "CustomChat",
+    "key": "customchat",
+    "dir": [
+      "CustomChat"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 357941,
@@ -40491,6 +40525,22 @@
     "mode": 1
   },
   {
+    "id": 384672,
+    "name": "LeeroyHillCatsPower Classic",
+    "key": "leeroyhillcatspower-classic",
+    "dir": [
+      "LHCP_Classic",
+      "LHCP_Firewall",
+      "LHCP_Nitros",
+      "LHCP_StepFurther",
+      "LHCP_Tchort",
+      "LHCP_TeamCowbell",
+      "LHCP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258873,
     "name": "LeeroyHillCatsPower Revived",
     "key": "leeroyhillcatspower-revived",
@@ -60272,6 +60322,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384655,
+    "name": "SAW loot priority",
+    "key": "saw-loot-priority",
+    "dir": [
+      "SAW_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 322841,
