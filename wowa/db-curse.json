@@ -2486,6 +2486,41 @@
     "mode": 2
   },
   {
+    "id": 384785,
+    "name": "Altoholic-Retail",
+    "key": "altoholic-retail",
+    "dir": [
+      "Altoholic",
+      "Altoholic_Achievements",
+      "Altoholic_Agenda",
+      "Altoholic_Characters",
+      "Altoholic_Grids",
+      "Altoholic_Guild",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
+      "DataStore_Auctions",
+      "DataStore_Characters",
+      "DataStore_Containers",
+      "DataStore_Crafts",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
+      "DataStore_Inventory",
+      "DataStore_Keystones",
+      "DataStore_Mails",
+      "DataStore_Pets",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore_Spells",
+      "DataStore_Stats",
+      "DataStore_Talents",
+      "DataStore"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26572,
     "name": "Alts",
     "key": "alts",
@@ -3159,6 +3194,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384835,
+    "name": "Arcanite Coordinator",
+    "key": "arcanite-coordinator",
+    "dir": [
+      "ArcaniteCoordinator"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 44376,
@@ -6514,7 +6559,7 @@
       "BOBScore"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 301766,
@@ -18654,16 +18699,6 @@
     "mode": 1
   },
   {
-    "id": 352080,
-    "name": "DKP Unity Addon",
-    "key": "dkpunity-addon",
-    "dir": [
-      "DKPUnity"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 22404,
     "name": "DKPTooltip",
     "key": "dkptooltip",
@@ -21264,6 +21299,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 383756,
+    "name": "DiscoHealer - Classic",
+    "key": "discohealer-classic",
+    "dir": [
+      "DiscoHealer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 283467,
@@ -37277,16 +37322,6 @@
     "mode": 1
   },
   {
-    "id": 304489,
-    "name": "Ion's Sufficient Tooltips",
-    "key": "ions-sufficient-tooltips",
-    "dir": [
-      "IonsSufficientTooltips"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 290173,
     "name": "IrlName",
     "key": "irlname",
@@ -45947,6 +45982,16 @@
     "mode": 1
   },
   {
+    "id": 384565,
+    "name": "MedusaPrelude",
+    "key": "medusa-prelude",
+    "dir": [
+      "MedusaPrelude"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258375,
     "name": "MeepMerp",
     "key": "meepmerp",
@@ -52180,6 +52225,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384841,
+    "name": "PartyChangedNotifier",
+    "key": "partychangednotifier",
+    "dir": [
+      "PartyChangedNotifier"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 51645,
@@ -63091,9 +63146,9 @@
     "name": "Simple Ilvl",
     "key": "simple-ilvl",
     "dir": [
+      "SimpleILvl_Social",
       "SimpleILvl_Group",
       "SimpleILvl_Resilience",
-      "SimpleILvl_Social",
       "SimpleILvl"
     ],
     "source": "curse",
@@ -63385,6 +63440,16 @@
     "mode": 1
   },
   {
+    "id": 384912,
+    "name": "SimpleDKP",
+    "key": "simpledkp",
+    "dir": [
+      "SimpleDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29132,
     "name": "SimpleDing",
     "key": "simpleding",
@@ -63656,6 +63721,16 @@
     "key": "skui",
     "dir": [
       "SkUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 286800,
+    "name": "Skada Avoidable Damage",
+    "key": "skada-avoidable-damage",
+    "dir": [
+      "SkadaAvoidableDamageTaken"
     ],
     "source": "curse",
     "mode": 1
@@ -72724,6 +72799,16 @@
     "mode": 1
   },
   {
+    "id": 384948,
+    "name": "Triton, track only messages you care.",
+    "key": "triton-track-only-messages-you-care",
+    "dir": [
+      "Triton"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 6061,
     "name": "TriviaBot",
     "key": "trivia-bot",
@@ -73801,6 +73886,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384549,
+    "name": "VendorPrice",
+    "key": "vendorprice",
+    "dir": [
+      "VendorPrice"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 22501,
@@ -81434,6 +81529,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384966,
+    "name": "raidsavestate",
+    "key": "raidsavestate",
+    "dir": [
+      "raidsavestate"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 61259,
