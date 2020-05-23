@@ -12759,6 +12759,16 @@
     "mode": 1
   },
   {
+    "id": 385088,
+    "name": "Calendar Buddy",
+    "key": "calendar-buddy",
+    "dir": [
+      "CalendarBuddy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 335183,
     "name": "Calendar CSV Export",
     "key": "calendar-csv-export",
@@ -13075,6 +13085,16 @@
     "key": "captainslog",
     "dir": [
       "CaptainsLog"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 383915,
+    "name": "Caravana",
+    "key": "caravana",
+    "dir": [
+      "Caravana"
     ],
     "source": "curse",
     "mode": 1
@@ -33480,6 +33500,16 @@
     "mode": 1
   },
   {
+    "id": 384181,
+    "name": "HandyNotes_DataBroker",
+    "key": "handynotes-databroker",
+    "dir": [
+      "HandyNotes_DataBroker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86352,
     "name": "HandyNotes_DraenorTreasures",
     "key": "handynotes_draenortreasures",
@@ -33615,16 +33645,6 @@
     "key": "handy-notes_mailboxes",
     "dir": [
       "HandyNotes_Mailboxes"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 384181,
-    "name": "HandyNotes_MinimapButton",
-    "key": "handynotes_minimapbutton",
-    "dir": [
-      "HandyNotes_MinimapButton"
     ],
     "source": "curse",
     "mode": 1
@@ -38629,6 +38649,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 385130,
+    "name": "KazAddons",
+    "key": "kazaddons",
+    "dir": [
+      "KazAddons"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 378464,
@@ -72800,7 +72830,7 @@
   },
   {
     "id": 384948,
-    "name": "Triton, track only messages you care.",
+    "name": "Triton, track only messages you care",
     "key": "triton-track-only-messages-you-care",
     "dir": [
       "Triton"
@@ -73954,6 +73984,16 @@
     "key": "venge",
     "dir": [
       "Venge"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 382502,
+    "name": "Verbose",
+    "key": "verbose",
+    "dir": [
+      "Verbose"
     ],
     "source": "curse",
     "mode": 1
