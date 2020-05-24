@@ -2487,7 +2487,7 @@
   },
   {
     "id": 384785,
-    "name": "Altoholic-Retail",
+    "name": "Altoholic-Retail (Teelo's Fork)",
     "key": "altoholic-retail",
     "dir": [
       "Altoholic",
@@ -24699,7 +24699,7 @@
       "RaidFrameIndicators"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340120,
@@ -33100,6 +33100,16 @@
     "mode": 1
   },
   {
+    "id": 384181,
+    "name": "HandyNotes Data Broker and Minimap Button",
+    "key": "handynotes-databroker",
+    "dir": [
+      "HandyNotes_DataBroker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 317860,
     "name": "HandyNotes Ferry Network",
     "key": "handynotes-ferry-network",
@@ -33495,16 +33505,6 @@
     "key": "handy-notes_city-guide",
     "dir": [
       "HandyNotes_CityGuide"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 384181,
-    "name": "HandyNotes_DataBroker",
-    "key": "handynotes-databroker",
-    "dir": [
-      "HandyNotes_DataBroker"
     ],
     "source": "curse",
     "mode": 1
@@ -75453,8 +75453,8 @@
     "name": "Where To Gather",
     "key": "where-to-gather",
     "dir": [
-      "WhereToGather",
-      "WhereToGatherClassic"
+      "WhereToGatherClassic",
+      "WhereToGather"
     ],
     "source": "curse",
     "mode": 3
