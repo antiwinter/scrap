@@ -19531,16 +19531,6 @@
     "mode": 1
   },
   {
-    "id": 20206,
-    "name": "DataStore_Characters",
-    "key": "datastore_characters",
-    "dir": [
-      "DataStore_Characters"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 19872,
     "name": "DataStore_Containers",
     "key": "datastore_containers",
@@ -38741,6 +38731,16 @@
     "mode": 1
   },
   {
+    "id": 377594,
+    "name": "KegStaff",
+    "key": "kegstaff",
+    "dir": [
+      "KegStaffV3"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 95440,
     "name": "KekMount",
     "key": "kekmount",
@@ -44492,7 +44492,7 @@
       "MagnetButtons"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 92914,
