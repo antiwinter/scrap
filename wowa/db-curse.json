@@ -26957,7 +26957,7 @@
   },
   {
     "id": 305472,
-    "name": "FlappySyrac 1.0.4",
+    "name": "Flappy Syrac",
     "key": "flappysyrac",
     "dir": [
       "FlappySyrac"
@@ -34377,6 +34377,16 @@
     "mode": 1
   },
   {
+    "id": 262714,
+    "name": "Heretic Lootmaster",
+    "key": "ketzerischer-lootverteiler",
+    "dir": [
+      "KetzerischerLootverteiler"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27669,
     "name": "Hermes",
     "key": "hermes",
@@ -38661,16 +38671,6 @@
     "mode": 1
   },
   {
-    "id": 377020,
-    "name": "KazKeys",
-    "key": "kazkeys",
-    "dir": [
-      "KazKeys"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 383813,
     "name": "KazSoundPack",
     "key": "kazsoundpack",
@@ -38791,16 +38791,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 262714,
-    "name": "Ketzerischer Lootverteiler",
-    "key": "ketzerischer-lootverteiler",
-    "dir": [
-      "KetzerischerLootverteiler"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 20766,
