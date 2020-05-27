@@ -4549,6 +4549,16 @@
     "mode": 1
   },
   {
+    "id": 385567,
+    "name": "Auction Watch",
+    "key": "auction-watch",
+    "dir": [
+      "AuctionWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 336627,
     "name": "AuctionBuddy",
     "key": "auctionbuddy",
@@ -12405,8 +12415,8 @@
   },
   {
     "id": 2590,
-    "name": "BuyEmAll",
-    "key": "project-2590",
+    "name": "BuyEmAll BfA",
+    "key": "buyemall",
     "dir": [
       "BuyEmAll"
     ],
@@ -12530,6 +12540,16 @@
     "key": "cepgp",
     "dir": [
       "CEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 385862,
+    "name": "CEPGP_DATA",
+    "key": "cepgp_data",
+    "dir": [
+      "CEPGP_Data"
     ],
     "source": "curse",
     "mode": 2
@@ -19766,6 +19786,16 @@
     "mode": 1
   },
   {
+    "id": 385685,
+    "name": "Deadly Boss Mods (DBM) - Asmongold Countdown Pack",
+    "key": "deadly-boss-mods-dbm-asmongold-countdown-pack",
+    "dir": [
+      "DBM-CountPack-Asmongold"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 16442,
     "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail)",
     "key": "dbm-bc",
@@ -23691,6 +23721,16 @@
     "mode": 1
   },
   {
+    "id": 385212,
+    "name": "ElvUI Honor Data Text",
+    "key": "elvui-honor-data-text",
+    "dir": [
+      "ElvUI_Honor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 91647,
     "name": "ElvUI Improved Datatext Config",
     "key": "elvui-improved-datatext-config",
@@ -26996,6 +27036,16 @@
     "mode": 1
   },
   {
+    "id": 385357,
+    "name": "Flash Taskbar Classic",
+    "key": "flash-taskbar-classic",
+    "dir": [
+      "FlashTaskBarClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 97173,
     "name": "FlashGuildTab",
     "key": "flashchattabs",
@@ -27271,6 +27321,16 @@
     "key": "flurry1",
     "dir": [
       "Flurry"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 385848,
+    "name": "Fluxy Bar",
+    "key": "fluxy-bar",
+    "dir": [
+      "FluxyBar"
     ],
     "source": "curse",
     "mode": 1
@@ -34166,6 +34226,16 @@
     "mode": 1
   },
   {
+    "id": 385361,
+    "name": "HearthRoulette",
+    "key": "hearthroulette",
+    "dir": [
+      "HearthRoulette"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295654,
     "name": "HearthZone",
     "key": "hearthzone",
@@ -34381,7 +34451,7 @@
     "name": "Heretic Lootmaster",
     "key": "ketzerischer-lootverteiler",
     "dir": [
-      "KetzerischerLootverteiler"
+      "HereticLootmaster"
     ],
     "source": "curse",
     "mode": 1
@@ -40833,6 +40903,16 @@
     "key": "letmecast",
     "dir": [
       "LetMeCast"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 385831,
+    "name": "Letterkenny Quotes",
+    "key": "letterkenny-quotes",
+    "dir": [
+      "LetterkennyQuotes"
     ],
     "source": "curse",
     "mode": 2
@@ -48448,6 +48528,16 @@
     "mode": 1
   },
   {
+    "id": 385517,
+    "name": "Musician Piano",
+    "key": "musician-piano",
+    "dir": [
+      "Musician_Instrument_Piano"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 306254,
     "name": "MusicianList",
     "key": "musicianlist",
@@ -51353,6 +51443,16 @@
     "mode": 2
   },
   {
+    "id": 385526,
+    "name": "OnyCloakEquip",
+    "key": "onycloakequip",
+    "dir": [
+      "OnyCloakEquip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 368538,
     "name": "Onyxia Scale Cloak Checker",
     "key": "onyxia-scale-cloak-checker",
@@ -52136,6 +52236,16 @@
     "mode": 1
   },
   {
+    "id": 385488,
+    "name": "Paranoid DKP Helper",
+    "key": "paranoid-dkp-helper",
+    "dir": [
+      "Paranoid_DKP_Helper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 276995,
     "name": "Paraxis Siren",
     "key": "paraxis-siren",
@@ -52467,6 +52577,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 385856,
+    "name": "Perfect Dominance loot prio tooltip",
+    "key": "perfect-dominance-loot-prio-tooltip",
+    "dir": [
+      "PerfectDominance_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 56435,
@@ -55146,6 +55266,16 @@
     "mode": 1
   },
   {
+    "id": 386004,
+    "name": "Pummeler Charge Count for Bagnon",
+    "key": "pummeler-charge-count-for-bagnon",
+    "dir": [
+      "PummelerCountBagnon"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28368,
     "name": "PuppyHelmHider",
     "key": "puppyhelmhider",
@@ -57310,6 +57440,16 @@
     "mode": 2
   },
   {
+    "id": 385423,
+    "name": "Raid Invite Classic",
+    "key": "raid-invite-classic",
+    "dir": [
+      "RaidInviteClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 98718,
     "name": "Raid Lock Report",
     "key": "raid-lock-report",
@@ -58582,7 +58722,7 @@
   },
   {
     "id": 298954,
-    "name": "ReadableRussianNames",
+    "name": "Readable Russian Names",
     "key": "readablerussiannames",
     "dir": [
       "ReadableRussianNames"
@@ -64962,6 +65102,16 @@
     "mode": 1
   },
   {
+    "id": 385203,
+    "name": "Soul Shard Manager",
+    "key": "soul-shard-manager",
+    "dir": [
+      "SoulShardManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 336356,
     "name": "SoulSort - Easy Soul Shard Management",
     "key": "soulsort-easy-soul-shard-management",
@@ -67758,6 +67908,16 @@
     "mode": 1
   },
   {
+    "id": 385789,
+    "name": "Syndicate Loot Priority",
+    "key": "syndicate-loot-priority",
+    "dir": [
+      "Syndicate_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 91697,
     "name": "Syracs Rune Check",
     "key": "syracs-rune-check",
@@ -69520,6 +69680,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 385430,
+    "name": "TimeToKill",
+    "key": "timetokill",
+    "dir": [
+      "TimeToKill"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 65880,
@@ -77965,6 +78135,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384820,
+    "name": "ZeBid",
+    "key": "zebid",
+    "dir": [
+      "ZeBid"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 91085,
