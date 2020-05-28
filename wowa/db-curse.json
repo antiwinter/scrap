@@ -21724,6 +21724,16 @@
     "mode": 1
   },
   {
+    "id": 345990,
+    "name": "Draconis Erus Raid Recorder",
+    "key": "draconiserus-raid-recorder",
+    "dir": [
+      "DraconisErusRaidRecorder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 98206,
     "name": "Draenor Miller",
     "key": "draenor-miller",
@@ -26100,6 +26110,16 @@
     "key": "farminghelper",
     "dir": [
       "FarmingTimer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 385890,
+    "name": "Fart Addon",
+    "key": "fart-addon",
+    "dir": [
+      "Fart_Addon"
     ],
     "source": "curse",
     "mode": 1
@@ -42942,6 +42962,36 @@
     "mode": 1
   },
   {
+    "id": 386219,
+    "name": "Little Helper: Audio Device",
+    "key": "little-helper-audio-device",
+    "dir": [
+      "LH_SoundDevice"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 386147,
+    "name": "Little Helper: NameplateSCT Ranged Fix",
+    "key": "little-helper-nameplatesct-ranged-fix",
+    "dir": [
+      "LH_DistinctDamage"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 386139,
+    "name": "Little Helper: UIError to Parrot",
+    "key": "little-helper-uierror-to-parrot",
+    "dir": [
+      "LH_UIErrorToParrot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 4383,
     "name": "LittleWigs",
     "key": "little-wigs",
@@ -44562,7 +44612,7 @@
       "MagnetButtons"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 92914,
@@ -73874,17 +73924,6 @@
     "mode": 3
   },
   {
-    "id": 345990,
-    "name": "Vanguard Raid Recorder",
-    "key": "vanguard-raid-recorder",
-    "dir": [
-      "VanguardDKP",
-      "VanguardRaidRecorder"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 382449,
     "name": "Vanilla Veterans Loot Priority",
     "key": "vanilla-veterans-loot-priority",
@@ -76772,6 +76811,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 386205,
+    "name": "World Boss Loot Priorities",
+    "key": "world-boss-loot-priorities",
+    "dir": [
+      "WorldBossLootPriorities"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 50260,
@@ -81929,6 +81978,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 386078,
+    "name": "target hp/mp",
+    "key": "target-hp-mp",
+    "dir": [
+      "betterUI"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 27608,
