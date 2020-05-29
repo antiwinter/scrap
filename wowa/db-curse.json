@@ -24739,7 +24739,7 @@
       "RaidFrameIndicators"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 340120,
@@ -48578,6 +48578,16 @@
     "mode": 1
   },
   {
+    "id": 306254,
+    "name": "Musician List",
+    "key": "musicianlist",
+    "dir": [
+      "MusicianList"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 385517,
     "name": "Musician Piano",
     "key": "musician-piano",
@@ -48586,16 +48596,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 306254,
-    "name": "MusicianList",
-    "key": "musicianlist",
-    "dir": [
-      "MusicianList"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 29869,
@@ -54781,6 +54781,16 @@
     "mode": 1
   },
   {
+    "id": 386319,
+    "name": "PremadeAutoAccept Fix",
+    "key": "premadeautoaccept-fix",
+    "dir": [
+      "PremadeAutoAcceptFix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44235,
     "name": "Premo Power",
     "key": "premo_power-1",
@@ -56480,6 +56490,16 @@
     "mode": 3
   },
   {
+    "id": 380127,
+    "name": "Quick EPGP",
+    "key": "quick-epgp",
+    "dir": [
+      "QuickEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 5130,
     "name": "Quick Heal",
     "key": "quick-heal",
@@ -56558,16 +56578,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 380127,
-    "name": "QuickEPGP",
-    "key": "quickepgp",
-    "dir": [
-      "QuickEPGP"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 258292,
@@ -63307,6 +63317,16 @@
     "key": "simple-dps",
     "dir": [
       "SimpleDps"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 386200,
+    "name": "Simple Druid Mana",
+    "key": "simpledruidmana",
+    "dir": [
+      "SimpleDruidMana"
     ],
     "source": "curse",
     "mode": 1
