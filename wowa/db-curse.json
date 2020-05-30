@@ -19758,10 +19758,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19770,7 +19766,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -30033,6 +30033,16 @@
     "mode": 1
   },
   {
+    "id": 386396,
+    "name": "GlowFoSho Classic",
+    "key": "glowfosho-classic",
+    "dir": [
+      "GlowFoSho"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22288,
     "name": "Gluggen's Easy Fix",
     "key": "gezfx",
@@ -33932,6 +33942,16 @@
     "mode": 1
   },
   {
+    "id": 386551,
+    "name": "HatCheck Classic",
+    "key": "hatcheck-classic",
+    "dir": [
+      "HatCheckClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 27156,
     "name": "HatTrick",
     "key": "hattrick",
@@ -36825,6 +36845,51 @@
     "dir": [
       "Inked",
       "Inked_AB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 386463,
+    "name": "InkedSV Classic (Super Villain)",
+    "key": "inkedsv-classic-super-villain",
+    "dir": [
+      "InkedSV_ActionBars",
+      "InkedSV_Auras",
+      "InkedSV_Chat",
+      "InkedSV_Inventory",
+      "InkedSV_Maps",
+      "InkedSV_NamePlates",
+      "InkedSV_Options",
+      "InkedSV_QuestTracker",
+      "InkedSV_Skins",
+      "InkedSV_ToolTip",
+      "InkedSV_UnitFrames",
+      "InkedSVTheme_Simple",
+      "InkedSV"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 386468,
+    "name": "InkedSV(SuperVillain)",
+    "key": "inkedsv-supervillain",
+    "dir": [
+      "InkedSV_ActionBars",
+      "InkedSV_Auras",
+      "InkedSV_Chat",
+      "InkedSV_CraftOMatic",
+      "InkedSV_Inventory",
+      "InkedSV_Maps",
+      "InkedSV_NamePlates",
+      "InkedSV_Options",
+      "InkedSV_QuestTracker",
+      "InkedSV_Skins",
+      "InkedSV_ToolTip",
+      "InkedSV_UnitFrames",
+      "InkedSVTheme_Simple",
+      "InkedSV"
     ],
     "source": "curse",
     "mode": 1
@@ -42972,6 +43037,16 @@
     "mode": 2
   },
   {
+    "id": 386533,
+    "name": "Little Helper: Mob Market Value",
+    "key": "little-helper-mob-market-value",
+    "dir": [
+      "LH_Drops"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 386147,
     "name": "Little Helper: NameplateSCT Ranged Fix",
     "key": "little-helper-nameplatesct-ranged-fix",
@@ -48586,6 +48661,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 386438,
+    "name": "Musician MIDI",
+    "key": "musicianmidi",
+    "dir": [
+      "MusicianMIDI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 385517,
