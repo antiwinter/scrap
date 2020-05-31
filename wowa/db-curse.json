@@ -8133,6 +8133,16 @@
     "mode": 1
   },
   {
+    "id": 351047,
+    "name": "BeerCount",
+    "key": "beercount",
+    "dir": [
+      "BeerCount"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 39433,
     "name": "Below Average Items (Low Item Level Indicator)",
     "key": "below-average-items",
@@ -19944,31 +19954,11 @@
     "mode": 3
   },
   {
-    "id": 21364,
-    "name": "Deadly Boss Mods (DBM) - RaidLeadTools",
-    "key": "dbm-raidtools",
-    "dir": [
-      "DBM-RaidLeadTools"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 289632,
     "name": "Deadly Boss Mods (DBM) - SmoothMcGroove Event Pack",
     "key": "deadly-boss-mods-dbm-smoothmcgroove-event-pack",
     "dir": [
       "DBM-SMGEventsPack"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 18712,
-    "name": "Deadly Boss Mods (DBM) - SpellTimers",
-    "key": "dbm-spelltimers",
-    "dir": [
-      "DBM-SpellTimers"
     ],
     "source": "curse",
     "mode": 3
@@ -25462,6 +25452,16 @@
     "key": "expresbrewingco",
     "dir": [
       "ExpresBrewingCo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 385234,
+    "name": "Express your Elf",
+    "key": "express-your-elf",
+    "dir": [
+      "ExpressYourElf"
     ],
     "source": "curse",
     "mode": 1
