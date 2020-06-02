@@ -761,6 +761,16 @@
     "mode": 1
   },
   {
+    "id": 386973,
+    "name": "Acamar Auto-learning spam blocker",
+    "key": "acamar-auto-learning-spam-blocker",
+    "dir": [
+      "Acamar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 263447,
     "name": "Accelerando Vox",
     "key": "accelerando-vox",
@@ -1618,7 +1628,7 @@
     "name": "AdiBags - Zone Items",
     "key": "adibags-zone-items",
     "dir": [
-      "AdiBags_BfAZoneItems"
+      "AdiBags_ZoneItems"
     ],
     "source": "curse",
     "mode": 1
@@ -4917,6 +4927,16 @@
     "mode": 1
   },
   {
+    "id": 377054,
+    "name": "Auto Keystone",
+    "key": "autokeystone",
+    "dir": [
+      "AutoKeystone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348712,
     "name": "Auto Loot Assist",
     "key": "auto-loot-assist",
@@ -5459,16 +5479,6 @@
     "mode": 1
   },
   {
-    "id": 377054,
-    "name": "AutoKeystone",
-    "key": "autokeystone",
-    "dir": [
-      "AutoKeystone"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 334702,
     "name": "AutoLFGRole",
     "key": "autolfgrole",
@@ -5584,6 +5594,16 @@
     "key": "automarktarget",
     "dir": [
       "AutoMarkTarget"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 386568,
+    "name": "AutoNeed",
+    "key": "autoneed",
+    "dir": [
+      "AutoNeed"
     ],
     "source": "curse",
     "mode": 2
@@ -5794,6 +5814,16 @@
     "key": "autoroll-master",
     "dir": [
       "AutoRoll3000"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 386670,
+    "name": "AutoRollGreed",
+    "key": "autorollgreed",
+    "dir": [
+      "AutoRollGreed"
     ],
     "source": "curse",
     "mode": 2
@@ -13540,6 +13570,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 386754,
+    "name": "Centered UnitFrames",
+    "key": "centered-unitframes",
+    "dir": [
+      "D4KiR Centered"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 274928,
@@ -22708,6 +22748,16 @@
     "mode": 2
   },
   {
+    "id": 383394,
+    "name": "EZDownRank",
+    "key": "ezdownrank",
+    "dir": [
+      "EZDownRank"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 2934,
     "name": "EZInnervate",
     "key": "project-2934",
@@ -22723,16 +22773,6 @@
     "key": "ezjunk",
     "dir": [
       "EZJunk"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 383394,
-    "name": "EZPriest",
-    "key": "ezpriest",
-    "dir": [
-      "EZPriest"
     ],
     "source": "curse",
     "mode": 2
@@ -30241,6 +30281,16 @@
     "mode": 1
   },
   {
+    "id": 386831,
+    "name": "GoFarm",
+    "key": "gofarm",
+    "dir": [
+      "GoFarm"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 56393,
     "name": "GoFish",
     "key": "gofish",
@@ -30298,7 +30348,7 @@
       "GoPost"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 299771,
@@ -36915,6 +36965,16 @@
     "mode": 2
   },
   {
+    "id": 386720,
+    "name": "InputLagFix",
+    "key": "inputlagfix",
+    "dir": [
+      "InputLagFix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 308923,
     "name": "InsaneSets",
     "key": "insanesets",
@@ -37051,6 +37111,16 @@
     "key": "instance-entered-counter",
     "dir": [
       "InstanceEnteredCounter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 387064,
+    "name": "Instance Gold Tracker",
+    "key": "instance-gold-tracker",
+    "dir": [
+      "InstanceGoldTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -43898,16 +43968,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 383869,
-    "name": "LotusTimer",
-    "key": "lotustimer",
-    "dir": [
-      "LotusTimer"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 3807,
@@ -57025,6 +57085,16 @@
     "mode": 1
   },
   {
+    "id": 387165,
+    "name": "RCA",
+    "key": "rca",
+    "dir": [
+      "RCA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 39928,
     "name": "RCLootCouncil",
     "key": "rclootcouncil",
@@ -67091,6 +67161,16 @@
     "mode": 2
   },
   {
+    "id": 384342,
+    "name": "Sunderer",
+    "key": "sunderer",
+    "dir": [
+      "Sunderer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 3769,
     "name": "Sunn - Viewport Art",
     "key": "sunn-viewport-art",
@@ -69364,6 +69444,16 @@
     "key": "the-guide",
     "dir": [
       "TheGuide"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 386871,
+    "name": "TheNightIsDarkUI",
+    "key": "thenightisdarkui",
+    "dir": [
+      "TheNightIsDarkUI"
     ],
     "source": "curse",
     "mode": 2
@@ -72733,6 +72823,16 @@
     "mode": 1
   },
   {
+    "id": 385086,
+    "name": "TrafficMeter",
+    "key": "trafficmeter",
+    "dir": [
+      "TrafficMeter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101201,
     "name": "Train All",
     "key": "train-all",
@@ -73151,7 +73251,7 @@
       "Triton"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 6061,
@@ -75654,6 +75754,16 @@
     "key": "whats-training",
     "dir": [
       "WhatsTraining"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 387053,
+    "name": "What's Up",
+    "key": "whats-up",
+    "dir": [
+      "WhatsUp"
     ],
     "source": "curse",
     "mode": 2
@@ -82083,16 +82193,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 386078,
-    "name": "target hp/mp",
-    "key": "target-hp-mp",
-    "dir": [
-      "betterUI"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 27608,
