@@ -3126,6 +3126,16 @@
     "mode": 3
   },
   {
+    "id": 387453,
+    "name": "Ara Broker Reputations",
+    "key": "ara-broker-reputations",
+    "dir": [
+      "Ara_Broker_Reputations"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88388,
     "name": "Ara Broker Tradeskills",
     "key": "ara-broker-tradeskills",
@@ -4312,6 +4322,16 @@
     "key": "atlas-wrathofthelichking",
     "dir": [
       "Atlas_WrathoftheLichKing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 387333,
+    "name": "AtlasArenaAddon",
+    "key": "atlasarenaaddon",
+    "dir": [
+      "AtlasArenaAddon"
     ],
     "source": "curse",
     "mode": 1
@@ -17576,6 +17596,16 @@
     "mode": 2
   },
   {
+    "id": 368578,
+    "name": "CritChain CLASSIC",
+    "key": "critchain-classic",
+    "dir": [
+      "CritChain"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22241,
     "name": "CritEmote",
     "key": "critemote",
@@ -25744,6 +25774,16 @@
     "key": "fade-world-timers",
     "dir": [
       "FADEWorldTimers"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 387347,
+    "name": "FARM PROTTEC",
+    "key": "farm-prottec",
+    "dir": [
+      "FARMPROTTEC"
     ],
     "source": "curse",
     "mode": 2
@@ -61547,6 +61587,16 @@
     "mode": 1
   },
   {
+    "id": 2904,
+    "name": "ScreenPlus",
+    "key": "screen-plus",
+    "dir": [
+      "ScreenPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 262167,
     "name": "Screenshoter",
     "key": "screenshoter",
@@ -72519,6 +72569,16 @@
     "mode": 1
   },
   {
+    "id": 387266,
+    "name": "TradeLogUnlimited",
+    "key": "tradelogunlimited",
+    "dir": [
+      "TradeLogUnlimited"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 381100,
     "name": "TradeShout",
     "key": "tradeshout",
@@ -74839,6 +74899,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 386314,
+    "name": "Vortex Cooldowns",
+    "key": "vortex-cooldowns",
+    "dir": [
+      "VortexCooldowns"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 72097,
@@ -77748,7 +77818,7 @@
       "XPToLevel"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 337346,
@@ -82190,6 +82260,16 @@
     "key": "trunes",
     "dir": [
       "tRunes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 387418,
+    "name": "tTimeStamps",
+    "key": "ttimestamps",
+    "dir": [
+      "tTimeStamps"
     ],
     "source": "curse",
     "mode": 1
