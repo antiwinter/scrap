@@ -4334,7 +4334,7 @@
       "AtlasArenaAddon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 265057,
@@ -10210,6 +10210,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 387690,
+    "name": "BoostWaitlist",
+    "key": "boostwaitlist",
+    "dir": [
+      "BoostWaitlist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 27986,
@@ -17737,6 +17747,16 @@
     "key": "cruisecontrol",
     "dir": [
       "CruiseControl"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 387756,
+    "name": "Crystal Vision Tracker",
+    "key": "crystalvisiontracker",
+    "dir": [
+      "CrystalVisionTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -32512,16 +32532,6 @@
     "mode": 1
   },
   {
-    "id": 381775,
-    "name": "Guild Tradeskills",
-    "key": "guild-tradeskills",
-    "dir": [
-      "GuildTradeskills"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 17057,
     "name": "Guild and Friend Note Announcer",
     "key": "noteannouncer",
@@ -32829,6 +32839,16 @@
     "key": "guildtooltip",
     "dir": [
       "GuildTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 381775,
+    "name": "GuildTradeskills",
+    "key": "guild-tradeskills",
+    "dir": [
+      "GuildTradeskills"
     ],
     "source": "curse",
     "mode": 2
@@ -44795,6 +44815,16 @@
     "key": "magneto",
     "dir": [
       "Magneto"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 383400,
+    "name": "Mail Bookkeeper",
+    "key": "mbk",
+    "dir": [
+      "MailBookKeeper"
     ],
     "source": "curse",
     "mode": 1
@@ -59717,6 +59747,16 @@
     "mode": 1
   },
   {
+    "id": 387663,
+    "name": "Remove Sell Price",
+    "key": "remove-sell-price",
+    "dir": [
+      "RemoveSellPrice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 321903,
     "name": "RemoveCombatTextFromPlayerPortrait",
     "key": "removecombattextfromplayerportrait",
@@ -62754,6 +62794,17 @@
     "mode": 1
   },
   {
+    "id": 387455,
+    "name": "ShestakUI For WOWClassic(wj)",
+    "key": "shestakui-wowclassic-by-wj",
+    "dir": [
+      "ShestakUI_Config",
+      "ShestakUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 46586,
     "name": "Shield Maid",
     "key": "shield-maid",
@@ -64419,6 +64470,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 387573,
+    "name": "Skinning Knife",
+    "key": "skinning-knife",
+    "dir": [
+      "SkinningKnife"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 87520,
