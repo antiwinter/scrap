@@ -19858,6 +19858,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -19866,11 +19870,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -30916,6 +30916,16 @@
     "mode": 3
   },
   {
+    "id": 385480,
+    "name": "Grichelde",
+    "key": "grichelde",
+    "dir": [
+      "Grichelde"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 7000,
     "name": "Grid",
     "key": "grid",
@@ -36964,6 +36974,8 @@
     "name": "InkedSV Classic (Super Villain)",
     "key": "inkedsv-classic-super-villain",
     "dir": [
+      "InkedSVTheme_Simple",
+      "InkedSVTheme_Warcraft",
       "InkedSV_ActionBars",
       "InkedSV_Auras",
       "InkedSV_Chat",
@@ -36975,7 +36987,6 @@
       "InkedSV_Skins",
       "InkedSV_ToolTip",
       "InkedSV_UnitFrames",
-      "InkedSVTheme_Simple",
       "InkedSV"
     ],
     "source": "curse",
@@ -36986,10 +36997,13 @@
     "name": "InkedSV(SuperVillain)",
     "key": "inkedsv-supervillain",
     "dir": [
+      "InkedSVTheme_Simple",
+      "InkedSVTheme_Warcraft",
       "InkedSV_ActionBars",
       "InkedSV_Auras",
       "InkedSV_Chat",
       "InkedSV_CraftOMatic",
+      "InkedSV_FightOMatic",
       "InkedSV_Inventory",
       "InkedSV_Maps",
       "InkedSV_NamePlates",
@@ -36998,7 +37012,6 @@
       "InkedSV_Skins",
       "InkedSV_ToolTip",
       "InkedSV_UnitFrames",
-      "InkedSVTheme_Simple",
       "InkedSV"
     ],
     "source": "curse",
@@ -37154,6 +37167,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 387834,
+    "name": "Instance Boost Payment Tracker",
+    "key": "instance-boost-payment-tracker",
+    "dir": [
+      "InstanceBoostTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 302718,
@@ -39576,6 +39599,16 @@
     "key": "killshot_sounds",
     "dir": [
       "Killshot_Sounds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 387585,
+    "name": "Kiminfo",
+    "key": "kiminfo",
+    "dir": [
+      "Kiminfo"
     ],
     "source": "curse",
     "mode": 1
@@ -60370,6 +60403,16 @@
     "mode": 1
   },
   {
+    "id": 387939,
+    "name": "RogerBigDam",
+    "key": "rogerbigdam",
+    "dir": [
+      "RogerBigDam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29179,
     "name": "Rogue Defibrillator",
     "key": "roguedefib",
@@ -80451,6 +80494,16 @@
     "key": "guidelime_sunpower",
     "dir": [
       "Guidelime_Sunpower"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 387985,
+    "name": "guyheaven emotes",
+    "key": "guyheaven-emotes",
+    "dir": [
+      "TwitchEmotes"
     ],
     "source": "curse",
     "mode": 2
