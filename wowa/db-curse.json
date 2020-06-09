@@ -12474,6 +12474,16 @@
     "mode": 1
   },
   {
+    "id": 388645,
+    "name": "Buvvs",
+    "key": "buvvs",
+    "dir": [
+      "Buvvs"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 351325,
     "name": "Buy That Stuff",
     "key": "buy-that-stuff",
@@ -12540,6 +12550,16 @@
     "dir": [
       "CASK",
       "cask"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 388379,
+    "name": "CC Counter",
+    "key": "cc-counter",
+    "dir": [
+      "CCCounter"
     ],
     "source": "curse",
     "mode": 1
@@ -17747,6 +17767,16 @@
     "key": "cruisecontrol",
     "dir": [
       "CruiseControl"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 388485,
+    "name": "Crystal Sockets",
+    "key": "crystal-sockets",
+    "dir": [
+      "CrystalSockets"
     ],
     "source": "curse",
     "mode": 1
@@ -39788,6 +39818,16 @@
     "mode": 1
   },
   {
+    "id": 388565,
+    "name": "Kleiderschrank",
+    "key": "kleiderschrank",
+    "dir": [
+      "Kleiderschrank"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 99383,
     "name": "Kniggel",
     "key": "kniggel",
@@ -49178,6 +49218,16 @@
     "mode": 1
   },
   {
+    "id": 388188,
+    "name": "MyPocket",
+    "key": "mypocket",
+    "dir": [
+      "MyPocket"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95792,
     "name": "MyPremadeSorter",
     "key": "mypremadesorter",
@@ -52662,7 +52712,7 @@
       "PartyChangedNotifier"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 51645,
@@ -64716,6 +64766,16 @@
     "mode": 1
   },
   {
+    "id": 388521,
+    "name": "Slicer TNG",
+    "key": "slicer-tng",
+    "dir": [
+      "SlicerTNG"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 19261,
     "name": "SlyProfits",
     "key": "slyprofits",
@@ -65296,6 +65356,16 @@
     "dir": [
       "SolaceLib",
       "SolaceBuffDisplay"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 388449,
+    "name": "SolarCollector",
+    "key": "solarcollector",
+    "dir": [
+      "SolarCollector"
     ],
     "source": "curse",
     "mode": 1
