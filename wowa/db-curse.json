@@ -22515,6 +22515,16 @@
     "mode": 1
   },
   {
+    "id": 388657,
+    "name": "Dynamic Weather - Immersive, realistic, changing weather for all zones!",
+    "key": "dynamic-weather-immersive-realistic-changing",
+    "dir": [
+      "DynamicWeather"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323794,
     "name": "DynamicBoxer",
     "key": "dynamicboxer",
@@ -24459,6 +24469,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 388783,
+    "name": "ElvUI_mMediaTag_Classic",
+    "key": "elvui_mmediatag_classic",
+    "dir": [
+      "ElvUI_mMediaTag_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 91797,
@@ -40828,16 +40848,6 @@
     "mode": 1
   },
   {
-    "id": 298842,
-    "name": "Leatrix Maps",
-    "key": "leatrix-maps",
-    "dir": [
-      "Leatrix_Maps"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 324034,
     "name": "Leatrix Maps (Classic)",
     "key": "leatrix-maps-classic",
@@ -40848,11 +40858,11 @@
     "mode": 2
   },
   {
-    "id": 94855,
-    "name": "Leatrix Plus",
-    "key": "leatrix-plus",
+    "id": 298842,
+    "name": "Leatrix Maps (Retail)",
+    "key": "leatrix-maps",
     "dir": [
-      "Leatrix_Plus"
+      "Leatrix_Maps"
     ],
     "source": "curse",
     "mode": 1
@@ -40868,11 +40878,11 @@
     "mode": 2
   },
   {
-    "id": 304659,
-    "name": "Leatrix Sounds",
-    "key": "leatrix-sounds",
+    "id": 94855,
+    "name": "Leatrix Plus (Retail)",
+    "key": "leatrix-plus",
     "dir": [
-      "Leatrix_Sounds"
+      "Leatrix_Plus"
     ],
     "source": "curse",
     "mode": 1
@@ -40888,11 +40898,11 @@
     "mode": 2
   },
   {
-    "id": 324297,
-    "name": "Leatrix Tunes",
-    "key": "leatrix-tunes",
+    "id": 304659,
+    "name": "Leatrix Sounds (Retail)",
+    "key": "leatrix-sounds",
     "dir": [
-      "Leatrix_Tunes"
+      "Leatrix_Sounds"
     ],
     "source": "curse",
     "mode": 1
@@ -40906,6 +40916,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 324297,
+    "name": "Leatrix Tunes (Retail)",
+    "key": "leatrix-tunes",
+    "dir": [
+      "Leatrix_Tunes"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 93662,
@@ -45864,6 +45884,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 388786,
+    "name": "Masque: Squat",
+    "key": "masque-squat",
+    "dir": [
+      "Masque_Squat"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 27990,
@@ -63372,16 +63402,6 @@
     "mode": 1
   },
   {
-    "id": 99198,
-    "name": "SilentGambler",
-    "key": "silentgambler",
-    "dir": [
-      "SilentGambler"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 365227,
     "name": "Silly Jump Sound",
     "key": "silly-jump-sound",
@@ -64106,6 +64126,16 @@
     "key": "simplemapplus",
     "dir": [
       "SimpleMapPlus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 388715,
+    "name": "SimpleMouseToolTip",
+    "key": "simplemousetooltip",
+    "dir": [
+      "SimpleMouseToolTip"
     ],
     "source": "curse",
     "mode": 2
