@@ -2715,6 +2715,16 @@
     "mode": 1
   },
   {
+    "id": 389106,
+    "name": "Anchor Weed Farmer",
+    "key": "awfarmer",
+    "dir": [
+      "AWFarmer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 67138,
     "name": "Angry Assignments",
     "key": "angry-assignments",
@@ -13044,6 +13054,16 @@
     "key": "camera-max-factor",
     "dir": [
       "CameraMaxFactor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 388877,
+    "name": "Camp Twacker",
+    "key": "camp-twacker",
+    "dir": [
+      "CampTwacker"
     ],
     "source": "curse",
     "mode": 1
@@ -30886,6 +30906,16 @@
     "mode": 1
   },
   {
+    "id": 388701,
+    "name": "GreatestRogueOnTheServer",
+    "key": "greatestrogueontheserver",
+    "dir": [
+      "GreatestRogueOnTheServer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17796,
     "name": "GreedBeacon",
     "key": "greedbeacon",
@@ -38218,6 +38248,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 388898,
+    "name": "JP DKP",
+    "key": "jp-dkp",
+    "dir": [
+      "jpdkp"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 63392,
@@ -58252,6 +58292,16 @@
     "mode": 1
   },
   {
+    "id": 389027,
+    "name": "RaidLootSeller",
+    "key": "raidlootseller",
+    "dir": [
+      "RaidLootSeller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 22822,
     "name": "RaidMobMarker HUD",
     "key": "raidmobmarker-hud",
@@ -63815,6 +63865,16 @@
     "mode": 1
   },
   {
+    "id": 388715,
+    "name": "Simple Mouse Tooltip",
+    "key": "simplemousetooltip",
+    "dir": [
+      "SimpleMouseToolTip"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29110,
     "name": "Simple Notepad (Notes)",
     "key": "simple-notepad",
@@ -64126,16 +64186,6 @@
     "key": "simplemapplus",
     "dir": [
       "SimpleMapPlus"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 388715,
-    "name": "SimpleMouseToolTip",
-    "key": "simplemousetooltip",
-    "dir": [
-      "SimpleMouseToolTip"
     ],
     "source": "curse",
     "mode": 2
@@ -67410,6 +67460,16 @@
     "key": "itruliasunder",
     "dir": [
       "itruliaSunder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 389105,
+    "name": "SunderArmorCount",
+    "key": "sunderarmorcount",
+    "dir": [
+      "SunderArmorCount"
     ],
     "source": "curse",
     "mode": 2
