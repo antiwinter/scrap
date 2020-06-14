@@ -18755,6 +18755,26 @@
     "mode": 1
   },
   {
+    "id": 21364,
+    "name": "DBM-RaidLeadTools2",
+    "key": "dbm-raidleadtools",
+    "dir": [
+      "DBM-RaidLeadTools"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 18712,
+    "name": "DBM-SpellTimers2",
+    "key": "dbm-spelltimers",
+    "dir": [
+      "DBM-SpellTimers"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 297307,
     "name": "DBM-VPCodiak",
     "key": "dbm-vpcodiak",
@@ -60473,6 +60493,16 @@
     "mode": 1
   },
   {
+    "id": 388012,
+    "name": "RinseOBags",
+    "key": "rinseobags",
+    "dir": [
+      "RinseOBags"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 283626,
     "name": "RiphieEnergy2",
     "key": "riphieenergy2",
@@ -72254,6 +72284,16 @@
     "key": "tooltiprealminfo",
     "dir": [
       "TooltipRealmInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 386581,
+    "name": "TooltipToSimc",
+    "key": "tooltiptosimc",
+    "dir": [
+      "TooltipToSimc"
     ],
     "source": "curse",
     "mode": 1
