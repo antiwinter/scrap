@@ -17822,26 +17822,6 @@
     "mode": 3
   },
   {
-    "id": 324542,
-    "name": "Curator",
-    "key": "curator",
-    "dir": [
-      "Curator"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339061,
-    "name": "Curator: Classic",
-    "key": "curator-classic",
-    "dir": [
-      "CuratorClassic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 100753,
     "name": "Curb Your Enthusiasm",
     "key": "curb-your-enthusiasm",
@@ -24152,7 +24132,7 @@
       "ElvUI_SLE"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 88204,
@@ -40755,7 +40735,7 @@
       "LastSeen"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 377552,
@@ -48584,7 +48564,8 @@
     "name": "Move Sanity Orb Button",
     "key": "move-sanity-orb-button",
     "dir": [
-      "ZAFtoEAB"
+      "ZAFtoEAB",
+      "MoveSanityOrb"
     ],
     "source": "curse",
     "mode": 1
@@ -57647,16 +57628,16 @@
     "name": "RSA - Raeli's Spell Announcer",
     "key": "rsa",
     "dir": [
+      "RSA_Options",
+      "RSA_Reminders",
       "RSA_DeathKnight",
       "RSA_DemonHunter",
       "RSA_Druid",
       "RSA_Hunter",
       "RSA_Mage",
       "RSA_Monk",
-      "RSA_Options",
       "RSA_Paladin",
       "RSA_Priest",
-      "RSA_Reminders",
       "RSA_Rogue",
       "RSA_Shaman",
       "RSA_Warlock",
