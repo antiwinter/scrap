@@ -6482,6 +6482,16 @@
     "mode": 2
   },
   {
+    "id": 389870,
+    "name": "BG Queue Tracker",
+    "key": "bgqueuetracker",
+    "dir": [
+      "BGQueueTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85219,
     "name": "BGCallouts",
     "key": "bgcallouts",
@@ -12645,6 +12655,16 @@
     "mode": 2
   },
   {
+    "id": 389618,
+    "name": "CEPGP Zone Award",
+    "key": "cepgp-zone-award",
+    "dir": [
+      "CEPGP_ZA"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 385862,
     "name": "CEPGP_DATA",
     "key": "cepgp_data",
@@ -17261,6 +17281,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 389565,
+    "name": "CooldownRemind",
+    "key": "cooldownreminder",
+    "dir": [
+      "CooldownRemind"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 13712,
@@ -36797,6 +36827,16 @@
     "mode": 1
   },
   {
+    "id": 389753,
+    "name": "Improved Ui",
+    "key": "improved-ui",
+    "dir": [
+      "D4KiR Improved Ui"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 360127,
     "name": "In Memory DKP Prices",
     "key": "in-memory-dkp-prices",
@@ -49640,6 +49680,16 @@
     "mode": 1
   },
   {
+    "id": 389434,
+    "name": "NDui_Plus",
+    "key": "ndui_plus",
+    "dir": [
+      "NDui_Plus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 345024,
     "name": "NFG - TargetHelper",
     "key": "nfg",
@@ -58609,6 +58659,16 @@
     "mode": 1
   },
   {
+    "id": 389680,
+    "name": "RandomCompanion_Reloaded",
+    "key": "randomcompanion_reloaded",
+    "dir": [
+      "RandomCompanion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 325572,
     "name": "RandomGenerator",
     "key": "randomgenerator",
@@ -64376,6 +64436,16 @@
     "mode": 1
   },
   {
+    "id": 389802,
+    "name": "SinStats",
+    "key": "sinstats-classic",
+    "dir": [
+      "SinStats"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 273060,
     "name": "Sinner",
     "key": "sinner",
@@ -68688,6 +68758,16 @@
     "mode": 1
   },
   {
+    "id": 389881,
+    "name": "Tabu-Bars",
+    "key": "tabu-bars",
+    "dir": [
+      "Tabu-Bars"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 16238,
     "name": "Tacticator",
     "key": "tacticator",
@@ -69742,6 +69822,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 388030,
+    "name": "TheAddon2",
+    "key": "theaddon2",
+    "dir": [
+      "TheAddon2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 99174,
