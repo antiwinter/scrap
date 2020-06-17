@@ -1784,6 +1784,16 @@
     "mode": 1
   },
   {
+    "id": 390065,
+    "name": "AdiBags_Openable",
+    "key": "adibags_openable",
+    "dir": [
+      "AdiBags_Openable"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 24545,
     "name": "AdiBags_Outfitter",
     "key": "adibags_outfitter",
@@ -8920,7 +8930,8 @@
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
-      "BigWigs_Nyalotha"
+      "BigWigs_Nyalotha",
+      "BigWigs_ZulGurub"
     ],
     "source": "curse",
     "mode": 3
@@ -17455,6 +17466,16 @@
     "mode": 1
   },
   {
+    "id": 390144,
+    "name": "Corruption Vendor",
+    "key": "corruption-vendor",
+    "dir": [
+      "CorruptionVendor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 363347,
     "name": "CorruptionAffix",
     "key": "corruptionaffix",
@@ -23582,6 +23603,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 389833,
+    "name": "ElvUI Additional Fonts",
+    "key": "elvui-additional-fonts",
+    "dir": [
+      "ElvUI_AdditionalFonts"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 333072,
@@ -36715,6 +36746,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390046,
+    "name": "ImpactLoot",
+    "key": "impactloot",
+    "dir": [
+      "ImpactLoot"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 361391,
@@ -61531,6 +61572,16 @@
     "mode": 1
   },
   {
+    "id": 390040,
+    "name": "Sauce",
+    "key": "sauce",
+    "dir": [
+      "Sauce"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295875,
     "name": "SaunanTaakseEmotes",
     "key": "saunantaakseemotes",
@@ -63039,7 +63090,7 @@
   },
   {
     "id": 387455,
-    "name": "ShestakUI For WOWClassic(wj)",
+    "name": "ShestakUI For WOWClassic(w)",
     "key": "shestakui-wowclassic-by-wj",
     "dir": [
       "ShestakUI_Config",
@@ -64437,8 +64488,8 @@
   },
   {
     "id": 389802,
-    "name": "SinStats",
-    "key": "sinstats-classic",
+    "name": "SinStats HUD",
+    "key": "sinstats",
     "dir": [
       "SinStats"
     ],
@@ -77322,6 +77373,16 @@
     "mode": 3
   },
   {
+    "id": 390159,
+    "name": "WoWpoPolsku-Movies (subtitles)",
+    "key": "wowpopolsku-movies-subtitles",
+    "dir": [
+      "WoWpoPolsku_Movies"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 34192,
     "name": "WoWpoPolsku-Quests (cont. Quest Translator)",
     "key": "quest-translator",
@@ -82635,6 +82696,16 @@
     "key": "statslog",
     "dir": [
       "statslog"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 390205,
+    "name": "tChat",
+    "key": "tchat",
+    "dir": [
+      "tChat"
     ],
     "source": "curse",
     "mode": 1
