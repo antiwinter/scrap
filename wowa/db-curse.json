@@ -4136,6 +4136,16 @@
     "mode": 1
   },
   {
+    "id": 389672,
+    "name": "Assistant Red - Rev's Rep",
+    "key": "assistant-red-revs-rep",
+    "dir": [
+      "AssistantRed-RevsRep"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 265199,
     "name": "Astral Keys",
     "key": "astral-keys",
@@ -13798,6 +13808,16 @@
     "key": "character-links",
     "dir": [
       "CharacterLinks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 389472,
+    "name": "Character Loadout Manager",
+    "key": "character-loadout-manager",
+    "dir": [
+      "CharacterLoadoutManager"
     ],
     "source": "curse",
     "mode": 1
@@ -58204,6 +58224,16 @@
     "mode": 1
   },
   {
+    "id": 390297,
+    "name": "RaidBuffStatus Classic",
+    "key": "raidbuffstatus-classic",
+    "dir": [
+      "RaidBuffStatus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 45729,
     "name": "RaidBuffsChecker Tukui&ElvUI&BlizzardUI",
     "key": "raidbuffschecker",
@@ -64847,6 +64877,16 @@
     "mode": 1
   },
   {
+    "id": 390369,
+    "name": "SlapMeBoiiiiii",
+    "key": "slapmeboiiiiii",
+    "dir": [
+      "SlapMeBoiiiiii"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90470,
     "name": "Slash CombatLog (/combatlog)",
     "key": "slash-combatlog",
@@ -69349,6 +69389,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 390384,
+    "name": "TargetEFC",
+    "key": "targetefc",
+    "dir": [
+      "TargetEFC"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 345018,
