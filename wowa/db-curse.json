@@ -6893,6 +6893,16 @@
     "mode": 1
   },
   {
+    "id": 390489,
+    "name": "BagCleaner",
+    "key": "bagcleaner",
+    "dir": [
+      "BagCleaner"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86231,
     "name": "BagFix",
     "key": "bagfix",
@@ -8931,16 +8941,16 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
-      "BigWigs_World",
-      "BigWigs_BlackwingLair",
       "BigWigs_Azeroth",
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
       "BigWigs_Nyalotha",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
+      "BigWigs_World",
+      "BigWigs_BlackwingLair",
       "BigWigs_ZulGurub"
     ],
     "source": "curse",
@@ -18958,6 +18968,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390562,
+    "name": "DKP Bid View",
+    "key": "dkp-bid-view",
+    "dir": [
+      "DKPBidView"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 22404,
@@ -32372,6 +32392,16 @@
     "mode": 2
   },
   {
+    "id": 390458,
+    "name": "Guidelime_Zarant",
+    "key": "guidelime_zarant",
+    "dir": [
+      "Guidelime_Zarant"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 336585,
     "name": "Guidelime_ahmp",
     "key": "guidelime_ahmp",
@@ -37350,16 +37380,6 @@
     "mode": 1
   },
   {
-    "id": 387834,
-    "name": "Instance Boost Payment Tracker",
-    "key": "instance-boost-payment-tracker",
-    "dir": [
-      "InstanceBoostTracker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 302718,
     "name": "Instance Durability",
     "key": "instance-durability",
@@ -37438,6 +37458,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 387834,
+    "name": "Instance Tracker",
+    "key": "instance-tracker",
+    "dir": [
+      "InstanceBoostTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 319815,
@@ -63987,6 +64017,16 @@
     "mode": 2
   },
   {
+    "id": 390449,
+    "name": "Simple LFG Panel (Classic)",
+    "key": "simple-lfg-panel",
+    "dir": [
+      "SimpleLFGPanel"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 34476,
     "name": "Simple Loot Announcer",
     "key": "simple-loot-list",
@@ -64512,6 +64552,16 @@
     "key": "simulationcraft",
     "dir": [
       "Simulationcraft"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 389327,
+    "name": "SinMedia",
+    "key": "sinmedia",
+    "dir": [
+      "SinMedia"
     ],
     "source": "curse",
     "mode": 1
@@ -74505,6 +74555,16 @@
     "mode": 1
   },
   {
+    "id": 389425,
+    "name": "UnusedGear",
+    "key": "unusedgear",
+    "dir": [
+      "UnusedGear"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341579,
     "name": "UpRank Classic",
     "key": "uprank-classic",
@@ -77430,7 +77490,7 @@
       "WoWpoPolsku_Movies"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 34192,
@@ -77468,6 +77528,16 @@
     "key": "wolfpack-emotes",
     "dir": [
       "WolfpackEmotes"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 385346,
+    "name": "Womfacts",
+    "key": "womfacts",
+    "dir": [
+      "womfacts"
     ],
     "source": "curse",
     "mode": 2
