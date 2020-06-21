@@ -34396,6 +34396,16 @@
     "mode": 1
   },
   {
+    "id": 389023,
+    "name": "HealCommChecker",
+    "key": "healcommchecker",
+    "dir": [
+      "HealCommCheck"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 352582,
     "name": "HealCommClassic",
     "key": "healcommclassic",
