@@ -4116,6 +4116,16 @@
     "mode": 1
   },
   {
+    "id": 390677,
+    "name": "AsraiBagCleaner",
+    "key": "asraibagcleaner",
+    "dir": [
+      "AsraiBagCleaner"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17087,
     "name": "AssassinTimer",
     "key": "assassintimer",
@@ -5436,7 +5446,7 @@
       "AutoFollow"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 39179,
@@ -9427,6 +9437,16 @@
     "mode": 2
   },
   {
+    "id": 390935,
+    "name": "Bingo KoS",
+    "key": "bingo-kos",
+    "dir": [
+      "BingoKoS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 52702,
     "name": "Bitten's SpellFlash Key Bindings",
     "key": "bittens-spellflash-key-bindings",
@@ -13110,6 +13130,16 @@
     "mode": 1
   },
   {
+    "id": 366624,
+    "name": "CameraOverShoulder Fix (DynamicCam)",
+    "key": "cameraovershoulder-fix-dynamiccam",
+    "dir": [
+      "CameraOverShoulderFix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 388877,
     "name": "Camp Twacker",
     "key": "camp-twacker",
@@ -16309,6 +16339,16 @@
     "mode": 1
   },
   {
+    "id": 386969,
+    "name": "CombatTimeTrackerClassic",
+    "key": "combattimetrackerclassic",
+    "dir": [
+      "CombatTimeTrackerClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 26646,
     "name": "CombatTimer",
     "key": "combat-timer",
@@ -16661,6 +16701,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390738,
+    "name": "CommunityDKP",
+    "key": "communitydkp",
+    "dir": [
+      "CommunityDKP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 323095,
@@ -20465,7 +20515,7 @@
       "_DebugLog"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 93814,
@@ -39166,20 +39216,6 @@
     "mode": 1
   },
   {
-    "id": 338672,
-    "name": "Kaydee",
-    "key": "kaydee",
-    "dir": [
-      "Kaydee",
-      "LibDBIcon-1.0",
-      "LibDeflate",
-      "Ace3",
-      "LibBrazier"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 354296,
     "name": "KaymonsCloset",
     "key": "kaymonscloset",
@@ -40627,6 +40663,16 @@
     "mode": 1
   },
   {
+    "id": 391012,
+    "name": "LOC Messages",
+    "key": "loc-messages",
+    "dir": [
+      "D4KiR LOC Messages"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 75173,
     "name": "LOIHCal",
     "key": "loihcal",
@@ -41835,16 +41881,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 338671,
-    "name": "LibBrazier",
-    "key": "libbrazier",
-    "dir": [
-      "LibBrazier"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 88673,
@@ -43981,6 +44017,16 @@
     "mode": 3
   },
   {
+    "id": 390962,
+    "name": "LootMonitor",
+    "key": "lootmonitor",
+    "dir": [
+      "LootMonitor"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 32397,
     "name": "LootMyFish",
     "key": "lootmyfish",
@@ -44009,6 +44055,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390790,
+    "name": "LootReserve",
+    "key": "lootreserve",
+    "dir": [
+      "LootReserve"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 17488,
@@ -47059,6 +47115,16 @@
     "mode": 1
   },
   {
+    "id": 390686,
+    "name": "Minesweeperr",
+    "key": "minesweeperr",
+    "dir": [
+      "Minesweeperr"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 23384,
     "name": "Mingy",
     "key": "mingy",
@@ -47723,6 +47789,16 @@
     "key": "modern-targetframe",
     "dir": [
       "ModernTargetFrame"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 390879,
+    "name": "ModernActionBar",
+    "key": "modernactionbar",
+    "dir": [
+      "ModernActionBar"
     ],
     "source": "curse",
     "mode": 2
@@ -50615,6 +50691,16 @@
     "mode": 1
   },
   {
+    "id": 390895,
+    "name": "Night Shift Loot Priority Tooltips",
+    "key": "night-shift-loot-priority-tooltips",
+    "dir": [
+      "NightShiftLootPriority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 70309,
     "name": "NightIllusion",
     "key": "niill",
@@ -53359,18 +53445,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 338674,
-    "name": "Pesky",
-    "key": "pesky",
-    "dir": [
-      "LibDBIcon-1.0",
-      "Pesky",
-      "Ace3"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 19833,
@@ -58070,6 +58144,16 @@
     "mode": 1
   },
   {
+    "id": 391168,
+    "name": "Raid Reset Tracker",
+    "key": "raid-reset-tracker",
+    "dir": [
+      "RaidResetTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 18255,
     "name": "Raid Roll (With EPGP support, roll tracker and loot tracker)",
     "key": "raid-roll",
@@ -58110,6 +58194,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 357515,
+    "name": "Raid Sub Manager",
+    "key": "xckraidsubmanager",
+    "dir": [
+      "XckRaidSubManager"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 257188,
@@ -76425,20 +76519,6 @@
     "mode": 3
   },
   {
-    "id": 338667,
-    "name": "Whelp",
-    "key": "whelp",
-    "dir": [
-      "LibDBIcon-1.0",
-      "LibDeflate",
-      "Whelp",
-      "Ace3",
-      "LibBrazier"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 18226,
     "name": "WhenLevel",
     "key": "whenlevel",
@@ -78516,16 +78596,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 357515,
-    "name": "Xck Raid Sub Manager",
-    "key": "xckraidsubmanager",
-    "dir": [
-      "XckRaidSubManager"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 35300,
