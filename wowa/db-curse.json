@@ -3550,6 +3550,16 @@
     "mode": 1
   },
   {
+    "id": 391483,
+    "name": "ArenaTalents",
+    "key": "arenatalents",
+    "dir": [
+      "ArenaTalents"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 56419,
     "name": "Argus",
     "key": "argus",
@@ -44684,6 +44694,16 @@
     "mode": 1
   },
   {
+    "id": 389400,
+    "name": "MS gt OS",
+    "key": "ms-gt-os",
+    "dir": [
+      "MSgtOS"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 254936,
     "name": "MSA-DropDownMenu-1.0",
     "key": "msa-dropdownmenu-10",
@@ -51505,7 +51525,7 @@
   },
   {
     "id": 320655,
-    "name": "Ny's ToDoList",
+    "name": "Ny's To-Do List",
     "key": "nys-todolist",
     "dir": [
       "Nys_ToDoList"
@@ -56453,7 +56473,8 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso"
+      "Queso",
+      "Queso GW2UI"
     ],
     "source": "curse",
     "mode": 3
@@ -81394,6 +81415,16 @@
     "mode": 1
   },
   {
+    "id": 390111,
+    "name": "iTaunted",
+    "key": "i-taunted",
+    "dir": [
+      "ITaunted"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 30325,
     "name": "iTip",
     "key": "itip",
@@ -83223,6 +83254,16 @@
     "mode": 3
   },
   {
+    "id": 379096,
+    "name": "vars",
+    "key": "vars",
+    "dir": [
+      "vars"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 378871,
     "name": "vcLootPriority",
     "key": "vclootpriority",
@@ -83331,6 +83372,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390275,
+    "name": "watchchat",
+    "key": "watchchat",
+    "dir": [
+      "watchchat"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 300711,
