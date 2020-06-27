@@ -25047,7 +25047,7 @@
     "name": "Enhanced Raid Frames",
     "key": "enhanced-raid-frames",
     "dir": [
-      "RaidFrameIndicators"
+      "EnhancedRaidFrames"
     ],
     "source": "curse",
     "mode": 1
@@ -41463,6 +41463,16 @@
     "mode": 2
   },
   {
+    "id": 391930,
+    "name": "Level Timings",
+    "key": "leveltimings",
+    "dir": [
+      "LevelTimings"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86176,
     "name": "Level Up Announcer",
     "key": "levelupannouncer",
@@ -46968,16 +46978,6 @@
     "mode": 1
   },
   {
-    "id": 288981,
-    "name": "Method Dungeon Tools",
-    "key": "method-dungeon-tools",
-    "dir": [
-      "MethodDungeonTools"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 301649,
     "name": "MezUI",
     "key": "mezui",
@@ -47680,6 +47680,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 391658,
+    "name": "MoM Loot Priority Classic",
+    "key": "mom-loot-priority-classic",
+    "dir": [
+      "MoM_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 65658,
@@ -49631,6 +49641,17 @@
     "key": "mythic-audit",
     "dir": [
       "MythicAudit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 288981,
+    "name": "Mythic Dungeon Tools",
+    "key": "mythic-dungeon-tools",
+    "dir": [
+      "MethodDungeonTools",
+      "MythicDungeonTools"
     ],
     "source": "curse",
     "mode": 1
@@ -59624,6 +59645,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390303,
+    "name": "RealQueues",
+    "key": "realqueues",
+    "dir": [
+      "RealQueues"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 305381,
@@ -69858,6 +69889,16 @@
     "mode": 1
   },
   {
+    "id": 391669,
+    "name": "Templar Prio",
+    "key": "templar-prio",
+    "dir": [
+      "TemplarPrio"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 254760,
     "name": "Ten and Three",
     "key": "ten-and-three",
@@ -74411,6 +74452,16 @@
     "key": "ultimatedemonhunterimmersion",
     "dir": [
       "UltimateDemonHunterImmersion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 391984,
+    "name": "Ultra Lustinct",
+    "key": "ultra-lustinct",
+    "dir": [
+      "UltraLustinct"
     ],
     "source": "curse",
     "mode": 1
