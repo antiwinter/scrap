@@ -6295,10 +6295,11 @@
   },
   {
     "id": 334593,
-    "name": "AzeriteUI for WoW Classic",
+    "name": "AzeriteUI Classic",
     "key": "azeriteui-classic",
     "dir": [
-      "AzeriteUI_Classic"
+      "AzeriteUI_Classic",
+      "AzeriteUI"
     ],
     "source": "curse",
     "mode": 2
@@ -18020,7 +18021,7 @@
       "CurrencyTracking"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 34324,
@@ -21752,6 +21753,16 @@
     "mode": 1
   },
   {
+    "id": 392510,
+    "name": "DollyAndDotAreNotMyFriends",
+    "key": "dollyanddotarenotmyfriends",
+    "dir": [
+      "DollyAndDotAreNotMyFriends"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334960,
     "name": "DomDom Pack Classic",
     "key": "domdom-pack-classic",
@@ -22214,6 +22225,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 392388,
+    "name": "DrinkingGame for Classic",
+    "key": "drinkinggame",
+    "dir": [
+      "DrinkingGame"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 325496,
@@ -23307,6 +23328,16 @@
     "key": "easydisenchant",
     "dir": [
       "EasyDisenchant"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 392458,
+    "name": "EasyFilter",
+    "key": "easyfilter",
+    "dir": [
+      "EasyFilter"
     ],
     "source": "curse",
     "mode": 1
@@ -30262,6 +30293,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 392557,
+    "name": "Global Font (Russian Cursive)",
+    "key": "global-font-russian-cursive",
+    "dir": [
+      "!GlobalFont_RussianCursive"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 372729,
@@ -46622,6 +46663,16 @@
     "key": "maxzoom",
     "dir": [
       "MaxZoom"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 392581,
+    "name": "MayUI",
+    "key": "mayui",
+    "dir": [
+      "MayUI"
     ],
     "source": "curse",
     "mode": 1
