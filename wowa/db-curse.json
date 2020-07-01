@@ -12717,6 +12717,16 @@
     "mode": 2
   },
   {
+    "id": 392588,
+    "name": "CEPGP Tooltip Override",
+    "key": "cepgp-tooltip-override",
+    "dir": [
+      "CEPGP_TooltipOverride"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 389618,
     "name": "CEPGP Zone Award",
     "key": "cepgp-zone-award",
@@ -15736,6 +15746,16 @@
     "key": "cleanmybag",
     "dir": [
       "CleanMyBag"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 313123,
+    "name": "CleanActionBars",
+    "key": "cleanactionbars",
+    "dir": [
+      "CleanActionBars"
     ],
     "source": "curse",
     "mode": 1
@@ -20929,6 +20949,16 @@
     "mode": 3
   },
   {
+    "id": 392624,
+    "name": "Delete Hearthstone",
+    "key": "delete-hearthstone",
+    "dir": [
+      "DeleteHearthstone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 377586,
     "name": "DeleteConfirmer",
     "key": "deleteconfirmer",
@@ -21415,6 +21445,16 @@
     "key": "diesallibs",
     "dir": [
       "DiesalLibs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 392710,
+    "name": "DigDug",
+    "key": "digdug",
+    "dir": [
+      "DigDug"
     ],
     "source": "curse",
     "mode": 1
@@ -24953,6 +24993,16 @@
     "mode": 1
   },
   {
+    "id": 392517,
+    "name": "Enemy Cooldown Count (Classic)",
+    "key": "enemy-cooldown-count-classic",
+    "dir": [
+      "ECDC"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101124,
     "name": "Enemy Grid",
     "key": "enemy-grid",
@@ -27356,6 +27406,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 392849,
+    "name": "Fizzwidget's HuntersHelper Classic",
+    "key": "fizzwidgets-huntershelper",
+    "dir": [
+      "GFW_HuntersHelper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 304709,
@@ -33577,6 +33637,16 @@
     "dir": [
       "HandyNotes_Cauldrons",
       "HandyNotes_ToolsOfTheTrade"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 392540,
+    "name": "HandyNotes - Warcraft Conquest",
+    "key": "handynotes-warcraft-conquest",
+    "dir": [
+      "HandyNotes_WarcraftConquest"
     ],
     "source": "curse",
     "mode": 1
@@ -40064,19 +40134,8 @@
     "mode": 3
   },
   {
-    "id": 95528,
-    "name": "KkthnxUI",
-    "key": "kkthnxui",
-    "dir": [
-      "KkthnxUI_Config",
-      "KkthnxUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 342348,
-    "name": "KkthnxUI_Classic",
+    "name": "KkthnxUI Classic",
     "key": "kkthnxui_classic",
     "dir": [
       "KkthnxUI_Config",
@@ -40084,6 +40143,17 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 95528,
+    "name": "KkthnxUI for WoW Retail",
+    "key": "kkthnxui",
+    "dir": [
+      "KkthnxUI_Config",
+      "KkthnxUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 344693,
@@ -40970,7 +41040,8 @@
     "name": "LastSeen",
     "key": "lastseen",
     "dir": [
-      "LastSeen"
+      "LastSeen",
+      "LastSeen-Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -47591,7 +47662,7 @@
   },
   {
     "id": 341275,
-    "name": "Missing Power (Five Second Rule + Next Energy Tick)",
+    "name": "Missing Power (Mana, Energy, ...) (Five Second Rule + Next Energy Tick)",
     "key": "powermissing",
     "dir": [
       "D4KiR Missing Power"
@@ -51597,7 +51668,7 @@
   },
   {
     "id": 320655,
-    "name": "Ny's To-Do List",
+    "name": "Ny's To Do List",
     "key": "nys-todolist",
     "dir": [
       "Nys_ToDoList"
@@ -58825,6 +58896,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 392786,
+    "name": "Raidinfos",
+    "key": "raidinfos",
+    "dir": [
+      "Raidinfos"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 338637,
@@ -70139,7 +70220,7 @@
       "TheMotherTongue"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 289107,
@@ -71293,6 +71374,16 @@
     "key": "titan-panel-cooking",
     "dir": [
       "TitanCooking"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 392831,
+    "name": "Titan Panel [Corruption]",
+    "key": "titan-panel-corruption",
+    "dir": [
+      "TitanCorruption"
     ],
     "source": "curse",
     "mode": 1
@@ -73962,16 +74053,6 @@
     "key": "tremorwatch",
     "dir": [
       "TremorWatch"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 315877,
-    "name": "TrialHelper",
-    "key": "trialhelper",
-    "dir": [
-      "TrialHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -79989,8 +80070,8 @@
   },
   {
     "id": 380889,
-    "name": "alaTradeFrame",
-    "key": "alatradeframe",
+    "name": "alaTradeSkill",
+    "key": "alatradeskill",
     "dir": [
       "alaTradeFrame"
     ],
