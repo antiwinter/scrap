@@ -4156,6 +4156,17 @@
     "mode": 1
   },
   {
+    "id": 392978,
+    "name": "Assistant Red - Easy's Loot",
+    "key": "assistant-red-easys-loot",
+    "dir": [
+      "AssistantRed - Easy's Loot",
+      "AssistantRed-Easy's Loot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 389672,
     "name": "Assistant Red - Rev's Rep",
     "key": "assistant-red-revs-rep",
@@ -15379,6 +15390,16 @@
     "mode": 2
   },
   {
+    "id": 392930,
+    "name": "ClassicAutoSayge",
+    "key": "classicautosayge",
+    "dir": [
+      "ClassicAutoSayge"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341978,
     "name": "ClassicBlacklist",
     "key": "classic-blacklist",
@@ -17931,7 +17952,7 @@
       "Crosshairs"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 277931,
@@ -27408,11 +27429,11 @@
     "mode": 3
   },
   {
-    "id": 392849,
-    "name": "Fizzwidget's HuntersHelper Classic",
-    "key": "fizzwidgets-huntershelper",
+    "id": 393057,
+    "name": "Fizzwidget Feed-O-Matic Classic",
+    "key": "fizzwidget-feed-o-matic-classic",
     "dir": [
-      "GFW_HuntersHelper"
+      "GFW_FeedOMatic"
     ],
     "source": "curse",
     "mode": 2
@@ -37691,6 +37712,16 @@
     "mode": 1
   },
   {
+    "id": 393020,
+    "name": "InstanceTrack",
+    "key": "instancetrack",
+    "dir": [
+      "InstanceTrack"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 279210,
     "name": "Instances Entrées",
     "key": "instances-entrees",
@@ -41040,8 +41071,8 @@
     "name": "LastSeen",
     "key": "lastseen",
     "dir": [
-      "LastSeen",
-      "LastSeen-Classic"
+      "LastSeen-Classic",
+      "LastSeen"
     ],
     "source": "curse",
     "mode": 3
@@ -50208,6 +50239,16 @@
     "mode": 2
   },
   {
+    "id": 393022,
+    "name": "Nameplate Highlight",
+    "key": "nameplate-highlight",
+    "dir": [
+      "NameplateHighlight"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 269544,
     "name": "Nameplate Scrolling Combat Text",
     "key": "nameplate-scrolling-combat-text",
@@ -52250,6 +52291,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 393028,
+    "name": "Only Loot Gold",
+    "key": "only-loot-gold",
+    "dir": [
+      "OnlyLootGold"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 361219,
@@ -56616,8 +56667,7 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso",
-      "Queso GW2UI"
+      "Queso Clear"
     ],
     "source": "curse",
     "mode": 3
@@ -79256,6 +79306,16 @@
     "key": "zt_realmplayer",
     "dir": [
       "ZT_RealmPlayer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 393062,
+    "name": "ZTargetReborn",
+    "key": "ztargetreborn",
+    "dir": [
+      "ZTargetReborn"
     ],
     "source": "curse",
     "mode": 1
