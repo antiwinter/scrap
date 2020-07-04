@@ -8983,7 +8983,9 @@
       "BigWigs_MoltenCore",
       "BigWigs_World",
       "BigWigs_BlackwingLair",
-      "BigWigs_ZulGurub"
+      "BigWigs_ZulGurub",
+      "BigWigs_AhnQirajRuins",
+      "BigWigs_AhnQirajTemple"
     ],
     "source": "curse",
     "mode": 3
@@ -18174,6 +18176,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 393145,
+    "name": "Custom Player Portrait - Classic",
+    "key": "custom-player-portrait-classic",
+    "dir": [
+      "CustomPlayerPortrait"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 85995,
@@ -27439,6 +27451,16 @@
     "mode": 2
   },
   {
+    "id": 393270,
+    "name": "Fizzwidget Hunter's Helper Classic",
+    "key": "fizzwidget-hunters-helper-classic",
+    "dir": [
+      "GFW_HuntersHelper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304709,
     "name": "FlabbyBirb",
     "key": "flabbybirb",
@@ -34171,6 +34193,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 392564,
+    "name": "HandyNotes_Guild (Classic)",
+    "key": "handynotes_guild-classic",
+    "dir": [
+      "HandyNotes_Guild"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 46114,
@@ -42575,7 +42607,7 @@
       "LibInspect"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 358013,
@@ -49519,6 +49551,16 @@
     "mode": 1
   },
   {
+    "id": 392078,
+    "name": "My Instance Lockouts",
+    "key": "my-instance-lockouts",
+    "dir": [
+      "MyInstanceLocks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 346262,
     "name": "My Journal",
     "key": "myjournal",
@@ -49587,16 +49629,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 302428,
-    "name": "MyBigClock",
-    "key": "mybigclock",
-    "dir": [
-      "MyBigClock"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 341693,
@@ -52453,6 +52485,16 @@
     "mode": 1
   },
   {
+    "id": 393227,
+    "name": "Ore/herb money - bfa",
+    "key": "ore-herb-recolt-money-bfa",
+    "dir": [
+      "Ores_money_bfa"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89213,
     "name": "OregorgerHelper",
     "key": "oregorgerhelper",
@@ -52834,6 +52876,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 393319,
+    "name": "PVP Kill Announcer",
+    "key": "pvp-kill-announcer",
+    "dir": [
+      "Pvp Kill Announcer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101356,
@@ -56667,7 +56719,7 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso Clear"
+      "Queso"
     ],
     "source": "curse",
     "mode": 3
@@ -63346,6 +63398,16 @@
     "mode": 1
   },
   {
+    "id": 393088,
+    "name": "SharedMedia_GBA",
+    "key": "sharedmedia_gba",
+    "dir": [
+      "SharedMedia_GBA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 377082,
     "name": "SharedMedia_HMG",
     "key": "sharedmedia_hmg",
@@ -64536,7 +64598,7 @@
       "SimpleILevel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 69383,
@@ -67835,6 +67897,16 @@
     "key": "stopwatch",
     "dir": [
       "Stopwatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 393205,
+    "name": "Stopwatch Alert",
+    "key": "stopwatch-alert",
+    "dir": [
+      "Saspatoon"
     ],
     "source": "curse",
     "mode": 1
