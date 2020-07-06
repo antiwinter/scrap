@@ -591,6 +591,16 @@
     "mode": 1
   },
   {
+    "id": 390627,
+    "name": "AQ Idol Roller",
+    "key": "aq-idol-roller",
+    "dir": [
+      "AQIdolRoller"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 381592,
     "name": "AQ War Effort",
     "key": "aq-war-effort",
@@ -13874,7 +13884,7 @@
       "CharacterInfoDurability"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 261531,
@@ -15377,6 +15387,16 @@
     "key": "classicauradurations",
     "dir": [
       "ClassicAuraDurations"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 393731,
+    "name": "ClassicAutoBWLOrb",
+    "key": "classicautobwlorb",
+    "dir": [
+      "ClassicAutoBWLOrb"
     ],
     "source": "curse",
     "mode": 2
@@ -17266,6 +17286,16 @@
     "mode": 1
   },
   {
+    "id": 393895,
+    "name": "Convert Ratings (Classic)",
+    "key": "convert-ratings-classic",
+    "dir": [
+      "ConvertRatings"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 27340,
     "name": "ConvertToParty",
     "key": "converttoparty",
@@ -19139,17 +19169,6 @@
     "key": "dmfautodailyquest",
     "dir": [
       "DMFAutoDailyQuest"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 377293,
-    "name": "DMWoWRPG",
-    "key": "los-protectores-wowrpg",
-    "dir": [
-      "DiceMaster_UnitFrames",
-      "DiceMaster"
     ],
     "source": "curse",
     "mode": 1
@@ -21445,6 +21464,17 @@
     "id": 263267,
     "name": "DiceMaster",
     "key": "dicemaster",
+    "dir": [
+      "DiceMaster_UnitFrames",
+      "DiceMaster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 377293,
+    "name": "Dicemaster spanish",
+    "key": "dicetools-dicemaster",
     "dir": [
       "DiceMaster_UnitFrames",
       "DiceMaster"
@@ -42098,6 +42128,16 @@
     "mode": 1
   },
   {
+    "id": 393645,
+    "name": "LibCeldorMedia",
+    "key": "libceldormedia",
+    "dir": [
+      "LibCeldorMedia"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 51580,
     "name": "LibChatAnims",
     "key": "libchatanims",
@@ -51538,6 +51578,16 @@
     "mode": 1
   },
   {
+    "id": 393085,
+    "name": "Nova Instance Tracker",
+    "key": "nova-instance-tracker",
+    "dir": [
+      "NovaInstanceTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 366310,
     "name": "Nova World Buffs",
     "key": "nova-world-buffs",
@@ -56718,11 +56768,10 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
-      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 3607,
@@ -72888,7 +72937,7 @@
       "TooltipSpec"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14825,
@@ -77234,6 +77283,16 @@
     "key": "whotracker",
     "dir": [
       "WhoTracker"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 393487,
+    "name": "WhoTrades",
+    "key": "whotrades",
+    "dir": [
+      "WhoTrades"
     ],
     "source": "curse",
     "mode": 3
