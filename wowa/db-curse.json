@@ -26880,6 +26880,16 @@
     "mode": 1
   },
   {
+    "id": 393431,
+    "name": "Fel Union",
+    "key": "fel-union",
+    "dir": [
+      "RAWarlocks"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 64880,
     "name": "Felwhisper's No Moar Gryphons",
     "key": "felwhispers-no-moar-gryphons",
@@ -27115,6 +27125,16 @@
     "key": "findparty-gagstv",
     "dir": [
       "FindParty"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 393629,
+    "name": "Finder",
+    "key": "finder",
+    "dir": [
+      "Finder"
     ],
     "source": "curse",
     "mode": 2
@@ -42409,6 +42429,16 @@
     "mode": 1
   },
   {
+    "id": 393486,
+    "name": "LibEncounters (Classic)",
+    "key": "libencounters-classic",
+    "dir": [
+      "LibEncounters"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340714,
     "name": "LibExtendedType",
     "key": "libextendedtype",
@@ -45525,6 +45555,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 393982,
+    "name": "MakeMeGetMyMain",
+    "key": "makemegetmymain",
+    "dir": [
+      "MakeMeGetMyMain"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 87623,
@@ -79061,6 +79101,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 393216,
+    "name": "Xp Chart (Classic)",
+    "key": "xp-chart-classic",
+    "dir": [
+      "XpChart"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 275227,
