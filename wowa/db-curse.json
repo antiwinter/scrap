@@ -5089,16 +5089,6 @@
     "mode": 1
   },
   {
-    "id": 271368,
-    "name": "Auto Res",
-    "key": "autores",
-    "dir": [
-      "AutoRes"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 351604,
     "name": "Auto Restocker",
     "key": "autorestocker",
@@ -9046,6 +9036,16 @@
     "key": "bigwigs-countdown-unreal-tournament",
     "dir": [
       "BigWigs_Voice_UT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 394127,
+    "name": "BigWigs Korean Voice Pack",
+    "key": "bigwigs-korean-voice-pack",
+    "dir": [
+      "BigWigs_Voice_Korean"
     ],
     "source": "curse",
     "mode": 1
@@ -15519,6 +15519,16 @@
     "key": "classicgearset",
     "dir": [
       "ClassicGearSet"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 394073,
+    "name": "ClassicGoals",
+    "key": "classicgoals",
+    "dir": [
+      "ClassicGoals"
     ],
     "source": "curse",
     "mode": 2
@@ -44382,6 +44392,16 @@
     "mode": 1
   },
   {
+    "id": 394261,
+    "name": "LootToChat",
+    "key": "loottochat",
+    "dir": [
+      "LootToChat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22783,
     "name": "LootTrain",
     "key": "loottrain",
@@ -44904,6 +44924,16 @@
     "key": "mdguildbest",
     "dir": [
       "MDGuildBest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 394116,
+    "name": "MDReport",
+    "key": "mdreport",
+    "dir": [
+      "MDReport"
     ],
     "source": "curse",
     "mode": 1
@@ -79497,6 +79527,16 @@
     "key": "ztargetreborn",
     "dir": [
       "ZTargetReborn"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 271368,
+    "name": "Zadrot AutoRes",
+    "key": "autores",
+    "dir": [
+      "Zadrot AutoRes"
     ],
     "source": "curse",
     "mode": 1
