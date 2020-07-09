@@ -3644,6 +3644,16 @@
     "mode": 1
   },
   {
+    "id": 394438,
+    "name": "ArkInventoryCharacterRules",
+    "key": "arkinventorycharacterrules",
+    "dir": [
+      "ArkInventoryCharacterRules"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101232,
     "name": "ArkInventoryProfiles",
     "key": "ark-inventory-profiles",
@@ -18334,6 +18344,16 @@
     "mode": 1
   },
   {
+    "id": 394409,
+    "name": "CyrusLootPriority",
+    "key": "cyruslootpriority",
+    "dir": [
+      "CyrusLootPriority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28576,
     "name": "DArcBinds",
     "key": "darcmarks",
@@ -18455,6 +18475,16 @@
     "key": "battleground-banners",
     "dir": [
       "DBM-Battlestandards"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 394328,
+    "name": "DBM CountPack HoTS (Korean) 히오스 한국어",
+    "key": "dbm-countpack-hots-korean",
+    "dir": [
+      "DBM-CountPack-HoTS"
     ],
     "source": "curse",
     "mode": 1
@@ -24301,8 +24331,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts",
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts_Classic",
+      "ElvUI_NutsAndBolts"
     ],
     "source": "curse",
     "mode": 3
@@ -43080,6 +43110,16 @@
     "mode": 1
   },
   {
+    "id": 394430,
+    "name": "LibReallyFlyable",
+    "key": "libreallyflyable",
+    "dir": [
+      "LibReallyFlyable"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 83224,
     "name": "LibRealmInfo",
     "key": "librealminfo",
@@ -47007,6 +47047,16 @@
     "key": "medusa-prelude",
     "dir": [
       "MedusaPrelude"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 394339,
+    "name": "MedusaStaple",
+    "key": "medusa-staple",
+    "dir": [
+      "MedusaStaple"
     ],
     "source": "curse",
     "mode": 2
@@ -70695,6 +70745,16 @@
     "mode": 2
   },
   {
+    "id": 394380,
+    "name": "ThreatBar",
+    "key": "threatbar",
+    "dir": [
+      "ThreatBar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 355497,
     "name": "ThreatClassic2",
     "key": "threatclassic2",
@@ -70710,6 +70770,16 @@
     "key": "threatmeterquery",
     "dir": [
       "ThreatMeterQuery"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 394360,
+    "name": "ThreatMini Classic",
+    "key": "threatmini-classic",
+    "dir": [
+      "ThreatMini"
     ],
     "source": "curse",
     "mode": 2
@@ -71475,6 +71545,16 @@
     "key": "titan-panel-classic-recommended-zone",
     "dir": [
       "TitanClassicRecZone"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 377708,
+    "name": "Titan Panel Classic [Recount]",
+    "key": "titan-panel-classic-recount",
+    "dir": [
+      "TitanClassicRecount"
     ],
     "source": "curse",
     "mode": 2
@@ -73668,7 +73748,7 @@
     "name": "TradeShout (English)",
     "key": "tradeshout-english",
     "dir": [
-      "TradeShout"
+      "TradeLogUnlimited"
     ],
     "source": "curse",
     "mode": 2
@@ -74966,9 +75046,8 @@
     "dir": [
       "UnitFramesPlus_Options",
       "UnitFramesPlus",
-      "UnitFramesPlus_Threat",
-      "UnitFramesPlus_Cooldown",
-      "UnitFramesPlus_MobHealth"
+      "UnitFramesPlus_MobHealth",
+      "UnitFramesPlus_Cooldown"
     ],
     "source": "curse",
     "mode": 3
@@ -76929,6 +77008,16 @@
     "key": "whatadrop",
     "dir": [
       "WhatADrop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 394428,
+    "name": "WhatRepRecipes",
+    "key": "whatreprecipes",
+    "dir": [
+      "WhatRepRecipes"
     ],
     "source": "curse",
     "mode": 1
@@ -80354,7 +80443,8 @@
     "name": "alaTradeSkill",
     "key": "alatradeskill",
     "dir": [
-      "alaTradeFrame"
+      "alaTradeFrame",
+      "alaTradeSkill"
     ],
     "source": "curse",
     "mode": 2
