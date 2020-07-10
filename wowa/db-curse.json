@@ -4998,6 +4998,16 @@
     "mode": 1
   },
   {
+    "id": 3727,
+    "name": "Auto Destroy",
+    "key": "auto-destroy",
+    "dir": [
+      "AutoDestroy"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 305493,
     "name": "Auto Dialog Sounds",
     "key": "auto-dialog-sounds",
@@ -48711,6 +48721,16 @@
     "mode": 1
   },
   {
+    "id": 394575,
+    "name": "Mother, corrution vendor",
+    "key": "mother-corrution-vendor",
+    "dir": [
+      "MOTHER"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 304178,
     "name": "MotherBother",
     "key": "motherbother",
@@ -64499,7 +64519,7 @@
       "SimpleDruidMana"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 381728,
@@ -79626,6 +79646,26 @@
     "key": "autores",
     "dir": [
       "Zadrot AutoRes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 394539,
+    "name": "Zadrot AutoTrain",
+    "key": "autotrain",
+    "dir": [
+      "Zadrot AutoTrain"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 394542,
+    "name": "Zadrot KillSound",
+    "key": "zadrot-killsound",
+    "dir": [
+      "Zadrot KillSound"
     ],
     "source": "curse",
     "mode": 1
