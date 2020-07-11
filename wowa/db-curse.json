@@ -25448,6 +25448,16 @@
     "mode": 1
   },
   {
+    "id": 394797,
+    "name": "EquipPummeler",
+    "key": "equippummeler",
+    "dir": [
+      "EquipPummeler"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 20950,
     "name": "EquipSee",
     "key": "equipsee",
@@ -28948,6 +28958,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 394761,
+    "name": "GDKPd Classic",
+    "key": "gdkpd-classic",
+    "dir": [
+      "GDKPd"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 356857,
@@ -68629,6 +68649,16 @@
     "mode": 1
   },
   {
+    "id": 394799,
+    "name": "Super LFG",
+    "key": "super-lfg",
+    "dir": [
+      "SuperLFG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 326843,
     "name": "Super Status Tracking Bar",
     "key": "super-status-tracking-bar",
@@ -77695,6 +77725,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 394782,
+    "name": "WitchHunt-Classic",
+    "key": "witchhunt-classic",
+    "dir": [
+      "WitchHunt-Classic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 268983,
