@@ -2581,6 +2581,16 @@
     "mode": 3
   },
   {
+    "id": 395022,
+    "name": "Always Show Level",
+    "key": "always-show-level",
+    "dir": [
+      "AlwaysShowLevel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 33436,
     "name": "Alysmon",
     "key": "alysmon",
@@ -11442,6 +11452,16 @@
     "key": "broker_currencyflow",
     "dir": [
       "Broker_Currencyflow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 380492,
+    "name": "Broker_DateClock",
+    "key": "broker_dateclock",
+    "dir": [
+      "Broker_DateClock"
     ],
     "source": "curse",
     "mode": 1
@@ -31495,6 +31515,16 @@
     "mode": 3
   },
   {
+    "id": 394916,
+    "name": "Grid2 Survival Buff(Korean) plugin",
+    "key": "grid2-survival-buff-korean-plugin",
+    "dir": [
+      "Grid2SurvivalBuff"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 255449,
     "name": "Grid2Guarm",
     "key": "grid2guarm",
@@ -40329,7 +40359,7 @@
   },
   {
     "id": 95528,
-    "name": "KkthnxUI for WoW Retail",
+    "name": "KkthnxUI Retail",
     "key": "kkthnxui",
     "dir": [
       "KkthnxUI_Config",
@@ -60953,6 +60983,16 @@
     "mode": 1
   },
   {
+    "id": 395100,
+    "name": "Request Stop Transparent",
+    "key": "request-stop-transparent",
+    "dir": [
+      "RequestStopTransparent"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101773,
     "name": "RequestStop",
     "key": "requeststop",
@@ -64118,6 +64158,16 @@
     "key": "shutuprhonin",
     "dir": [
       "Data"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 393421,
+    "name": "ShutupToys",
+    "key": "shutuptoys",
+    "dir": [
+      "ShutupToys"
     ],
     "source": "curse",
     "mode": 1
@@ -69938,6 +69988,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 394881,
+    "name": "Target Assist",
+    "key": "target-assist",
+    "dir": [
+      "Target Assist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 367588,
@@ -79310,6 +79370,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 395128,
+    "name": "XpLogger",
+    "key": "xplogger",
+    "dir": [
+      "XpLogger"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 335479,
