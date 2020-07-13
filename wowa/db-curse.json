@@ -10097,6 +10097,16 @@
     "mode": 1
   },
   {
+    "id": 395166,
+    "name": "BobUI",
+    "key": "bobui",
+    "dir": [
+      "BobUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 47289,
     "name": "Boblust",
     "key": "boblust",
@@ -24361,8 +24371,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts_Classic",
-      "ElvUI_NutsAndBolts"
+      "ElvUI_NutsAndBolts",
+      "ElvUI_NutsAndBolts_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -24615,8 +24625,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -43581,6 +43591,16 @@
     "mode": 1
   },
   {
+    "id": 395189,
+    "name": "Lightning Timer",
+    "key": "lightning-timer",
+    "dir": [
+      "LightningTimer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 344264,
     "name": "Lightwell Buddy - Classic",
     "key": "lightwell-buddy-classic",
@@ -45030,7 +45050,7 @@
   },
   {
     "id": 394116,
-    "name": "MDReport",
+    "name": "MDReport (쐐기돌 보고서)",
     "key": "mdreport",
     "dir": [
       "MDReport"
@@ -54706,6 +54726,16 @@
     "key": "photo-robot-legion-beta-update-f",
     "dir": [
       "PhotoRobot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 393721,
+    "name": "Phreakin's Handwriting Fonts",
+    "key": "phreakin-handwriting-fonts",
+    "dir": [
+      "PhreakFonts"
     ],
     "source": "curse",
     "mode": 1
