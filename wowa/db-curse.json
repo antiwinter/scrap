@@ -10087,21 +10087,21 @@
     "mode": 2
   },
   {
-    "id": 57828,
-    "name": "BobHUD",
-    "key": "bobhud",
+    "id": 395166,
+    "name": "Bob UI",
+    "key": "bobui",
     "dir": [
-      "BobHUD"
+      "BobUI"
     ],
     "source": "curse",
     "mode": 1
   },
   {
-    "id": 395166,
-    "name": "BobUI",
-    "key": "bobui",
+    "id": 57828,
+    "name": "BobHUD",
+    "key": "bobhud",
     "dir": [
-      "BobUI"
+      "BobHUD"
     ],
     "source": "curse",
     "mode": 1
@@ -12785,6 +12785,16 @@
     "key": "cepgp",
     "dir": [
       "CEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 395425,
+    "name": "CEPGP Standings Tracker",
+    "key": "cepgp-standings-tracker",
+    "dir": [
+      "CEPGP-StandingsTracker"
     ],
     "source": "curse",
     "mode": 2
@@ -18266,16 +18276,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 393145,
-    "name": "Custom Player Portrait - Classic",
-    "key": "custom-player-portrait-classic",
-    "dir": [
-      "CustomPlayerPortrait"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 85995,
@@ -27047,7 +27047,7 @@
       "FeralCPs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 100853,
@@ -32331,6 +32331,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 395454,
+    "name": "GroupFarmer",
+    "key": "groupfarmer",
+    "dir": [
+      "GroupFarmer"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 344203,
@@ -37879,6 +37889,16 @@
     "key": "instancecounter",
     "dir": [
       "InstanceCounter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 395316,
+    "name": "InstanceLockeddownTimer",
+    "key": "instancelockeddowntimer",
+    "dir": [
+      "InstanceLockeddownTimer"
     ],
     "source": "curse",
     "mode": 2
@@ -52001,7 +52021,7 @@
   },
   {
     "id": 320655,
-    "name": "Ny's To Do List",
+    "name": "Ny's To-Do List",
     "key": "nys-todolist",
     "dir": [
       "Nys_ToDoList"
@@ -54731,6 +54751,16 @@
     "mode": 1
   },
   {
+    "id": 395296,
+    "name": "Phreakin's Display Fonts",
+    "key": "phreakdisplayfonts",
+    "dir": [
+      "PhreakDisplayFonts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 393721,
     "name": "Phreakin's Handwriting Fonts",
     "key": "phreakin-handwriting-fonts",
@@ -56988,10 +57018,11 @@
     "name": "Queso",
     "key": "quest-cinematic",
     "dir": [
+      "Queso Classic",
       "Queso"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 3607,
@@ -73912,6 +73943,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 395522,
+    "name": "TradeSkillExporter",
+    "key": "tradeskillexporter",
+    "dir": [
+      "TradeSkillExporter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14834,
