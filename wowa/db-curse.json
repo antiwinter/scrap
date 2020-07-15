@@ -13917,6 +13917,16 @@
     "mode": 1
   },
   {
+    "id": 395624,
+    "name": "CharDeathCounter",
+    "key": "chardeathcounter",
+    "dir": [
+      "CharDeathCounter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 55574,
     "name": "Character Achievements",
     "key": "character-achievements",
@@ -28994,7 +29004,8 @@
     "name": "GDKPd Classic",
     "key": "gdkpd-classic",
     "dir": [
-      "GDKPd"
+      "GDKPd",
+      "TradeShout"
     ],
     "source": "curse",
     "mode": 2
@@ -31515,10 +31526,10 @@
     "name": "Grid2",
     "key": "grid2",
     "dir": [
-      "Grid2LDB",
       "Grid2Options",
       "Grid2RaidDebuffs",
       "Grid2RaidDebuffsOptions",
+      "Grid2LDB",
       "Grid2"
     ],
     "source": "curse",
@@ -47410,7 +47421,7 @@
       "MGSSounds"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 265581,
@@ -48812,8 +48823,8 @@
   },
   {
     "id": 394575,
-    "name": "Mother, corrution vendor",
-    "key": "mother-corrution-vendor",
+    "name": "Mother, corruption vendor",
+    "key": "mother-corruption-vendor",
     "dir": [
       "MOTHER"
     ],
