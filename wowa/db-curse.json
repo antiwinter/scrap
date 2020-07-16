@@ -8336,7 +8336,7 @@
   },
   {
     "id": 360318,
-    "name": "Best In Slot - Classic",
+    "name": "Best In Slot - Classic - Discontinued",
     "key": "best-in-slot-classic",
     "dir": [
       "BestInSlotClassic"
@@ -12728,16 +12728,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 96784,
-    "name": "CCIcons",
-    "key": "ccicons",
-    "dir": [
-      "CCIcons"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 370700,
@@ -33259,16 +33249,6 @@
     "mode": 1
   },
   {
-    "id": 94548,
-    "name": "GuildManagement",
-    "key": "guildmanagement",
-    "dir": [
-      "GuildManagement"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 30073,
     "name": "GuildMemberInfo",
     "key": "libgmi",
@@ -36615,6 +36595,16 @@
     "key": "huntertracker",
     "dir": [
       "HunterPetInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 395826,
+    "name": "Huokan Payout",
+    "key": "huokan-payout",
+    "dir": [
+      "HuokanPayout"
     ],
     "source": "curse",
     "mode": 1
@@ -57030,7 +57020,8 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso"
+      "Queso",
+      "Queso Clear"
     ],
     "source": "curse",
     "mode": 3
@@ -64929,7 +64920,7 @@
       "SimpleILevel"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 69383,
@@ -67017,6 +67008,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 395956,
+    "name": "SpeedyBWLGossip",
+    "key": "speedybwlgossip",
+    "dir": [
+      "SpeedyBWLGossip"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 16446,
@@ -73269,7 +73270,7 @@
       "TooltipSpec"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 14825,
@@ -75485,6 +75486,16 @@
     "mode": 3
   },
   {
+    "id": 395877,
+    "name": "Valkyrie Emotes",
+    "key": "valkyrie-emotes",
+    "dir": [
+      "ValkyrieEmotes"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 96359,
     "name": "Valor",
     "key": "valor",
@@ -76484,6 +76495,16 @@
     "key": "wraio",
     "dir": [
       "WRAIO"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 395894,
+    "name": "WUI",
+    "key": "wui",
+    "dir": [
+      "WUI"
     ],
     "source": "curse",
     "mode": 1
