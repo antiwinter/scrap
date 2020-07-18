@@ -21071,16 +21071,6 @@
     "mode": 2
   },
   {
-    "id": 257636,
-    "name": "Dejunk",
-    "key": "dejunk",
-    "dir": [
-      "Dejunk"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 392624,
     "name": "Delete Hearthstone",
     "key": "delete-hearthstone",
@@ -21841,6 +21831,16 @@
     "key": "disenchantor",
     "dir": [
       "Disenchantor"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 396287,
+    "name": "DismountOrStand",
+    "key": "dismountorstand",
+    "dir": [
+      "DismountOrStand"
     ],
     "source": "curse",
     "mode": 2
@@ -27601,16 +27601,6 @@
     "mode": 2
   },
   {
-    "id": 304709,
-    "name": "FlabbyBirb",
-    "key": "flabbybirb",
-    "dir": [
-      "FlabbyBirb"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 341447,
     "name": "Flame",
     "key": "flame",
@@ -28333,6 +28323,16 @@
     "key": "frads-interruption",
     "dir": [
       "Interruption"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 396196,
+    "name": "FrameIdOutput",
+    "key": "frameidoutput",
+    "dir": [
+      "FrameIdOutput"
     ],
     "source": "curse",
     "mode": 1
@@ -32429,7 +32429,7 @@
     "name": "Gryphon Remover",
     "key": "gryphon-remover",
     "dir": [
-      "GryphonRemover"
+      "Gryphons"
     ],
     "source": "curse",
     "mode": 1
@@ -37073,6 +37073,16 @@
     "mode": 1
   },
   {
+    "id": 396301,
+    "name": "IgniteTrackerClassic",
+    "key": "ignitetrackerclassic",
+    "dir": [
+      "IgniteTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89861,
     "name": "IgnoreEnemyEmotes",
     "key": "ignoreenemyemotes",
@@ -38602,6 +38612,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354662,
+    "name": "ItemLoot",
+    "key": "itemloot",
+    "dir": [
+      "LootInfo"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102804,
@@ -41441,6 +41461,16 @@
     "mode": 1
   },
   {
+    "id": 298842,
+    "name": "Leatrix Maps (Battle for Azeroth and Shadowlands)",
+    "key": "leatrix-maps",
+    "dir": [
+      "Leatrix_Maps"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 324034,
     "name": "Leatrix Maps (Classic)",
     "key": "leatrix-maps-classic",
@@ -41451,11 +41481,11 @@
     "mode": 2
   },
   {
-    "id": 298842,
-    "name": "Leatrix Maps (Retail)",
-    "key": "leatrix-maps",
+    "id": 94855,
+    "name": "Leatrix Plus (Battle for Azeroth and Shadowlands)",
+    "key": "leatrix-plus",
     "dir": [
-      "Leatrix_Maps"
+      "Leatrix_Plus"
     ],
     "source": "curse",
     "mode": 1
@@ -41471,11 +41501,11 @@
     "mode": 2
   },
   {
-    "id": 94855,
-    "name": "Leatrix Plus (Retail)",
-    "key": "leatrix-plus",
+    "id": 304659,
+    "name": "Leatrix Sounds (Battle for Azeroth and Shadowlands)",
+    "key": "leatrix-sounds",
     "dir": [
-      "Leatrix_Plus"
+      "Leatrix_Sounds"
     ],
     "source": "curse",
     "mode": 1
@@ -41491,11 +41521,11 @@
     "mode": 2
   },
   {
-    "id": 304659,
-    "name": "Leatrix Sounds (Retail)",
-    "key": "leatrix-sounds",
+    "id": 324297,
+    "name": "Leatrix Tunes (Battle for Azeroth and Shadowlands)",
+    "key": "leatrix-tunes",
     "dir": [
-      "Leatrix_Sounds"
+      "Leatrix_Tunes"
     ],
     "source": "curse",
     "mode": 1
@@ -41509,16 +41539,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 324297,
-    "name": "Leatrix Tunes (Retail)",
-    "key": "leatrix-tunes",
-    "dir": [
-      "Leatrix_Tunes"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 93662,
@@ -45828,16 +45848,6 @@
     "mode": 3
   },
   {
-    "id": 340579,
-    "name": "ManaPercent",
-    "key": "manapercent",
-    "dir": [
-      "ManaPercent"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 346006,
     "name": "ManaTimerClassic",
     "key": "manatimerclassic",
@@ -46072,6 +46082,16 @@
     "key": "markingbar",
     "dir": [
       "MarkingBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 396005,
+    "name": "Marking Bar Lives",
+    "key": "marking-bar-lives",
+    "dir": [
+      "MarkingBarLives"
     ],
     "source": "curse",
     "mode": 1
@@ -54762,16 +54782,6 @@
     "mode": 1
   },
   {
-    "id": 393721,
-    "name": "Phreakin's Handwriting Fonts",
-    "key": "phreakin-handwriting-fonts",
-    "dir": [
-      "PhreakFonts"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 336529,
     "name": "PickPocketer",
     "key": "pickpocketer",
@@ -55276,6 +55286,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 386631,
+    "name": "PlayerMadeQuests",
+    "key": "pmq",
+    "dir": [
+      "PlayerMadeQuests"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 97249,
@@ -62539,11 +62559,11 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
-      "Scorpio",
       "Scorpio.MVC",
       "Scorpio.Secure",
       "Scorpio.UI",
-      "Scorpio.Widget"
+      "Scorpio.Widget",
+      "Scorpio"
     ],
     "source": "curse",
     "mode": 3
@@ -66354,16 +66374,6 @@
     "mode": 2
   },
   {
-    "id": 318761,
-    "name": "Sokoban",
-    "key": "sokoban",
-    "dir": [
-      "Sokoban"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 90729,
     "name": "Sol's Noxxic Stat Priorities",
     "key": "sols-noxxic-stat-priorities",
@@ -69504,16 +69514,6 @@
     "id": 282337,
     "name": "TL;DR",
     "key": "tl-dr",
-    "dir": [
-      "TLDR"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 283019,
-    "name": "TLDR",
-    "key": "tldr",
     "dir": [
       "TLDR"
     ],
@@ -74402,31 +74402,11 @@
     "mode": 1
   },
   {
-    "id": 256604,
-    "name": "TransmogAway",
-    "key": "transmogaway",
-    "dir": [
-      "TransmogAway"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 101175,
     "name": "TransmogCleanup",
     "key": "transmogcleanup",
     "dir": [
       "TransmogCleanup"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 301539,
-    "name": "TransmogExpander",
-    "key": "transmogexpander",
-    "dir": [
-      "TransmogExpander"
     ],
     "source": "curse",
     "mode": 1
@@ -77126,16 +77106,6 @@
     "mode": 1
   },
   {
-    "id": 318174,
-    "name": "West",
-    "key": "west",
-    "dir": [
-      "West"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 97534,
     "name": "Wgrasp",
     "key": "wgrasp",
@@ -77464,16 +77434,6 @@
     "key": "whistle-master",
     "dir": [
       "WhistleMaster"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 302416,
-    "name": "WhistledAway",
-    "key": "whistledaway",
-    "dir": [
-      "WhistledAway"
     ],
     "source": "curse",
     "mode": 1
@@ -81352,7 +81312,7 @@
     "name": "dwgAutoRoller",
     "key": "dwgautoroller",
     "dir": [
-      "AutoLooter"
+      "AutoRoller"
     ],
     "source": "curse",
     "mode": 2
