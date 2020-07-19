@@ -24625,8 +24625,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -49588,6 +49588,16 @@
     "mode": 1
   },
   {
+    "id": 27342,
+    "name": "Multibox Follower Helper",
+    "key": "slavegirl",
+    "dir": [
+      "SlaveGirl"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 290155,
     "name": "Multimod",
     "key": "multimod",
@@ -62559,11 +62569,11 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
-      "Scorpio.MVC",
-      "Scorpio.Secure",
       "Scorpio.UI",
       "Scorpio.Widget",
-      "Scorpio"
+      "Scorpio",
+      "Scorpio.MVC",
+      "Scorpio.Secure"
     ],
     "source": "curse",
     "mode": 3
@@ -65748,16 +65758,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 27342,
-    "name": "Slave Girl",
-    "key": "slavegirl",
-    "dir": [
-      "SlaveGirl"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 3714,
@@ -80945,7 +80945,7 @@
   },
   {
     "id": 65461,
-    "name": "cargBags Nivaya (RealUI/standalone)",
+    "name": "cargBags Nivaya",
     "key": "cargbags-nivaya-mop-update",
     "dir": [
       "cargBags_Nivaya"
@@ -81947,7 +81947,7 @@
       "iGear"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 90138,
@@ -82099,7 +82099,7 @@
       "iReputation"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 90303,
