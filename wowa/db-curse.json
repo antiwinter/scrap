@@ -6387,7 +6387,8 @@
       "AAP-Vanilla",
       "AAP-WoD",
       "AAP-Core",
-      "Azeroth Auto Pilot"
+      "Azeroth Auto Pilot",
+      "AAP-Test"
     ],
     "source": "curse",
     "mode": 1
@@ -24310,7 +24311,8 @@
     "name": "ElvUI KlixUI Classic",
     "key": "elvui-klixui-classic",
     "dir": [
-      "ElvUI_KlixUI"
+      "ElvUI_KlixUI",
+      "ElvUI_KlixUI_Classic"
     ],
     "source": "curse",
     "mode": 2
@@ -31413,7 +31415,7 @@
   },
   {
     "id": 336164,
-    "name": "GreyHandling",
+    "name": "Grey Handling",
     "key": "greyhandling",
     "dir": [
       "GreyHandling"
@@ -76982,7 +76984,7 @@
   },
   {
     "id": 65387,
-    "name": "WeakAuras 2",
+    "name": "WeakAuras",
     "key": "weakauras-2",
     "dir": [
       "WeakAurasOptions",
