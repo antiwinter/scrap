@@ -3173,7 +3173,7 @@
       "Ara_Broker_Reputations"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88388,
@@ -9004,19 +9004,20 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_Azeroth",
-      "BigWigs_Uldir",
-      "BigWigs_BattleOfDazaralor",
-      "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace",
-      "BigWigs_Nyalotha",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
       "BigWigs_BlackwingLair",
       "BigWigs_ZulGurub",
       "BigWigs_AhnQirajRuins",
-      "BigWigs_AhnQirajTemple"
+      "BigWigs_AhnQirajTemple",
+      "BigWigs_Azeroth",
+      "BigWigs_Uldir",
+      "BigWigs_BattleOfDazaralor",
+      "BigWigs_CrucibleOfStorms",
+      "BigWigs_EternalPalace",
+      "BigWigs_Nyalotha",
+      "BigWigs_CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -16215,6 +16216,16 @@
     "mode": 1
   },
   {
+    "id": 396504,
+    "name": "Coffee Addicts Anonymous Unitscan",
+    "key": "caa-scan",
+    "dir": [
+      "CAAScan"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 378313,
     "name": "CoffinDeathSound",
     "key": "coffindeathsound",
@@ -20213,10 +20224,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20225,7 +20232,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -21284,6 +21295,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 396450,
+    "name": "Details! Damage Meter Shadowlands",
+    "key": "details-damage-meter-shadowlands-beta",
+    "dir": [
+      "Details"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 75162,
@@ -24001,6 +24022,16 @@
     "mode": 1
   },
   {
+    "id": 397099,
+    "name": "ElvUI Buff Highlight",
+    "key": "elvui-buff-highlight",
+    "dir": [
+      "ElvUI_BuffHighlight"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 303731,
     "name": "ElvUI CTC",
     "key": "elvui-ctc",
@@ -25696,6 +25727,16 @@
     "key": "essence-set-manager",
     "dir": [
       "EssenceSetManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 396536,
+    "name": "Essences Talents Tab",
+    "key": "essences-talents-tab",
+    "dir": [
+      "EssencesTalentsTab"
     ],
     "source": "curse",
     "mode": 1
@@ -35541,6 +35582,16 @@
     "mode": 1
   },
   {
+    "id": 397117,
+    "name": "Hide Minimap POI Arrows",
+    "key": "hide-minimap-poi-arrows",
+    "dir": [
+      "HideMinimapPOIArrow"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87349,
     "name": "Hide Objective Tracker",
     "key": "hideobjectivetracker",
@@ -36597,16 +36648,6 @@
     "key": "huntertracker",
     "dir": [
       "HunterPetInfo"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 395826,
-    "name": "Huokan Payout",
-    "key": "huokan-payout",
-    "dir": [
-      "HuokanPayout"
     ],
     "source": "curse",
     "mode": 1
@@ -38758,6 +38799,16 @@
     "mode": 1
   },
   {
+    "id": 396419,
+    "name": "ItemStats",
+    "key": "itemstats",
+    "dir": [
+      "ItemStats"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 352828,
     "name": "ItemSurveyClassic",
     "key": "itemsurveyclassic",
@@ -38786,6 +38837,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 396623,
+    "name": "Items expansions in tooltip",
+    "key": "items-expansions-in-tooltip",
+    "dir": [
+      "ItemExpansion"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 26949,
@@ -41156,6 +41217,16 @@
     "dir": [
       "LUI",
       "Bartender4"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 384811,
+    "name": "LZM_DisplayCoins",
+    "key": "lzm_displaycoins",
+    "dir": [
+      "LZM_DisplayCoins"
     ],
     "source": "curse",
     "mode": 1
@@ -48955,6 +49026,16 @@
     "mode": 1
   },
   {
+    "id": 396299,
+    "name": "MountBoss",
+    "key": "mountboss",
+    "dir": [
+      "MountBoss"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 84219,
     "name": "MountInfo: WOD",
     "key": "mountinfo-wod",
@@ -55178,6 +55259,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 396952,
+    "name": "Plater Nameplates for Shadowlands",
+    "key": "plater-nameplates-for-shadowlands-beta",
+    "dir": [
+      "Plater"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 275697,
@@ -62571,11 +62662,11 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
+      "Scorpio.MVC",
+      "Scorpio.Secure",
       "Scorpio.UI",
       "Scorpio.Widget",
-      "Scorpio",
-      "Scorpio.MVC",
-      "Scorpio.Secure"
+      "Scorpio"
     ],
     "source": "curse",
     "mode": 3
@@ -62912,6 +63003,16 @@
     "key": "securetabs",
     "dir": [
       "SecureTabs-2.0"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 397201,
+    "name": "SecureTrade",
+    "key": "securetrade",
+    "dir": [
+      "SecureTrade"
     ],
     "source": "curse",
     "mode": 2
@@ -64388,6 +64489,16 @@
     "mode": 1
   },
   {
+    "id": 396518,
+    "name": "SilentFlights",
+    "key": "silentflights",
+    "dir": [
+      "SilentFlights"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 365227,
     "name": "Silly Jump Sound",
     "key": "silly-jump-sound",
@@ -64975,6 +65086,16 @@
     "mode": 1
   },
   {
+    "id": 396422,
+    "name": "SimpleActionBars",
+    "key": "simpleactionbars",
+    "dir": [
+      "SimpleActionBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327411,
     "name": "SimpleAssist",
     "key": "simpleassist",
@@ -65269,6 +65390,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 396427,
+    "name": "Simpler Map",
+    "key": "simpler-map",
+    "dir": [
+      "SimplerMap"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 97080,
@@ -66562,6 +66693,16 @@
     "key": "sorted-runes",
     "dir": [
       "Sorted Runes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 396972,
+    "name": "Sorted.",
+    "key": "sorted",
+    "dir": [
+      "Sorted"
     ],
     "source": "curse",
     "mode": 1
@@ -82950,6 +83091,16 @@
     "key": "nakagold",
     "dir": [
       "nakaGold"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 397053,
+    "name": "namePlateM+",
+    "key": "nameplatem",
+    "dir": [
+      "Nameplates"
     ],
     "source": "curse",
     "mode": 1
