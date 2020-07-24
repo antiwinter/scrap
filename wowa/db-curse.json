@@ -9243,6 +9243,16 @@
     "mode": 1
   },
   {
+    "id": 397633,
+    "name": "BigWigs_KaosKatie_Voice",
+    "key": "bigwigs_kaoskatie_voice",
+    "dir": [
+      "BigWigs_KaosKatie_Voice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 300657,
     "name": "BigWigs_Legion",
     "key": "bigwigs_legion",
@@ -16214,16 +16224,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 396504,
-    "name": "Coffee Addicts Anonymous Unitscan",
-    "key": "caa-scan",
-    "dir": [
-      "CAAScan"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 378313,
@@ -32921,6 +32921,16 @@
     "mode": 1
   },
   {
+    "id": 397040,
+    "name": "Guild Gear Rules",
+    "key": "guild-gear-rules",
+    "dir": [
+      "GuildGearRules"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 363791,
     "name": "Guild In Tooltip",
     "key": "guildintooltip",
@@ -34004,6 +34014,16 @@
     "key": "handy-notes_directions",
     "dir": [
       "HandyNotes_Directions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 397565,
+    "name": "HandyNotes: Draenor",
+    "key": "handynotes-draenor",
+    "dir": [
+      "HandyNotes_Draenor"
     ],
     "source": "curse",
     "mode": 1
@@ -37254,6 +37274,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 397382,
+    "name": "Impact Loot Council",
+    "key": "impact-loot-council",
+    "dir": [
+      "ImpactLC"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 390046,
@@ -49760,7 +49790,7 @@
       "MusicianMIDI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 385517,
@@ -49770,7 +49800,7 @@
       "Musician_Instrument_Piano"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 29869,
@@ -51727,6 +51757,16 @@
     "key": "notaint-uidropdownmenu",
     "dir": [
       "!NoTaint_UIDropDownMenu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 397304,
+    "name": "NoTalkingHead",
+    "key": "notalkinghead",
+    "dir": [
+      "NoTalkingHead"
     ],
     "source": "curse",
     "mode": 1
@@ -56187,6 +56227,16 @@
     "mode": 2
   },
   {
+    "id": 397624,
+    "name": "PrioRollManager",
+    "key": "priorollmanager",
+    "dir": [
+      "PrioRollManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 72962,
     "name": "PrioRunes",
     "key": "priorunes",
@@ -59144,6 +59194,16 @@
     "key": "raidframeresizer",
     "dir": [
       "RaidFrameReSizer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 397494,
+    "name": "RaidFrameS",
+    "key": "raidframes",
+    "dir": [
+      "RaidFrameS"
     ],
     "source": "curse",
     "mode": 1
@@ -62662,11 +62722,11 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
-      "Scorpio.MVC",
-      "Scorpio.Secure",
       "Scorpio.UI",
       "Scorpio.Widget",
-      "Scorpio"
+      "Scorpio",
+      "Scorpio.MVC",
+      "Scorpio.Secure"
     ],
     "source": "curse",
     "mode": 3
@@ -66705,7 +66765,7 @@
       "Sorted"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 345172,
@@ -72996,16 +73056,6 @@
     "mode": 1
   },
   {
-    "id": 30218,
-    "name": "ToggleMyName",
-    "key": "togglemyname",
-    "dir": [
-      "ToggleMyName"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 20417,
     "name": "ToggleNames",
     "key": "togglenames",
@@ -74054,7 +74104,8 @@
     "name": "TradeLogUnlimited",
     "key": "tradelogunlimited",
     "dir": [
-      "TradeLogUnlimited"
+      "TradeLogUnlimited",
+      "TradeLogUnlimitedClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -77435,6 +77486,16 @@
     "key": "where-to-go",
     "dir": [
       "WhereToGo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 397431,
+    "name": "Where's My Camp?",
+    "key": "wheres-my-camp",
+    "dir": [
+      "WheresMyCamp"
     ],
     "source": "curse",
     "mode": 1
