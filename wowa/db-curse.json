@@ -3186,6 +3186,16 @@
     "mode": 1
   },
   {
+    "id": 397761,
+    "name": "Ara Broker XP",
+    "key": "ara-broker-xp",
+    "dir": [
+      "Ara_Broker_XP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29174,
     "name": "Arbitrary Commands",
     "key": "arbitcomm",
@@ -6388,7 +6398,9 @@
       "AAP-WoD",
       "AAP-Core",
       "Azeroth Auto Pilot",
-      "AAP-Test"
+      "AAP-Test",
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -9245,7 +9257,7 @@
   {
     "id": 397633,
     "name": "BigWigs_KaosKatie_Voice",
-    "key": "bigwigs_kaoskatie_voice",
+    "key": "bigwigs-kaoskatie-voice",
     "dir": [
       "BigWigs_KaosKatie_Voice"
     ],
@@ -9278,6 +9290,16 @@
     "key": "bigwigs_neziricepatch",
     "dir": [
       "BigWigs_NezirIcePatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 397766,
+    "name": "BigWigs_QC_Countdown",
+    "key": "bigwigs_qc_countdown",
+    "dir": [
+      "BigWigs_Voice_QC"
     ],
     "source": "curse",
     "mode": 1
@@ -22311,6 +22333,16 @@
     "mode": 1
   },
   {
+    "id": 397732,
+    "name": "Drainerx UI",
+    "key": "drainerx-ui",
+    "dir": [
+      "Drainerx UI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 49991,
     "name": "Draqisfang Guild Points",
     "key": "draqisfang-guild-points",
@@ -22597,12 +22629,12 @@
     "name": "DuelResponse",
     "key": "duelresponse",
     "dir": [
-      "DuelResponse_Blacklist",
-      "DuelResponse_Whisper",
-      "DuelResponse",
       "DuelResponse_Blacklist_Classic",
       "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic"
+      "DuelResponse_Whisper_Classic",
+      "DuelResponse_Blacklist",
+      "DuelResponse_Whisper",
+      "DuelResponse"
     ],
     "source": "curse",
     "mode": 3
@@ -47807,6 +47839,16 @@
     "mode": 1
   },
   {
+    "id": 397745,
+    "name": "MiniMapButton For Notes",
+    "key": "minimapbutton-for-notes",
+    "dir": [
+      "NotesMiniMapButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20621,
     "name": "MiniMapStrata",
     "key": "minimapstrata",
@@ -66567,6 +66609,16 @@
     "mode": 2
   },
   {
+    "id": 397725,
+    "name": "Socket Switcher",
+    "key": "socket-switcher",
+    "dir": [
+      "Socket Swicher"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90729,
     "name": "Sol's Noxxic Stat Priorities",
     "key": "sols-noxxic-stat-priorities",
@@ -75305,6 +75357,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 389233,
+    "name": "Unbuff",
+    "key": "unbuff",
+    "dir": [
+      "Ewlf's Debuff",
+      "Unbuff"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 357087,
