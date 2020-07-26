@@ -1714,31 +1714,11 @@
     "mode": 1
   },
   {
-    "id": 361561,
-    "name": "AdiBags_BlackEmpireGear",
-    "key": "adibags_blackempiregear",
-    "dir": [
-      "AdiBags_BlackEmpireGear"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 47706,
     "name": "AdiBags_Bound",
     "key": "adibags_bound",
     "dir": [
       "AdiBags_Bound"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 371294,
-    "name": "AdiBags_Cosmetic",
-    "key": "adibags_cosmetic",
-    "dir": [
-      "AdiBags_Cosmetic"
     ],
     "source": "curse",
     "mode": 1
@@ -1759,16 +1739,6 @@
     "key": "adibags_herbalism",
     "dir": [
       "AdiBags_Herbalism"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339087,
-    "name": "AdiBags_Keystone",
-    "key": "adibags_keystone",
-    "dir": [
-      "AdiBags_Keystones"
     ],
     "source": "curse",
     "mode": 1
@@ -9215,6 +9185,16 @@
     "mode": 1
   },
   {
+    "id": 397633,
+    "name": "BigWigs_Countdown_KaosKatie",
+    "key": "bigwigs-countdown-kaoskatie",
+    "dir": [
+      "BigWigs_Countdown_KaosKatie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100172,
     "name": "BigWigs_Countdown_Overwatch",
     "key": "bigwigs_countdown_overwatch",
@@ -9250,16 +9230,6 @@
     "key": "bigwigs_horridon_marker",
     "dir": [
       "BigWigs_Horridon_Marker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 397633,
-    "name": "BigWigs_KaosKatie_Voice",
-    "key": "bigwigs-kaoskatie-voice",
-    "dir": [
-      "BigWigs_KaosKatie_Voice"
     ],
     "source": "curse",
     "mode": 1
@@ -21323,6 +21293,8 @@
     "name": "Details! Damage Meter Shadowlands",
     "key": "details-damage-meter-shadowlands-beta",
     "dir": [
+      "Details_CastHistory",
+      "Details_EncounterDetails",
       "Details"
     ],
     "source": "curse",
@@ -29076,6 +29048,16 @@
     "mode": 2
   },
   {
+    "id": 397856,
+    "name": "GDKPdClassic",
+    "key": "gdkpdclassic",
+    "dir": [
+      "GDKPd"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 356857,
     "name": "GFDI - Death Sound",
     "key": "gfdi-death-sound",
@@ -29737,7 +29719,7 @@
       "GatherSage2"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 346151,
@@ -31534,7 +31516,7 @@
       "Grichelde"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 7000,
@@ -38719,16 +38701,6 @@
     "mode": 1
   },
   {
-    "id": 354662,
-    "name": "ItemLoot",
-    "key": "itemloot",
-    "dir": [
-      "LootInfo"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 102804,
     "name": "ItemNameLocalized Core",
     "key": "item-name-localized",
@@ -43387,10 +43359,10 @@
   },
   {
     "id": 254113,
-    "name": "LibRecipes-2.0",
-    "key": "librecipes-2-0",
+    "name": "LibRecipes-3.0",
+    "key": "librecipes-3-0",
     "dir": [
-      "LibRecipes-2.0"
+      "LibRecipes-3.0"
     ],
     "source": "curse",
     "mode": 1
@@ -44406,6 +44378,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354662,
+    "name": "Loot Info",
+    "key": "lootinfo",
+    "dir": [
+      "LootInfo"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 341916,
@@ -48415,6 +48397,16 @@
     "mode": 1
   },
   {
+    "id": 397935,
+    "name": "Modern Frame Font",
+    "key": "modern-frame-font",
+    "dir": [
+      "ModernFrameFont"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 334528,
     "name": "Modern Quest Watch",
     "key": "modernquestwatch",
@@ -51384,10 +51376,10 @@
   },
   {
     "id": 390895,
-    "name": "Night Shift Loot Priority Tooltips",
-    "key": "night-shift-loot-priority-tooltips",
+    "name": "Night Shift EPGP",
+    "key": "night-shift-epgp",
     "dir": [
-      "NightShiftLootPriority"
+      "NightShiftEPGP"
     ],
     "source": "curse",
     "mode": 2
@@ -58612,6 +58604,16 @@
     "mode": 1
   },
   {
+    "id": 393113,
+    "name": "RPManager",
+    "key": "rpmanager",
+    "dir": [
+      "RPManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 293984,
     "name": "RPTools",
     "key": "rptools",
@@ -65319,6 +65321,16 @@
     "mode": 1
   },
   {
+    "id": 397908,
+    "name": "SimpleHealingText",
+    "key": "simplehealingtext",
+    "dir": [
+      "SimpleHealingText"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 299576,
     "name": "SimpleLOC",
     "key": "simpleloc",
@@ -68606,7 +68618,7 @@
       "StrudelStore"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20145,
