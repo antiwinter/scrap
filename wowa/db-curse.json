@@ -12143,6 +12143,16 @@
     "mode": 1
   },
   {
+    "id": 297376,
+    "name": "BtWQuests: The Burning Crusade",
+    "key": "btw-quests-the-burning-crusade",
+    "dir": [
+      "BtWQuestsTheBurningCrusade"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297380,
     "name": "BtWQuests: Warlords of Draenor",
     "key": "btw-quests-warlords-of-draenor",
@@ -18525,7 +18535,7 @@
   },
   {
     "id": 394328,
-    "name": "DBM CountPack HoTS (Korean) 히오스 한국어",
+    "name": "DBM Count Pack HotS (Korean) 히오스 한국어",
     "key": "dbm-countpack-hots-korean",
     "dir": [
       "DBM-CountPack-HoTS"
@@ -19089,6 +19099,16 @@
     "key": "dbm-victorysounds",
     "dir": [
       "DBM-VictorySound"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 398098,
+    "name": "DBM_Countdown_KaosKatie",
+    "key": "dbm_countdown_kaoskatie",
+    "dir": [
+      "DBM_Countdown_KaosKatie"
     ],
     "source": "curse",
     "mode": 1
