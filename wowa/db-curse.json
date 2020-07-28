@@ -14504,6 +14504,16 @@
     "mode": 2
   },
   {
+    "id": 398415,
+    "name": "ChatWheel",
+    "key": "chatwheel",
+    "dir": [
+      "ChatWheel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 53991,
     "name": "ChatWho",
     "key": "chatwho",
@@ -26331,6 +26341,16 @@
     "mode": 2
   },
   {
+    "id": 398383,
+    "name": "FAQChat",
+    "key": "faqchat",
+    "dir": [
+      "faqchat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 387347,
     "name": "FARM PROTTEC",
     "key": "farm-prottec",
@@ -26440,6 +26460,16 @@
     "key": "fs_core",
     "dir": [
       "FS_Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 398243,
+    "name": "FTL",
+    "key": "ftl",
+    "dir": [
+      "FTL"
     ],
     "source": "curse",
     "mode": 1
@@ -37308,16 +37338,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 397382,
-    "name": "Impact Loot Council",
-    "key": "impact-loot-council",
-    "dir": [
-      "ImpactLC"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 390046,
@@ -58909,6 +58929,16 @@
     "mode": 2
   },
   {
+    "id": 398254,
+    "name": "Raid Group Organizer",
+    "key": "raid-group-organizer",
+    "dir": [
+      "RaidGroupOrganizer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 385423,
     "name": "Raid Invite Classic",
     "key": "raid-invite-classic",
@@ -61203,6 +61233,16 @@
     "mode": 1
   },
   {
+    "id": 398354,
+    "name": "Reported",
+    "key": "reported-x",
+    "dir": [
+      "Reported"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 282774,
     "name": "Reports",
     "key": "reports",
@@ -61241,6 +61281,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 390329,
+    "name": "Reputation AutoSwap and Tracker",
+    "key": "reptracker",
+    "dir": [
+      "RepTracker"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 20091,
@@ -62439,6 +62489,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 398379,
+    "name": "Salad_Cthun",
+    "key": "salad_cthun",
+    "dir": [
+      "Salad_Cthun"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 297956,
@@ -64027,6 +64087,16 @@
     "mode": 1
   },
   {
+    "id": 398409,
+    "name": "SharedMedia_TBD",
+    "key": "sharedmedia_tbd",
+    "dir": [
+      "SharedMedia_TBD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 365276,
     "name": "SharedMedia_dnnsGT",
     "key": "sharedmedia_dnnsgt",
@@ -64618,6 +64688,16 @@
     "key": "silentflights",
     "dir": [
       "SilentFlights"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 398416,
+    "name": "SilfUI",
+    "key": "silfui",
+    "dir": [
+      "ElvUI_SilfUI"
     ],
     "source": "curse",
     "mode": 1
@@ -66690,6 +66770,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 398322,
+    "name": "SolidSoftres",
+    "key": "solidsoftres",
+    "dir": [
+      "SolidSoftres"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 272058,
@@ -70215,6 +70305,16 @@
     "key": "tanaan-jungle-rares",
     "dir": [
       "TanaanJungleStalker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 398385,
+    "name": "Tank Helper",
+    "key": "tank-helper",
+    "dir": [
+      "D4KiR Tank Helper"
     ],
     "source": "curse",
     "mode": 1
@@ -77098,6 +77198,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 398434,
+    "name": "WarriorTankAnnounce",
+    "key": "warriortankannounce",
+    "dir": [
+      "WarriorTankAnnounce"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101134,
