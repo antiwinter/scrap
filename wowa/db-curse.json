@@ -24445,6 +24445,16 @@
     "mode": 3
   },
   {
+    "id": 398616,
+    "name": "ElvUI PVP Data Text",
+    "key": "elvui-pvp-data-text",
+    "dir": [
+      "ElvUI_PVPDT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 99026,
     "name": "ElvUI Profession Datatexts",
     "key": "elvui-professions-datatexts",
@@ -37340,6 +37350,16 @@
     "mode": 1
   },
   {
+    "id": 398598,
+    "name": "Impact: Loot Council",
+    "key": "impact-loot-council",
+    "dir": [
+      "ImpactLC"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 390046,
     "name": "ImpactLoot",
     "key": "impactloot",
@@ -41663,26 +41683,6 @@
     "key": "leatrix-sounds-classic",
     "dir": [
       "Leatrix_Sounds"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 324297,
-    "name": "Leatrix Tunes (Battle for Azeroth and Shadowlands)",
-    "key": "leatrix-tunes",
-    "dir": [
-      "Leatrix_Tunes"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 324606,
-    "name": "Leatrix Tunes (Classic)",
-    "key": "leatrix-tunes-classic",
-    "dir": [
-      "Leatrix_Tunes"
     ],
     "source": "curse",
     "mode": 2
@@ -54749,6 +54749,16 @@
     "mode": 1
   },
   {
+    "id": 398544,
+    "name": "Peto's AutoBuy",
+    "key": "petos-autobuy",
+    "dir": [
+      "AutoBuy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 97449,
     "name": "Petrace",
     "key": "petrace",
@@ -61176,8 +61186,8 @@
     "name": "RepHelper",
     "key": "rephelper",
     "dir": [
-      "RepHelper_Classic",
-      "RepHelper"
+      "RepHelper",
+      "RepHelper_Classic"
     ],
     "source": "curse",
     "mode": 3
