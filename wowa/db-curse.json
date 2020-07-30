@@ -2745,6 +2745,16 @@
     "mode": 1
   },
   {
+    "id": 398490,
+    "name": "Angry Girls",
+    "key": "angry-girls",
+    "dir": [
+      "AngryGirls"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102522,
     "name": "Angry Keystones",
     "key": "angry-keystones",
@@ -23229,6 +23239,16 @@
     "mode": 1
   },
   {
+    "id": 398729,
+    "name": "EXPBarText",
+    "key": "expbartext",
+    "dir": [
+      "EXPBarText"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95110,
     "name": "EXPTracker",
     "key": "exptracker",
@@ -24314,7 +24334,7 @@
   {
     "id": 385212,
     "name": "ElvUI Honor Data Text",
-    "key": "elvui-honor-data-text",
+    "key": "elvui-honor-dt",
     "dir": [
       "ElvUI_Honor"
     ],
@@ -24702,8 +24722,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -27385,6 +27405,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 398695,
+    "name": "FishMaster",
+    "key": "fishmaster",
+    "dir": [
+      "FishMaster"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 16836,
@@ -61245,7 +61275,7 @@
   {
     "id": 398354,
     "name": "Reported",
-    "key": "reported-x",
+    "key": "reported",
     "dir": [
       "Reported"
     ],
@@ -70327,7 +70357,7 @@
       "D4KiR Tank Helper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 356625,
@@ -77455,6 +77485,16 @@
     "mode": 3
   },
   {
+    "id": 398735,
+    "name": "WeaponSwingTimer SixxFix",
+    "key": "weaponswingtimer-sixxfix",
+    "dir": [
+      "WeaponSwingTimer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 350876,
     "name": "WeaponTrainers",
     "key": "weapontrainers",
@@ -79191,7 +79231,7 @@
   },
   {
     "id": 24331,
-    "name": "WowLua",
+    "name": "WowLua - Lua in Wow",
     "key": "wowlua",
     "dir": [
       "WowLua"
