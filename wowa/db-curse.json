@@ -2662,6 +2662,16 @@
     "mode": 1
   },
   {
+    "id": 398897,
+    "name": "Amused to Death",
+    "key": "amused-to-death",
+    "dir": [
+      "Amused2Death"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 302536,
     "name": "AnS",
     "key": "ans",
@@ -6059,6 +6069,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 398791,
+    "name": "AutoWhisperInvite Classic",
+    "key": "autowhisperinvite-classic",
+    "dir": [
+      "AutoWhisperInvite"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 83846,
@@ -16425,6 +16445,16 @@
     "mode": 2
   },
   {
+    "id": 398922,
+    "name": "Combat Helm",
+    "key": "combat-helm",
+    "dir": [
+      "CombatHelm"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 69834,
     "name": "Combat Log Remover",
     "key": "combat-log-remover",
@@ -20256,6 +20286,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20264,11 +20298,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -26412,13 +26442,13 @@
   },
   {
     "id": 305470,
-    "name": "FFLU - Final Fantasy Level Up",
+    "name": "FFLU - Final Fantasy Level Up!",
     "key": "fflu",
     "dir": [
       "FFLU"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 339921,
@@ -31204,6 +31234,16 @@
     "mode": 1
   },
   {
+    "id": 351522,
+    "name": "GoldDelta",
+    "key": "golddelta",
+    "dir": [
+      "GoldDelta"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 30797,
     "name": "GoldLoot",
     "key": "goldloot",
@@ -34963,6 +35003,16 @@
     "key": "healcommclassic",
     "dir": [
       "HealCommClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 398991,
+    "name": "HealMana",
+    "key": "healmana",
+    "dir": [
+      "HealMana"
     ],
     "source": "curse",
     "mode": 2
@@ -58694,6 +58744,16 @@
     "mode": 1
   },
   {
+    "id": 398640,
+    "name": "RPManagerItems",
+    "key": "rpmanageritems",
+    "dir": [
+      "RPManagerItems"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 293984,
     "name": "RPTools",
     "key": "rptools",
@@ -79774,6 +79834,16 @@
     "mode": 1
   },
   {
+    "id": 378451,
+    "name": "Xceed Raid Tools",
+    "key": "xceed-raid-tools",
+    "dir": [
+      "XceedRT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 355071,
     "name": "Xck MasterLoot Advanced",
     "key": "xckmasterlootadvanced",
@@ -81115,7 +81185,6 @@
     "name": "alaTradeSkill",
     "key": "alatradeskill",
     "dir": [
-      "alaTradeFrame",
       "alaTradeSkill"
     ],
     "source": "curse",
