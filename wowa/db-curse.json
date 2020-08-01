@@ -1334,6 +1334,16 @@
     "mode": 3
   },
   {
+    "id": 399222,
+    "name": "Adblock",
+    "key": "adblock",
+    "dir": [
+      "adblock"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20830,
     "name": "AddEmote",
     "key": "addemote",
@@ -2282,6 +2292,16 @@
     "key": "allwares",
     "dir": [
       "AllWares"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 399152,
+    "name": "AlltheGold",
+    "key": "all-the-gold",
+    "dir": [
+      "AlltheGold"
     ],
     "source": "curse",
     "mode": 1
@@ -14121,6 +14141,16 @@
     "mode": 3
   },
   {
+    "id": 399035,
+    "name": "Chat Filter Unknown",
+    "key": "chat-filter-unknown",
+    "dir": [
+      "ChatFilterUnknown"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 345052,
     "name": "Chat LFG",
     "key": "chat-lfg",
@@ -14222,6 +14252,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 399190,
+    "name": "Chat Reverse",
+    "key": "chat-reverse",
+    "dir": [
+      "ChatReverse"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 24532,
@@ -35946,6 +35986,16 @@
     "mode": 1
   },
   {
+    "id": 399308,
+    "name": "HideAppearance",
+    "key": "hideappearance",
+    "dir": [
+      "HideAppearance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357892,
     "name": "HideBackground",
     "key": "hidebackground",
@@ -36231,6 +36281,16 @@
     "key": "hidetalkinghead",
     "dir": [
       "HideTalkingHead"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 399282,
+    "name": "HideTutorial",
+    "key": "hidetutorial",
+    "dir": [
+      "HideTutorial"
     ],
     "source": "curse",
     "mode": 1
@@ -49957,6 +50017,16 @@
     "mode": 3
   },
   {
+    "id": 399115,
+    "name": "MusicianOptions - Ayalaes",
+    "key": "musicianoptions-ayalaes",
+    "dir": [
+      "MusicianOptions"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 29869,
     "name": "Mute Annoying WoW Sounds",
     "key": "mute-wow-sounds",
@@ -55640,6 +55710,16 @@
     "key": "plexus",
     "dir": [
       "Plexus"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 399251,
+    "name": "PlexusStatusHealTracker",
+    "key": "plexusstatushealtracker",
+    "dir": [
+      "PlexusStatusHealTracker"
     ],
     "source": "curse",
     "mode": 3
@@ -62389,6 +62469,16 @@
     "mode": 1
   },
   {
+    "id": 390802,
+    "name": "SKC",
+    "key": "skc",
+    "dir": [
+      "SKC"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 5095,
     "name": "SLTimex",
     "key": "project-5095",
@@ -66829,6 +66919,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 399223,
+    "name": "SoftRes",
+    "key": "softres",
+    "dir": [
+      "SoftRes"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 90729,
@@ -71898,6 +71998,16 @@
     "key": "ths",
     "dir": [
       "TinyHunterStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 399259,
+    "name": "TinyIlvl",
+    "key": "tinyilvl",
+    "dir": [
+      "TinyIlvl"
     ],
     "source": "curse",
     "mode": 1
