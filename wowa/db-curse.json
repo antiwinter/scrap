@@ -6419,8 +6419,8 @@
       "AAP-Core",
       "Azeroth Auto Pilot",
       "AAP-Test",
-      "AAP-EasternKingdoms",
-      "AAP-Shadowlands"
+      "AAP-Shadowlands",
+      "AAP-EasternKingdoms"
     ],
     "source": "curse",
     "mode": 1
@@ -14980,6 +14980,16 @@
     "key": "civilian-warning",
     "dir": [
       "CivilianWarning"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 399540,
+    "name": "ClamCounter",
+    "key": "clamcounter",
+    "dir": [
+      "ClamCounter"
     ],
     "source": "curse",
     "mode": 2
@@ -26389,6 +26399,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 399324,
+    "name": "EyeOn",
+    "key": "eyeon",
+    "dir": [
+      "EyeOn"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 379674,
@@ -45143,6 +45163,16 @@
     "mode": 1
   },
   {
+    "id": 399314,
+    "name": "Low Mana, Moooo!",
+    "key": "low-mana-moooo",
+    "dir": [
+      "LowManaMooo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 33251,
     "name": "LowHP",
     "key": "low-hp",
@@ -55495,6 +55525,16 @@
     "mode": 3
   },
   {
+    "id": 399043,
+    "name": "PkmnLU - Pokemon Level Up!",
+    "key": "pokemon-level-up",
+    "dir": [
+      "PkmnLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 306769,
     "name": "Plaffs - !keys",
     "key": "plaffs-keys",
@@ -59262,6 +59302,16 @@
     "mode": 3
   },
   {
+    "id": 399582,
+    "name": "Raid Tracker - Stormforged",
+    "key": "classicraidtracker_stormforged",
+    "dir": [
+      "ClassicRaidTracker_Stormforged"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 354100,
     "name": "Raid Trap Audio Library",
     "key": "raid-trap-audio-library",
@@ -62286,6 +62336,16 @@
     "mode": 1
   },
   {
+    "id": 399450,
+    "name": "Run Loot Priority",
+    "key": "run-loot-priority",
+    "dir": [
+      "Run_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 97379,
     "name": "RunEstimator",
     "key": "runestimator",
@@ -63142,7 +63202,7 @@
   },
   {
     "id": 92534,
-    "name": "Screen Overlay: Enhanced (f.k.a. ScreenGrid)",
+    "name": "Screen Overlay: Enhanced",
     "key": "screengrid",
     "dir": [
       "Screen Overlay Enhanced"
@@ -73990,6 +74050,16 @@
     "mode": 1
   },
   {
+    "id": 399323,
+    "name": "Total Fragments",
+    "key": "total-fragments",
+    "dir": [
+      "TotalFragments"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 54344,
     "name": "Total Gold Earned",
     "key": "total-gold-earned",
@@ -74312,6 +74382,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 399326,
+    "name": "Track Everything",
+    "key": "track-everything",
+    "dir": [
+      "TrackEverything"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 334242,
