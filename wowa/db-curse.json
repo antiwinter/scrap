@@ -400,6 +400,16 @@
     "mode": 1
   },
   {
+    "id": 400249,
+    "name": "AFKTimer",
+    "key": "afktimer",
+    "dir": [
+      "AFKTimer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 25968,
     "name": "AGChatFilter",
     "key": "agfilter",
@@ -15808,6 +15818,16 @@
     "mode": 1
   },
   {
+    "id": 400050,
+    "name": "ClassicPathCalculator",
+    "key": "classicpathcalculator",
+    "dir": [
+      "ClassicPathCalculator"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 354484,
     "name": "ClassicPremade",
     "key": "classicpremade",
@@ -19141,7 +19161,7 @@
       "DBM-Interrupts"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 95210,
@@ -22705,6 +22725,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 399216,
+    "name": "Drustvar.com PVP Ratings",
+    "key": "drustvar-com-pvp-ratings",
+    "dir": [
+      "Drustvar"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 36066,
@@ -38633,6 +38663,16 @@
     "mode": 1
   },
   {
+    "id": 400237,
+    "name": "IronmanChecker",
+    "key": "ironmanchecker",
+    "dir": [
+      "IronmanChecker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 47264,
     "name": "Ironpaw Helper",
     "key": "ironpaw-helper",
@@ -40999,16 +41039,6 @@
     "dir": [
       "kui_nameplates_spell_alert",
       "Kui_Nameplates_Spell_Alert"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 336365,
-    "name": "KuiNameplates: AzeriteUI",
-    "key": "kuinameplates-azeriteui",
-    "dir": [
-      "AzeriteUI_KuiNameplates"
     ],
     "source": "curse",
     "mode": 1
@@ -45467,6 +45497,16 @@
     "mode": 2
   },
   {
+    "id": 399920,
+    "name": "MOAR DOTS Loot Priority Tooltip",
+    "key": "moar-dots-loot-priority-tooltip",
+    "dir": [
+      "MOARDOTS_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 290344,
     "name": "MOG: UI",
     "key": "mog-ui",
@@ -46535,16 +46575,6 @@
     "mode": 3
   },
   {
-    "id": 318313,
-    "name": "Masque: Arcane Stone",
-    "key": "masque-arcanestone",
-    "dir": [
-      "Masque_ArcaneStone"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 300224,
     "name": "Masque: Azerite",
     "key": "masque-azerite",
@@ -46563,16 +46593,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 318318,
-    "name": "Masque: Brass Cogs",
-    "key": "masque-brasscogs",
-    "dir": [
-      "Masque_BrassCogs"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 298536,
@@ -46660,16 +46680,6 @@
     "key": "masque-diabolic",
     "dir": [
       "Masque_Diabolic"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 318320,
-    "name": "Masque: Dragon",
-    "key": "masque-dragon",
-    "dir": [
-      "Masque_Dragon"
     ],
     "source": "curse",
     "mode": 3
@@ -46934,16 +46944,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 318316,
-    "name": "Masque: Spiky Stone",
-    "key": "masque-spikystone",
-    "dir": [
-      "Masque_SpikyStone"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 388786,
@@ -57497,8 +57497,7 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso",
-      "Queso Clear"
+      "Queso"
     ],
     "source": "curse",
     "mode": 3
@@ -57709,6 +57708,16 @@
     "key": "questbuster",
     "dir": [
       "QuestBuster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 400099,
+    "name": "QuestCheck",
+    "key": "questcheck",
+    "dir": [
+      "QuestCheck"
     ],
     "source": "curse",
     "mode": 1
@@ -64197,16 +64206,6 @@
     "mode": 3
   },
   {
-    "id": 296759,
-    "name": "SharedMedia: Diabolic",
-    "key": "sharedmedia-diabolic",
-    "dir": [
-      "SharedMedia_Diabolic"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 93875,
     "name": "SharedMedia: Goldpaw",
     "key": "sharedmedia_goldpaw",
@@ -67401,6 +67400,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 400230,
+    "name": "Spam Text Filter Ultra (STFU)",
+    "key": "spam-text-filter-ultra-stfu",
+    "dir": [
+      "STFU"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 341303,
@@ -74078,16 +74087,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 399323,
-    "name": "Total Fragments",
-    "key": "total-fragments",
-    "dir": [
-      "TotalFragments"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 54344,
