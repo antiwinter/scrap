@@ -5870,6 +5870,16 @@
     "mode": 1
   },
   {
+    "id": 400397,
+    "name": "AutoRepTracker",
+    "key": "autoreptracker",
+    "dir": [
+      "AutoRepTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 15418,
     "name": "AutoRepair",
     "key": "autorepair",
@@ -17743,6 +17753,16 @@
     "mode": 3
   },
   {
+    "id": 400382,
+    "name": "CopyMacro",
+    "key": "copymacro",
+    "dir": [
+      "CopyMacro"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301203,
     "name": "CopyPasta",
     "key": "copypasta",
@@ -20376,10 +20396,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20388,7 +20404,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -34943,6 +34963,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 399110,
+    "name": "Hardcore",
+    "key": "hardcore",
+    "dir": [
+      "Hardcore"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 90689,
@@ -56716,7 +56746,8 @@
     "name": "Profession Tracker",
     "key": "hkib-profession-tracker",
     "dir": [
-      "hKiB_ProfessionTrack"
+      "hKiB_ProfessionTrack",
+      "hKiB_ProfessionTrack_Mini"
     ],
     "source": "curse",
     "mode": 1
@@ -68950,6 +68981,16 @@
     "mode": 1
   },
   {
+    "id": 400539,
+    "name": "Stormforged Raid Tracker",
+    "key": "stormforged-raid-tracker",
+    "dir": [
+      "ClassicRaidTracker_Stormforged"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 291838,
     "name": "Story Teller",
     "key": "story-teller",
@@ -80498,21 +80539,21 @@
     "mode": 2
   },
   {
-    "id": 376631,
-    "name": "ZG AutoRoll",
-    "key": "zgautoroll",
-    "dir": [
-      "ZGAutoRoll"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 377671,
     "name": "ZG Bijou Roller",
     "key": "zg-bijou-roller",
     "dir": [
       "ZGBijouRoller"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 376631,
+    "name": "ZG/AQ AutoRoll",
+    "key": "zgaqautoroll",
+    "dir": [
+      "ZGAutoRoll"
     ],
     "source": "curse",
     "mode": 2
