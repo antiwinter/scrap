@@ -6396,7 +6396,7 @@
   },
   {
     "id": 334593,
-    "name": "AzeriteUI Classic",
+    "name": "AzeriteUI for WoW Classic",
     "key": "azeriteui-classic",
     "dir": [
       "AzeriteUI_Classic",
@@ -24013,6 +24013,16 @@
     "mode": 1
   },
   {
+    "id": 400678,
+    "name": "Elevator Taxi",
+    "key": "elevator-taxi",
+    "dir": [
+      "ElevatorTaxi"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 256112,
     "name": "Elfos Datatext",
     "key": "elfos-datatext",
@@ -24872,8 +24882,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -79565,6 +79575,16 @@
     "key": "wowpaint",
     "dir": [
       "WowPaint"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 384840,
+    "name": "Wowaudit Invite Tool",
+    "key": "wowaudit-invite-tool",
+    "dir": [
+      "v0.1.0"
     ],
     "source": "curse",
     "mode": 1
