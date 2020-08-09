@@ -6449,8 +6449,8 @@
       "AAP-Core",
       "Azeroth Auto Pilot",
       "AAP-Test",
-      "AAP-Shadowlands",
-      "AAP-EasternKingdoms"
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -15411,16 +15411,6 @@
     "key": "classicprofessionfilter",
     "dir": [
       "ClassicProfessionFilter"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 338617,
-    "name": "Classic Quest Chinese Translator",
-    "key": "classic-quest-chinese-translator",
-    "dir": [
-      "WoWeuCN_Quests"
     ],
     "source": "curse",
     "mode": 2
@@ -24882,8 +24872,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -49680,26 +49670,6 @@
     "mode": 2
   },
   {
-    "id": 102532,
-    "name": "Move Pad Plus",
-    "key": "move-pad-plus",
-    "dir": [
-      "MovePadPlus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339933,
-    "name": "Move Pad Plus [Classic]",
-    "key": "move-pad-plus-classic",
-    "dir": [
-      "MovePadPlus"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 358737,
     "name": "Move Sanity Orb Button",
     "key": "move-sanity-orb-button",
@@ -49739,6 +49709,26 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 102532,
+    "name": "MovePadPlus",
+    "key": "movepadplus",
+    "dir": [
+      "MovePadPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 339933,
+    "name": "MovePadPlus [Classic]",
+    "key": "movepadplus-classic",
+    "dir": [
+      "MovePadPlus"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101112,
@@ -57549,6 +57539,16 @@
     "key": "quest-announce-3",
     "dir": [
       "QuestAnnounce"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 338617,
+    "name": "Quest Chinese Translator",
+    "key": "quest-chinese-translator",
+    "dir": [
+      "WoWeuCN_Quests"
     ],
     "source": "curse",
     "mode": 3
