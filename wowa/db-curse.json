@@ -35188,17 +35188,6 @@
     "mode": 1
   },
   {
-    "id": 7976,
-    "name": "Healing Groups Sucks Continued",
-    "key": "hgscontinued",
-    "dir": [
-      "HGS",
-      "hgscontinued"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 282244,
     "name": "Healing Tracker",
     "key": "healingtracker",
