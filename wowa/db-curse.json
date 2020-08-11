@@ -34233,16 +34233,6 @@
     "mode": 1
   },
   {
-    "id": 305235,
-    "name": "HandyNotes Universal Explorer",
-    "key": "handynotes-universal-explorer",
-    "dir": [
-      "HandyNotes_Universal_Explorer"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 99064,
     "name": "HandyNotes: Achievements",
     "key": "handynotes_achievements",
@@ -49003,16 +48993,6 @@
       "MonkeyQuestLog",
       "MonkeyQuest",
       "MonkeyLibrary"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 2862,
-    "name": "MonkeySpeed",
-    "key": "monkey-speed",
-    "dir": [
-      "MonkeySpeed"
     ],
     "source": "curse",
     "mode": 3
