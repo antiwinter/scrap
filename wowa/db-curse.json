@@ -6295,6 +6295,16 @@
     "mode": 1
   },
   {
+    "id": 401378,
+    "name": "AzerPUG Instance Utility",
+    "key": "azerpug-instance-utility",
+    "dir": [
+      "AzerPUG Instance Utility"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 326043,
     "name": "AzerPUG RareUtility",
     "key": "azerpug-rareutility",
@@ -8714,6 +8724,16 @@
     "mode": 3
   },
   {
+    "id": 401253,
+    "name": "Better Wardrobe and Transmog",
+    "key": "better-wardrobe-and-transmog",
+    "dir": [
+      "BetterWardrobe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 302035,
     "name": "Better World Quests",
     "key": "better-world-quests",
@@ -9066,20 +9086,20 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_Azeroth",
-      "BigWigs_Uldir",
-      "BigWigs_BattleOfDazaralor",
-      "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace",
-      "BigWigs_Nyalotha",
-      "BigWigs_CastleNathria",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
       "BigWigs_BlackwingLair",
       "BigWigs_ZulGurub",
       "BigWigs_AhnQirajRuins",
-      "BigWigs_AhnQirajTemple"
+      "BigWigs_AhnQirajTemple",
+      "BigWigs_Azeroth",
+      "BigWigs_Uldir",
+      "BigWigs_BattleOfDazaralor",
+      "BigWigs_CrucibleOfStorms",
+      "BigWigs_EternalPalace",
+      "BigWigs_Nyalotha",
+      "BigWigs_CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -20386,10 +20406,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20398,7 +20414,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -23636,6 +23656,16 @@
     "key": "easy-rider",
     "dir": [
       "EasyRider"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 401037,
+    "name": "Easy Roll Tracker",
+    "key": "easy-roll-tracker",
+    "dir": [
+      "EasyRollTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -37727,6 +37757,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 389753,
+    "name": "Improved Ui",
+    "key": "improved-ui",
+    "dir": [
+      "D4KiR Improved Ui"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 360127,
@@ -57559,6 +57599,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 319411,
+    "name": "Queso",
+    "key": "quest-cinematic",
+    "dir": [
+      "Queso Classic",
+      "Queso"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 3607,
@@ -81492,6 +81543,7 @@
     "name": "alaTradeSkill",
     "key": "alatradeskill",
     "dir": [
+      "alaTradeFrame",
       "alaTradeSkill"
     ],
     "source": "curse",
