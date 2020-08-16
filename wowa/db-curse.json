@@ -941,6 +941,16 @@
     "mode": 1
   },
   {
+    "id": 37696,
+    "name": "AceGUI-3.0-Search-EditBox ",
+    "key": "acegui-3-0-search-editbox",
+    "dir": [
+      "AceGUI-3.0-Search-EditBox"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13380,
     "name": "AceGUI-3.0-SharedMediaWidgets",
     "key": "ace-gui-3-0-shared-media-widgets",
@@ -6295,21 +6305,21 @@
     "mode": 1
   },
   {
-    "id": 401378,
-    "name": "AzerPUG Instance Utility",
-    "key": "azerpug-instance-utility",
-    "dir": [
-      "AzerPUG Instance Utility"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 326043,
     "name": "AzerPUG RareUtility",
     "key": "azerpug-rareutility",
     "dir": [
       "AzerPUG RareUtility"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 401378,
+    "name": "AzerPUG-InstanceUtility-Core",
+    "key": "azerpug-instanceutility-core",
+    "dir": [
+      "AzerPUG Instance Utility"
     ],
     "source": "curse",
     "mode": 1
@@ -6459,8 +6469,8 @@
       "AAP-Core",
       "Azeroth Auto Pilot",
       "AAP-Test",
-      "AAP-Shadowlands",
-      "AAP-EasternKingdoms"
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -15036,7 +15046,7 @@
   },
   {
     "id": 399540,
-    "name": "ClamMaster",
+    "name": "Clam Master",
     "key": "clammaster",
     "dir": [
       "ClamMaster"
@@ -17430,7 +17440,6 @@
       "ConsolePort",
       "ConsolePortAdvanced",
       "ConsolePortBar",
-      "ConsolePortKeyboard",
       "ConsolePortLoader",
       "ConsolePortUI_Loot",
       "ConsolePortUI_Menu"
@@ -19304,22 +19313,22 @@
     "mode": 1
   },
   {
-    "id": 318150,
-    "name": "DHUD",
-    "key": "d4kirshud",
-    "dir": [
-      "D4KiR DHUD"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 15406,
     "name": "DHUD for 8.0 and Classic",
     "key": "dhud-3_0",
     "dir": [
       "DHUD_Options",
       "DHUD"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 318150,
+    "name": "DHUD soon removed",
+    "key": "d4kirshud",
+    "dir": [
+      "D4KiR DHUD"
     ],
     "source": "curse",
     "mode": 3
@@ -19496,6 +19505,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 402235,
+    "name": "DRaidFrames",
+    "key": "draidframes",
+    "dir": [
+      "D4KiR DRF"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 378294,
@@ -21942,6 +21961,16 @@
     "mode": 1
   },
   {
+    "id": 402306,
+    "name": "Directed By ROBERT B. WEIDE",
+    "key": "directed-by-robert-b-weide",
+    "dir": [
+      "DirectedByRobertBWeide"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 299875,
     "name": "Dis Me",
     "key": "dis-me",
@@ -22829,7 +22858,8 @@
       "DuffedUI_ConfigUI",
       "AddOnSkins",
       "DuffedUI",
-      "ProjectAzilroka"
+      "ProjectAzilroka",
+      "Aurora"
     ],
     "source": "curse",
     "mode": 1
@@ -23474,6 +23504,16 @@
     "key": "ezjunk",
     "dir": [
       "EZJunk"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 401033,
+    "name": "EZPoolSize",
+    "key": "ezpoolsize",
+    "dir": [
+      "EZPoolSize"
     ],
     "source": "curse",
     "mode": 2
@@ -30611,6 +30651,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 402262,
+    "name": "GildenSteuer",
+    "key": "gildensteuer",
+    "dir": [
+      "GildenSteuer"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 25131,
@@ -57606,7 +57656,8 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso"
+      "Queso",
+      "Immersion"
     ],
     "source": "curse",
     "mode": 3
@@ -65652,7 +65703,7 @@
       "SimpleThreatPlates"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28530,
@@ -69067,16 +69118,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 400539,
-    "name": "Stormforged Raid Tracker",
-    "key": "stormforged-raid-tracker",
-    "dir": [
-      "ClassicRaidTracker_Stormforged"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 291838,
@@ -79288,6 +79329,16 @@
     "mode": 1
   },
   {
+    "id": 401733,
+    "name": "Work Cooldown Tracker",
+    "key": "work-cooldown-tracker",
+    "dir": [
+      "workCooldownTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87921,
     "name": "Work Order Tooltips",
     "key": "work-order-tooltips",
@@ -81859,6 +81910,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 402126,
+    "name": "cc_raidassist",
+    "key": "cc_raidassist",
+    "dir": [
+      "ClassicRaidAssist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 339270,
