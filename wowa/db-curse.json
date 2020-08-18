@@ -2520,7 +2520,10 @@
       "DataStore_Mails",
       "DataStore_Quests",
       "DataStore_Reputations",
-      "DataStore"
+      "DataStore",
+      "Altoholic_Agenda",
+      "DataStore_Agenda",
+      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 2
@@ -5570,6 +5573,16 @@
     "mode": 1
   },
   {
+    "id": 402897,
+    "name": "AutoGem",
+    "key": "autogem",
+    "dir": [
+      "AutoGem"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87894,
     "name": "AutoGeneralChat",
     "key": "autogeneralchat",
@@ -6315,11 +6328,31 @@
     "mode": 1
   },
   {
+    "id": 402406,
+    "name": "AzerPUG-InstanceUtility-CheckList",
+    "key": "azerpug-instanceutility-checklist",
+    "dir": [
+      "AzerPUG-InstanceUtility-CheckList"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 401378,
     "name": "AzerPUG-InstanceUtility-Core",
     "key": "azerpug-instanceutility-core",
     "dir": [
-      "AzerPUG Instance Utility"
+      "AzerPUG-InstanceUtility-Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 402935,
+    "name": "AzerPUG-InstanceUtility-ReadyCheck",
+    "key": "azerpug-instanceutility-readycheck",
+    "dir": [
+      "AzerPUG-InstanceUtility-ReadyCheck"
     ],
     "source": "curse",
     "mode": 1
@@ -9200,6 +9233,16 @@
     "key": "bigwigs-voice-fr",
     "dir": [
       "BigWigs_Voice_FR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 402180,
+    "name": "BigWigs Voice (KR)",
+    "key": "bigwigs-voice-korean",
+    "dir": [
+      "BigWigs_Voice"
     ],
     "source": "curse",
     "mode": 1
@@ -12373,6 +12416,16 @@
     "mode": 3
   },
   {
+    "id": 352620,
+    "name": "Buff Timers",
+    "key": "bufftimers",
+    "dir": [
+      "BuffTimers"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 349856,
     "name": "Buff'o'mat",
     "key": "buffomat",
@@ -12448,16 +12501,6 @@
     "key": "buffme",
     "dir": [
       "BuffMe"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 352620,
-    "name": "BuffTimers",
-    "key": "bufftimers",
-    "dir": [
-      "BuffTimers"
     ],
     "source": "curse",
     "mode": 2
@@ -17777,6 +17820,16 @@
     "key": "copymacro",
     "dir": [
       "CopyMacro"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 402367,
+    "name": "CopyMog",
+    "key": "copymog",
+    "dir": [
+      "CopyMog"
     ],
     "source": "curse",
     "mode": 1
@@ -25293,6 +25346,16 @@
     "mode": 1
   },
   {
+    "id": 323854,
+    "name": "Emote Magic Classic",
+    "key": "emote-magic-classic",
+    "dir": [
+      "EmoteMagicClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 100713,
     "name": "Emote Splitter",
     "key": "emote-splitter",
@@ -25491,6 +25554,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 384994,
+    "name": "Enemy Spellcast Counter",
+    "key": "enemy-spellcast-counter",
+    "dir": [
+      "EnemySpellcastCounter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 262029,
@@ -26861,6 +26934,16 @@
     "key": "fake-item-links",
     "dir": [
       "FakeItemLinks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 402362,
+    "name": "Fake Keystones",
+    "key": "fake-keystones",
+    "dir": [
+      "Fake_Keystones"
     ],
     "source": "curse",
     "mode": 1
@@ -30007,6 +30090,16 @@
     "key": "gathermate2_data-carbonite",
     "dir": [
       "Carbonite.Gathermate2_Data"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 402881,
+    "name": "GatherMate2_DbBrowser",
+    "key": "gathermate2_dbbrowser",
+    "dir": [
+      "GatherMate2_DbBrowser"
     ],
     "source": "curse",
     "mode": 1
@@ -41705,16 +41798,6 @@
     "mode": 1
   },
   {
-    "id": 307322,
-    "name": "Language Translator",
-    "key": "funny-quotes-translator",
-    "dir": [
-      "FunnyQuotesTranslator"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 15974,
     "name": "LanguageCycle",
     "key": "languagecycle",
@@ -41892,16 +41975,6 @@
     "key": "lazyjukebox",
     "dir": [
       "LazyJukeBox"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 302174,
-    "name": "LazySpecs",
-    "key": "lazyspecs",
-    "dir": [
-      "LazySpecs"
     ],
     "source": "curse",
     "mode": 1
@@ -45277,6 +45350,16 @@
     "key": "lost-keys",
     "dir": [
       "LostKeys"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 402615,
+    "name": "Lost Rabbits Prio Blau",
+    "key": "lost-rabbits-prio-blau",
+    "dir": [
+      "LostRabbitsPrio"
     ],
     "source": "curse",
     "mode": 2
@@ -49838,6 +49921,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 402280,
+    "name": "MoveStandardFrame",
+    "key": "movestandardframe",
+    "dir": [
+      "MoveStandardFrame"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 101112,
@@ -61049,6 +61142,16 @@
     "mode": 2
   },
   {
+    "id": 402909,
+    "name": "Recipe searching",
+    "key": "recipe-searching",
+    "dir": [
+      "recipeSearching"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 280290,
     "name": "RecipeLinkFix",
     "key": "recipelinkfix",
@@ -68729,6 +68832,16 @@
     "mode": 2
   },
   {
+    "id": 302174,
+    "name": "StatPriorityTracker-Retail",
+    "key": "statprioritytracker-retail",
+    "dir": [
+      "StatPriorityTracker_Retail"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 345723,
     "name": "StatRack",
     "key": "statrack",
@@ -70397,6 +70510,16 @@
     "mode": 3
   },
   {
+    "id": 402339,
+    "name": "TSM Popup Hider",
+    "key": "tsm-popup-hider",
+    "dir": [
+      "TSMPopupHider"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 367548,
     "name": "TTHide",
     "key": "tthide",
@@ -71456,6 +71579,16 @@
     "key": "thanks-for-the-buff",
     "dir": [
       "TFTB"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 402573,
+    "name": "The Brimstone Order Loot Priority",
+    "key": "the-brimstone-order-loot-priority",
+    "dir": [
+      "TBO_Loot_Priority"
     ],
     "source": "curse",
     "mode": 2
@@ -78413,16 +78546,6 @@
     "key": "wtf",
     "dir": [
       "WTFrames"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 307327,
-    "name": "Who's the Baddie?",
-    "key": "raid-or-group-wipe-fault",
-    "dir": [
-      "RaidWipeFault"
     ],
     "source": "curse",
     "mode": 1
