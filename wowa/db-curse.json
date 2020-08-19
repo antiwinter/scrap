@@ -18007,6 +18007,16 @@
     "mode": 2
   },
   {
+    "id": 382449,
+    "name": "Countdown Loot Priority",
+    "key": "countdown-loot-priority",
+    "dir": [
+      "Countdown_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 373746,
     "name": "CounterspellAlert",
     "key": "counterspellalert",
@@ -19377,16 +19387,6 @@
     "mode": 3
   },
   {
-    "id": 318150,
-    "name": "DHUD soon removed",
-    "key": "d4kirshud",
-    "dir": [
-      "D4KiR DHUD"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 100702,
     "name": "DJBags",
     "key": "djbags",
@@ -20478,6 +20478,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20486,11 +20490,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -21557,6 +21557,7 @@
     "dir": [
       "Details_CastHistory",
       "Details_EncounterDetails",
+      "Details_Streamer",
       "Details"
     ],
     "source": "curse",
@@ -45082,6 +45083,16 @@
     "mode": 2
   },
   {
+    "id": 402978,
+    "name": "LootRollLedger",
+    "key": "lootrollledger",
+    "dir": [
+      "LootRollLedger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 17488,
     "name": "LootRollMover",
     "key": "lootrollmover",
@@ -48585,7 +48596,7 @@
   },
   {
     "id": 341275,
-    "name": "Missing Power (Mana, Energy, ...) (Five Second Rule + Next Energy Tick)",
+    "name": "Missing Power (Mana, Energy, ...)",
     "key": "powermissing",
     "dir": [
       "D4KiR Missing Power"
@@ -51010,7 +51021,7 @@
       "NDui_Plus"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 345024,
@@ -51875,6 +51886,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 401135,
+    "name": "Nightlight",
+    "key": "nightlight",
+    "dir": [
+      "NightLight"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 285589,
@@ -57749,8 +57770,8 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Queso",
-      "Immersion"
+      "Immersion",
+      "Queso"
     ],
     "source": "curse",
     "mode": 3
@@ -67424,6 +67445,16 @@
     "mode": 2
   },
   {
+    "id": 403067,
+    "name": "SonntagsRaiderPrio",
+    "key": "sonntagsraiderprio",
+    "dir": [
+      "SonntagsRaiderPrio"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 82070,
     "name": "Sook - Field of View",
     "key": "sook-fov",
@@ -76547,16 +76578,6 @@
     "mode": 3
   },
   {
-    "id": 382449,
-    "name": "Vanilla Veterans Loot Priority",
-    "key": "vanilla-veterans-loot-priority",
-    "dir": [
-      "VanillaVeterans_Loot_Priority"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 262852,
     "name": "Vantus Rune Checker",
     "key": "vantus-rune-checker",
@@ -77365,6 +77386,16 @@
     "key": "wemote",
     "dir": [
       "WEmote"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 401759,
+    "name": "WFGoWhoosh",
+    "key": "wfgowhoosh",
+    "dir": [
+      "WFGoWhoosh"
     ],
     "source": "curse",
     "mode": 2
@@ -79549,7 +79580,7 @@
       "WorldMapTrackingEnhanced"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 269032,
@@ -80879,10 +80910,11 @@
     "name": "Zadrot AutoRes",
     "key": "autores",
     "dir": [
-      "Zadrot AutoRes"
+      "Zadrot AutoRes",
+      "Zadrot_AutoRes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 394539,
@@ -80893,6 +80925,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 402225,
+    "name": "Zadrot Damage Meter",
+    "key": "dps",
+    "dir": [
+      "Zadrot_DamageMeter"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 394542,
@@ -84605,6 +84647,16 @@
     "key": "rtags",
     "dir": [
       "rTags"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 403003,
+    "name": "raid group mamager",
+    "key": "raid-group-mamager",
+    "dir": [
+      "RaidGroupManager"
     ],
     "source": "curse",
     "mode": 1
