@@ -9014,7 +9014,7 @@
     "name": "BiS Tracker - Classic 2020",
     "key": "bis-tracker-classic-updated-to-phase-6",
     "dir": [
-      "BiSTracker2020"
+      "BiSTracker"
     ],
     "source": "curse",
     "mode": 2
@@ -12995,6 +12995,35 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 403048,
+    "name": "CHS Addon Pack",
+    "key": "chs-addon-pack",
+    "dir": [
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
+      "DBM-Party-Classic",
+      "DBM-ZG",
+      "Details_DataStorage",
+      "Details_Streamer",
+      "Details_TinyThreat",
+      "ClassicLootAssistant",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers",
+      "Details",
+      "HealCommClassic",
+      "ThreatClassic2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 22850,
@@ -20478,10 +20507,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20490,7 +20515,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -50702,6 +50731,16 @@
     "mode": 2
   },
   {
+    "id": 398576,
+    "name": "MySacks",
+    "key": "mysacks",
+    "dir": [
+      "MySacks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 315430,
     "name": "MyShare",
     "key": "myshare",
@@ -65510,6 +65549,16 @@
     "key": "simple-combo-points",
     "dir": [
       "SimpleComboPoints"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 399037,
+    "name": "Simple Cooldowns",
+    "key": "simple-cooldowns",
+    "dir": [
+      "SimpleCooldowns"
     ],
     "source": "curse",
     "mode": 1
