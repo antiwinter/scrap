@@ -9014,7 +9014,7 @@
     "name": "BiS Tracker - Classic 2020",
     "key": "bis-tracker-classic-updated-to-phase-6",
     "dir": [
-      "BiSTracker"
+      "BiSTracker2020"
     ],
     "source": "curse",
     "mode": 2
@@ -26271,6 +26271,16 @@
     "mode": 2
   },
   {
+    "id": 403408,
+    "name": "ExG",
+    "key": "exg",
+    "dir": [
+      "ExG"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 68711,
     "name": "Exalted With The Floor",
     "key": "exhalted-floor",
@@ -38173,51 +38183,6 @@
     "mode": 1
   },
   {
-    "id": 355986,
-    "name": "Inked!_Classic",
-    "key": "inked-_classic",
-    "dir": [
-      "Inked",
-      "Inked_AB"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 355985,
-    "name": "Inked!_Retail",
-    "key": "inked-_retail",
-    "dir": [
-      "Inked",
-      "Inked_AB"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 386463,
-    "name": "InkedSV Classic (Super Villain)",
-    "key": "inkedsv-classic-super-villain",
-    "dir": [
-      "InkedSVTheme_Simple",
-      "InkedSVTheme_Warcraft",
-      "InkedSV_ActionBars",
-      "InkedSV_Auras",
-      "InkedSV_Chat",
-      "InkedSV_Inventory",
-      "InkedSV_Maps",
-      "InkedSV_NamePlates",
-      "InkedSV_Options",
-      "InkedSV_QuestTracker",
-      "InkedSV_Skins",
-      "InkedSV_ToolTip",
-      "InkedSV_UnitFrames",
-      "InkedSV"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 386468,
     "name": "InkedSV(SuperVillain)",
     "key": "inkedsv-supervillain",
@@ -39000,6 +38965,16 @@
     "key": "islandexpeditionsweekly",
     "dir": [
       "IslandExpeditionsWeekly"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 403381,
+    "name": "IslandStats",
+    "key": "islandstats",
+    "dir": [
+      "IslandStats"
     ],
     "source": "curse",
     "mode": 1
@@ -71926,6 +71901,16 @@
     "mode": 1
   },
   {
+    "id": 402494,
+    "name": "ThirtyDKP",
+    "key": "thirtydkp",
+    "dir": [
+      "ThirtyDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 99532,
     "name": "This Scampi Happening",
     "key": "scampi-happening",
@@ -76161,6 +76146,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 402927,
+    "name": "UltimateProgress2",
+    "key": "ultimateprogress",
+    "dir": [
+      "UltimateProgress2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 391984,
@@ -80984,6 +80979,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 402223,
+    "name": "Zadrot ItemLevel",
+    "key": "zadrot-itemlevel",
+    "dir": [
+      "Zadrot_ItemLevel"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 394542,
