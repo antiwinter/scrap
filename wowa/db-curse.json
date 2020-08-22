@@ -9588,6 +9588,16 @@
     "mode": 1
   },
   {
+    "id": 403641,
+    "name": "BijouCoinCounter",
+    "key": "bijoucoincounter",
+    "dir": [
+      "BijouCoinCounter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 381594,
     "name": "BijouRR",
     "key": "bijourr",
@@ -26989,6 +26999,16 @@
     "mode": 1
   },
   {
+    "id": 403527,
+    "name": "Fallen Oath Guild Addons",
+    "key": "fallen-oath-guild-addons",
+    "dir": [
+      "FallenOathGuildAddons"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 308859,
     "name": "Family Battler Tooltip",
     "key": "family-battler-tooltip",
@@ -31057,6 +31077,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 403607,
+    "name": "Glass",
+    "key": "glass",
+    "dir": [
+      "Glass"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 100981,
@@ -53590,6 +53620,16 @@
     "mode": 2
   },
   {
+    "id": 403648,
+    "name": "Outs Transmog Expand",
+    "key": "outs-transmog-expand",
+    "dir": [
+      "Out's Transmog Expand"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 7749,
     "name": "Ovale Spell Priority",
     "key": "ovale",
@@ -70525,6 +70565,16 @@
     "mode": 1
   },
   {
+    "id": 403205,
+    "name": "TL Gear Prio",
+    "key": "tl-gear-prio",
+    "dir": [
+      "TL_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 282337,
     "name": "TL;DR",
     "key": "tl-dr",
@@ -78117,6 +78167,16 @@
     "key": "weakaurasvoices",
     "dir": [
       "WeakAurasVoice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 403057,
+    "name": "Weapon Swap Auto Macros",
+    "key": "weapon-swap-automacros",
+    "dir": [
+      "WeaponSwapAutoMacros"
     ],
     "source": "curse",
     "mode": 1
