@@ -62984,7 +62984,7 @@
       "SPTimers"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101390,
@@ -81042,7 +81042,7 @@
   },
   {
     "id": 402223,
-    "name": "Zadrot ItemLevel",
+    "name": "Zadrot Item Level",
     "key": "zadrot-itemlevel",
     "dir": [
       "Zadrot_ItemLevel"
