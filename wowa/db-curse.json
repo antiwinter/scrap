@@ -23622,6 +23622,16 @@
     "mode": 2
   },
   {
+    "id": 394496,
+    "name": "EZThreat",
+    "key": "ezthreat",
+    "dir": [
+      "EZThreat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 55326,
     "name": "EZTrap",
     "key": "eztrap",
@@ -27211,7 +27221,7 @@
   },
   {
     "id": 344950,
-    "name": "Fast Auto Repair for BfA",
+    "name": "Fast Auto Repair",
     "key": "fast-auto-repair-for-bfa",
     "dir": [
       "FastAutoRepair"
@@ -27271,7 +27281,7 @@
   },
   {
     "id": 352070,
-    "name": "FastMarks for BfA",
+    "name": "FastMarks",
     "key": "fastmarks",
     "dir": [
       "FastMarks"
@@ -32915,7 +32925,7 @@
   },
   {
     "id": 344203,
-    "name": "GroupLanguage for BfA",
+    "name": "GroupLanguage",
     "key": "grouplanguage",
     "dir": [
       "GroupLanguage"
@@ -50948,7 +50958,7 @@
   },
   {
     "id": 348449,
-    "name": "MythicPlusDrop for BfA",
+    "name": "MythicPlusDrop",
     "key": "mythicplusdrop",
     "dir": [
       "MythicPlusDrop"
@@ -51727,6 +51737,16 @@
     "key": "new-openables",
     "dir": [
       "NOP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 279587,
+    "name": "New Portable",
+    "key": "portable-bfa",
+    "dir": [
+      "Portable"
     ],
     "source": "curse",
     "mode": 1
@@ -56312,16 +56332,6 @@
     "mode": 1
   },
   {
-    "id": 279587,
-    "name": "Portable for BfA",
-    "key": "portable-bfa",
-    "dir": [
-      "Portable"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 283086,
     "name": "Portal Mage",
     "key": "portal-mage",
@@ -58324,7 +58334,7 @@
   },
   {
     "id": 349798,
-    "name": "QuestTrackerMover for BfA",
+    "name": "QuestTrackerMover",
     "key": "questtrackermover",
     "dir": [
       "QuestTrackerMover"
@@ -58547,7 +58557,7 @@
   },
   {
     "id": 348692,
-    "name": "QuickChat for BfA",
+    "name": "QuickChat ",
     "key": "quickchat",
     "dir": [
       "QuickChat"
@@ -73098,7 +73108,7 @@
   },
   {
     "id": 327499,
-    "name": "Titan Panel [Farm Friend] for BfA",
+    "name": "Titan Panel [Farm Friend]",
     "key": "titan-panel-farm-friend",
     "dir": [
       "TitanFarmFriend"
@@ -73598,7 +73608,7 @@
   },
   {
     "id": 335270,
-    "name": "Titan Panel [TokenChecker] for BfA",
+    "name": "Titan Panel [TokenChecker]",
     "key": "tokenchecker",
     "dir": [
       "TokenChecker"
@@ -78353,7 +78363,7 @@
   },
   {
     "id": 337191,
-    "name": "WhatADrop for BfA",
+    "name": "WhatADrop",
     "key": "whatadrop",
     "dir": [
       "WhatADrop"
