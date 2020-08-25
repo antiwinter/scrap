@@ -16140,6 +16140,16 @@
     "mode": 1
   },
   {
+    "id": 404073,
+    "name": "CleanUI DataStore",
+    "key": "cleanui-datastore",
+    "dir": [
+      "CleanUI_DataStore"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 274200,
     "name": "CleanUI Redux",
     "key": "cleanui-redux",
@@ -23219,6 +23229,16 @@
     "mode": 1
   },
   {
+    "id": 404301,
+    "name": "DwTools",
+    "key": "dw-dev-tools",
+    "dir": [
+      "DwTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 340778,
     "name": "Dwarvenizer/Trollinizer Classic (Continued)",
     "key": "dwarvenizer-trollinizer-classic-continued",
@@ -23227,6 +23247,17 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 403805,
+    "name": "DygDyg Addons",
+    "key": "dygdyg-addons",
+    "dir": [
+      "DygDyg_Test",
+      "DygDyg_Addons"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 76675,
@@ -44667,6 +44698,16 @@
     "mode": 1
   },
   {
+    "id": 396692,
+    "name": "Lockout Planner",
+    "key": "lockout-planner",
+    "dir": [
+      "LockoutPlanner"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102446,
     "name": "LockoutChecker",
     "key": "lockoutchecker",
@@ -49476,6 +49517,16 @@
     "mode": 1
   },
   {
+    "id": 403835,
+    "name": "Morthalin Raid Tools",
+    "key": "morthalin-raid-tools",
+    "dir": [
+      "MorthalinRaidTools"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 394575,
     "name": "Mother, corruption vendor",
     "key": "mother-corruption-vendor",
@@ -53156,6 +53207,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 404027,
+    "name": "Olivier C'Thun",
+    "key": "olivier-cthun",
+    "dir": [
+      "OlivierCthun"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 41597,
@@ -72112,6 +72173,16 @@
     "mode": 1
   },
   {
+    "id": 367988,
+    "name": "ThunderLoot",
+    "key": "thunderloot",
+    "dir": [
+      "ThunderLoot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85969,
     "name": "Thunderfury",
     "key": "thunderfury",
@@ -76238,6 +76309,16 @@
     "mode": 1
   },
   {
+    "id": 403767,
+    "name": "UltraXPRA_Bars",
+    "key": "ultraxpra_bars",
+    "dir": [
+      "UltraXPRA_Bars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 40889,
     "name": "UmberRunes",
     "key": "umberrunes",
@@ -79234,6 +79315,10 @@
     "dir": [
       "WoWPro_Leveling",
       "WowPro",
+      "WoWPro_Dailies",
+      "WoWPro_Profession",
+      "WoWPro_WorldEvents",
+      "WoWPro_Achievements",
       "WoWPro"
     ],
     "source": "curse",
