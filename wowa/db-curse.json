@@ -978,7 +978,7 @@
       "AceGUI-3.0_SFX-Widgets"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 351866,
@@ -1629,6 +1629,16 @@
     "key": "adibags-mechagon-tinkering",
     "dir": [
       "AdiBags_Mechagon_Tinkering"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 404447,
+    "name": "AdiBags - Pandaren Farming",
+    "key": "adibags-pandaren-farming",
+    "dir": [
+      "AdiBags_Pandaren_Farming"
     ],
     "source": "curse",
     "mode": 1
@@ -6502,8 +6512,8 @@
       "AAP-Core",
       "Azeroth Auto Pilot",
       "AAP-Test",
-      "AAP-EasternKingdoms",
-      "AAP-Shadowlands"
+      "AAP-Shadowlands",
+      "AAP-EasternKingdoms"
     ],
     "source": "curse",
     "mode": 1
@@ -18046,6 +18056,16 @@
     "mode": 1
   },
   {
+    "id": 404495,
+    "name": "Count Gold Farm",
+    "key": "count-gold-farm",
+    "dir": [
+      "CountGoldFarm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 362766,
     "name": "CountIt",
     "key": "countit",
@@ -23253,7 +23273,6 @@
     "name": "DygDyg Addons",
     "key": "dygdyg-addons",
     "dir": [
-      "DygDyg_Test",
       "DygDyg_Addons"
     ],
     "source": "curse",
@@ -26611,6 +26630,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 404760,
+    "name": "Extended Transmog Sets",
+    "key": "extended-transmog-sets",
+    "dir": [
+      "ExtendedSets"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 61251,
@@ -48028,6 +48057,16 @@
     "mode": 1
   },
   {
+    "id": 404600,
+    "name": "Message Barker",
+    "key": "message-barker",
+    "dir": [
+      "MessageBarker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 301664,
     "name": "MessageAlert",
     "key": "messagealert",
@@ -49487,16 +49526,6 @@
     "mode": 1
   },
   {
-    "id": 289212,
-    "name": "MoreItemInfo",
-    "key": "moreiteminfo",
-    "dir": [
-      "MoreItemInfo"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 376341,
     "name": "MoreItemStats",
     "key": "moreitemstats",
@@ -49505,6 +49534,17 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 289212,
+    "name": "MoreTooltipInfo",
+    "key": "moretooltipinfo",
+    "dir": [
+      "MoreItemInfo",
+      "MoreTooltipInfo"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 1243,
@@ -63514,6 +63554,16 @@
     "key": "scalzbam",
     "dir": [
       "ScalzBam"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 404516,
+    "name": "Scarab Coffer Assistant",
+    "key": "scarab-coffer-assistant",
+    "dir": [
+      "ScarabCofferAssistant"
     ],
     "source": "curse",
     "mode": 2
