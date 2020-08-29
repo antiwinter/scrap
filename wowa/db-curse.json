@@ -320,6 +320,16 @@
     "mode": 1
   },
   {
+    "id": 404958,
+    "name": "A-Bomb!  Azeroth Bombardier  (In-Flight Minigame)",
+    "key": "a-bomb-azeroth-bombardier",
+    "dir": [
+      "A-Bomb"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22862,
     "name": "AAV - atrox Arena Viewer",
     "key": "aav-atrox-arena-viewer",
@@ -1739,6 +1749,16 @@
     "key": "adibags-lootboxes",
     "dir": [
       "AdiBags_lootboxes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 404971,
+    "name": "AdiBags-Keystones",
+    "key": "adibags-keystones",
+    "dir": [
+      "adibags_keystones"
     ],
     "source": "curse",
     "mode": 1
@@ -6512,8 +6532,8 @@
       "AAP-Core",
       "Azeroth Auto Pilot",
       "AAP-Test",
-      "AAP-Shadowlands",
-      "AAP-EasternKingdoms"
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -6563,10 +6583,11 @@
     "name": "BAMFTones",
     "key": "bamftones",
     "dir": [
-      "BAMFTones"
+      "BAMFTones",
+      "BAMFTones Classic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340294,
@@ -19639,6 +19660,16 @@
     "mode": 3
   },
   {
+    "id": 404965,
+    "name": "DS_Loot_Priority",
+    "key": "ds_loot_priority",
+    "dir": [
+      "DS_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 378294,
     "name": "DTLite",
     "key": "dtlite",
@@ -25105,8 +25136,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -33715,7 +33746,7 @@
       "GuildSearch"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88704,
@@ -37772,6 +37803,16 @@
     "mode": 1
   },
   {
+    "id": 404959,
+    "name": "IgniteOverload",
+    "key": "igniteoverload",
+    "dir": [
+      "IgniteOverload"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 396301,
     "name": "IgniteTrackerClassic",
     "key": "ignitetrackerclassic",
@@ -38268,6 +38309,16 @@
     "key": "informresurrection",
     "dir": [
       "InformResurrection"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 404953,
+    "name": "Informed Tooltips",
+    "key": "informed-tooltips",
+    "dir": [
+      "InformedTooltips"
     ],
     "source": "curse",
     "mode": 1
@@ -40646,6 +40697,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 404914,
+    "name": "Khadgar's Junk Drawer",
+    "key": "khadgars-junk-drawer",
+    "dir": [
+      "KhadgarsJunkDrawer"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 3306,
@@ -47877,6 +47938,16 @@
     "mode": 2
   },
   {
+    "id": 405161,
+    "name": "MeefsMod",
+    "key": "meefsmod",
+    "dir": [
+      "MeefMod"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258375,
     "name": "MeepMerp",
     "key": "meepmerp",
@@ -52644,6 +52715,16 @@
     "mode": 1
   },
   {
+    "id": 400633,
+    "name": "Noteworthy II",
+    "key": "noteworthy-ii",
+    "dir": [
+      "NoteworthyII"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 393085,
     "name": "Nova Instance Tracker",
     "key": "nova-instance-tracker",
@@ -57037,6 +57118,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 404859,
+    "name": "ProUltraGraphics",
+    "key": "proultragraphics",
+    "dir": [
+      "ProUltraGraphics"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 335777,
@@ -65291,6 +65382,16 @@
     "mode": 1
   },
   {
+    "id": 404939,
+    "name": "Shut up Unta",
+    "key": "shut-up-unta",
+    "dir": [
+      "ShutUpUnta"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44234,
     "name": "ShutUpRhonin",
     "key": "shutuprhonin",
@@ -72968,6 +73069,16 @@
     "mode": 2
   },
   {
+    "id": 404951,
+    "name": "Titan Panel Classic [Raid Lockout]",
+    "key": "titan-panel-classic-raid-lockout",
+    "dir": [
+      "TitanRaidLockout"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 342214,
     "name": "Titan Panel Classic [Recommended Zone]",
     "key": "titan-panel-classic-recommended-zone",
@@ -75150,6 +75261,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 404925,
+    "name": "TradeLog (reupload)",
+    "key": "tradelog-reupload",
+    "dir": [
+      "TradeLog"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 387266,
@@ -80116,7 +80237,7 @@
     "name": "Wowaudit Invite Tool",
     "key": "wowaudit-invite-tool",
     "dir": [
-      "v0.1.0"
+      "v0.1.1"
     ],
     "source": "curse",
     "mode": 1
@@ -83444,6 +83565,16 @@
     "mode": 1
   },
   {
+    "id": 404855,
+    "name": "iP Mythic Timer for Shadowlands",
+    "key": "ip-mythic-timer-for-shadowlands",
+    "dir": [
+      "iPMythicTimer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 276943,
     "name": "iPlayerFrame",
     "key": "iplayerframe",
@@ -84591,6 +84722,16 @@
       "oUF_Gvv",
       "oUF_MovableFrames",
       "oUF"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 298401,
+    "name": "oUF_Hank Update",
+    "key": "ouf_hank_update",
+    "dir": [
+      "oUF_Hank"
     ],
     "source": "curse",
     "mode": 1
