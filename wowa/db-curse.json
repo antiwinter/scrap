@@ -20578,6 +20578,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20586,11 +20590,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -29106,7 +29106,7 @@
       "FriendNotes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 18790,
@@ -51748,16 +51748,6 @@
     "key": "needygreedy",
     "dir": [
       "NeedyGreedy"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 90473,
-    "name": "Neeve",
-    "key": "neeve",
-    "dir": [
-      "Neeve"
     ],
     "source": "curse",
     "mode": 1
