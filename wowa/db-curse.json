@@ -781,6 +781,16 @@
     "mode": 1
   },
   {
+    "id": 404065,
+    "name": "AbyssUI",
+    "key": "abyssui",
+    "dir": [
+      "AbyssUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89712,
     "name": "Acacïa Boss Mods",
     "key": "acacia-boss-mod",
@@ -5803,6 +5813,16 @@
     "mode": 2
   },
   {
+    "id": 405190,
+    "name": "AutoMask",
+    "key": "automask",
+    "dir": [
+      "AutoMask"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 386568,
     "name": "AutoNeed",
     "key": "autoneed",
@@ -6373,6 +6393,16 @@
     "key": "azerpug-instanceutility-core",
     "dir": [
       "AzerPUG-InstanceUtility-Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 404673,
+    "name": "AzerPUG-InstanceUtility-InstanceLeading",
+    "key": "azerpug-instanceutility-raidleading",
+    "dir": [
+      "AzerPUG-InstanceUtility-InstanceLeading"
     ],
     "source": "curse",
     "mode": 1
@@ -13038,35 +13068,6 @@
     "mode": 1
   },
   {
-    "id": 403048,
-    "name": "CHS Addon Pack",
-    "key": "chs-addon-pack",
-    "dir": [
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-MC",
-      "DBM-Naxx",
-      "DBM-Onyxia",
-      "DBM-Party-Classic",
-      "DBM-ZG",
-      "Details_DataStorage",
-      "Details_Streamer",
-      "Details_TinyThreat",
-      "ClassicLootAssistant",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers",
-      "Details",
-      "HealCommClassic",
-      "ThreatClassic2"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 22850,
     "name": "CLC DK",
     "key": "clc-dk",
@@ -16261,6 +16262,16 @@
     "mode": 1
   },
   {
+    "id": 405267,
+    "name": "Clicked",
+    "key": "clicked",
+    "dir": [
+      "Clicked"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 15564,
     "name": "Clique",
     "key": "clique",
@@ -17228,7 +17239,8 @@
     "name": "Competition Tracker",
     "key": "competitiontracker",
     "dir": [
-      "competitiontracker"
+      "competitiontracker",
+      "CompetitionTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -30213,7 +30225,17 @@
       "GatherMate2"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
+  },
+  {
+    "id": 405809,
+    "name": "GatherMate2 Classic",
+    "key": "gathermate2-classic",
+    "dir": [
+      "GatherMate2"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 350035,
@@ -33829,6 +33851,16 @@
     "mode": 1
   },
   {
+    "id": 405546,
+    "name": "GuildBankNow",
+    "key": "guildbanknow",
+    "dir": [
+      "GuildBankNow"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 19630,
     "name": "GuildBankSearch",
     "key": "guild-bank-search",
@@ -34802,6 +34834,16 @@
     "key": "tomcats-tours-nazjatar",
     "dir": [
       "TomCats-Nazjatar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 363739,
+    "name": "HandyNotes: Shadowlands",
+    "key": "handynotes-shadowlands",
+    "dir": [
+      "HandyNotes_Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -50069,6 +50111,16 @@
     "mode": 1
   },
   {
+    "id": 405674,
+    "name": "Move And Improve",
+    "key": "move-and-improve",
+    "dir": [
+      "D4KiR MoveAndImprove"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 342928,
     "name": "Move My Buttons",
     "key": "move-my-buttons",
@@ -52670,6 +52722,16 @@
     "key": "note",
     "dir": [
       "Note"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 405723,
+    "name": "Note Plus",
+    "key": "note-plus",
+    "dir": [
+      "Note+"
     ],
     "source": "curse",
     "mode": 1
@@ -66339,6 +66401,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 405695,
+    "name": "SimpleQuestXP",
+    "key": "simplequestxp",
+    "dir": [
+      "SimpleQuestXP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14654,
@@ -80327,6 +80399,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 405542,
+    "name": "WrongCthunPlanner",
+    "key": "wrong-cthun-planner",
+    "dir": [
+      "WrongCthunPlanner"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 318112,
