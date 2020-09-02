@@ -322,7 +322,7 @@
   {
     "id": 404958,
     "name": "A-Bomb!  Azeroth Bombardier  (In-Flight Minigame)",
-    "key": "a-bomb-azeroth-bombardier",
+    "key": "a-bomb",
     "dir": [
       "A-Bomb"
     ],
@@ -3337,6 +3337,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 405848,
+    "name": "Arcanist Classic",
+    "key": "arcanist-classic",
+    "dir": [
+      "Arcanist"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 384835,
@@ -9612,6 +9622,16 @@
     "id": 303859,
     "name": "Bigwigs Voice - Chinese voice pack (mandarin) by XF夕风",
     "key": "chinese-voice-pack",
+    "dir": [
+      "BigWigs_Voice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 405737,
+    "name": "Bigwigs Voice - Chinese voicepack (OldMan)",
+    "key": "bigwigs-voice-chinese-voicepack-om",
     "dir": [
       "BigWigs_Voice"
     ],
@@ -19298,6 +19318,16 @@
     "mode": 3
   },
   {
+    "id": 405894,
+    "name": "DBM Voicepack:OldMan",
+    "key": "dbm-voicepack-oldman",
+    "dir": [
+      "DBM-VPOldMan"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 303853,
     "name": "DBM Voicepack:VV",
     "key": "dbm-voicepack-vv",
@@ -24294,6 +24324,16 @@
     "key": "elfos-datatext",
     "dir": [
       "Elfosdatatext"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 405933,
+    "name": "ElioteDropDownMenu",
+    "key": "eliotedropdownmenu",
+    "dir": [
+      "ElioteDropDownMenu-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -37706,6 +37746,16 @@
     "mode": 1
   },
   {
+    "id": 405865,
+    "name": "ITH Chat Sounds",
+    "key": "ith",
+    "dir": [
+      "ITH"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 302205,
     "name": "ITrackU",
     "key": "itracku",
@@ -45197,7 +45247,7 @@
       "LootFast2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102452,
@@ -45730,7 +45780,7 @@
       "LuckyCharms2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 371155,
@@ -63309,6 +63359,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 405913,
+    "name": "SW CThun Planner",
+    "key": "sw-cthun-planner",
+    "dir": [
+      "SWCthunPlanner"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 57144,
