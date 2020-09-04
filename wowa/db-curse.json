@@ -6572,8 +6572,8 @@
       "AAP-Core",
       "Azeroth Auto Pilot",
       "AAP-Test",
-      "AAP-EasternKingdoms",
-      "AAP-Shadowlands"
+      "AAP-Shadowlands",
+      "AAP-EasternKingdoms"
     ],
     "source": "curse",
     "mode": 1
@@ -12922,6 +12922,16 @@
     "key": "buyemall-classic",
     "dir": [
       "BuyEmAllClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 405922,
+    "name": "Buzz",
+    "key": "buzz",
+    "dir": [
+      "Buzz"
     ],
     "source": "curse",
     "mode": 2
@@ -21963,17 +21973,6 @@
     "mode": 1
   },
   {
-    "id": 377293,
-    "name": "Dicemaster spanish",
-    "key": "dicetools-dicemaster",
-    "dir": [
-      "DiceMaster_UnitFrames",
-      "DiceMaster"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 382310,
     "name": "DictionaryFNP",
     "key": "dictionaryfnp",
@@ -24274,6 +24273,16 @@
     "key": "elframo-3",
     "dir": [
       "ElFramo3"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 406141,
+    "name": "ElWigo",
+    "key": "elwigo",
+    "dir": [
+      "elWigo"
     ],
     "source": "curse",
     "mode": 1
@@ -30406,6 +30415,16 @@
     "key": "gathering-gloves",
     "dir": [
       "GG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 406104,
+    "name": "Gathering Tracker",
+    "key": "gathering-tracker",
+    "dir": [
+      "GatheringTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -37452,6 +37471,16 @@
     "mode": 1
   },
   {
+    "id": 405697,
+    "name": "Hyperspawn Helper",
+    "key": "hyperspawn-helper",
+    "dir": [
+      "HyperspawnHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 37044,
     "name": "HzFontPack",
     "key": "hzfontpack1",
@@ -42459,6 +42488,16 @@
     "key": "legendaryprogresstracker_broker",
     "dir": [
       "LegendaryProgressTracker_Broker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 403618,
+    "name": "LegendaryTooltips",
+    "key": "legendarytooltips",
+    "dir": [
+      "LegendaryTooltips"
     ],
     "source": "curse",
     "mode": 1
@@ -57534,6 +57573,16 @@
     "mode": 1
   },
   {
+    "id": 406209,
+    "name": "PsychoBars",
+    "key": "psychobars",
+    "dir": [
+      "PsychoBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348326,
     "name": "PugLoot",
     "key": "pugloot",
@@ -71792,6 +71841,16 @@
     "mode": 1
   },
   {
+    "id": 406030,
+    "name": "Team Best C'Thun Positioning",
+    "key": "team-best-cthun-positioning",
+    "dir": [
+      "TBCThun"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87489,
     "name": "TeamBuildingExercise2014",
     "key": "teambuildingexercise2014",
@@ -75212,7 +75271,7 @@
       "TrackResources"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 334661,
@@ -79618,6 +79677,16 @@
     "mode": 3
   },
   {
+    "id": 404658,
+    "name": "WoWChatBot",
+    "key": "wowchatbot",
+    "dir": [
+      "WoWChatBot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 282191,
     "name": "WoWCron",
     "key": "wowcron",
@@ -80462,7 +80531,7 @@
   },
   {
     "id": 405542,
-    "name": "WrongCthunPlanner",
+    "name": "Wrong Cthun Planner",
     "key": "wrong-cthun-planner",
     "dir": [
       "WrongCthunPlanner"
@@ -81197,6 +81266,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 405935,
+    "name": "You May Drink",
+    "key": "you-may-drink",
+    "dir": [
+      "YouCanDrink"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101629,
@@ -82964,8 +83043,8 @@
   },
   {
     "id": 299701,
-    "name": "eCastingBar - BfA",
-    "key": "ecastingbar-bfa",
+    "name": "eCastingBar Retail",
+    "key": "ecastingbar-retail",
     "dir": [
       "eCastingBar"
     ],
