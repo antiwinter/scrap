@@ -16299,7 +16299,7 @@
       "Clicked"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 15564,
@@ -31268,7 +31268,7 @@
       "Glass"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 100981,
@@ -82350,7 +82350,6 @@
     "name": "alaTradeSkill",
     "key": "alatradeskill",
     "dir": [
-      "alaTradeFrame",
       "alaTradeSkill"
     ],
     "source": "curse",
