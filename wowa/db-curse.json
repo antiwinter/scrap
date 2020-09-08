@@ -7336,6 +7336,16 @@
     "mode": 3
   },
   {
+    "id": 406736,
+    "name": "Bagnon - Soulbond Trash",
+    "key": "bagnon-soulbond-trash",
+    "dir": [
+      "Bagnon_SBt"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 277041,
     "name": "Bagnon BoE",
     "key": "bagnon-boe",
@@ -13048,6 +13058,26 @@
     "mode": 2
   },
   {
+    "id": 406330,
+    "name": "CEPGP Distribution From Bags",
+    "key": "cepgp-distribution-from-bags",
+    "dir": [
+      "CEPGP_DistributionFromBags"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 406332,
+    "name": "CEPGP No Officer Note",
+    "key": "cepgp-no-officer-note",
+    "dir": [
+      "CEPGP_NoOfficerNote"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 395425,
     "name": "CEPGP Standings Tracker",
     "key": "cepgp-standings-tracker",
@@ -14693,6 +14723,16 @@
     "key": "chatmod2",
     "dir": [
       "ChatMod2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 406464,
+    "name": "ChatPanel",
+    "key": "chatpanel",
+    "dir": [
+      "ChatPanel"
     ],
     "source": "curse",
     "mode": 1
@@ -23291,6 +23331,16 @@
     "mode": 3
   },
   {
+    "id": 395859,
+    "name": "Duty Manager",
+    "key": "duty-manager",
+    "dir": [
+      "DutyManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87490,
     "name": "DwGuild",
     "key": "dwguild",
@@ -25197,8 +25247,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -33640,6 +33690,16 @@
     "mode": 2
   },
   {
+    "id": 396359,
+    "name": "Guild HUD",
+    "key": "guild-hud",
+    "dir": [
+      "GuildHUD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 363791,
     "name": "Guild In Tooltip",
     "key": "guildintooltip",
@@ -34898,6 +34958,16 @@
     "mode": 1
   },
   {
+    "id": 406242,
+    "name": "HandyNotes: Scourge Invasion of Shadowlands",
+    "key": "handynotes-scourge-invasion-of-shadowlands",
+    "dir": [
+      "HandyNotes_ScourgeInvasionShadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 363739,
     "name": "HandyNotes: Shadowlands",
     "key": "handynotes-shadowlands",
@@ -36088,6 +36158,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 406320,
+    "name": "HiP Loot Prio",
+    "key": "hip-loot-prio",
+    "dir": [
+      "HIP_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 365465,
@@ -37293,6 +37373,16 @@
     "key": "hotloot",
     "dir": [
       "HotLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 406911,
+    "name": "HoverBind",
+    "key": "hoverbind",
+    "dir": [
+      "HoverBind"
     ],
     "source": "curse",
     "mode": 1
@@ -54556,6 +54646,16 @@
     "mode": 1
   },
   {
+    "id": 406974,
+    "name": "Parity",
+    "key": "parity",
+    "dir": [
+      "Parity"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 7114,
     "name": "Parrot",
     "key": "parrot",
@@ -63456,6 +63556,16 @@
     "key": "sacriraidbuffed",
     "dir": [
       "SacriRaidBuffed"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 406166,
+    "name": "Safe Armory Addon",
+    "key": "safe-armory-addon",
+    "dir": [
+      "SafeArmory"
     ],
     "source": "curse",
     "mode": 1
@@ -78488,6 +78598,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 406686,
+    "name": "WclPlayerScore",
+    "key": "wclplayerscore",
+    "dir": [
+      "WclPlayerScore"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 47376,
