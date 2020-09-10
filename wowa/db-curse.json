@@ -791,6 +791,16 @@
     "mode": 1
   },
   {
+    "id": 407154,
+    "name": "AbyssUI Classic",
+    "key": "abyssui-classic",
+    "dir": [
+      "AbyssUIClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89712,
     "name": "Acacïa Boss Mods",
     "key": "acacia-boss-mod",
@@ -6410,7 +6420,7 @@
   {
     "id": 404673,
     "name": "AzerPUG-InstanceUtility-InstanceLeading",
-    "key": "azerpug-instanceutility-raidleading",
+    "key": "azerpug-instanceutility-instanceleading",
     "dir": [
       "AzerPUG-InstanceUtility-InstanceLeading"
     ],
@@ -12804,7 +12814,7 @@
       "BusyAndAway"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 342456,
@@ -16057,6 +16067,16 @@
     "key": "classicragelog",
     "dir": [
       "ClassicRageLog"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 406750,
+    "name": "ClassicResTimers",
+    "key": "classicrestimers",
+    "dir": [
+      "ClassicResTimers"
     ],
     "source": "curse",
     "mode": 2
@@ -31859,6 +31879,17 @@
     "mode": 2
   },
   {
+    "id": 383888,
+    "name": "GoldGoblinLoot",
+    "key": "goldgoblinloot",
+    "dir": [
+      "GoldGoblinLootArchive",
+      "GoldGoblinLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 30797,
     "name": "GoldLoot",
     "key": "goldloot",
@@ -32365,7 +32396,7 @@
       "Grid2StatusPhasing"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101865,
@@ -33600,8 +33631,8 @@
   },
   {
     "id": 82308,
-    "name": "Guild Bank Tools",
-    "key": "guild-bank-tools",
+    "name": "Guild Bank Snapshots",
+    "key": "guild-bank-snapshots",
     "dir": [
       "GuildBankSnapshots"
     ],
@@ -42985,6 +43016,16 @@
     "mode": 2
   },
   {
+    "id": 407139,
+    "name": "LibAddonGUI",
+    "key": "libaddongui",
+    "dir": [
+      "LibAddonGUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 352953,
     "name": "LibAddonUtils",
     "key": "libaddonutils",
@@ -50070,6 +50111,16 @@
     "mode": 1
   },
   {
+    "id": 390088,
+    "name": "Mountie",
+    "key": "mountie",
+    "dir": [
+      "Mountie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 293280,
     "name": "MountsJournal",
     "key": "mountsjournal",
@@ -54114,6 +54165,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 407138,
+    "name": "Overbound",
+    "key": "overbound",
+    "dir": [
+      "Overbound"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 102953,
@@ -59989,11 +60050,31 @@
     "mode": 2
   },
   {
+    "id": 407014,
+    "name": "Raid Group Organizer Irony Extension",
+    "key": "raid-group-organizer-irony-extension",
+    "dir": [
+      "RgoIronyExtension"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 385423,
     "name": "Raid Invite Classic",
     "key": "raid-invite-classic",
     "dir": [
       "RaidInviteClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 407267,
+    "name": "Raid Invites",
+    "key": "raid-invites",
+    "dir": [
+      "RaidInvites"
     ],
     "source": "curse",
     "mode": 2
@@ -61328,6 +61409,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 407211,
+    "name": "ReStack",
+    "key": "restack",
+    "dir": [
+      "ReStack"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 307714,
@@ -78075,7 +78166,7 @@
       "WIM_ElvUI_Skin"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 88623,
@@ -85106,6 +85197,16 @@
       "oUF_Freebgrid",
       "oUF_LegionGrid_Config",
       "oUF_LegionGrid"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 407135,
+    "name": "oUF_Nameplates",
+    "key": "ouf_nameplates",
+    "dir": [
+      "oUF_Nameplates"
     ],
     "source": "curse",
     "mode": 1
