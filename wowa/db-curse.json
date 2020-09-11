@@ -6581,9 +6581,8 @@
       "AAP-WoD",
       "AAP-Core",
       "Azeroth Auto Pilot",
-      "AAP-Test",
-      "AAP-Shadowlands",
-      "AAP-EasternKingdoms"
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -35744,6 +35743,16 @@
     "mode": 1
   },
   {
+    "id": 407315,
+    "name": "HealerRez",
+    "key": "healerrez",
+    "dir": [
+      "healerRez"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 7976,
     "name": "Healing Groups Sucks Continued",
     "key": "hgscontinued",
@@ -37593,10 +37602,10 @@
   },
   {
     "id": 405697,
-    "name": "Hyperspawn Helper",
-    "key": "hyperspawn-helper",
+    "name": "Hyperspawn Tracker",
+    "key": "hyperspawn-tracker",
     "dir": [
-      "HyperspawnHelper"
+      "HyperspawnTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -47169,6 +47178,16 @@
     "key": "masqueelvuiesqueskin",
     "dir": [
       "Masque_ElvUIesque"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 407438,
+    "name": "Masque Blizz Bars",
+    "key": "masque-blizz-bars",
+    "dir": [
+      "MasqueBlizzBars"
     ],
     "source": "curse",
     "mode": 1
@@ -67423,6 +67442,16 @@
     "key": "small-friendly-nameplates",
     "dir": [
       "SmallFriendlyNameplates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 407212,
+    "name": "Smart Chat Fade",
+    "key": "smart-chat-fade",
+    "dir": [
+      "SmartChatFade"
     ],
     "source": "curse",
     "mode": 1
