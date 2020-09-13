@@ -6581,8 +6581,8 @@
       "AAP-WoD",
       "AAP-Core",
       "Azeroth Auto Pilot",
-      "AAP-EasternKingdoms",
-      "AAP-Shadowlands"
+      "AAP-Shadowlands",
+      "AAP-EasternKingdoms"
     ],
     "source": "curse",
     "mode": 1
@@ -11507,6 +11507,16 @@
     "id": 25302,
     "name": "Broker: XPBar",
     "key": "broker-xpbar",
+    "dir": [
+      "Broker_XPBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 407625,
+    "name": "Broker: XPBar (Fan update)",
+    "key": "broker-xpbar-fan-update",
     "dir": [
       "Broker_XPBar"
     ],
@@ -18248,6 +18258,16 @@
     "mode": 1
   },
   {
+    "id": 407479,
+    "name": "Cpt. Stadics' Vendor Treasures",
+    "key": "cpt-stadics-map-of-vendor-treasures",
+    "dir": [
+      "CptStadicsVendorTreasures"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28794,
     "name": "CrackCooldown",
     "key": "crackcooldown",
@@ -21767,6 +21787,7 @@
     "key": "details-damage-meter-shadowlands-beta",
     "dir": [
       "Details_CastHistory",
+      "Details_DataStorage",
       "Details_EncounterDetails",
       "Details_Streamer",
       "Details"
@@ -38034,6 +38055,16 @@
     "mode": 1
   },
   {
+    "id": 407501,
+    "name": "IdolManager",
+    "key": "idolmanager",
+    "dir": [
+      "IdolManager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 302954,
     "name": "IfThen (Redux)",
     "key": "ifthen-redux",
@@ -40970,6 +41001,16 @@
     "mode": 3
   },
   {
+    "id": 407692,
+    "name": "Khes'yc Mount",
+    "key": "khesyc-mount",
+    "dir": [
+      "Khesyc_Mount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103142,
     "name": "KhioHud (Bandaid lite)",
     "key": "khiohud",
@@ -41791,6 +41832,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 407464,
+    "name": "LFG Finder",
+    "key": "lfg-finder",
+    "dir": [
+      "LFG_Finder"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 342516,
@@ -48555,6 +48606,16 @@
     "key": "microhud",
     "dir": [
       "MicroHUD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 407443,
+    "name": "MicroMenuHider",
+    "key": "micromenuhider",
+    "dir": [
+      "MicroMenuHider"
     ],
     "source": "curse",
     "mode": 1
@@ -58357,7 +58418,6 @@
     "key": "quest-cinematic",
     "dir": [
       "Queso Classic",
-      "Immersion",
       "Queso"
     ],
     "source": "curse",
@@ -64079,7 +64139,6 @@
       "Scorpio.UI",
       "Scorpio.Widget",
       "Scorpio",
-      "Scorpio.MVC",
       "Scorpio.Secure"
     ],
     "source": "curse",
@@ -76862,10 +76921,10 @@
   },
   {
     "id": 402927,
-    "name": "UltimateProgress2",
+    "name": "UltimateProgress",
     "key": "ultimateprogress",
     "dir": [
-      "UltimateProgress2"
+      "UltimateProgress"
     ],
     "source": "curse",
     "mode": 2
@@ -83256,6 +83315,16 @@
     "key": "dwgautoroller",
     "dir": [
       "AutoRoller"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 407534,
+    "name": "dwg_AutoAssigner",
+    "key": "dwg_autoassigner",
+    "dir": [
+      "AutoAssigner"
     ],
     "source": "curse",
     "mode": 2
