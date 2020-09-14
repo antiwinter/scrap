@@ -11250,6 +11250,16 @@
     "mode": 1
   },
   {
+    "id": 407948,
+    "name": "Broker Recount",
+    "key": "broker-recount",
+    "dir": [
+      "Broker_Recount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 24699,
     "name": "Broker RunSpeed",
     "key": "broker-runspeed",
@@ -14742,16 +14752,6 @@
     "key": "chatmod2",
     "dir": [
       "ChatMod2"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 406464,
-    "name": "ChatPanel",
-    "key": "chatpanel",
-    "dir": [
-      "ChatPanel"
     ],
     "source": "curse",
     "mode": 1
@@ -33420,6 +33420,16 @@
     "mode": 2
   },
   {
+    "id": 407977,
+    "name": "Guidelime Rogue Hardcore Speedrun Route by Tactics_lol",
+    "key": "guidelime-rogue-hardcore-speedrun-route-by",
+    "dir": [
+      "Guidelime_Milksmuggler_HC"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 335852,
     "name": "Guidelime_Bustea's 1-60 Horde Leveling Guide",
     "key": "guidelime-busteas-1-60-leveling",
@@ -36226,6 +36236,16 @@
     "key": "hip-loot-prio",
     "dir": [
       "HIP_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 408029,
+    "name": "HiP-Cthun",
+    "key": "hip-cthun",
+    "dir": [
+      "HiPCthunPlanner"
     ],
     "source": "curse",
     "mode": 2
@@ -47505,6 +47525,16 @@
     "mode": 1
   },
   {
+    "id": 407999,
+    "name": "Masque: Hex",
+    "key": "masque-hex",
+    "dir": [
+      "masque-hex"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88583,
     "name": "Masque: Imoen",
     "key": "masque-imoen",
@@ -55080,6 +55110,16 @@
     "mode": 1
   },
   {
+    "id": 408041,
+    "name": "Pepe Collection",
+    "key": "pepe-collection",
+    "dir": [
+      "PepeCollection"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 256664,
     "name": "PepeBuddy",
     "key": "pepebuddy",
@@ -56168,6 +56208,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 407868,
+    "name": "PingAnnouncer",
+    "key": "pingannouncer",
+    "dir": [
+      "PingAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102756,
@@ -80891,7 +80941,7 @@
   {
     "id": 355170,
     "name": "X Tranq Manager",
-    "key": "xtranqmanager",
+    "key": "easy-and-lazy-tranq-shot-announcer",
     "dir": [
       "XTranqManager"
     ],
@@ -84282,6 +84332,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 408116,
+    "name": "iddqd loot priority",
+    "key": "iddqd-loot-priority",
+    "dir": [
+      "iddqd_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 19991,
