@@ -18318,6 +18318,16 @@
     "mode": 1
   },
   {
+    "id": 20253,
+    "name": "Crafthelper",
+    "key": "crafthelper",
+    "dir": [
+      "Crafthelper"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 102614,
     "name": "Crafting Filters",
     "key": "crafting-filters",
@@ -23269,6 +23279,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 407491,
+    "name": "DungeonHelper2",
+    "key": "dungeonhelper2",
+    "dir": [
+      "DungeonHelper2"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 89722,
@@ -34603,6 +34623,16 @@
     "key": "halonatools",
     "dir": [
       "HalonaTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408066,
+    "name": "Hammer and Anvil",
+    "key": "fast-repair",
+    "dir": [
+      "FastRepair"
     ],
     "source": "curse",
     "mode": 1
@@ -57147,6 +57177,16 @@
     "mode": 1
   },
   {
+    "id": 408202,
+    "name": "PowerShiftConsumable",
+    "key": "powershiftconsumable",
+    "dir": [
+      "PowerShiftConsumable"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22835,
     "name": "PowerSource",
     "key": "powersource",
@@ -60174,16 +60214,6 @@
     "key": "raid-group-organizer",
     "dir": [
       "RaidGroupOrganizer"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 407014,
-    "name": "Raid Group Organizer Irony Extension",
-    "key": "raid-group-organizer-irony-extension",
-    "dir": [
-      "RgoIronyExtension"
     ],
     "source": "curse",
     "mode": 2
