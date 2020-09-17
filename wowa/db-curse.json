@@ -2448,6 +2448,16 @@
     "mode": 1
   },
   {
+    "id": 408394,
+    "name": "AltReps",
+    "key": "altreps",
+    "dir": [
+      "AltReps"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 6290,
     "name": "AltTabber",
     "key": "alttab",
@@ -16051,6 +16061,16 @@
     "mode": 1
   },
   {
+    "id": 408210,
+    "name": "ClassicNumbers",
+    "key": "classicnumbers",
+    "dir": [
+      "ClassicNumbers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 400050,
     "name": "ClassicPathCalculator",
     "key": "classicpathcalculator",
@@ -17634,6 +17654,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 408342,
+    "name": "Consequence - Flightmaster",
+    "key": "consequence-flightmaster",
+    "dir": [
+      "Consequence-Flightmaster"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 384457,
@@ -35420,10 +35450,10 @@
   },
   {
     "id": 345781,
-    "name": "HandyNotes_Syd'sChestAddOn",
+    "name": "HandyNotes_Syd'sWitheredChestsAddOn",
     "key": "handynotes-syds-chest-addon",
     "dir": [
-      "HandyNotes_WitheredChests"
+      "HandyNotes_Syd'sWitheredChests"
     ],
     "source": "curse",
     "mode": 1
@@ -69077,6 +69107,16 @@
     "mode": 1
   },
   {
+    "id": 408364,
+    "name": "SpellTips Classic",
+    "key": "spelltips-classic",
+    "dir": [
+      "SpellTips"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 57049,
     "name": "SpellTracker",
     "key": "spelltracker",
@@ -78466,6 +78506,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 348965,
+    "name": "WalkCraft",
+    "key": "walkcraft",
+    "dir": [
+      "WalkCraft"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 43578,
