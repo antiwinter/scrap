@@ -6591,8 +6591,8 @@
       "AAP-WoD",
       "AAP-Core",
       "Azeroth Auto Pilot",
-      "AAP-Shadowlands",
-      "AAP-EasternKingdoms"
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -19327,6 +19327,16 @@
     "mode": 1
   },
   {
+    "id": 408843,
+    "name": "DBM Voicepack Korean Female FallInLove (치유빛)",
+    "key": "dbm-voicepack-korean-female-fallinlove",
+    "dir": [
+      "DBM-VPFallInLove"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 353611,
     "name": "DBM Voicepack LazyCrazyJoe",
     "key": "dbm-voicepack-lazycrazyjoe",
@@ -21826,6 +21836,7 @@
     "name": "Details! Damage Meter Shadowlands",
     "key": "details-damage-meter-shadowlands-beta",
     "dir": [
+      "Details_AdvancedPlayerBreakdown",
       "Details_CastHistory",
       "Details_DataStorage",
       "Details_EncounterDetails",
@@ -24192,6 +24203,16 @@
     "key": "easygroupfinder",
     "dir": [
       "EasyGroupFinder"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408671,
+    "name": "EasyInvites",
+    "key": "easyinvites",
+    "dir": [
+      "EasyInvites"
     ],
     "source": "curse",
     "mode": 1
@@ -27356,6 +27377,16 @@
     "key": "family-fighter-tracker",
     "dir": [
       "FamilyFighter_Tacker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408507,
+    "name": "FancyDingAnimation",
+    "key": "fancydinganimation",
+    "dir": [
+      "CoolLevelUp"
     ],
     "source": "curse",
     "mode": 1
@@ -58367,6 +58398,16 @@
     "mode": 1
   },
   {
+    "id": 408819,
+    "name": "Qiraji Loot Reminder",
+    "key": "qiraji-loot-reminder",
+    "dir": [
+      "Qiraji_Loot_Reminder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 91989,
     "name": "Qpop",
     "key": "qpop",
@@ -60226,7 +60267,7 @@
       "RaidFramesFader"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 350826,
@@ -60244,6 +60285,16 @@
     "key": "raid-group-organizer",
     "dir": [
       "RaidGroupOrganizer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 408619,
+    "name": "Raid Icon Marker",
+    "key": "raid-icon-marker",
+    "dir": [
+      "RaidIconMarker"
     ],
     "source": "curse",
     "mode": 2
@@ -63899,6 +63950,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 408862,
+    "name": "SalvAway",
+    "key": "salvaway",
+    "dir": [
+      "SalvAway"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 89350,
@@ -77181,6 +77242,16 @@
     "mode": 1
   },
   {
+    "id": 408735,
+    "name": "Unit Tooltip Upgrade",
+    "key": "unit-tooltip-upgrade",
+    "dir": [
+      "UnitTooltipUpgrade"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 14858,
     "name": "UnitActionBars",
     "key": "project-14858",
@@ -80363,7 +80434,7 @@
   },
   {
     "id": 34192,
-    "name": "WoWpoPolsku-Quests (cont. Quest Translator)",
+    "name": "WoWpoPolsku-Quests",
     "key": "quest-translator",
     "dir": [
       "WoWpoPolsku_Quests"
@@ -86231,6 +86302,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 408768,
+    "name": "vUI Minimap Button",
+    "key": "vui-minimap-button",
+    "dir": [
+      "vUI_Button"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 379096,
