@@ -7816,6 +7816,16 @@
     "mode": 3
   },
   {
+    "id": 408051,
+    "name": "Banking Tools",
+    "key": "banking-tools",
+    "dir": [
+      "Banking-Tools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 91590,
     "name": "Banner Banner",
     "key": "banner-banner",
@@ -40739,6 +40749,16 @@
     "mode": 1
   },
   {
+    "id": 408988,
+    "name": "Kayle - League of Legends voice pack / Paladin Female",
+    "key": "kayle-league-of-legends-voice-pack-paladin-female",
+    "dir": [
+      "Kayle_Paladin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 354296,
     "name": "KaymonsCloset",
     "key": "kaymonscloset",
@@ -45491,6 +45511,16 @@
     "mode": 1
   },
   {
+    "id": 409079,
+    "name": "Loot Tracker",
+    "key": "loot-tracker",
+    "dir": [
+      "LootTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 89359,
     "name": "Loot Vote",
     "key": "loot-vote",
@@ -46161,6 +46191,16 @@
       "Ludwig_Window",
       "Ludwig_Data",
       "Ludwig"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408908,
+    "name": "Ludwig Goes Down",
+    "key": "ludwig-goes-down",
+    "dir": [
+      "LudwigGoesDown"
     ],
     "source": "curse",
     "mode": 1
@@ -56241,6 +56281,16 @@
     "mode": 2
   },
   {
+    "id": 409059,
+    "name": "PickUpRoll",
+    "key": "pickuproll",
+    "dir": [
+      "PickUpRoll"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 295784,
     "name": "Pickpocketeer",
     "key": "pickpocketeer",
@@ -61916,6 +61966,16 @@
     "key": "realmhider",
     "dir": [
       "RealmHider"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409124,
+    "name": "RealmLang",
+    "key": "realmlang",
+    "dir": [
+      "RealmLang"
     ],
     "source": "curse",
     "mode": 1
@@ -72450,16 +72510,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 391669,
-    "name": "Templar Prio",
-    "key": "templar-prio",
-    "dir": [
-      "TemplarPrio"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 254760,
@@ -86311,7 +86361,7 @@
       "vUI_Button"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 379096,
@@ -86747,8 +86797,8 @@
     "name": "zCombat",
     "key": "zcombat",
     "dir": [
-      "zPets",
-      "zCombat"
+      "zCombat",
+      "zPets"
     ],
     "source": "curse",
     "mode": 1
