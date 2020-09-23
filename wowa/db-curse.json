@@ -3238,11 +3238,11 @@
     "mode": 2
   },
   {
-    "id": 379136,
-    "name": "Applebandit Standby Loot",
-    "key": "applebandit-standby-loot",
+    "id": 409359,
+    "name": "Applebandit Buff Summons",
+    "key": "applebandit-buff-summons",
     "dir": [
-      "Applebandit_Standby_Loot"
+      "Applebandit_Buff_Summons"
     ],
     "source": "curse",
     "mode": 2
@@ -13581,6 +13581,16 @@
     "mode": 1
   },
   {
+    "id": 409474,
+    "name": "CameraPitchYaw",
+    "key": "camerapitchyaw",
+    "dir": [
+      "CameraPitchYaw"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 388877,
     "name": "Camp Twacker",
     "key": "camp-twacker",
@@ -16346,6 +16356,16 @@
     "key": "clear-griffons",
     "dir": [
       "ClearGriffons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409457,
+    "name": "CleverPet",
+    "key": "cleverpet",
+    "dir": [
+      "CleverPet"
     ],
     "source": "curse",
     "mode": 1
@@ -22452,6 +22472,16 @@
     "key": "dispeller",
     "dir": [
       "Dispeller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409456,
+    "name": "DisplayDungeon",
+    "key": "displaydungeon",
+    "dir": [
+      "DisplayDungeon"
     ],
     "source": "curse",
     "mode": 1
@@ -37683,6 +37713,16 @@
     "mode": 1
   },
   {
+    "id": 409468,
+    "name": "HunterBuddy",
+    "key": "hunterbuddy",
+    "dir": [
+      "HunterBuddy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 24235,
     "name": "HunterHelper",
     "key": "hunterhelper",
@@ -41271,6 +41311,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 409325,
+    "name": "KillThemAll Neltharion",
+    "key": "killthemall-neltharion",
+    "dir": [
+      "KillThemAll_Neltharion"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 327122,
@@ -47804,7 +47854,7 @@
       "Masque_Serenity"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 95314,
@@ -57440,6 +57490,16 @@
     "mode": 1
   },
   {
+    "id": 408587,
+    "name": "Premade Group",
+    "key": "premade-group",
+    "dir": [
+      "PremadeGroup"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 91733,
     "name": "Premade Group Finder",
     "key": "premade-group-finder",
@@ -59211,7 +59271,6 @@
     "name": "Queue Sound",
     "key": "queue-sound",
     "dir": [
-      "ArenaSound",
       "QueueSound"
     ],
     "source": "curse",
@@ -60208,6 +60267,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 409297,
+    "name": "Raid Attendance Tracker Classic - (RAT)",
+    "key": "raid-attendance-tracker-classic-rat",
+    "dir": [
+      "RaidAttendanceTrackerClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 79901,
@@ -69979,6 +70048,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 408854,
+    "name": "SteaSummon",
+    "key": "steasummon",
+    "dir": [
+      "SteaSummon"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 37483,
