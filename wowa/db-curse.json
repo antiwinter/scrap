@@ -4259,6 +4259,16 @@
     "mode": 1
   },
   {
+    "id": 409767,
+    "name": "Aspect Of The Hunter",
+    "key": "aspect-of-the-hunter",
+    "dir": [
+      "AspectOfTheHunter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101023,
     "name": "Aspect Off",
     "key": "aspect_off",
@@ -6591,8 +6601,8 @@
       "AAP-WoD",
       "AAP-Core",
       "Azeroth Auto Pilot",
-      "AAP-EasternKingdoms",
-      "AAP-Shadowlands"
+      "AAP-Shadowlands",
+      "AAP-EasternKingdoms"
     ],
     "source": "curse",
     "mode": 1
@@ -18534,6 +18544,16 @@
     "mode": 1
   },
   {
+    "id": 409728,
+    "name": "Crits",
+    "key": "crits",
+    "dir": [
+      "Crits"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 13724,
     "name": "Cromulent",
     "key": "cromulent",
@@ -19921,6 +19941,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 409653,
+    "name": "DUnitFrames",
+    "key": "dunitframes",
+    "dir": [
+      "D4KiR DUnitFrames"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 45982,
@@ -25455,6 +25485,16 @@
     "mode": 2
   },
   {
+    "id": 409762,
+    "name": "ElvUI_GBA",
+    "key": "elvui_gba",
+    "dir": [
+      "ElvUI_GBA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 336665,
     "name": "ElvUI_GennUI",
     "key": "elvui_gennui",
@@ -26679,6 +26719,16 @@
     "key": "excavatinator",
     "dir": [
       "Excavatinator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409589,
+    "name": "Execute Music",
+    "key": "execute-music",
+    "dir": [
+      "em"
     ],
     "source": "curse",
     "mode": 1
@@ -34649,6 +34699,16 @@
     "mode": 1
   },
   {
+    "id": 409517,
+    "name": "HQT-HideQuestTracker",
+    "key": "hqt-hidequesttracker",
+    "dir": [
+      "HQT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19103,
     "name": "Hack",
     "key": "hack",
@@ -34694,6 +34754,16 @@
     "key": "hagakure-cooldowns",
     "dir": [
       "hagakure_cooldowns"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409539,
+    "name": "Halfhill Farmers",
+    "key": "halfhill-farmers",
+    "dir": [
+      "TillerTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -38829,7 +38899,7 @@
       "InputLagFix"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 308923,
@@ -46418,6 +46488,16 @@
     "mode": 1
   },
   {
+    "id": 409781,
+    "name": "MDX_Auto Macro",
+    "key": "mdx_auto-macro",
+    "dir": [
+      "MDX_Auto Macro"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 363880,
     "name": "MHealth",
     "key": "mhealth",
@@ -53540,6 +53620,16 @@
     "mode": 1
   },
   {
+    "id": 409608,
+    "name": "OMG Trampoline Loot Priority",
+    "key": "omg-trampoline-loot-priority",
+    "dir": [
+      "OMG_Trampoline_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 290208,
     "name": "OOF Got'em",
     "key": "oof-gotem",
@@ -58705,16 +58795,6 @@
     "mode": 3
   },
   {
-    "id": 338617,
-    "name": "Quest Chinese Translator",
-    "key": "quest-chinese-translator",
-    "dir": [
-      "WoWeuCN_Quests"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 27328,
     "name": "Quest Completist",
     "key": "quest_completist",
@@ -58833,6 +58913,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 338617,
+    "name": "Quest Translator - Chinese",
+    "key": "quest-chinese-translator",
+    "dir": [
+      "WoWeuCN_Quests"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 102466,
