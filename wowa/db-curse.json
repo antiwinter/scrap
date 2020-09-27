@@ -6601,8 +6601,8 @@
       "AAP-WoD",
       "AAP-Core",
       "Azeroth Auto Pilot",
-      "AAP-Shadowlands",
-      "AAP-EasternKingdoms"
+      "AAP-EasternKingdoms",
+      "AAP-Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -9763,6 +9763,16 @@
     "key": "bind-pad",
     "dir": [
       "BindPad"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 24984,
+    "name": "Binder",
+    "key": "binder",
+    "dir": [
+      "Binder"
     ],
     "source": "curse",
     "mode": 1
@@ -32346,6 +32356,16 @@
     "mode": 3
   },
   {
+    "id": 409373,
+    "name": "GrandMail",
+    "key": "grandmail",
+    "dir": [
+      "GrandMail"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 372817,
     "name": "Grats Mosin",
     "key": "grats-mosin",
@@ -38597,7 +38617,7 @@
   },
   {
     "id": 389753,
-    "name": "Improved Ui",
+    "name": "Improved Ui (will be replaced, see description)",
     "key": "improved-ui",
     "dir": [
       "D4KiR Improved Ui"
@@ -40420,16 +40440,6 @@
     "key": "joke",
     "dir": [
       "Joke"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 24984,
-    "name": "Jordan Taylor",
-    "key": "binder",
-    "dir": [
-      "Binder"
     ],
     "source": "curse",
     "mode": 1
@@ -53088,6 +53098,16 @@
     "mode": 1
   },
   {
+    "id": 408799,
+    "name": "NoMultishots",
+    "key": "nomultishots",
+    "dir": [
+      "NoMultishots"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102390,
     "name": "NoNameNoFood",
     "key": "nonamenofood",
@@ -63766,6 +63786,16 @@
     "mode": 1
   },
   {
+    "id": 409828,
+    "name": "Rune-Hero",
+    "key": "rune-hero",
+    "dir": [
+      "RuneHero"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19392,
     "name": "Rune-It-All",
     "key": "runeitall",
@@ -71200,6 +71230,16 @@
     "key": "surprise",
     "dir": [
       "Surprise"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409820,
+    "name": "Surrender /Command",
+    "key": "surrender",
+    "dir": [
+      "Surrender"
     ],
     "source": "curse",
     "mode": 1
