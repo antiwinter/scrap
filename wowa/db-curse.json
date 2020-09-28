@@ -26746,7 +26746,7 @@
   {
     "id": 50218,
     "name": "Execute Range",
-    "key": "dispatch-flasher",
+    "key": "execute-range",
     "dir": [
       "ExecuteRange"
     ],
@@ -37067,6 +37067,16 @@
     "key": "hidelvl",
     "dir": [
       "HideLvl"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 410241,
+    "name": "HideMacroName",
+    "key": "hidemacroname",
+    "dir": [
+      "HideMacroName"
     ],
     "source": "curse",
     "mode": 1
@@ -48619,6 +48629,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 410116,
+    "name": "Mega Macro",
+    "key": "mega-macro",
+    "dir": [
+      "MegaMacro"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 318841,
