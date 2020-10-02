@@ -16799,6 +16799,17 @@
     "mode": 1
   },
   {
+    "id": 410818,
+    "name": "Collectionator",
+    "key": "collectionator",
+    "dir": [
+      "Collectionator",
+      "Collectionator-data"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 95567,
     "name": "Color Picker Advanced",
     "key": "color-picker-advanced",
@@ -18258,16 +18269,6 @@
     "mode": 1
   },
   {
-    "id": 363347,
-    "name": "CorruptionAffix",
-    "key": "corruptionaffix",
-    "dir": [
-      "CorruptionAffix"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 13715,
     "name": "Cosplay",
     "key": "cosplay",
@@ -18516,7 +18517,7 @@
       "CritCommander"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 368578,
@@ -23886,16 +23887,6 @@
     "mode": 1
   },
   {
-    "id": 349711,
-    "name": "ES_Tradeskill",
-    "key": "es_tradeskill",
-    "dir": [
-      "ES_Tradeskill"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 17234,
     "name": "ESkin",
     "key": "eskin",
@@ -26450,16 +26441,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 353472,
-    "name": "ErrorDKP",
-    "key": "errordkp",
-    "dir": [
-      "ErrorDKP"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 20371,
@@ -35923,6 +35904,36 @@
       "HealBot_Tips",
       "HealBot_tw",
       "HealBot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 410730,
+    "name": "HealBot Classic Plugin Threat",
+    "key": "healbot-classic-plugin-threat",
+    "dir": [
+      "HealBot_Plugin_Threat"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 410731,
+    "name": "HealBot Classic Plugin TimeToDie",
+    "key": "healbot-classic-plugin-timetodie",
+    "dir": [
+      "HealBot_Plugin_TimeToDie"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 410732,
+    "name": "HealBot Classic Plugin TimeToLive",
+    "key": "healbot-classic-plugin-timetolive",
+    "dir": [
+      "HealBot_Plugin_TimeToLive"
     ],
     "source": "curse",
     "mode": 2
@@ -54159,6 +54170,16 @@
     "mode": 1
   },
   {
+    "id": 410714,
+    "name": "OnCast (classic)",
+    "key": "oncast-classic",
+    "dir": [
+      "OnCast"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 258064,
     "name": "OnTargets",
     "key": "ontargets",
@@ -64792,7 +64813,7 @@
       "ScreenPlus"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 262167,
@@ -71722,6 +71743,16 @@
     "mode": 2
   },
   {
+    "id": 410737,
+    "name": "Syndicate_Summoner",
+    "key": "syndicate_summoner",
+    "dir": [
+      "Syndicate_Summoner"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 91697,
     "name": "Syracs Rune Check",
     "key": "syracs-rune-check",
@@ -78093,10 +78124,11 @@
     "name": "Vendor",
     "key": "vendor",
     "dir": [
-      "Vendor_Ark",
       "Vendor_Pawn",
+      "Vendor_Ark",
       "Vendor_RulePack",
-      "Vendor"
+      "Vendor",
+      "Vendor_TSM"
     ],
     "source": "curse",
     "mode": 3
