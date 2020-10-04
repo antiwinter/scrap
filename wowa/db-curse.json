@@ -1422,7 +1422,7 @@
       "AddOnSkins"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 325109,
@@ -1432,7 +1432,7 @@
       "AddOnSkins"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 90853,
@@ -6255,8 +6255,8 @@
   },
   {
     "id": 398791,
-    "name": "AutoWhisperInvite Classic",
-    "key": "autowhisperinvite-classic",
+    "name": "AutoWhisperInvite",
+    "key": "autowhisperinvite",
     "dir": [
       "AutoWhisperInvite"
     ],
@@ -15650,6 +15650,16 @@
     "mode": 3
   },
   {
+    "id": 409913,
+    "name": "Classic Floating Combat Text",
+    "key": "classic-floating-combat-text",
+    "dir": [
+      "ClassicFCT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342685,
     "name": "Classic Gold Tracker",
     "key": "classic-gold-tracker",
@@ -21938,11 +21948,17 @@
     "name": "Details! Damage Meter Shadowlands",
     "key": "details-damage-meter-shadowlands-beta",
     "dir": [
+      "Details_ChartViewer",
+      "Details_DataStorage",
+      "Details_DeathGraphs",
+      "Details_EncounterDetails",
+      "Details_RaidCheck",
+      "Details_RaidPowerBars",
+      "Details_Streamer",
+      "Details_TargetCaller",
+      "Details_TimeLine",
       "Details_AdvancedPlayerBreakdown",
       "Details_CastHistory",
-      "Details_DataStorage",
-      "Details_EncounterDetails",
-      "Details_Streamer",
       "Details"
     ],
     "source": "curse",
@@ -39650,6 +39666,16 @@
     "mode": 1
   },
   {
+    "id": 410808,
+    "name": "IsenAutoCombatLog",
+    "key": "isenautocombatlog",
+    "dir": [
+      "IsenAutoCombatLog"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 94521,
     "name": "IskarFails",
     "key": "iskarfails",
@@ -54764,16 +54790,6 @@
     "mode": 3
   },
   {
-    "id": 88096,
-    "name": "OzCooldowns",
-    "key": "ozcooldowns",
-    "dir": [
-      "OzCooldowns"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 357955,
     "name": "PADKP Tool Tip",
     "key": "padkp-tool-tip",
@@ -58228,7 +58244,7 @@
       "ProjectAzilroka"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 363452,
@@ -58828,6 +58844,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 409129,
+    "name": "Quartz Rank",
+    "key": "quartz-rank",
+    "dir": [
+      "Quartz_Rank"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 46800,
