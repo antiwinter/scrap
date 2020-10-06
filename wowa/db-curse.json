@@ -1103,16 +1103,6 @@
     "mode": 1
   },
   {
-    "id": 101536,
-    "name": "Achievement Hunter",
-    "key": "achievementhunter",
-    "dir": [
-      "achievementhunter"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102497,
     "name": "Achievement Jam!",
     "key": "achievement-jam",
@@ -2337,6 +2327,16 @@
     "mode": 1
   },
   {
+    "id": 411405,
+    "name": "All in one minimalistic",
+    "key": "all-in-one-minimalistic",
+    "dir": [
+      "AllinoneMinimalistic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 6958,
     "name": "AllPlayed",
     "key": "all-played-laotseu",
@@ -2628,7 +2628,8 @@
       "DataStore_Spells",
       "DataStore_Stats",
       "DataStore_Talents",
-      "DataStore"
+      "DataStore",
+      "DataStore_Rares"
     ],
     "source": "curse",
     "mode": 1
@@ -6438,6 +6439,16 @@
     "mode": 1
   },
   {
+    "id": 409972,
+    "name": "AzerPUG-GameUtility-ChattyThings",
+    "key": "azerpug-gameutility-chattythings",
+    "dir": [
+      "AzerPUG-GameUtility-ChattyThings"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 409956,
     "name": "AzerPUG-GameUtility-Core",
     "key": "azerpug-gameutility-core",
@@ -8599,16 +8610,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 365975,
-    "name": "Berserkerclan",
-    "key": "berserkerclan",
-    "dir": [
-      "Berserker"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 360318,
@@ -16152,6 +16153,16 @@
     "mode": 1
   },
   {
+    "id": 411003,
+    "name": "ClassicNFCT",
+    "key": "classicnfct",
+    "dir": [
+      "ClassicNFCT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 408210,
     "name": "ClassicNumbers",
     "key": "classicnumbers",
@@ -17384,6 +17395,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390738,
+    "name": "CommunityDKP",
+    "key": "communitydkp",
+    "dir": [
+      "CommunityDKP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 323095,
@@ -20634,36 +20655,6 @@
     "mode": 1
   },
   {
-    "id": 19873,
-    "name": "DataStore_Achievements",
-    "key": "datastore_achievements",
-    "dir": [
-      "DataStore_Achievements"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 29739,
-    "name": "DataStore_Agenda",
-    "key": "datastore_agenda",
-    "dir": [
-      "DataStore_Agenda"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20205,
-    "name": "DataStore_Auctions",
-    "key": "datastore_auctions",
-    "dir": [
-      "DataStore_Auctions"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 19872,
     "name": "DataStore_Containers",
     "key": "datastore_containers",
@@ -20684,17 +20675,6 @@
     "mode": 1
   },
   {
-    "id": 88051,
-    "name": "DataStore_Garrisons",
-    "key": "datastore_garrisons",
-    "dir": [
-      "datastore_garrisons",
-      "DataStore_Garrisons"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 20208,
     "name": "DataStore_Inventory",
     "key": "datastore_inventory",
@@ -20705,61 +20685,11 @@
     "mode": 1
   },
   {
-    "id": 19875,
-    "name": "DataStore_Pets",
-    "key": "datastore_pets",
-    "dir": [
-      "DataStore_Pets"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20210,
-    "name": "DataStore_Quests",
-    "key": "datastore_quests",
-    "dir": [
-      "DataStore_Quests"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 19876,
     "name": "DataStore_Reputations",
     "key": "datastore_reputations",
     "dir": [
       "DataStore_Reputations"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20212,
-    "name": "DataStore_Spells",
-    "key": "datastore_spells",
-    "dir": [
-      "DataStore_Spells"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20213,
-    "name": "DataStore_Stats",
-    "key": "datastore_stats",
-    "dir": [
-      "DataStore_Stats"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 19877,
-    "name": "DataStore_Talents",
-    "key": "datastore_talents",
-    "dir": [
-      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 1
@@ -25476,8 +25406,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -26578,16 +26508,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 365416,
-    "name": "Essential DKP",
-    "key": "essential-dkp",
-    "dir": [
-      "EssentialDKP"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 86104,
@@ -32112,7 +32032,8 @@
     "key": "goldgoblinloot",
     "dir": [
       "GoldGoblinLootArchive",
-      "GoldGoblinLoot"
+      "GoldGoblinLoot",
+      "+GoldGoblinLoot"
     ],
     "source": "curse",
     "mode": 1
@@ -32186,16 +32107,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 86258,
-    "name": "GoldenPortrait",
-    "key": "goldenportrait",
-    "dir": [
-      "GoldenPortrait"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 88369,
@@ -37507,6 +37418,16 @@
     "mode": 1
   },
   {
+    "id": 411376,
+    "name": "HoN Announcer (REMADE)",
+    "key": "hon-announcer-remade",
+    "dir": [
+      "HoNAnnouncer-Remade"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 21000,
     "name": "HoNAnnouncer",
     "key": "hon-announcer",
@@ -37535,6 +37456,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 411355,
+    "name": "Hold My Ale - AQ20 Loot Vacuum",
+    "key": "hold-my-ale-aq20-loot-vacuum",
+    "dir": [
+      "HMA_AQ20_GB_Looter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 254541,
@@ -40800,6 +40731,16 @@
     "mode": 1
   },
   {
+    "id": 410566,
+    "name": "Kallye Raid Frames",
+    "key": "kallye-raid-frames",
+    "dir": [
+      "KallyeRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 299541,
     "name": "Kals AutoPetSummoner",
     "key": "kals-autopetsummoner",
@@ -43486,7 +43427,7 @@
       "LibArray"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100638,
@@ -46688,6 +46629,36 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 411196,
+    "name": "MUI_Config",
+    "key": "mui_config",
+    "dir": [
+      "MUI_Config"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 411194,
+    "name": "MUI_Core",
+    "key": "mui_core",
+    "dir": [
+      "MUI_Core"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 411198,
+    "name": "MUI_Setup",
+    "key": "mui_setup",
+    "dir": [
+      "MUI_Setup"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 65792,
@@ -50180,6 +50151,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 365975,
+    "name": "Monochrome Guild",
+    "key": "monochrome",
+    "dir": [
+      "Monochrome"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 335947,
@@ -61406,6 +61387,16 @@
     "key": "random-dungeon-generator",
     "dir": [
       "Random Dungeon Generator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 411106,
+    "name": "Random Farming Generator",
+    "key": "random-farming-generator",
+    "dir": [
+      "Random Farming Generator"
     ],
     "source": "curse",
     "mode": 1
@@ -72692,6 +72683,16 @@
     "mode": 1
   },
   {
+    "id": 411332,
+    "name": "Taunterino v2",
+    "key": "taunterino-v2",
+    "dir": [
+      "Taunterino"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 96505,
     "name": "Taunts Off",
     "key": "tauntsoff",
@@ -75558,7 +75559,7 @@
       "TomTomTargetArrow"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19151,
@@ -76230,6 +76231,16 @@
     "key": "tracking-switcher",
     "dir": [
       "TrackingSwitcher"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 411216,
+    "name": "TrackingMenu",
+    "key": "trackingmenu",
+    "dir": [
+      "TrackingMenu"
     ],
     "source": "curse",
     "mode": 2
@@ -84194,6 +84205,16 @@
     "mode": 1
   },
   {
+    "id": 411445,
+    "name": "gbTools",
+    "key": "gbtools",
+    "dir": [
+      "gb"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102231,
     "name": "gg ez",
     "key": "ggez",
@@ -86744,6 +86765,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 411336,
+    "name": "vUI Movement Speed Data Text",
+    "key": "vui-movement-speed",
+    "dir": [
+      "vUI_MovementSpeed"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 379096,
