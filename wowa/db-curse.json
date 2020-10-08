@@ -8818,6 +8818,16 @@
     "mode": 1
   },
   {
+    "id": 410934,
+    "name": "Better Damage",
+    "key": "betterdamage",
+    "dir": [
+      "BetterDamage"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 254826,
     "name": "Better Difficulty",
     "key": "better-difficulty",
@@ -16998,7 +17008,7 @@
       "CombatTimeTracker"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 314947,
@@ -21424,7 +21434,8 @@
     "name": "Def's Toolbox",
     "key": "defs-toolbox",
     "dir": [
-      "Defs-Toolbox"
+      "Defs-Toolbox",
+      "Defs-Toolbox-Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -26510,6 +26521,16 @@
     "mode": 1
   },
   {
+    "id": 365416,
+    "name": "Essential DKP",
+    "key": "essential-dkp",
+    "dir": [
+      "EssentialDKP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 86104,
     "name": "Evening Wear",
     "key": "evening-wear",
@@ -31589,6 +31610,16 @@
     "mode": 3
   },
   {
+    "id": 411665,
+    "name": "Global TMog",
+    "key": "global-tmog",
+    "dir": [
+      "Global TMog"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 377190,
     "name": "GlobalPlayed",
     "key": "globalplayed",
@@ -32147,6 +32178,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 410820,
+    "name": "GoobDKP",
+    "key": "goobdkp",
+    "dir": [
+      "Goobdkp"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 366649,
@@ -66864,16 +66905,6 @@
     "mode": 1
   },
   {
-    "id": 330480,
-    "name": "Simple Guild Raid Invite",
-    "key": "simple-guild-raid-invite",
-    "dir": [
-      "SimpleGuildRaidInvite"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 39877,
     "name": "Simple Holy Power",
     "key": "simple-holy-power",
@@ -67446,16 +67477,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 66125,
-    "name": "SimpleVignette",
-    "key": "simplevingette",
-    "dir": [
-      "SimpleVignette"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 396427,
@@ -69153,6 +69174,16 @@
     "key": "specswap_legion",
     "dir": [
       "SpecSwap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408393,
+    "name": "Specialization Specific Keybinds",
+    "key": "specialization-specific-keybinds",
+    "dir": [
+      "SpecSpecificKeybinds"
     ],
     "source": "curse",
     "mode": 1
@@ -71714,6 +71745,16 @@
     "key": "swyns-guild-promoter",
     "dir": [
       "SwynGuildPromoter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 398177,
+    "name": "Syling Tracker",
+    "key": "sylingtracker",
+    "dir": [
+      "SylingTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -75739,7 +75780,7 @@
       "WoWeuCN_Tooltips"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 287586,
