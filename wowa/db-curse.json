@@ -21889,6 +21889,7 @@
     "name": "Details! Damage Meter Shadowlands",
     "key": "details-damage-meter-shadowlands-beta",
     "dir": [
+      "Details_CastHistory",
       "Details_ChartViewer",
       "Details_DataStorage",
       "Details_DeathGraphs",
@@ -21898,8 +21899,6 @@
       "Details_Streamer",
       "Details_TargetCaller",
       "Details_TimeLine",
-      "Details_AdvancedPlayerBreakdown",
-      "Details_CastHistory",
       "Details"
     ],
     "source": "curse",
@@ -23315,16 +23314,6 @@
     "key": "dumpster-reborn",
     "dir": [
       "Dumpster"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 86007,
-    "name": "Dungeon Difficulty",
-    "key": "dungeon-difficulty",
-    "dir": [
-      "DungeonDifficulty"
     ],
     "source": "curse",
     "mode": 1
@@ -46673,7 +46662,7 @@
   },
   {
     "id": 411196,
-    "name": "MUI_Config",
+    "name": "MUI Config",
     "key": "mui_config",
     "dir": [
       "MUI_Config"
@@ -46683,7 +46672,7 @@
   },
   {
     "id": 411194,
-    "name": "MUI_Core",
+    "name": "MUI Core",
     "key": "mui_core",
     "dir": [
       "MUI_Core"
@@ -46693,7 +46682,7 @@
   },
   {
     "id": 411198,
-    "name": "MUI_Setup",
+    "name": "MUI Setup",
     "key": "mui_setup",
     "dir": [
       "MUI_Setup"
@@ -47977,7 +47966,7 @@
       "Masque_LiteStep"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 313963,
@@ -49001,16 +48990,6 @@
     "key": "microbaghider",
     "dir": [
       "MicroBagHider"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 298602,
-    "name": "MicroCancel",
-    "key": "microcancel",
-    "dir": [
-      "MicroCancel"
     ],
     "source": "curse",
     "mode": 1
@@ -62114,6 +62093,16 @@
     "mode": 1
   },
   {
+    "id": 411974,
+    "name": "Readycheck Screenshot",
+    "key": "readycheck-screenshot",
+    "dir": [
+      "Readycheck Screenshot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 255228,
     "name": "Reagent Banker",
     "key": "reagent-banker",
@@ -64809,6 +64798,16 @@
     "key": "scrapmeltdownassist",
     "dir": [
       "ScrapMeltdownAssist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412047,
+    "name": "Scrap_ElvUI",
+    "key": "scrap_elvui",
+    "dir": [
+      "Scrap_ElvUI"
     ],
     "source": "curse",
     "mode": 1
@@ -72311,6 +72310,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 411210,
+    "name": "Tanis LC-Helper",
+    "key": "tanis-lc-helper",
+    "dir": [
+      "DD_LC_Helper"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 398385,
@@ -79960,6 +79969,16 @@
     "mode": 3
   },
   {
+    "id": 411921,
+    "name": "Whisper Logs 2",
+    "key": "whisper-logs-2",
+    "dir": [
+      "WhisperLogs2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 1689,
     "name": "WhisperAction",
     "key": "project-1689",
@@ -84773,7 +84792,8 @@
     "name": "iP Mythic Timer",
     "key": "ip-mythic-timer",
     "dir": [
-      "ipmythictimer"
+      "ipmythictimer",
+      "iPMythicTimer"
     ],
     "source": "curse",
     "mode": 1
