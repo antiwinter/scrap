@@ -631,6 +631,16 @@
     "mode": 2
   },
   {
+    "id": 411355,
+    "name": "AQ20 Guild Bank Loot Vacuum",
+    "key": "aq20-guild-bank-loot-vacuum",
+    "dir": [
+      "HMA_AQ20_GB_Looter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 349425,
     "name": "AT Raid Export",
     "key": "at-raid-export",
@@ -6851,16 +6861,6 @@
     "mode": 3
   },
   {
-    "id": 338692,
-    "name": "BGCallouts_classic",
-    "key": "bgcallouts_classic",
-    "dir": [
-      "BGCallouts"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 87757,
     "name": "BGFrames",
     "key": "bgframes",
@@ -11444,16 +11444,6 @@
     "mode": 1
   },
   {
-    "id": 101689,
-    "name": "Broker: Call to Arms",
-    "key": "broker-call-arms",
-    "dir": [
-      "Broker_CTA"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102836,
     "name": "Broker: Cash",
     "key": "broker_cash",
@@ -13367,7 +13357,8 @@
     "dir": [
       "CUI_WorldmapMarkers",
       "CUI",
-      "CUI_Config"
+      "CUI_Config",
+      "CUI_Statistics"
     ],
     "source": "curse",
     "mode": 1
@@ -30859,7 +30850,7 @@
       "Geist"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102311,
@@ -32051,9 +32042,9 @@
     "name": "GoldGoblinLoot",
     "key": "goldgoblinloot",
     "dir": [
-      "GoldGoblinLootArchive",
       "GoldGoblinLoot",
-      "+GoldGoblinLoot"
+      "+GoldGoblinLoot",
+      "GoldGoblinLootArchive"
     ],
     "source": "curse",
     "mode": 1
@@ -37488,16 +37479,6 @@
     "mode": 1
   },
   {
-    "id": 411355,
-    "name": "Hold My Ale - AQ20 Loot Vacuum",
-    "key": "hold-my-ale-aq20-loot-vacuum",
-    "dir": [
-      "HMA_AQ20_GB_Looter"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 254541,
     "name": "Holiday Reminder",
     "key": "holiday-reminder",
@@ -42832,16 +42813,6 @@
     "mode": 1
   },
   {
-    "id": 298842,
-    "name": "Leatrix Maps (Battle for Azeroth and Shadowlands)",
-    "key": "leatrix-maps",
-    "dir": [
-      "Leatrix_Maps"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 324034,
     "name": "Leatrix Maps (Classic)",
     "key": "leatrix-maps-classic",
@@ -42852,11 +42823,11 @@
     "mode": 2
   },
   {
-    "id": 94855,
-    "name": "Leatrix Plus (Battle for Azeroth and Shadowlands)",
-    "key": "leatrix-plus",
+    "id": 298842,
+    "name": "Leatrix Maps (Shadowlands)",
+    "key": "leatrix-maps",
     "dir": [
-      "Leatrix_Plus"
+      "Leatrix_Maps"
     ],
     "source": "curse",
     "mode": 1
@@ -42872,11 +42843,11 @@
     "mode": 2
   },
   {
-    "id": 304659,
-    "name": "Leatrix Sounds (Battle for Azeroth and Shadowlands)",
-    "key": "leatrix-sounds",
+    "id": 94855,
+    "name": "Leatrix Plus (Shadowlands)",
+    "key": "leatrix-plus",
     "dir": [
-      "Leatrix_Sounds"
+      "Leatrix_Plus"
     ],
     "source": "curse",
     "mode": 1
@@ -42890,6 +42861,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 304659,
+    "name": "Leatrix Sounds (Shadowlands)",
+    "key": "leatrix-sounds",
+    "dir": [
+      "Leatrix_Sounds"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 93662,
@@ -50772,7 +50753,7 @@
       "MouseoverPortrai"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 25935,
@@ -59982,6 +59963,16 @@
     "mode": 1
   },
   {
+    "id": 316956,
+    "name": "R.IO Info in TRP3 Tooltips",
+    "key": "raider-io-total-rp-3-tooltips",
+    "dir": [
+      "tRP3_RDotIO"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 294365,
     "name": "RAFP",
     "key": "rafp",
@@ -61281,16 +61272,6 @@
     "key": "raidbuffstatus-continued",
     "dir": [
       "RaidBuffStatus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 316956,
-    "name": "Raider.IO Info in Total RP 3 Tooltips",
-    "key": "raider-io-total-rp-3-tooltips",
-    "dir": [
-      "tRP3_RDotIO"
     ],
     "source": "curse",
     "mode": 1
@@ -78002,6 +77983,16 @@
     "key": "vers-addon",
     "dir": [
       "VERSAddon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 411907,
+    "name": "VGS",
+    "key": "vgs",
+    "dir": [
+      "VGS"
     ],
     "source": "curse",
     "mode": 1
