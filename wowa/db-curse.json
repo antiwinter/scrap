@@ -511,7 +511,7 @@
   },
   {
     "id": 301639,
-    "name": "AIA - Accept (Calendar) Invites Automatically",
+    "name": "AIA Calendar Manager - Accept Invites Automatically",
     "key": "aia",
     "dir": [
       "AIA"
@@ -1391,7 +1391,7 @@
       "adblock"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20830,
@@ -1594,6 +1594,7 @@
       "AdiBags_ByExpansion_Cata",
       "AdiBags_ByExpansion_Legion",
       "AdiBags_ByExpansion_MoP",
+      "AdiBags_ByExpansion_Shadowlands",
       "AdiBags_ByExpansion_TBC",
       "AdiBags_ByExpansion_WoD",
       "AdiBags_ByExpansion_WoW",
@@ -2428,6 +2429,16 @@
     "mode": 3
   },
   {
+    "id": 265581,
+    "name": "Alt Manager",
+    "key": "method-alt-manager",
+    "dir": [
+      "AltManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 298830,
     "name": "Alt Paragon Tracker",
     "key": "alt-paragon-tracker",
@@ -2483,6 +2494,17 @@
     "key": "alttab",
     "dir": [
       "AltTabber"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413132,
+    "name": "AltVault",
+    "key": "altvault",
+    "dir": [
+      "AltVault",
+      "AltVaultData"
     ],
     "source": "curse",
     "mode": 1
@@ -2566,7 +2588,9 @@
       "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
-      "DataStore_Pets"
+      "DataStore_Keystones",
+      "DataStore_Pets",
+      "DataStore_Rares"
     ],
     "source": "curse",
     "mode": 3
@@ -5209,7 +5233,7 @@
       "AutoGossip"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 377054,
@@ -6272,7 +6296,7 @@
       "AutoWhisperInvite"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 83846,
@@ -6469,6 +6493,26 @@
     "mode": 1
   },
   {
+    "id": 412899,
+    "name": "AzerPUG-GameUtility-LevelStats",
+    "key": "azerpug-gameutility-levelstats",
+    "dir": [
+      "AzerPUG-GameUtility-LevelStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412230,
+    "name": "AzerPUG-GameUtility-QuestEfficiency",
+    "key": "azerpug-gameutility-questefficiency",
+    "dir": [
+      "AzerPUG-GameUtility-QuestEfficiency"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 409959,
     "name": "AzerPUG-GameUtility-RepBars",
     "key": "azerpug-gameutility-repbars",
@@ -6654,16 +6698,9 @@
     "name": "Azeroth Auto Pilot",
     "key": "azeroth-auto-pilot",
     "dir": [
-      "AAP-BfA",
-      "AAP-Cata-MoP",
-      "AAP-Legion",
-      "AAP-TBC-WotLK",
-      "AAP-Vanilla",
-      "AAP-WoD",
-      "AAP-Core",
-      "Azeroth Auto Pilot",
       "AAP-EasternKingdoms",
-      "AAP-Shadowlands"
+      "AAP-Shadowlands",
+      "AAP-Core"
     ],
     "source": "curse",
     "mode": 1
@@ -6684,6 +6721,16 @@
     "key": "azeroth-at-war-achievments",
     "dir": [
       "hqAzerothAtWar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412815,
+    "name": "AzerothAudigy",
+    "key": "azerothaudigy",
+    "dir": [
+      "AzerothAudigy"
     ],
     "source": "curse",
     "mode": 1
@@ -8159,6 +8206,16 @@
     "mode": 1
   },
   {
+    "id": 412845,
+    "name": "Battle Pet Battle UI Tweaks",
+    "key": "battle-pet-battle-ui-tweaks",
+    "dir": [
+      "BattlePetBattleUITweaks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 48478,
     "name": "Battle Pet Binds",
     "key": "battle-pet-binds",
@@ -8622,6 +8679,16 @@
     "mode": 2
   },
   {
+    "id": 412590,
+    "name": "Best In Slot - Classic - To Be Continued",
+    "key": "best-in-slot-classic-to-be-continued",
+    "dir": [
+      "BestInSlotClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 369136,
     "name": "Best In Slot NG",
     "key": "best-in-slot-ng",
@@ -8816,6 +8883,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 341428,
+    "name": "Better Crits",
+    "key": "better-crits",
+    "dir": [
+      "BetterCrits"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 410934,
@@ -12479,7 +12556,7 @@
   },
   {
     "id": 297375,
-    "name": "BtWQuests: Classic (for Retail)",
+    "name": "BtWQuests: Classic (Deprecated)",
     "key": "btw-quests-classic",
     "dir": [
       "BtWQuestsClassic"
@@ -13028,16 +13105,6 @@
     "mode": 2
   },
   {
-    "id": 2590,
-    "name": "BuyEmAll BfA",
-    "key": "buyemall",
-    "dir": [
-      "BuyEmAll"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 342082,
     "name": "BuyEmAll Classic",
     "key": "buyemall-classic",
@@ -13046,6 +13113,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 2590,
+    "name": "BuyEmAll Shadowlands",
+    "key": "buyemall",
+    "dir": [
+      "BuyEmAll"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 405922,
@@ -13479,16 +13556,6 @@
     "key": "calendar_checker",
     "dir": [
       "CalendarChecker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 299774,
-    "name": "Calendar Late",
-    "key": "calendar-late",
-    "dir": [
-      "CalendarLate"
     ],
     "source": "curse",
     "mode": 1
@@ -14983,6 +15050,16 @@
     "id": 13663,
     "name": "Chatter",
     "key": "chatter",
+    "dir": [
+      "Chatter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412724,
+    "name": "Chatter patched for Shadowlands",
+    "key": "chatter-patched-for-shadowlands",
     "dir": [
       "Chatter"
     ],
@@ -18542,16 +18619,6 @@
     "mode": 1
   },
   {
-    "id": 341428,
-    "name": "Crit Commander",
-    "key": "crit-commander",
-    "dir": [
-      "CritCommander"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 368578,
     "name": "CritChain CLASSIC",
     "key": "critchain-classic",
@@ -18796,6 +18863,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 412420,
+    "name": "Currency Value",
+    "key": "currency-value",
+    "dir": [
+      "CurrencyValue"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 34324,
@@ -20656,6 +20733,46 @@
     "mode": 1
   },
   {
+    "id": 19873,
+    "name": "DataStore_Achievements",
+    "key": "datastore_achievements",
+    "dir": [
+      "DataStore_Achievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 29739,
+    "name": "DataStore_Agenda",
+    "key": "datastore_agenda",
+    "dir": [
+      "DataStore_Agenda"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20205,
+    "name": "DataStore_Auctions",
+    "key": "datastore_auctions",
+    "dir": [
+      "DataStore_Auctions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20206,
+    "name": "DataStore_Characters",
+    "key": "datastore_characters",
+    "dir": [
+      "DataStore_Characters"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19872,
     "name": "DataStore_Containers",
     "key": "datastore_containers",
@@ -20676,6 +20793,26 @@
     "mode": 1
   },
   {
+    "id": 20207,
+    "name": "DataStore_Currencies",
+    "key": "datastore_currencies",
+    "dir": [
+      "DataStore_Currencies"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 88051,
+    "name": "DataStore_Garrisons",
+    "key": "datastore_garrisons",
+    "dir": [
+      "DataStore_Garrisons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20208,
     "name": "DataStore_Inventory",
     "key": "datastore_inventory",
@@ -20686,11 +20823,91 @@
     "mode": 1
   },
   {
+    "id": 411498,
+    "name": "DataStore_Keystones",
+    "key": "datastore_keystones",
+    "dir": [
+      "DataStore_Keystones"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20209,
+    "name": "DataStore_Mails",
+    "key": "datastore_mails",
+    "dir": [
+      "DataStore_Mails"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 19875,
+    "name": "DataStore_Pets",
+    "key": "datastore_pets",
+    "dir": [
+      "DataStore_Pets"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20210,
+    "name": "DataStore_Quests",
+    "key": "datastore_quests",
+    "dir": [
+      "DataStore_Quests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 411494,
+    "name": "DataStore_Rares",
+    "key": "datastore_rares",
+    "dir": [
+      "DataStore_Rares"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19876,
     "name": "DataStore_Reputations",
     "key": "datastore_reputations",
     "dir": [
       "DataStore_Reputations"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20212,
+    "name": "DataStore_Spells",
+    "key": "datastore_spells",
+    "dir": [
+      "DataStore_Spells"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20213,
+    "name": "DataStore_Stats",
+    "key": "datastore_stats",
+    "dir": [
+      "DataStore_Stats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 19877,
+    "name": "DataStore_Talents",
+    "key": "datastore_talents",
+    "dir": [
+      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 1
@@ -20802,10 +21019,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -20814,7 +21027,11 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -22699,6 +22916,16 @@
     "mode": 1
   },
   {
+    "id": 412432,
+    "name": "DontForgetMe",
+    "key": "dontforgetme",
+    "dir": [
+      "DontForgetMe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 257638,
     "name": "Dont_Release",
     "key": "dont_release",
@@ -23099,6 +23326,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 412814,
+    "name": "DropTrash",
+    "key": "droptrash",
+    "dir": [
+      "DropTrash"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 334762,
@@ -24136,6 +24373,16 @@
     "mode": 1
   },
   {
+    "id": 413304,
+    "name": "Easy Swap",
+    "key": "easy-swap",
+    "dir": [
+      "EasySwap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27283,
     "name": "Easy TradeSkills",
     "key": "easy-tradeskills",
@@ -24242,16 +24489,6 @@
     "key": "easygroupfinder",
     "dir": [
       "EasyGroupFinder"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 408671,
-    "name": "EasyInvites",
-    "key": "easyinvites",
-    "dir": [
-      "EasyInvites"
     ],
     "source": "curse",
     "mode": 1
@@ -24506,6 +24743,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 413110,
+    "name": "Elerion's Professions Mod",
+    "key": "elerions-professions-mod",
+    "dir": [
+      "ElesMod"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 29339,
@@ -24918,7 +25165,7 @@
   },
   {
     "id": 101590,
-    "name": "ElvUI Enhanced Again (BfA)",
+    "name": "ElvUI Enhanced Again (Shadowlands)",
     "key": "elvui-enhanced-again",
     "dir": [
       "ElvUI_Enhanced"
@@ -25133,8 +25380,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts",
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts_Classic",
+      "ElvUI_NutsAndBolts"
     ],
     "source": "curse",
     "mode": 3
@@ -25365,7 +25612,7 @@
   {
     "id": 300361,
     "name": "ElvUI WindTools",
-    "key": "elvui_windtools",
+    "key": "elvui-windtools",
     "dir": [
       "ElvUI_WindTools"
     ],
@@ -25903,16 +26150,6 @@
     "key": "encounterjournalplus_instanceinf",
     "dir": [
       "EncounterJournalPlus_InstanceInfo"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 263966,
-    "name": "Endless Raid Tools",
-    "key": "endless-raid-tools",
-    "dir": [
-      "EndlessRaidTools"
     ],
     "source": "curse",
     "mode": 1
@@ -27510,6 +27747,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 412896,
+    "name": "FarmSesh",
+    "key": "farmsesh",
+    "dir": [
+      "FarmSesh"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 4983,
@@ -31291,6 +31538,16 @@
     "mode": 1
   },
   {
+    "id": 412745,
+    "name": "Gladiatorial Arena Frame",
+    "key": "shado-ladius",
+    "dir": [
+      "Gladius"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29689,
     "name": "GladiatorlosSA",
     "key": "gladiatorlossa",
@@ -32042,9 +32299,9 @@
     "name": "GoldGoblinLoot",
     "key": "goldgoblinloot",
     "dir": [
-      "GoldGoblinLoot",
       "+GoldGoblinLoot",
-      "GoldGoblinLootArchive"
+      "GoldGoblinLootArchive",
+      "GoldGoblinLoot"
     ],
     "source": "curse",
     "mode": 1
@@ -36426,6 +36683,16 @@
     "mode": 2
   },
   {
+    "id": 410191,
+    "name": "HeroDBC",
+    "key": "herodbc",
+    "dir": [
+      "HeroDBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 271528,
     "name": "HeroLib",
     "key": "herolib",
@@ -37156,6 +37423,16 @@
     "key": "hidenpctracking",
     "dir": [
       "HideNpcTracking"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 353605,
+    "name": "HideObjectives",
+    "key": "toggleobjectives",
+    "dir": [
+      "HideObjectives"
     ],
     "source": "curse",
     "mode": 1
@@ -38572,7 +38849,7 @@
       "ImprovedBlizzardUI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 355022,
@@ -38851,6 +39128,17 @@
     "key": "infinite-paradigm-raider-channel-tool",
     "dir": [
       "Channel_Rejoiner_Infinite_Paradigm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 263966,
+    "name": "Infinite Raid Tools",
+    "key": "infinite-raid-tools",
+    "dir": [
+      "EndlessRaidTools",
+      "InfiniteRaidTools"
     ],
     "source": "curse",
     "mode": 1
@@ -40006,17 +40294,6 @@
     "mode": 2
   },
   {
-    "id": 1186,
-    "name": "ItemRack",
-    "key": "itemrack",
-    "dir": [
-      "ItemRackOptions",
-      "ItemRack"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 340903,
     "name": "ItemRack Classic",
     "key": "itemrack-classic",
@@ -40712,16 +40989,6 @@
     "mode": 2
   },
   {
-    "id": 374093,
-    "name": "KTracker",
-    "key": "ktracker",
-    "dir": [
-      "!KTracker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 339809,
     "name": "Kaliel's Quest Tracker (Classic)",
     "key": "kaliels-tracker-classic",
@@ -40807,16 +41074,6 @@
     "key": "kals-movablemoneylabel",
     "dir": [
       "Kals_MovableMoneyLabel"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 299209,
-    "name": "Kals QuestTextToChat",
-    "key": "kalsquesttexttochat",
-    "dir": [
-      "Kals_QuestTextToChat"
     ],
     "source": "curse",
     "mode": 2
@@ -42460,6 +42717,26 @@
     "mode": 1
   },
   {
+    "id": 101604,
+    "name": "LS: Toasts",
+    "key": "ls-toasts",
+    "dir": [
+      "ls_Toasts"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 81413,
+    "name": "LS: UI",
+    "key": "ls-ui",
+    "dir": [
+      "ls_UI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 74042,
     "name": "LSM-CCRedAlert",
     "key": "lsm-ccredalert",
@@ -42514,8 +42791,7 @@
     "name": "LUI Core",
     "key": "lui",
     "dir": [
-      "LUI",
-      "Bartender4"
+      "LUI"
     ],
     "source": "curse",
     "mode": 1
@@ -42740,7 +43016,7 @@
       "LazyReadycheck"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 290074,
@@ -42748,6 +43024,16 @@
     "key": "lazycurve",
     "dir": [
       "LazyCurve"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408671,
+    "name": "LazyInvites",
+    "key": "lazyinvites",
+    "dir": [
+      "LazyInvites"
     ],
     "source": "curse",
     "mode": 1
@@ -44010,6 +44296,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 412373,
+    "name": "LibGatheringNodes",
+    "key": "libgatheringnodes",
+    "dir": [
+      "LibGatheringNodes"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 310275,
@@ -47847,7 +48143,7 @@
       "Masque_Gears"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86271,
@@ -48936,16 +49232,6 @@
     "mode": 3
   },
   {
-    "id": 265581,
-    "name": "Method Alt Manager",
-    "key": "method-alt-manager",
-    "dir": [
-      "MethodAltManager"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 301649,
     "name": "MezUI",
     "key": "mezui",
@@ -49024,7 +49310,7 @@
       "MikScrollingBattleText"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 326273,
@@ -49281,6 +49567,16 @@
     "key": "minimal-archaeology",
     "dir": [
       "MinimalArchaeology"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 409210,
+    "name": "Minimal Head Frame",
+    "key": "minimal-head-frame",
+    "dir": [
+      "MinimalHeadFrame"
     ],
     "source": "curse",
     "mode": 1
@@ -49827,6 +50123,16 @@
     "key": "mog-assistant",
     "dir": [
       "MogAssistant"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413253,
+    "name": "MogAllArtifacts",
+    "key": "mogallartifacts",
+    "dir": [
+      "MogAllArtifacts"
     ],
     "source": "curse",
     "mode": 1
@@ -50897,6 +51203,16 @@
     "mode": 2
   },
   {
+    "id": 412676,
+    "name": "MoveSpeed",
+    "key": "movespeed",
+    "dir": [
+      "MoveSpeed"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 402280,
     "name": "MoveStandardFrame",
     "key": "movestandardframe",
@@ -51605,16 +51921,6 @@
     "mode": 1
   },
   {
-    "id": 310224,
-    "name": "MyPathfinder",
-    "key": "mypathfinder",
-    "dir": [
-      "MyPathfinder"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 388188,
     "name": "MyPocket",
     "key": "mypocket",
@@ -51967,6 +52273,16 @@
     "mode": 1
   },
   {
+    "id": 324377,
+    "name": "NDui",
+    "key": "ndui",
+    "dir": [
+      "NDui"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 338794,
     "name": "NDui Classic",
     "key": "ndui-classic",
@@ -51975,16 +52291,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 324377,
-    "name": "NDui Core",
-    "key": "ndui",
-    "dir": [
-      "NDui"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 389434,
@@ -52021,8 +52327,8 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossip",
-      "NPCRPGossipClassic"
+      "NPCRPGossipClassic",
+      "NPCRPGossip"
     ],
     "source": "curse",
     "mode": 3
@@ -52280,7 +52586,8 @@
     "key": "narcissus",
     "dir": [
       "Narcissus",
-      "Narcissus_Database"
+      "Narcissus_Database",
+      "Narcissus_Barbershop"
     ],
     "source": "curse",
     "mode": 1
@@ -53882,6 +54189,16 @@
     "key": "obituary",
     "dir": [
       "Obituary"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412159,
+    "name": "ObjectScanner",
+    "key": "objectscanner",
+    "dir": [
+      "ObjectScanner"
     ],
     "source": "curse",
     "mode": 1
@@ -56941,16 +57258,6 @@
     "mode": 3
   },
   {
-    "id": 396952,
-    "name": "Plater Nameplates for Shadowlands",
-    "key": "plater-nameplates-for-shadowlands-beta",
-    "dir": [
-      "Plater"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 275697,
     "name": "PlaySound Temporal Fix",
     "key": "playsound-temporal-fix",
@@ -57256,6 +57563,16 @@
     "key": "polmonitor-continued",
     "dir": [
       "PolMonitor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412587,
+    "name": "Poli Leveling Util",
+    "key": "poli-leveling-util",
+    "dir": [
+      "PoliLevelingUtil"
     ],
     "source": "curse",
     "mode": 1
@@ -58984,6 +59301,26 @@
     "key": "quest-map-details",
     "dir": [
       "QuestMapWithDetails"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 94616,
+    "name": "Quest Out Loud",
+    "key": "quest-out-loud",
+    "dir": [
+      "QuestOutLoud"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 412707,
+    "name": "Quest Out Loud - Exile's Reach",
+    "key": "quest-out-loud-exiles-reach",
+    "dir": [
+      "QuestOutLoud_ExilesReach"
     ],
     "source": "curse",
     "mode": 1
@@ -62950,8 +63287,8 @@
     "name": "RepHelper",
     "key": "rephelper",
     "dir": [
-      "RepHelper",
-      "RepHelper_Classic"
+      "RepHelper_Classic",
+      "RepHelper"
     ],
     "source": "curse",
     "mode": 3
@@ -64285,6 +64622,16 @@
     "mode": 1
   },
   {
+    "id": 413096,
+    "name": "Safe Armory Classic Addon",
+    "key": "safe-armory-classic-addon",
+    "dir": [
+      "SafeArmoryClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 363233,
     "name": "Safe Pull Classic",
     "key": "safe-pull-classic",
@@ -64681,6 +65028,17 @@
     "dir": [
       "Scorchio2_Options",
       "Scorchio2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 27055,
+    "name": "Scoreboard",
+    "key": "titanpanel-points",
+    "dir": [
+      "TitanPoints",
+      "Scoreboard"
     ],
     "source": "curse",
     "mode": 1
@@ -65122,7 +65480,7 @@
       "Select"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 269003,
@@ -65354,16 +65712,6 @@
     "key": "serrah_lio",
     "dir": [
       "Serrah_Lio"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 359894,
-    "name": "SerthanaUI",
-    "key": "serthanaui",
-    "dir": [
-      "SerthanaUI"
     ],
     "source": "curse",
     "mode": 1
@@ -66609,7 +66957,8 @@
       "SilverDragon_Legion",
       "SilverDragon",
       "SilverDragon_Classic",
-      "SilverDragon_BattleForAzeroth"
+      "SilverDragon_BattleForAzeroth",
+      "SilverDragon_Shadowlands"
     ],
     "source": "curse",
     "mode": 3
@@ -67183,6 +67532,17 @@
     "mode": 1
   },
   {
+    "id": 412308,
+    "name": "SimpleCC",
+    "key": "simplecc",
+    "dir": [
+      "SimpleCC_Config",
+      "SimpleCC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 6911,
     "name": "SimpleCalc",
     "key": "simple_calc",
@@ -67467,6 +67827,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 359894,
+    "name": "Simplified UI",
+    "key": "simplifiedui",
+    "dir": [
+      "SimplifiedUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 97080,
@@ -68855,6 +69225,16 @@
     "mode": 2
   },
   {
+    "id": 412982,
+    "name": "SoulKeeper",
+    "key": "soulkeeper",
+    "dir": [
+      "SoulKeeper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 336356,
     "name": "SoulSort - Easy Soul Shard Management",
     "key": "soulsort-easy-soul-shard-management",
@@ -69675,10 +70055,11 @@
     "name": "Spinx Daily Items",
     "key": "dailyitems",
     "dir": [
-      "DailyItems"
+      "DailyItems",
+      "SpinxDailyItems"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340193,
@@ -72433,6 +72814,16 @@
     "mode": 1
   },
   {
+    "id": 412169,
+    "name": "Tankus Check ( Trinket Check )",
+    "key": "tankus-check-trinket-check",
+    "dir": [
+      "Tankus Check"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 364996,
     "name": "Target 3D Model Viewer",
     "key": "target-3d-model-viewer",
@@ -73202,6 +73593,16 @@
     "key": "thesyndicategui",
     "dir": [
       "TheSyndicateGUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 380731,
+    "name": "Thelo-Macrohelper",
+    "key": "thelo-macrohelper",
+    "dir": [
+      "Thelo-Macrohelper"
     ],
     "source": "curse",
     "mode": 1
@@ -74718,16 +75119,6 @@
     "key": "titanpals",
     "dir": [
       "TitanPals"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 27055,
-    "name": "Titan Panel [Points]",
-    "key": "titanpanel-points",
-    "dir": [
-      "TitanPoints"
     ],
     "source": "curse",
     "mode": 1
@@ -77798,6 +78189,16 @@
     "mode": 1
   },
   {
+    "id": 413341,
+    "name": "Unlimited Map Pin Distance",
+    "key": "unlimited-map-pin-distance",
+    "dir": [
+      "UnlimitedMapPinDistance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 21715,
     "name": "UnlimitedChatMessage",
     "key": "unlimitedchatmessage",
@@ -78405,8 +78806,8 @@
   },
   {
     "id": 359854,
-    "name": "Vex Runes - BFA",
-    "key": "vex-runes-bfa",
+    "name": "Vex Runes - Shadowlands",
+    "key": "vex-runes-sl",
     "dir": [
       "vexrunes"
     ],
@@ -80661,10 +81062,6 @@
     "dir": [
       "WoWPro_Leveling",
       "WowPro",
-      "WoWPro_Dailies",
-      "WoWPro_Profession",
-      "WoWPro_WorldEvents",
-      "WoWPro_Achievements",
       "WoWPro"
     ],
     "source": "curse",
@@ -81422,7 +81819,7 @@
     "name": "Wowaudit Invite Tool",
     "key": "wowaudit-invite-tool",
     "dir": [
-      "v0.1.1"
+      "v0.1.2"
     ],
     "source": "curse",
     "mode": 1
@@ -81747,7 +82144,7 @@
       "xp_timer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 313014,
@@ -82485,7 +82882,6 @@
     "name": "Zadrot AutoRes",
     "key": "autores",
     "dir": [
-      "Zadrot AutoRes",
       "Zadrot_AutoRes"
     ],
     "source": "curse",
@@ -82496,7 +82892,7 @@
     "name": "Zadrot AutoTrain",
     "key": "autotrain",
     "dir": [
-      "Zadrot AutoTrain"
+      "Zadrot_AutoTrain"
     ],
     "source": "curse",
     "mode": 1
@@ -82526,7 +82922,7 @@
     "name": "Zadrot KillSound",
     "key": "zadrot-killsound",
     "dir": [
-      "Zadrot KillSound"
+      "Zadrot_KillSound"
     ],
     "source": "curse",
     "mode": 1
@@ -84950,6 +85346,16 @@
     "mode": 1
   },
   {
+    "id": 412648,
+    "name": "iWclPlayerScore",
+    "key": "iwclplayerscore",
+    "dir": [
+      "iWclPlayerScore"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340729,
     "name": "iateyourpie Emotes",
     "key": "iateyourpie-emotes",
@@ -85181,31 +85587,11 @@
     "mode": 1
   },
   {
-    "id": 101604,
-    "name": "ls: Toasts",
-    "key": "ls-toasts",
-    "dir": [
-      "ls_Toasts"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 277644,
     "name": "ls: Toasts - sqw",
     "key": "ls-toasts-sqw",
     "dir": [
       "ls_Toasts-sqw"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 81413,
-    "name": "ls: UI",
-    "key": "ls-ui",
-    "dir": [
-      "ls_UI"
     ],
     "source": "curse",
     "mode": 1
@@ -86658,16 +87044,6 @@
     "mode": 1
   },
   {
-    "id": 353605,
-    "name": "toggleObjectives",
-    "key": "toggleobjectives",
-    "dir": [
-      "HideObjectives"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 32629,
     "name": "tomYeller",
     "key": "tomyeller",
@@ -87274,6 +87650,16 @@
     "key": "zpets",
     "dir": [
       "zPets"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413216,
+    "name": "zifPet",
+    "key": "zifpet",
+    "dir": [
+      "zifPet"
     ],
     "source": "curse",
     "mode": 1
