@@ -711,6 +711,16 @@
     "mode": 3
   },
   {
+    "id": 413944,
+    "name": "Abandon Zone Quests",
+    "key": "abandon-zone-quests",
+    "dir": [
+      "AbandonZoneQuest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334989,
     "name": "AbarClassic",
     "key": "abarclassic",
@@ -3240,7 +3250,7 @@
       "AnyFont"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 93450,
@@ -4070,16 +4080,6 @@
     "key": "artifactmenu",
     "dir": [
       "ArtifactMenu"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 262555,
-    "name": "ArtifactPowerKillsYou",
-    "key": "artifactpowerkillsyou",
-    "dir": [
-      "ArtifactPowerKillsYou"
     ],
     "source": "curse",
     "mode": 1
@@ -5765,6 +5765,16 @@
     "key": "autogroupaccept",
     "dir": [
       "AutoGroupAccept"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414081,
+    "name": "AutoGuildNote",
+    "key": "autoguildnote",
+    "dir": [
+      "AutoGuildNote"
     ],
     "source": "curse",
     "mode": 1
@@ -11613,6 +11623,16 @@
     "mode": 1
   },
   {
+    "id": 413516,
+    "name": "Broker: GGSocialState2",
+    "key": "broker-ggsocialstate2",
+    "dir": [
+      "GGSocialState2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102729,
     "name": "Broker: GotMail",
     "key": "broker-gotmail",
@@ -13466,8 +13486,8 @@
     "dir": [
       "CUI_WorldmapMarkers",
       "CUI",
-      "CUI_Config",
-      "CUI_Statistics"
+      "CUI_Statistics",
+      "CUI_Config"
     ],
     "source": "curse",
     "mode": 1
@@ -16563,6 +16583,16 @@
     "mode": 1
   },
   {
+    "id": 413789,
+    "name": "Clear Map Pin",
+    "key": "clear-map-pin",
+    "dir": [
+      "ClearMapPin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 409457,
     "name": "CleverPet",
     "key": "cleverpet",
@@ -16621,6 +16651,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 413629,
+    "name": "Clippy Assist",
+    "key": "clippy-assist",
+    "dir": [
+      "ClippyAssist"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 15564,
@@ -18070,16 +18110,6 @@
     "key": "cooky-item-splitter",
     "dir": [
       "CookyItemSplitter"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 95267,
-    "name": "CookyChat",
-    "key": "cookychat",
-    "dir": [
-      "CookyChat"
     ],
     "source": "curse",
     "mode": 1
@@ -19890,7 +19920,7 @@
   },
   {
     "id": 15406,
-    "name": "DHUD for 8.0 and Classic",
+    "name": "DHUD for 9.0 and Classic",
     "key": "dhud-3_0",
     "dir": [
       "DHUD_Options",
@@ -20189,8 +20219,8 @@
     "name": "DagAssist Continued",
     "key": "dagassist-continued",
     "dir": [
-      "DagAssist",
-      "DagAssistClassic"
+      "DagAssistClassic",
+      "DagAssist"
     ],
     "source": "curse",
     "mode": 3
@@ -21918,6 +21948,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 413260,
+    "name": "Dejunk (Sell & Destroy Junk)",
+    "key": "dejunk",
+    "dir": [
+      "Dejunk"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 392624,
@@ -26173,16 +26213,6 @@
     "key": "encounterjournalplus_instanceinf",
     "dir": [
       "EncounterJournalPlus_InstanceInfo"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 274181,
-    "name": "Endure Boss Checker",
-    "key": "endure-boss-checker",
-    "dir": [
-      "EndureBossChecker"
     ],
     "source": "curse",
     "mode": 1
@@ -31910,6 +31940,16 @@
     "mode": 2
   },
   {
+    "id": 413699,
+    "name": "GlowOFF",
+    "key": "glowoff",
+    "dir": [
+      "GlowOFF"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 22288,
     "name": "Gluggen's Easy Fix",
     "key": "gezfx",
@@ -34630,7 +34670,7 @@
       "GuildNoteChanges"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 90114,
@@ -36334,6 +36374,16 @@
     "mode": 3
   },
   {
+    "id": 413959,
+    "name": "Health Alarm",
+    "key": "health-alarm",
+    "dir": [
+      "HealthAlarm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 312940,
     "name": "Healthstone Auto Macro",
     "key": "healthstone-auto-macro",
@@ -36926,6 +36976,16 @@
     "key": "hide-clean-up-bags-button",
     "dir": [
       "HideCleanUpBagsButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413742,
+    "name": "Hide Corruption Tooltips",
+    "key": "hide-corruption-tooltips",
+    "dir": [
+      "HideCorruptionTooltips"
     ],
     "source": "curse",
     "mode": 1
@@ -37907,6 +37967,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 260248,
+    "name": "Honor Track",
+    "key": "honor-track",
+    "dir": [
+      "HonorTrack"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 351773,
@@ -40191,7 +40261,8 @@
       "ILD-Litebag",
       "ILD-Baggins",
       "ILD-Combuctor",
-      "ILD-Onebag3"
+      "ILD-Onebag3",
+      "ILD-Baudbag"
     ],
     "source": "curse",
     "mode": 1
@@ -41013,6 +41084,16 @@
     "mode": 2
   },
   {
+    "id": 374093,
+    "name": "KTracker",
+    "key": "ktracker",
+    "dir": [
+      "!KTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 339809,
     "name": "Kaliel's Quest Tracker (Classic)",
     "key": "kaliels-tracker-classic",
@@ -41721,8 +41802,8 @@
     "name": "KillThemAll",
     "key": "killthemall",
     "dir": [
-      "KillThemAll",
-      "KillThemAll_Classic"
+      "KillThemAll_Classic",
+      "KillThemAll"
     ],
     "source": "curse",
     "mode": 3
@@ -41782,6 +41863,16 @@
     "id": 306083,
     "name": "KillThemAll_Sargeras",
     "key": "killthemall_sargeras",
+    "dir": [
+      "KillThemAll_Sargeras"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413731,
+    "name": "KillThemAll_Sargeras (Reupload)",
+    "key": "killthemall_sargeras-reupload",
     "dir": [
       "KillThemAll_Sargeras"
     ],
@@ -43334,16 +43425,6 @@
     "key": "legion-combo-point-frame",
     "dir": [
       "LegionCPFrame"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 260248,
-    "name": "Legion Honor",
-    "key": "legion-honor",
-    "dir": [
-      "LegionHonor"
     ],
     "source": "curse",
     "mode": 1
@@ -50129,7 +50210,7 @@
       "ModelPique"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102332,
@@ -50674,6 +50755,16 @@
     "mode": 2
   },
   {
+    "id": 413895,
+    "name": "More Buffs Per Row",
+    "key": "more-buffs-per-row",
+    "dir": [
+      "MoreBuffsPerRow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 85099,
     "name": "More Stopwatches",
     "key": "more-stopwatches",
@@ -50993,7 +51084,7 @@
       "MouseLook"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 44010,
@@ -51101,6 +51192,16 @@
     "key": "mouselookhandler",
     "dir": [
       "MouselookHandler"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 300304,
+    "name": "Mouseover Hide Objectives",
+    "key": "mouseoverhideobjectives",
+    "dir": [
+      "MouseoverHideObjectives"
     ],
     "source": "curse",
     "mode": 1
@@ -51279,7 +51380,7 @@
   {
     "id": 402280,
     "name": "MoveStandardFrame",
-    "key": "movestandardframe",
+    "key": "msf",
     "dir": [
       "MoveStandardFrame"
     ],
@@ -57492,6 +57593,26 @@
     "mode": 1
   },
   {
+    "id": 414001,
+    "name": "PlexusIndicatorsDynamic",
+    "key": "plexusindicatorsdynamic",
+    "dir": [
+      "PlexusIndicatorsDynamic"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 413886,
+    "name": "PlexusStatusAurasExt",
+    "key": "plexusstatusaurasext",
+    "dir": [
+      "PlexusStatusAurasExt"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 399251,
     "name": "PlexusStatusHealTracker",
     "key": "plexusstatushealtracker",
@@ -58507,17 +58628,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 102607,
-    "name": "ProfessionTab",
-    "key": "professiontab",
-    "dir": [
-      "ProfessionTab",
-      "CloudyTradeSkill"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 92838,
@@ -59798,6 +59908,16 @@
     "key": "questprogresstooltips",
     "dir": [
       "QuestProgressTooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413775,
+    "name": "QuestPuncher",
+    "key": "quest-puncher",
+    "dir": [
+      "QuestPuncher"
     ],
     "source": "curse",
     "mode": 1
@@ -66989,6 +67109,16 @@
     "mode": 1
   },
   {
+    "id": 413697,
+    "name": "Silentium",
+    "key": "silentium",
+    "dir": [
+      "Silentium"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 398416,
     "name": "SilfUI",
     "key": "silfui",
@@ -68413,6 +68543,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 413845,
+    "name": "SlashPin",
+    "key": "slashpin",
+    "dir": [
+      "SlashPin"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 260659,
@@ -70705,6 +70845,16 @@
     "key": "statusbars2",
     "dir": [
       "StatusBars2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413888,
+    "name": "Stay Sheathed Lite",
+    "key": "stay-sheathed-lite",
+    "dir": [
+      "StaySheathed"
     ],
     "source": "curse",
     "mode": 1
@@ -78987,8 +79137,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
-      "Viks_ConfigUI"
+      "Viks_ConfigUI",
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
@@ -80172,7 +80322,8 @@
     "key": "weekkeys",
     "dir": [
       "WeekKeys",
-      "WeekKeys_Guild"
+      "WeekKeys_Guild",
+      "WeekKeys_MTable"
     ],
     "source": "curse",
     "mode": 1
@@ -81903,6 +82054,16 @@
     "mode": 1
   },
   {
+    "id": 414057,
+    "name": "WowInfo",
+    "key": "wowinfo",
+    "dir": [
+      "WowInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 24331,
     "name": "WowLua - Lua in Wow",
     "key": "wowlua",
@@ -83094,6 +83255,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 413760,
+    "name": "ZeldaLoot Extended",
+    "key": "zeldaloot-extended",
+    "dir": [
+      "ZeldaLoot_Extended"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 91085,
@@ -85539,6 +85710,16 @@
     "key": "ifarm",
     "dir": [
       "ifarm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413244,
+    "name": "jAutoQuest",
+    "key": "jautoquest",
+    "dir": [
+      "jAutoQuest"
     ],
     "source": "curse",
     "mode": 1
