@@ -4779,6 +4779,16 @@
     "mode": 2
   },
   {
+    "id": 414434,
+    "name": "Attune",
+    "key": "attune",
+    "dir": [
+      "Attune"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 341208,
     "name": "AuTwoSell",
     "key": "autwosell",
@@ -5405,6 +5415,16 @@
     "key": "auto-stopwatch",
     "dir": [
       "AutoStopwatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414142,
+    "name": "Auto Track Map Pin",
+    "key": "auto-track-map-pin",
+    "dir": [
+      "AutoTrackMapPin"
     ],
     "source": "curse",
     "mode": 1
@@ -6707,7 +6727,7 @@
   },
   {
     "id": 300706,
-    "name": "Azeroth Adventure Album",
+    "name": "Azeroth Adventure Album Legacy",
     "key": "azeroth-adventure-album",
     "dir": [
       "AzerothAdventureAlbum"
@@ -6945,26 +6965,6 @@
     "key": "bgframes",
     "dir": [
       "BGFrames"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 102345,
-    "name": "BGL-PBR",
-    "key": "bgl-pbr",
-    "dir": [
-      "BGL-PBR"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 310881,
-    "name": "BGL-QAT",
-    "key": "bgl-qat",
-    "dir": [
-      "BGL-QAT"
     ],
     "source": "curse",
     "mode": 1
@@ -15911,6 +15911,16 @@
     "mode": 1
   },
   {
+    "id": 414259,
+    "name": "Classic Quest Log ElvUI Skin",
+    "key": "classic-quest-log-elvui-skin",
+    "dir": [
+      "Classic Quest Log ElvUI Skin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 358382,
     "name": "Classic Raid Assist",
     "key": "classic-raid-assist",
@@ -18818,7 +18828,7 @@
   {
     "id": 102408,
     "name": "Crosshairs",
-    "key": "crosshairs-enhanced",
+    "key": "crosshairs",
     "dir": [
       "Crosshairs"
     ],
@@ -19710,7 +19720,7 @@
   },
   {
     "id": 373926,
-    "name": "DBM Voicepack: Littprince 小王子语音包",
+    "name": "DBM Voicepack: Littprince 小王子语音包 （女声）",
     "key": "dbm-voicepack-littprince",
     "dir": [
       "DBM-VPZoeEvans"
@@ -21102,7 +21112,8 @@
       "DBM-Party-Shadowlands",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
-      "DBM-CastleNathria"
+      "DBM-CastleNathria",
+      "DBM-Shadowlands"
     ],
     "source": "curse",
     "mode": 3
@@ -25247,6 +25258,16 @@
     "mode": 1
   },
   {
+    "id": 414520,
+    "name": "ElvUI Enhanced Cursor Tooltip",
+    "key": "elvui-enhanced-cursor-tooltip",
+    "dir": [
+      "ElvUI_EnhancedCursorTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 69207,
     "name": "ElvUI Equipment Sets Datatext",
     "key": "elvui-equipmentsetsdt",
@@ -27004,6 +27025,16 @@
     "mode": 1
   },
   {
+    "id": 414442,
+    "name": "ExitBroker",
+    "key": "exitbroker",
+    "dir": [
+      "ExitBroker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 284907,
     "name": "Exlist",
     "key": "exlist",
@@ -27059,6 +27090,16 @@
     "key": "expstats",
     "dir": [
       "expstats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414353,
+    "name": "ExpTextRemove",
+    "key": "exptextremove",
+    "dir": [
+      "ExpTextRemove"
     ],
     "source": "curse",
     "mode": 1
@@ -33378,7 +33419,7 @@
       "GridTooltip2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14141,
@@ -36344,6 +36385,16 @@
     "mode": 2
   },
   {
+    "id": 414194,
+    "name": "Healers Adjust Loot Priority",
+    "key": "healers-adjust-loot-priority",
+    "dir": [
+      "Healersadjust_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 7976,
     "name": "Healing Groups Sucks Continued",
     "key": "hgscontinued",
@@ -36796,6 +36847,16 @@
     "key": "heroicraidready",
     "dir": [
       "HeroicRaidReady"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414197,
+    "name": "Hexs' Hexes",
+    "key": "hexs-hexes",
+    "dir": [
+      "HexsHexes"
     ],
     "source": "curse",
     "mode": 1
@@ -38170,6 +38231,16 @@
     "mode": 1
   },
   {
+    "id": 414407,
+    "name": "Hunter Pet Status",
+    "key": "hunter-pet-status",
+    "dir": [
+      "HunterPetStatus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 358123,
     "name": "Hunter Pet XP",
     "key": "hunter-pet-xp",
@@ -38983,6 +39054,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 413567,
+    "name": "Improved Macro Frame",
+    "key": "improved-macro-frame",
+    "dir": [
+      "ImprovedMacroFrame"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 31682,
@@ -39947,6 +40028,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 414391,
+    "name": "Ironforge Lap Counter [Classic]",
+    "key": "ironforge-lap-counter-classic",
+    "dir": [
+      "IronforgeLapCounter"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 400237,
@@ -44420,7 +44511,7 @@
       "LibGatheringNodes"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 310275,
@@ -46964,10 +47055,10 @@
   },
   {
     "id": 409781,
-    "name": "MDX_Auto Macro",
+    "name": "MDX_Auto_Macro",
     "key": "mdx_auto-macro",
     "dir": [
-      "MDX_Auto Macro"
+      "MDX_Auto_Macro"
     ],
     "source": "curse",
     "mode": 1
@@ -47148,6 +47239,16 @@
     "key": "macro-collection",
     "dir": [
       "MacroCollection"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414457,
+    "name": "Macro Extractor",
+    "key": "macro-extractor",
+    "dir": [
+      "MacroExtractor"
     ],
     "source": "curse",
     "mode": 1
@@ -49758,6 +49859,17 @@
     "mode": 1
   },
   {
+    "id": 414251,
+    "name": "Minimap Button Frame (Fan-Update)",
+    "key": "minimap-button-frame-fan-update",
+    "dir": [
+      "MinimapButtonFrame_SkinPack",
+      "MinimapButtonFrame"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 32669,
     "name": "Minimap Mousewheel Enabler",
     "key": "minimap-mousewheel-enabler",
@@ -49936,6 +50048,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 414479,
+    "name": "Misdirect Helper",
+    "key": "misdirect-helper",
+    "dir": [
+      "MisdirectHelper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 74585,
@@ -51311,7 +51433,6 @@
     "name": "Move Sanity Orb Button",
     "key": "move-sanity-orb-button",
     "dir": [
-      "ZAFtoEAB",
       "MoveSanityOrb"
     ],
     "source": "curse",
@@ -66523,6 +66644,16 @@
     "mode": 1
   },
   {
+    "id": 414004,
+    "name": "SharpeComboPoints",
+    "key": "sharpecombopoints",
+    "dir": [
+      "SharpeComboHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 289284,
     "name": "Shath'Yar",
     "key": "shathyar",
@@ -66907,6 +67038,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 414588,
+    "name": "ShowMyStats",
+    "key": "showmystats",
+    "dir": [
+      "ShowMyStats"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 256294,
@@ -67925,6 +68066,16 @@
     "key": "simplepowerbar",
     "dir": [
       "SimplePowerBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413975,
+    "name": "SimpleProfessionBroker",
+    "key": "simpleprofessionbroker",
+    "dir": [
+      "SimpleProfessionBroker"
     ],
     "source": "curse",
     "mode": 1
@@ -77941,7 +78092,7 @@
   },
   {
     "id": 293075,
-    "name": "Twintop's Insanity Bar",
+    "name": "Twintop's Resource Bar (formerly, Twintop's Insanity Bar)",
     "key": "twintops-insanity-bar",
     "dir": [
       "TwintopInsanityBar"
@@ -82088,7 +82239,7 @@
     "name": "Wowaudit Invite Tool",
     "key": "wowaudit-invite-tool",
     "dir": [
-      "v0.1.2"
+      "WowauditInviteTool"
     ],
     "source": "curse",
     "mode": 1
@@ -85219,6 +85370,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 414241,
+    "name": "goLoot",
+    "key": "goloot",
+    "dir": [
+      "goLoot"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 342870,
