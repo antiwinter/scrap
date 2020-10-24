@@ -7856,6 +7856,16 @@
     "mode": 3
   },
   {
+    "id": 414334,
+    "name": "BananaBar3 WoW Classic Addon",
+    "key": "bananabar3-wow-classic-addon",
+    "dir": [
+      "BananaBar3"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 371996,
     "name": "BananaraidSpliT - easy raid split",
     "key": "bananaraidsplit",
@@ -13653,6 +13663,16 @@
     "mode": 1
   },
   {
+    "id": 414764,
+    "name": "Caligo Raid Frames",
+    "key": "caligo-raid-frames",
+    "dir": [
+      "CaligoRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 95800,
     "name": "Call To Arms Tracker",
     "key": "call-arms-tracker",
@@ -18550,6 +18570,16 @@
     "mode": 1
   },
   {
+    "id": 413777,
+    "name": "Covenant Party!",
+    "key": "covenant-party",
+    "dir": [
+      "CovenantParty"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 91237,
     "name": "Coylist",
     "key": "coylist",
@@ -22827,6 +22857,16 @@
     "mode": 2
   },
   {
+    "id": 415017,
+    "name": "Do My Bidding",
+    "key": "do-my-bidding",
+    "dir": [
+      "DoMyBidding"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 298344,
     "name": "Do You Need That?",
     "key": "doyouneedthat",
@@ -24543,6 +24583,16 @@
     "key": "easy-copy",
     "dir": [
       "EasyCopy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414637,
+    "name": "EasyDestroy - Disenchanting Made Easy",
+    "key": "easydestroy-disenchanting-made-easy",
+    "dir": [
+      "EasyDestroy"
     ],
     "source": "curse",
     "mode": 1
@@ -26524,8 +26574,7 @@
     "name": "Epic Food List",
     "key": "efl",
     "dir": [
-      "EpicFoodList",
-      "EpicFoodListClassic"
+      "EpicFoodList"
     ],
     "source": "curse",
     "mode": 3
@@ -26820,6 +26869,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 415043,
+    "name": "EuiComboPoint",
+    "key": "euicombopoint",
+    "dir": [
+      "EuiComboPoint"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 86104,
@@ -30802,6 +30861,16 @@
     "key": "gastronomicon",
     "dir": [
       "Gastronomicon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414381,
+    "name": "GatherCounter Cont.",
+    "key": "gathercounter-cont",
+    "dir": [
+      "GatherCounter"
     ],
     "source": "curse",
     "mode": 1
@@ -38343,6 +38412,16 @@
     "mode": 1
   },
   {
+    "id": 414986,
+    "name": "Hyperphase",
+    "key": "hyperphase",
+    "dir": [
+      "Hyperphase"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 324431,
     "name": "Hyperspawn",
     "key": "hyperspawn",
@@ -38756,6 +38835,16 @@
     "mode": 2
   },
   {
+    "id": 415015,
+    "name": "Iconer",
+    "key": "iconer",
+    "dir": [
+      "Iconer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 286395,
     "name": "Icy Veins Stat Priority",
     "key": "icy-veins-stat-priority",
@@ -39003,7 +39092,7 @@
       "ImprovedBlizzardUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 355022,
@@ -52017,6 +52106,16 @@
     "mode": 3
   },
   {
+    "id": 408549,
+    "name": "My Dungeons Book",
+    "key": "my-dungeons-book",
+    "dir": [
+      "MyDungeonsBook"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 288905,
     "name": "My Friend Mark",
     "key": "my-friend-mark",
@@ -53975,6 +54074,26 @@
     "mode": 2
   },
   {
+    "id": 414874,
+    "name": "NoobTacoUI",
+    "key": "noobtacoui",
+    "dir": [
+      "NoobTacoUI"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 414875,
+    "name": "NoobTacoUI-Media",
+    "key": "noobtacoui-media",
+    "dir": [
+      "NoobTacoUI-Media"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 87640,
     "name": "Northern Ale",
     "key": "northern_ale",
@@ -55919,13 +56038,13 @@
   },
   {
     "id": 341686,
-    "name": "PartyMarkerClassic",
-    "key": "partymarkerclassic",
+    "name": "PartyMarker",
+    "key": "partymarker",
     "dir": [
-      "PartyMarkerClassic"
+      "PartyMarker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 96380,
@@ -56366,6 +56485,16 @@
     "key": "petattack",
     "dir": [
       "PetAttack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414660,
+    "name": "Pet Auction Levels",
+    "key": "pet-auction-levels",
+    "dir": [
+      "PetAuctionLevels"
     ],
     "source": "curse",
     "mode": 1
@@ -66950,6 +67079,16 @@
     "mode": 1
   },
   {
+    "id": 414588,
+    "name": "Show My Stats",
+    "key": "showmystats",
+    "dir": [
+      "ShowMyStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295931,
     "name": "Show Nameplate Hit Box",
     "key": "show-nameplate-hit-box",
@@ -67038,16 +67177,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 414588,
-    "name": "ShowMyStats",
-    "key": "showmystats",
-    "dir": [
-      "ShowMyStats"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 256294,
@@ -71491,6 +71620,16 @@
     "key": "subspec",
     "dir": [
       "SubSpec"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414562,
+    "name": "Subscribe Popup Blocker",
+    "key": "subscribe-popup-blocker",
+    "dir": [
+      "SubscribePopupBlocker"
     ],
     "source": "curse",
     "mode": 1
@@ -76435,7 +76574,8 @@
     "name": "TooManyAddons",
     "key": "too-many-addons",
     "dir": [
-      "toomanyaddons"
+      "toomanyaddons",
+      "TooManyAddons"
     ],
     "source": "curse",
     "mode": 1
@@ -77090,6 +77230,16 @@
     "key": "tradeskilldrag",
     "dir": [
       "TradeSkillDrag"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414803,
+    "name": "Trade Skill Reagents",
+    "key": "trade-skill-reagents",
+    "dir": [
+      "TradeSkillReagents"
     ],
     "source": "curse",
     "mode": 1
@@ -78166,6 +78316,16 @@
     "key": "tyllus-hidecastbar",
     "dir": [
       "Tyllus' HideCastBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414993,
+    "name": "Tyllus' Interrupt",
+    "key": "tyllus-interrupt",
+    "dir": [
+      "Tyllus' Interrupt"
     ],
     "source": "curse",
     "mode": 1
@@ -80473,6 +80633,7 @@
     "key": "weekkeys",
     "dir": [
       "WeekKeys",
+      "WeekKeys_Friends",
       "WeekKeys_Guild",
       "WeekKeys_MTable"
     ],
@@ -87643,6 +87804,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 414742,
+    "name": "vUI Invite Links",
+    "key": "vui-invite-links",
+    "dir": [
+      "vUI_InviteLinks"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 376377,
