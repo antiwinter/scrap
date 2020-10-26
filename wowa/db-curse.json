@@ -9351,6 +9351,16 @@
     "mode": 1
   },
   {
+    "id": 415432,
+    "name": "BigBattleShout",
+    "key": "bigbattleshout",
+    "dir": [
+      "BigBattleShout"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 349169,
     "name": "BigBrainTanking",
     "key": "bigbraintanking",
@@ -9924,6 +9934,16 @@
     "key": "bills-utils",
     "dir": [
       "BillsUtils"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413770,
+    "name": "Biltong",
+    "key": "biltong",
+    "dir": [
+      "Biltong"
     ],
     "source": "curse",
     "mode": 1
@@ -14345,6 +14365,16 @@
     "mode": 1
   },
   {
+    "id": 409666,
+    "name": "Cell",
+    "key": "cell",
+    "dir": [
+      "Cell"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20146,
     "name": "Cellular",
     "key": "cellular",
@@ -15801,6 +15831,17 @@
     "mode": 2
   },
   {
+    "id": 322865,
+    "name": "Classic Castbars",
+    "key": "classiccastbars",
+    "dir": [
+      "ClassicCastbars_Options",
+      "ClassicCastbars"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 328240,
     "name": "Classic Countdown",
     "key": "classic-countdown",
@@ -15889,6 +15930,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 411003,
+    "name": "Classic Nameplate-based Floating Combat Text",
+    "key": "classicnfct",
+    "dir": [
+      "ClassicNFCT"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 264469,
@@ -16131,17 +16182,6 @@
     "mode": 1
   },
   {
-    "id": 322865,
-    "name": "ClassicCastbars",
-    "key": "classiccastbars",
-    "dir": [
-      "ClassicCastbars_Options",
-      "ClassicCastbars"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 339981,
     "name": "ClassicCensusPlus",
     "key": "classiccensusplus",
@@ -16318,16 +16358,6 @@
     "key": "classiclevelup",
     "dir": [
       "ClassicLevelUp"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 411003,
-    "name": "ClassicNFCT",
-    "key": "classicnfct",
-    "dir": [
-      "ClassicNFCT"
     ],
     "source": "curse",
     "mode": 1
@@ -17607,6 +17637,16 @@
     "mode": 1
   },
   {
+    "id": 415403,
+    "name": "Compact Action Bar",
+    "key": "compact-action-bar",
+    "dir": [
+      "CompactActionBar"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 44085,
     "name": "Compact Runes",
     "key": "compact-runes",
@@ -18018,7 +18058,8 @@
       "ConsolePortBar",
       "ConsolePortLoader",
       "ConsolePortUI_Loot",
-      "ConsolePortUI_Menu"
+      "ConsolePortUI_Menu",
+      "ConsolePort_Config"
     ],
     "source": "curse",
     "mode": 3
@@ -18527,7 +18568,7 @@
       "CountIt"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 382449,
@@ -25510,6 +25551,16 @@
     "mode": 1
   },
   {
+    "id": 415331,
+    "name": "ElvUI NoBorders",
+    "key": "elvui-noborders",
+    "dir": [
+      "ElvUI_NoBorders"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 47763,
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
@@ -25778,8 +25829,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -26948,6 +26999,16 @@
     "key": "eventlib",
     "dir": [
       "EventLib"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 414768,
+    "name": "EventReminder",
+    "key": "eventreminder",
+    "dir": [
+      "EventReminder"
     ],
     "source": "curse",
     "mode": 1
@@ -34020,16 +34081,6 @@
     "mode": 2
   },
   {
-    "id": 364472,
-    "name": "Guidelime_Bustea's 1-60 Horde and Alliance Grinding Guide",
-    "key": "guidelime_busteas-1-60-horde-and-alliance-grinding",
-    "dir": [
-      "Guidelime_Bustea's 1-60 Grinding Horde and Alliance"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 335818,
     "name": "Guidelime_Cowcium",
     "key": "guidelime_cowcium",
@@ -39798,6 +39849,16 @@
     "mode": 1
   },
   {
+    "id": 415390,
+    "name": "InstantLoot",
+    "key": "instantloot",
+    "dir": [
+      "InstantLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29354,
     "name": "Instigator",
     "key": "instigator",
@@ -40932,7 +40993,7 @@
       "JerkScript"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 345010,
@@ -44881,7 +44942,7 @@
       "LibLevelGuess-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14297,
@@ -47313,6 +47374,16 @@
     "mode": 1
   },
   {
+    "id": 415467,
+    "name": "Machigatta's Character Stats Exporter",
+    "key": "mcsexporter",
+    "dir": [
+      "MCSExport"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 48678,
     "name": "Macro Box",
     "key": "macro-box",
@@ -48699,7 +48770,7 @@
       "Masque_Squat"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 27990,
@@ -49934,7 +50005,7 @@
       "Minimap_Alert"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 5292,
@@ -52659,7 +52730,7 @@
   },
   {
     "id": 324377,
-    "name": "NDui",
+    "name": "NDui(core)",
     "key": "ndui",
     "dir": [
       "NDui"
@@ -52669,7 +52740,7 @@
   },
   {
     "id": 338794,
-    "name": "NDui Classic",
+    "name": "NDui(core) Classic",
     "key": "ndui-classic",
     "dir": [
       "NDui"
@@ -59018,6 +59089,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 82538,
+    "name": "ProspectButton",
+    "key": "prospectbutton",
+    "dir": [
+      "ProspectButton"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 68152,
@@ -69449,16 +69530,6 @@
     "mode": 1
   },
   {
-    "id": 298322,
-    "name": "Socialite",
-    "key": "socialite",
-    "dir": [
-      "Socialite"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 26811,
     "name": "Socialite (Titan Social)",
     "key": "titanpanel-social",
@@ -69980,6 +70051,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 415334,
+    "name": "Spassball",
+    "key": "spassball",
+    "dir": [
+      "Spassball"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 267457,
@@ -71566,6 +71647,16 @@
     "key": "streambuddy",
     "dir": [
       "StreamBuddy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415202,
+    "name": "Strongstyle UI",
+    "key": "strongstyle-ui",
+    "dir": [
+      "StrongstyleUI"
     ],
     "source": "curse",
     "mode": 1
@@ -74355,6 +74446,16 @@
     "mode": 1
   },
   {
+    "id": 415145,
+    "name": "ThunderHorn Flock Loot Priority",
+    "key": "thunderhorn-flock-loot-priority",
+    "dir": [
+      "ThunderhornsFlock_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 367988,
     "name": "ThunderLoot",
     "key": "thunderloot",
@@ -75725,6 +75826,16 @@
     "key": "titan-panel-recap",
     "dir": [
       "TitanRecap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415271,
+    "name": "Titan Panel [Recount]",
+    "key": "titan-panel-recount",
+    "dir": [
+      "TitanRecount"
     ],
     "source": "curse",
     "mode": 1
@@ -79865,7 +79976,8 @@
     "name": "WFGoWhoosh",
     "key": "wfgowhoosh",
     "dir": [
-      "WFGoWhoosh"
+      "WFGoWhoosh",
+      "IsQuenBuffed"
     ],
     "source": "curse",
     "mode": 2
