@@ -1695,6 +1695,16 @@
     "mode": 1
   },
   {
+    "id": 415674,
+    "name": "AdiBags - Reputation",
+    "key": "adibags-reputation",
+    "dir": [
+      "AdiBags_Reputation"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 379893,
     "name": "AdiBags - TSM Price Groups",
     "key": "adibags-filter-for-tsm-by-price",
@@ -3650,6 +3660,16 @@
     "key": "arenaraidicons",
     "dir": [
       "ArenaRaidIcons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415931,
+    "name": "Arena Target Healer",
+    "key": "arena-target-healer",
+    "dir": [
+      "ArenaTargetHealer"
     ],
     "source": "curse",
     "mode": 1
@@ -6349,6 +6369,26 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 415989,
+    "name": "AutoZone",
+    "key": "autozone",
+    "dir": [
+      "AutoZone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415991,
+    "name": "AutoZone Classic",
+    "key": "autozone-classic",
+    "dir": [
+      "AutoZone"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 83846,
@@ -10400,7 +10440,7 @@
       "BlockChinese"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101463,
@@ -18257,6 +18297,16 @@
     "mode": 1
   },
   {
+    "id": 415768,
+    "name": "Cooldown Timer",
+    "key": "cooldown-timer",
+    "dir": [
+      "CooldownTimer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 24221,
     "name": "Cooldown Used",
     "key": "cooldown-used",
@@ -19421,7 +19471,7 @@
   },
   {
     "id": 306880,
-    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v8.3.0)",
+    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v9.0.1)",
     "key": "dbm-voice-pack-korean-female-dingdiring",
     "dir": [
       "DBM-VPDingdiringKR"
@@ -22773,6 +22823,16 @@
     "key": "disableportraittext",
     "dir": [
       "DisablePortraitText"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415591,
+    "name": "DisableTT",
+    "key": "disablett",
+    "dir": [
+      "disablett"
     ],
     "source": "curse",
     "mode": 1
@@ -29751,6 +29811,16 @@
     "mode": 2
   },
   {
+    "id": 415572,
+    "name": "Free Instance Fetcher",
+    "key": "free-instance-fetcher",
+    "dir": [
+      "FreeInstanceFetcher"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 319097,
     "name": "Free Instance Sharer",
     "key": "free-instance-sharer",
@@ -33339,7 +33409,7 @@
       "GridStatusExternals"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 32221,
@@ -40027,6 +40097,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 415677,
+    "name": "Intimate Loot Priority",
+    "key": "intimate-loot-priority",
+    "dir": [
+      "Intimate_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 70017,
@@ -48703,6 +48783,16 @@
     "mode": 1
   },
   {
+    "id": 415741,
+    "name": "Masque: Retina",
+    "key": "masque-retina",
+    "dir": [
+      "Masque_Retina"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13601,
     "name": "Masque: Serenity",
     "key": "masque-serenity",
@@ -51687,6 +51777,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 415652,
+    "name": "Movement Speed",
+    "key": "movement-speed",
+    "dir": [
+      "MovementSpeed"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 2268,
@@ -55365,6 +55465,16 @@
     "id": 379384,
     "name": "OutOfMana",
     "key": "outofmana",
+    "dir": [
+      "OutOfMana"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415594,
+    "name": "OutOfMana (OOM)",
+    "key": "outofmana-oom",
     "dir": [
       "OutOfMana"
     ],
@@ -59210,6 +59320,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 415933,
+    "name": "Pumpers",
+    "key": "pumpers",
+    "dir": [
+      "Pumpers"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 28368,
@@ -73611,6 +73731,16 @@
     "mode": 3
   },
   {
+    "id": 415921,
+    "name": "TargetClassName",
+    "key": "targetclassname",
+    "dir": [
+      "TargetClassName"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 390384,
     "name": "TargetEFC",
     "key": "targetefc",
@@ -81407,6 +81537,16 @@
     "mode": 1
   },
   {
+    "id": 415926,
+    "name": "Wide World of Quests",
+    "key": "wide-world-of-quests",
+    "dir": [
+      "WideWorldofQuests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 1205,
     "name": "Widest Audience",
     "key": "widest-audience",
@@ -84660,8 +84800,8 @@
   },
   {
     "id": 335009,
-    "name": "bfaPetDone",
-    "key": "bfapetdone",
+    "name": "bfaPetQuest",
+    "key": "bfapetquest",
     "dir": [
       "bfaPetQuest"
     ],
@@ -88199,7 +88339,7 @@
       "xMerchant"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 335228,
