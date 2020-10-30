@@ -17536,6 +17536,16 @@
     "mode": 1
   },
   {
+    "id": 416203,
+    "name": "Combustion Watcher (Classic)",
+    "key": "combustion-watcher-classic",
+    "dir": [
+      "CombustionWatcher"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 26751,
     "name": "CombustionHelper",
     "key": "combustionhelper",
@@ -20935,46 +20945,6 @@
     "mode": 1
   },
   {
-    "id": 19873,
-    "name": "DataStore_Achievements",
-    "key": "datastore_achievements",
-    "dir": [
-      "DataStore_Achievements"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 29739,
-    "name": "DataStore_Agenda",
-    "key": "datastore_agenda",
-    "dir": [
-      "DataStore_Agenda"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20205,
-    "name": "DataStore_Auctions",
-    "key": "datastore_auctions",
-    "dir": [
-      "DataStore_Auctions"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20206,
-    "name": "DataStore_Characters",
-    "key": "datastore_characters",
-    "dir": [
-      "DataStore_Characters"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 19872,
     "name": "DataStore_Containers",
     "key": "datastore_containers",
@@ -20990,26 +20960,6 @@
     "key": "datastore_crafts",
     "dir": [
       "DataStore_Crafts"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20207,
-    "name": "DataStore_Currencies",
-    "key": "datastore_currencies",
-    "dir": [
-      "DataStore_Currencies"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 88051,
-    "name": "DataStore_Garrisons",
-    "key": "datastore_garrisons",
-    "dir": [
-      "DataStore_Garrisons"
     ],
     "source": "curse",
     "mode": 1
@@ -21035,36 +20985,6 @@
     "mode": 1
   },
   {
-    "id": 20209,
-    "name": "DataStore_Mails",
-    "key": "datastore_mails",
-    "dir": [
-      "DataStore_Mails"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 19875,
-    "name": "DataStore_Pets",
-    "key": "datastore_pets",
-    "dir": [
-      "DataStore_Pets"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20210,
-    "name": "DataStore_Quests",
-    "key": "datastore_quests",
-    "dir": [
-      "DataStore_Quests"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 411494,
     "name": "DataStore_Rares",
     "key": "datastore_rares",
@@ -21080,36 +21000,6 @@
     "key": "datastore_reputations",
     "dir": [
       "DataStore_Reputations"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20212,
-    "name": "DataStore_Spells",
-    "key": "datastore_spells",
-    "dir": [
-      "DataStore_Spells"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 20213,
-    "name": "DataStore_Stats",
-    "key": "datastore_stats",
-    "dir": [
-      "DataStore_Stats"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 19877,
-    "name": "DataStore_Talents",
-    "key": "datastore_talents",
-    "dir": [
-      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 1
@@ -24563,6 +24453,16 @@
     "dir": [
       "EasyPortalAdvert",
       "EPA-CooldownMonitor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416083,
+    "name": "Easy Quest Abandon",
+    "key": "easy-quest-abandon",
+    "dir": [
+      "EasyQuestAbandon"
     ],
     "source": "curse",
     "mode": 1
@@ -42648,6 +42548,16 @@
     "mode": 1
   },
   {
+    "id": 416016,
+    "name": "KsRaidSkip",
+    "key": "ksraidskip",
+    "dir": [
+      "KsRaidSkip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 269536,
     "name": "KuiEnemyColors",
     "key": "kuienemycolors",
@@ -55462,9 +55372,9 @@
     "mode": 1
   },
   {
-    "id": 379384,
-    "name": "OutOfMana",
-    "key": "outofmana",
+    "id": 415594,
+    "name": "Out Of Mana (OOM)",
+    "key": "out-of-mana-oom",
     "dir": [
       "OutOfMana"
     ],
@@ -55472,9 +55382,9 @@
     "mode": 1
   },
   {
-    "id": 415594,
-    "name": "OutOfMana (OOM)",
-    "key": "outofmana-oom",
+    "id": 379384,
+    "name": "OutOfMana",
+    "key": "outofmana",
     "dir": [
       "OutOfMana"
     ],
@@ -57498,6 +57408,16 @@
     "mode": 1
   },
   {
+    "id": 416248,
+    "name": "PinShare",
+    "key": "pinshare",
+    "dir": [
+      "PinShare"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 2250,
     "name": "Ping Snitch",
     "key": "ping-snitch",
@@ -58014,6 +57934,16 @@
     "mode": 3
   },
   {
+    "id": 416367,
+    "name": "PlexusBuffIcons",
+    "key": "plexusbufficons",
+    "dir": [
+      "PlexusBuffIcons"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 411702,
     "name": "PlexusGridStatusRD_SL",
     "key": "plexusgridstatusrd_sl",
@@ -58029,6 +57959,16 @@
     "key": "plexusindicatorsdynamic",
     "dir": [
       "PlexusIndicatorsDynamic"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 416030,
+    "name": "PlexusSmoothHealth",
+    "key": "plexussmoothhealth",
+    "dir": [
+      "PlexusSmoothHealth"
     ],
     "source": "curse",
     "mode": 3
@@ -69547,7 +69487,7 @@
       "snipertips"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 324965,
@@ -70027,6 +69967,16 @@
     "key": "soundplayer",
     "dir": [
       "SoundPlayer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416252,
+    "name": "Soundpack By Bayfuss",
+    "key": "soundpack-by-bayfuss",
+    "dir": [
+      "SharedMedia_Bayfuss"
     ],
     "source": "curse",
     "mode": 1
@@ -77821,6 +77771,17 @@
     "mode": 2
   },
   {
+    "id": 404902,
+    "name": "TradeSpamBlocker (TSB)",
+    "key": "tsb",
+    "dir": [
+      "GrimTrades",
+      "TradeSpamBlocker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 349245,
     "name": "TradeStone",
     "key": "tradestone",
@@ -80877,6 +80838,7 @@
       "WeekKeys",
       "WeekKeys_Friends",
       "WeekKeys_Guild",
+      "WeekKeys_Lootfinder",
       "WeekKeys_MTable"
     ],
     "source": "curse",
@@ -83470,6 +83432,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 416221,
+    "name": "YetAnotherNotepad",
+    "key": "yetanothernotepad",
+    "dir": [
+      "YetAnotherNotepad"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 44169,
