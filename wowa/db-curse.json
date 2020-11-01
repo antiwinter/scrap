@@ -18075,7 +18075,7 @@
       "Consequence-RaidSorter"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 373521,
@@ -19785,6 +19785,16 @@
     "key": "dbm-voicepack-russian",
     "dir": [
       "DBM-VPAlyona"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416645,
+    "name": "DBM Voicepack Russian Tatyana Natural voice",
+    "key": "dbm-voicepack-russian-tatyana-natural-voice",
+    "dir": [
+      "DBM-VPTatyana"
     ],
     "source": "curse",
     "mode": 1
@@ -23843,6 +23853,16 @@
     "mode": 3
   },
   {
+    "id": 416370,
+    "name": "Durrrability",
+    "key": "durrrability",
+    "dir": [
+      "Durrrability"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 395859,
     "name": "Duty Manager",
     "key": "duty-manager",
@@ -24181,6 +24201,16 @@
     "key": "eqding",
     "dir": [
       "EQDing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416543,
+    "name": "ERACombatFrames",
+    "key": "eracombatframes",
+    "dir": [
+      "ERACombatFrames"
     ],
     "source": "curse",
     "mode": 1
@@ -32639,6 +32669,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 416421,
+    "name": "GoodNightStarleaf",
+    "key": "goodnightstarleaf",
+    "dir": [
+      "GoodNightStarleaf"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 302792,
@@ -46688,16 +46728,6 @@
     "mode": 2
   },
   {
-    "id": 281960,
-    "name": "Lootsturm Light",
-    "key": "lootsturm-light",
-    "dir": [
-      "LootsturmLight"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 14298,
     "name": "LordFarlander",
     "key": "liblordfarlander-2-0",
@@ -51556,7 +51586,7 @@
       "MovablePetBar"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 62280,
@@ -62728,6 +62758,16 @@
     "mode": 1
   },
   {
+    "id": 416538,
+    "name": "RareTrackerWorldBosses (RTWB)",
+    "key": "raretrackerworldbosses-rtwb",
+    "dir": [
+      "RareTrackerWorldBosses"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 65541,
     "name": "Rarefied",
     "key": "rarefied",
@@ -63467,6 +63507,16 @@
     "mode": 1
   },
   {
+    "id": 416489,
+    "name": "Reflux2",
+    "key": "reflux2",
+    "dir": [
+      "Reflux"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 338912,
     "name": "Regen",
     "key": "regen",
@@ -63753,6 +63803,16 @@
     "key": "remove-sell-price",
     "dir": [
       "RemoveSellPrice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416517,
+    "name": "RemoveActionBarTexture",
+    "key": "removeactionbartexture",
+    "dir": [
+      "RemoveActionBarTexture"
     ],
     "source": "curse",
     "mode": 1
@@ -65135,6 +65195,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 416643,
+    "name": "STSwitcher",
+    "key": "stswitcher",
+    "dir": [
+      "STSwitcher"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 283939,
@@ -77973,6 +78043,16 @@
     "mode": 1
   },
   {
+    "id": 416495,
+    "name": "Transmog Cost Cutter",
+    "key": "transmog-cost-cutter",
+    "dir": [
+      "TransmogCostCutter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101378,
     "name": "Transmog Craftsman",
     "key": "transmog-craftsman",
@@ -80067,8 +80147,7 @@
     "name": "WFGoWhoosh",
     "key": "wfgowhoosh",
     "dir": [
-      "WFGoWhoosh",
-      "IsQuenBuffed"
+      "WFGoWhoosh"
     ],
     "source": "curse",
     "mode": 2
