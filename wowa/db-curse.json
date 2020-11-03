@@ -13267,6 +13267,16 @@
     "mode": 1
   },
   {
+    "id": 415622,
+    "name": "By Fire Be Heard",
+    "key": "druid-of-the-flame-fan-update",
+    "dir": [
+      "ByFireBeHeard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 41195,
     "name": "ByeHakmud",
     "key": "byehakmud",
@@ -13413,6 +13423,16 @@
     "key": "cepgp-zone-award",
     "dir": [
       "CEPGP_ZA"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 416701,
+    "name": "CEPGP_BulkAward",
+    "key": "cepgp_bulkaward",
+    "dir": [
+      "CEPGP_BulkAward"
     ],
     "source": "curse",
     "mode": 2
@@ -14824,6 +14844,16 @@
     "key": "chat-reverse",
     "dir": [
       "ChatReverse"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417213,
+    "name": "Chat Sound Customizer",
+    "key": "chat-sound-customizer",
+    "dir": [
+      "Chat_Sound_Customizer"
     ],
     "source": "curse",
     "mode": 1
@@ -18109,7 +18139,8 @@
       "ConsolePortLoader",
       "ConsolePortUI_Loot",
       "ConsolePortUI_Menu",
-      "ConsolePort_Config"
+      "ConsolePort_Config",
+      "GamepadTool"
     ],
     "source": "curse",
     "mode": 3
@@ -21131,10 +21162,10 @@
       "DBM-Naxx",
       "DBM-ZG",
       "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
-      "DBM-CastleNathria",
-      "DBM-Shadowlands"
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -21178,8 +21209,7 @@
       "DBM-BlackTemple",
       "DBM-AQ20",
       "DBM-TheEye",
-      "DBM-BurningCrusade",
-      "DBM-Azeroth"
+      "DBM-BurningCrusade"
     ],
     "source": "curse",
     "mode": 1
@@ -25819,8 +25849,8 @@
     "name": "ElvUI_BenikUI v3",
     "key": "benikui-v3",
     "dir": [
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -39327,6 +39357,16 @@
     "mode": 1
   },
   {
+    "id": 417246,
+    "name": "Inactive Reputation Headers",
+    "key": "inactive-reputation-headers",
+    "dir": [
+      "InactiveReputationHeaders"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 48933,
     "name": "Inbox Mailbag",
     "key": "inbox-mailbag",
@@ -41284,6 +41324,16 @@
     "mode": 1
   },
   {
+    "id": 416744,
+    "name": "JustSpeedRun",
+    "key": "justspeedrun",
+    "dir": [
+      "JustSpeedRun"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 75429,
     "name": "JustTheTip",
     "key": "justthetip",
@@ -42667,6 +42717,16 @@
     "dir": [
       "kui_nameplates_spell_alert",
       "Kui_Nameplates_Spell_Alert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416974,
+    "name": "KuiNameplates Target Helper",
+    "key": "kuinameplates-target-helper",
+    "dir": [
+      "Kui_Nameplates_TargetHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -45471,6 +45531,16 @@
     "key": "libtagcompiler-2-0",
     "dir": [
       "LibTagCompiler-2.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417044,
+    "name": "LibTalentInfo",
+    "key": "libtalentinfo",
+    "dir": [
+      "LibTalentInfo-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -50315,6 +50385,16 @@
     "key": "missionhush",
     "dir": [
       "MissionHush"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417232,
+    "name": "Mission Reports",
+    "key": "mission-reports",
+    "dir": [
+      "MissionReports"
     ],
     "source": "curse",
     "mode": 1
@@ -57479,7 +57559,7 @@
   },
   {
     "id": 342120,
-    "name": "Pini GoldStats",
+    "name": "Pini Gold Stats",
     "key": "pini-goldstats",
     "dir": [
       "Pini_GoldStats"
@@ -62708,6 +62788,16 @@
     "mode": 1
   },
   {
+    "id": 416852,
+    "name": "RareTracker (RT)",
+    "key": "raretracker-rt",
+    "dir": [
+      "RareTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361260,
     "name": "RareTrackerCore (RT)",
     "key": "raretrackercore-rt",
@@ -64226,6 +64316,16 @@
     "key": "retroskullminimap",
     "dir": [
       "RetroSkullMinimap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417262,
+    "name": "RetroUI",
+    "key": "retroui",
+    "dir": [
+      "ElvUI_RetroUI"
     ],
     "source": "curse",
     "mode": 1
@@ -80575,6 +80675,16 @@
     "mode": 1
   },
   {
+    "id": 417264,
+    "name": "WarlockWizz",
+    "key": "warlockwizz",
+    "dir": [
+      "WarlockWizz"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101290,
     "name": "Warlockbox",
     "key": "warlockbox",
@@ -82007,6 +82117,16 @@
     "key": "wowhead-linker",
     "dir": [
       "wowheadlinker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 416975,
+    "name": "WoWHub",
+    "key": "wowhub",
+    "dir": [
+      "WoWHub"
     ],
     "source": "curse",
     "mode": 1
@@ -84566,6 +84686,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 417165,
+    "name": "abomiNATION",
+    "key": "abomination",
+    "dir": [
+      "abomiNATION"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 4938,
