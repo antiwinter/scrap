@@ -330,6 +330,16 @@
     "mode": 2
   },
   {
+    "id": 417361,
+    "name": "AA loot prio",
+    "key": "aa-loot-prio",
+    "dir": [
+      "AA_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 22862,
     "name": "AAV - atrox Arena Viewer",
     "key": "aav-atrox-arena-viewer",
@@ -976,6 +986,16 @@
     "key": "acegui-3-0-completing-editbox",
     "dir": [
       "AceGUI-3.0-Completing-EditBox"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417680,
+    "name": "AceGUI-3.0-Eliote-AutoCompleteEditBox",
+    "key": "acegui-3-0-eliote-autocompleteeditbox",
+    "dir": [
+      "AceGUI-3.0-Eliote-AutoCompleteEditBox"
     ],
     "source": "curse",
     "mode": 1
@@ -2780,7 +2800,7 @@
   },
   {
     "id": 322782,
-    "name": "Amalu Soundpack (plus+)",
+    "name": "Amalu Soundpack+",
     "key": "amalu-soundpack",
     "dir": [
       "Amalu Soundpack",
@@ -12707,6 +12727,16 @@
     "mode": 1
   },
   {
+    "id": 370493,
+    "name": "BtWQuests: Shadowlands",
+    "key": "btw-quests-shadowlands",
+    "dir": [
+      "BtWQuestsShadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297376,
     "name": "BtWQuests: The Burning Crusade",
     "key": "btw-quests-the-burning-crusade",
@@ -13653,6 +13683,46 @@
     "mode": 1
   },
   {
+    "id": 261484,
+    "name": "Calanon's DBM Voicepack Deutsch männlich",
+    "key": "dbm-voicepack-deutsch-manlich",
+    "dir": [
+      "DBM-VPDeutsch maenlich"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 261452,
+    "name": "Calanon's DBM Voicepack Deutsch weiblich",
+    "key": "dbm-voicepack-deutsch-weiblich",
+    "dir": [
+      "DBM-VPDeutsch weiblich"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 267250,
+    "name": "Calanon's DBM Voicepack English female",
+    "key": "dbm-voicepack-english-female",
+    "dir": [
+      "DBM-VPEnglish female"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 267249,
+    "name": "Calanon's DBM Voicepack English male",
+    "key": "dbm-voicepack-english-male",
+    "dir": [
+      "DBM-VPEnglish male"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29819,
     "name": "Calc",
     "key": "calc",
@@ -13801,6 +13871,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 417353,
+    "name": "CalvoGambling",
+    "key": "calvogambling",
+    "dir": [
+      "CalvoGambling"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 297604,
@@ -18105,7 +18185,7 @@
       "Consequence-RaidSorter"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 373521,
@@ -19641,46 +19721,6 @@
     "mode": 3
   },
   {
-    "id": 261484,
-    "name": "DBM Voicepack Deutsch männlich",
-    "key": "dbm-voicepack-deutsch-manlich",
-    "dir": [
-      "DBM-VPDeutsch maenlich"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 261452,
-    "name": "DBM Voicepack Deutsch weiblich",
-    "key": "dbm-voicepack-deutsch-weiblich",
-    "dir": [
-      "DBM-VPDeutsch weiblich"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 267250,
-    "name": "DBM Voicepack English female",
-    "key": "dbm-voicepack-english-female",
-    "dir": [
-      "DBM-VPEnglish female"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 267249,
-    "name": "DBM Voicepack English male",
-    "key": "dbm-voicepack-english-male",
-    "dir": [
-      "DBM-VPEnglish male"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 261300,
     "name": "DBM Voicepack Epic Movie Guy",
     "key": "dbm-vo-movieguy",
@@ -21101,6 +21141,16 @@
     "key": "despammaster",
     "dir": [
       "DeSpamMaster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413267,
+    "name": "DeTrashLoot",
+    "key": "detrashloot",
+    "dir": [
+      "DeTrashLoot"
     ],
     "source": "curse",
     "mode": 1
@@ -23336,6 +23386,16 @@
     "key": "dream-arrows-classic",
     "dir": [
       "DreamArrowsClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 417494,
+    "name": "Dream World Plus",
+    "key": "dream-world-plus",
+    "dir": [
+      "DWPlus"
     ],
     "source": "curse",
     "mode": 2
@@ -27165,16 +27225,6 @@
     "mode": 1
   },
   {
-    "id": 414442,
-    "name": "ExitBroker",
-    "key": "exitbroker",
-    "dir": [
-      "ExitBroker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 284907,
     "name": "Exlist",
     "key": "exlist",
@@ -28911,6 +28961,26 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 417336,
+    "name": "FixTaintedRaidFrames",
+    "key": "fixtaintedraidframes",
+    "dir": [
+      "FixTaintedRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417337,
+    "name": "FixTaintedRaidFrames Classic",
+    "key": "fixtaintedraidframes-classic",
+    "dir": [
+      "FixTaintedRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101256,
@@ -35034,6 +35104,16 @@
     "mode": 1
   },
   {
+    "id": 417383,
+    "name": "GuildmateInvestigator",
+    "key": "guildmateinvestigator",
+    "dir": [
+      "GuildmateInvestigator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 291423,
     "name": "Guildster",
     "key": "guildster",
@@ -38305,6 +38385,16 @@
     "key": "hotloot",
     "dir": [
       "HotLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417127,
+    "name": "HotT - Herald of the Titans Helper",
+    "key": "hott",
+    "dir": [
+      "HotT"
     ],
     "source": "curse",
     "mode": 1
@@ -47958,7 +48048,7 @@
       "MailNotifier_Broker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 5858,
@@ -51973,11 +52063,31 @@
     "mode": 2
   },
   {
+    "id": 301856,
+    "name": "MuffinArchaeologyUI",
+    "key": "muffinarchaeologyui",
+    "dir": [
+      "MuffinArchaeologyUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 282045,
     "name": "MuffinFactionizer",
     "key": "muffinfactionizer",
     "dir": [
       "MuffinFactionizer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 21762,
+    "name": "MuffinMOTD",
+    "key": "muffinmotd",
+    "dir": [
+      "MuffinMOTD"
     ],
     "source": "curse",
     "mode": 1
@@ -58049,6 +58159,16 @@
     "key": "plexusbufficons",
     "dir": [
       "PlexusBuffIcons"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 416218,
+    "name": "PlexusClickSets",
+    "key": "plexusclicksets",
+    "dir": [
+      "PlexusClickSets"
     ],
     "source": "curse",
     "mode": 3
@@ -67764,7 +67884,8 @@
       "SilverDragon",
       "SilverDragon_Classic",
       "SilverDragon_BattleForAzeroth",
-      "SilverDragon_Shadowlands"
+      "SilverDragon_Shadowlands",
+      "SilverDragon_Overlay"
     ],
     "source": "curse",
     "mode": 3
@@ -71000,6 +71121,16 @@
     "mode": 1
   },
   {
+    "id": 82944,
+    "name": "Square Map",
+    "key": "squaremap",
+    "dir": [
+      "SquareMap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361395,
     "name": "Square One DKP Values",
     "key": "square-one-dkp-values",
@@ -71008,16 +71139,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 82944,
-    "name": "SquareMap",
-    "key": "squaremap",
-    "dir": [
-      "SquareMap"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 86975,
@@ -77176,6 +77297,16 @@
     "mode": 1
   },
   {
+    "id": 416827,
+    "name": "Total RP 3: Intended",
+    "key": "total-rp-3-intended",
+    "dir": [
+      "totalRP3_Intended"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103217,
     "name": "Total RP 3: KuiNameplates module",
     "key": "total-rp-3-kuinameplates-module",
@@ -81028,7 +81159,8 @@
       "WeekKeys_Friends",
       "WeekKeys_Guild",
       "WeekKeys_Lootfinder",
-      "WeekKeys_MTable"
+      "WeekKeys_MTable",
+      "WeekKeys_Party"
     ],
     "source": "curse",
     "mode": 1
@@ -88152,6 +88284,16 @@
     "id": 341823,
     "name": "unitscan",
     "key": "unitscan",
+    "dir": [
+      "unitscan"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 417296,
+    "name": "unitscan rares",
+    "key": "unitscan-rares",
     "dir": [
       "unitscan"
     ],
