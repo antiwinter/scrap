@@ -360,6 +360,16 @@
     "mode": 2
   },
   {
+    "id": 417928,
+    "name": "ABP Naxx Helper",
+    "key": "abp-naxx-helper",
+    "dir": [
+      "ABP-Naxx"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 274868,
     "name": "ACE3 GUI Panel Widget",
     "key": "ace3-gui-panel-widget",
@@ -1645,6 +1655,16 @@
     "mode": 2
   },
   {
+    "id": 417785,
+    "name": "AdiBags - Cooking",
+    "key": "adibags-cooking",
+    "dir": [
+      "AdiBags_Cooking"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361466,
     "name": "AdiBags - Corruption Gear",
     "key": "adibags-corruption-gear",
@@ -2803,8 +2823,7 @@
     "name": "Amalu Soundpack+",
     "key": "amalu-soundpack",
     "dir": [
-      "Amalu Soundpack",
-      "Amalu Soundpack (plus+)"
+      "Amalu_Soundpack+"
     ],
     "source": "curse",
     "mode": 3
@@ -14930,7 +14949,7 @@
   },
   {
     "id": 417213,
-    "name": "Chat Sound Customizer",
+    "name": "Chat Sound Customizer (CSC)",
     "key": "chat-sound-customizer",
     "dir": [
       "Chat_Sound_Customizer"
@@ -18219,8 +18238,7 @@
       "ConsolePortLoader",
       "ConsolePortUI_Loot",
       "ConsolePortUI_Menu",
-      "ConsolePort_Config",
-      "GamepadTool"
+      "ConsolePort_Config"
     ],
     "source": "curse",
     "mode": 3
@@ -23661,6 +23679,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 414392,
+    "name": "DuelBook",
+    "key": "duelbook",
+    "dir": [
+      "DuelBook"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 69707,
@@ -32504,6 +32532,16 @@
     "key": "goblinmod",
     "dir": [
       "GoblinMod"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 336854,
+    "name": "GoblinTalk",
+    "key": "sharedmediagoblintalk",
+    "dir": [
+      "GoblinTalk"
     ],
     "source": "curse",
     "mode": 1
@@ -45165,6 +45203,17 @@
     "mode": 1
   },
   {
+    "id": 354116,
+    "name": "LibMemoize",
+    "key": "libmemoize",
+    "dir": [
+      "LibMemoize-2.0",
+      "LibMemoize"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 69267,
     "name": "LibMovable-1.0",
     "key": "libmovable-1-0",
@@ -57246,13 +57295,10 @@
     "name": "PetTracker",
     "key": "pettracker",
     "dir": [
-      "PetTracker_Breeds",
-      "PetTracker_Switcher",
+      "PetTracker_Battle",
       "PetTracker_Config",
-      "PetTracker_Upgrades",
       "PetTracker_Journal",
-      "PetTracker",
-      "PetTracker_Battle"
+      "PetTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -63724,7 +63770,7 @@
       "Reflux"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 338912,
@@ -67074,16 +67120,6 @@
     "mode": 1
   },
   {
-    "id": 336854,
-    "name": "SharedMediaGoblinTalk",
-    "key": "sharedmediagoblintalk",
-    "dir": [
-      "GoblinTalk"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 373102,
     "name": "SharedMedia_Abain",
     "key": "sharedmedia_abain",
@@ -69193,7 +69229,7 @@
       "SlapMeBoiiiiii"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 90470,
@@ -70221,6 +70257,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 417900,
+    "name": "Sound Effects On",
+    "key": "sound-effects-on",
+    "dir": [
+      "SoundEffectsOn"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 89102,
@@ -79825,6 +79871,16 @@
     "mode": 1
   },
   {
+    "id": 417724,
+    "name": "Verbose Junker",
+    "key": "verbose-junker",
+    "dir": [
+      "VerboseJunker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 317665,
     "name": "Vernacular",
     "key": "vernacular",
@@ -84164,6 +84220,16 @@
     "mode": 1
   },
   {
+    "id": 417828,
+    "name": "ZeroNotes",
+    "key": "zeronotes",
+    "dir": [
+      "ZeroNotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86522,
     "name": "ZigboKnows",
     "key": "zigboknows",
@@ -86482,6 +86548,16 @@
     "mode": 1
   },
   {
+    "id": 417896,
+    "name": "iSquidMod 2020",
+    "key": "isquidmod-2020",
+    "dir": [
+      "iSquidMod"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100085,
     "name": "iTargetingFrames",
     "key": "itargetingframes",
@@ -88388,7 +88464,7 @@
       "vUI_InviteLinks"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 376377,
