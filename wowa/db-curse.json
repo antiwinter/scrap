@@ -1489,7 +1489,8 @@
     "name": "AddUI",
     "key": "addui",
     "dir": [
-      "AddUI"
+      "AddUI",
+      "PlateColor"
     ],
     "source": "curse",
     "mode": 3
@@ -5235,16 +5236,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 102870,
-    "name": "Auto ActionCam",
-    "key": "aac",
-    "dir": [
-      "AutoActionCam"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 348625,
@@ -47380,7 +47371,7 @@
       "Mama"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14354,
@@ -52433,6 +52424,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 417142,
+    "name": "MxW",
+    "key": "mxw",
+    "dir": [
+      "MxW"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 45519,
@@ -77186,7 +77187,7 @@
       "TooltipItemIcon"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 340449,
@@ -79305,6 +79306,16 @@
     "mode": 1
   },
   {
+    "id": 417770,
+    "name": "UnityEmotes",
+    "key": "unityemotes",
+    "dir": [
+      "UnityEmotes"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 267963,
     "name": "Unleashed Wrath",
     "key": "unleashed-wrath",
@@ -80863,7 +80874,7 @@
   },
   {
     "id": 417264,
-    "name": "WarlockWizz",
+    "name": "WarlockWizz - Spell Duration ",
     "key": "warlockwizz",
     "dir": [
       "WarlockWizz"
@@ -81216,7 +81227,8 @@
       "WeekKeys_Guild",
       "WeekKeys_Lootfinder",
       "WeekKeys_MTable",
-      "WeekKeys_Party"
+      "WeekKeys_Party",
+      "WeekKeys_Settings"
     ],
     "source": "curse",
     "mode": 1
