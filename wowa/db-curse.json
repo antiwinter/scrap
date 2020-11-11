@@ -360,16 +360,6 @@
     "mode": 2
   },
   {
-    "id": 417928,
-    "name": "ABP Naxx Helper",
-    "key": "abp-naxx-helper",
-    "dir": [
-      "ABP-Naxx"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 274868,
     "name": "ACE3 GUI Panel Widget",
     "key": "ace3-gui-panel-widget",
@@ -729,6 +719,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 418230,
+    "name": "Abandon All Quests",
+    "key": "abandon-all-quests",
+    "dir": [
+      "AbandonAllQuests"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 413944,
@@ -1741,6 +1741,16 @@
     "key": "adibags-reputation",
     "dir": [
       "AdiBags_Reputation"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418697,
+    "name": "AdiBags - Soulbound",
+    "key": "adibags-soulbound",
+    "dir": [
+      "AdiBags_Soulbound"
     ],
     "source": "curse",
     "mode": 1
@@ -6645,6 +6655,16 @@
     "mode": 1
   },
   {
+    "id": 418935,
+    "name": "AzerPUG-GameUtility-UnLockables",
+    "key": "azerpug-gameutility-unlockables",
+    "dir": [
+      "AzerPUG-GameUtility-UnLockables"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 402406,
     "name": "AzerPUG-InstanceUtility-CheckList",
     "key": "azerpug-instanceutility-checklist",
@@ -7035,16 +7055,6 @@
     "key": "bgframes",
     "dir": [
       "BGFrames"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 102282,
-    "name": "BGL-TTM",
-    "key": "bgl-ttm",
-    "dir": [
-      "BGL-TTM"
     ],
     "source": "curse",
     "mode": 1
@@ -12654,6 +12664,16 @@
     "mode": 2
   },
   {
+    "id": 418768,
+    "name": "BroschdadaBaronShadowlards",
+    "key": "broschdadabaronshadowlards",
+    "dir": [
+      "BroschdadaBaronShadowlards"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 279031,
     "name": "BtW Objective Filter",
     "key": "btw-objective-filter",
@@ -12681,7 +12701,8 @@
       "BtWQuests",
       "BtWQuestsBattleForAzerothPrologue",
       "BtWQuestsLegion",
-      "BtWQuestsBattleForAzeroth"
+      "BtWQuestsBattleForAzeroth",
+      "BtWQuestsShadowlandsPrologue"
     ],
     "source": "curse",
     "mode": 1
@@ -12742,6 +12763,16 @@
     "key": "btw-quests-shadowlands",
     "dir": [
       "BtWQuestsShadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 401899,
+    "name": "BtWQuests: Shadowlands Prologue",
+    "key": "btw-quests-shadowlands-prologue",
+    "dir": [
+      "BtWQuestsShadowlandsPrologue"
     ],
     "source": "curse",
     "mode": 1
@@ -13828,6 +13859,16 @@
     "key": "caligo-raid-frames",
     "dir": [
       "CaligoRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418391,
+    "name": "Call Target",
+    "key": "call-target",
+    "dir": [
+      "CallTarget"
     ],
     "source": "curse",
     "mode": 1
@@ -23110,6 +23151,16 @@
     "mode": 1
   },
   {
+    "id": 418312,
+    "name": "Donkey Brains Loot Priority",
+    "key": "donkey-brains-prio",
+    "dir": [
+      "Donkey_Prio"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 13778,
     "name": "DontBugMe",
     "key": "dont-bug-me",
@@ -24032,16 +24083,6 @@
     "mode": 2
   },
   {
-    "id": 403805,
-    "name": "DygDyg Addons",
-    "key": "dygdyg-addons",
-    "dir": [
-      "DygDyg_Addons"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 76675,
     "name": "Dynamic Loot Management System",
     "key": "dlms",
@@ -24087,6 +24128,16 @@
     "key": "dynamic-performance",
     "dir": [
       "DynamicPerformance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418277,
+    "name": "DynamicViewDistance",
+    "key": "dynamicviewdistance",
+    "dir": [
+      "DynamicViewDistance"
     ],
     "source": "curse",
     "mode": 1
@@ -26159,6 +26210,16 @@
     "mode": 1
   },
   {
+    "id": 418794,
+    "name": "ElvUI_SpellRanks",
+    "key": "elvui-spellranks",
+    "dir": [
+      "ElvUI_SpellRanks"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 102850,
     "name": "ElvUI_Tooltip2Bag",
     "key": "elvui_tooltip2bag",
@@ -27594,6 +27655,17 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 403805,
+    "name": "EzChatBar",
+    "key": "ezchatbar",
+    "dir": [
+      "DygDyg_Addons",
+      "EzChatBar"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 379674,
@@ -29755,6 +29827,17 @@
     "mode": 1
   },
   {
+    "id": 417928,
+    "name": "Four Horsemen Assistant (4H Assist)",
+    "key": "fourh-assist",
+    "dir": [
+      "ABP-Naxx",
+      "4H-Assist"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 21320,
     "name": "Four Rocks In A Row",
     "key": "four-rocks-row",
@@ -31829,6 +31912,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 418746,
+    "name": "Give it a Lick",
+    "key": "give-it-a-lick",
+    "dir": [
+      "EssentialDKP"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101365,
@@ -35268,6 +35361,16 @@
     "mode": 1
   },
   {
+    "id": 380137,
+    "name": "HB_Tools_Resources",
+    "key": "hb_tools_resources",
+    "dir": [
+      "HB_Tools_Resources"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 272959,
     "name": "HCToolkit",
     "key": "hctoolkit",
@@ -35634,6 +35737,16 @@
     "key": "handynotes-ahnqiraj-scarab-coffers-aq20-40",
     "dir": [
       "HandyNotes_ScarabCoffers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413922,
+    "name": "HandyNotes: Battle for Azeroth",
+    "key": "handynotes-battle-for-azeroth",
+    "dir": [
+      "HandyNotes_BattleForAzeroth"
     ],
     "source": "curse",
     "mode": 1
@@ -39566,6 +39679,16 @@
     "mode": 1
   },
   {
+    "id": 418526,
+    "name": "Incomplete Achievements",
+    "key": "incomplete-achievements",
+    "dir": [
+      "IncompleteAchievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14200,
     "name": "Incubator",
     "key": "incubator",
@@ -41700,6 +41823,16 @@
     "key": "katedra-roller",
     "dir": [
       "KatedraRoller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418279,
+    "name": "Katy Stampwhistle",
+    "key": "katy-stampwhistle",
+    "dir": [
+      "KatyStampwhistle"
     ],
     "source": "curse",
     "mode": 1
@@ -54014,6 +54147,16 @@
     "mode": 1
   },
   {
+    "id": 418433,
+    "name": "No Map Emote",
+    "key": "no-map-emote",
+    "dir": [
+      "NoMapEmote"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 322153,
     "name": "No More Invites",
     "key": "no-more-invites",
@@ -54090,6 +54233,16 @@
     "key": "no-thunder-totem-map",
     "dir": [
       "NoThunderTotemMap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 419000,
+    "name": "No glow and death effect",
+    "key": "no-glow-and-death-effect",
+    "dir": [
+      "NoGlowAndDeath"
     ],
     "source": "curse",
     "mode": 1
@@ -55665,6 +55818,16 @@
     "id": 3299,
     "name": "Outfitter",
     "key": "outfitter",
+    "dir": [
+      "Outfitter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418067,
+    "name": "Outfitter (continued for 9.0.1 - fan fixes)",
+    "key": "outfitter-continued-for-9-0-1-fan-fixes",
     "dir": [
       "Outfitter"
     ],
@@ -58161,11 +58324,31 @@
     "mode": 2
   },
   {
+    "id": 418260,
+    "name": "PlayerNotes",
+    "key": "playernotes",
+    "dir": [
+      "PlayerNotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 97249,
     "name": "PlayerRep",
     "key": "playerrep",
     "dir": [
       "PlayerRep"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418899,
+    "name": "PlayerSpeed",
+    "key": "playerspeed",
+    "dir": [
+      "PlayerSpeed"
     ],
     "source": "curse",
     "mode": 1
@@ -58196,6 +58379,16 @@
     "key": "plexus",
     "dir": [
       "Plexus"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 418810,
+    "name": "PlexusAutoFrameSize",
+    "key": "plexusautoframesize",
+    "dir": [
+      "PlexusAutoFrameSize"
     ],
     "source": "curse",
     "mode": 3
@@ -59744,6 +59937,16 @@
     "key": "pvpaudit",
     "dir": [
       "PvPAudit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418778,
+    "name": "PvPDB",
+    "key": "pvpdb",
+    "dir": [
+      "PvPDB"
     ],
     "source": "curse",
     "mode": 1
@@ -67221,6 +67424,16 @@
     "mode": 1
   },
   {
+    "id": 419014,
+    "name": "SharedMedia_ToxiUI",
+    "key": "sharedmedia_toxiui",
+    "dir": [
+      "SharedMedia_ToxiUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 365276,
     "name": "SharedMedia_dnnsGT",
     "key": "sharedmedia_dnnsgt",
@@ -67920,9 +68133,9 @@
       "SilverDragon_Legion",
       "SilverDragon",
       "SilverDragon_Classic",
+      "SilverDragon_Overlay",
       "SilverDragon_BattleForAzeroth",
-      "SilverDragon_Shadowlands",
-      "SilverDragon_Overlay"
+      "SilverDragon_Shadowlands"
     ],
     "source": "curse",
     "mode": 3
@@ -69722,6 +69935,16 @@
     "key": "smexysiminfo",
     "dir": [
       "SmexySimInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 418958,
+    "name": "SmiteUI",
+    "key": "smiteui",
+    "dir": [
+      "SmiteUI"
     ],
     "source": "curse",
     "mode": 1
@@ -76910,10 +77133,11 @@
   },
   {
     "id": 306085,
-    "name": "TomCat's Tours",
+    "name": "TomCat's Tours (now includes Icecrown / Death's Rising! / Scourge Invasion) + HandyNotes Support",
     "key": "tomcats",
     "dir": [
-      "TomCats"
+      "TomCats",
+      "TomCats-Bundled-DeathsRising"
     ],
     "source": "curse",
     "mode": 3
@@ -76930,7 +77154,7 @@
   },
   {
     "id": 312283,
-    "name": "TomCat's Tours: Complete",
+    "name": "TomCat's Tours: Complete (just added Icecrown / Death's Rising / Scourge Invasion) + HandyNotes Support",
     "key": "tomcats-complete",
     "dir": [
       "TomCats-Complete"
@@ -78238,6 +78462,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 367343,
+    "name": "TranqAnnounce",
+    "key": "tranqannounce",
+    "dir": [
+      "TranqAnnounce"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 353296,
@@ -81706,6 +81940,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 418226,
+    "name": "WhoDingedMarrit",
+    "key": "whodingedmarrit",
+    "dir": [
+      "WhoDingedMarrit"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14895,
