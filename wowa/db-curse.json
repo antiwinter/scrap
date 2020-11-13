@@ -8106,6 +8106,16 @@
     "mode": 1
   },
   {
+    "id": 419188,
+    "name": "BarberShop Profiles",
+    "key": "barbershop-profiles",
+    "dir": [
+      "BarberShopProfiles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 257625,
     "name": "Barking Gabe Guns",
     "key": "barking-gabe-guns",
@@ -9210,6 +9220,16 @@
     "mode": 2
   },
   {
+    "id": 419433,
+    "name": "BetterCharacterPanel",
+    "key": "bettercharacterpanel",
+    "dir": [
+      "BetterCharacterPanel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342234,
     "name": "BetterChatSounds",
     "key": "betterchatsounds",
@@ -10086,7 +10106,7 @@
       "Bingo"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 390935,
@@ -14403,7 +14423,7 @@
       "CastBy2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 305957,
@@ -14995,6 +15015,16 @@
     "key": "chat-stickies",
     "dir": [
       "ChatStickies"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 419517,
+    "name": "Chat Tabs Context",
+    "key": "chat-tabs-context",
+    "dir": [
+      "ChatTabContext"
     ],
     "source": "curse",
     "mode": 1
@@ -21217,7 +21247,7 @@
   },
   {
     "id": 264393,
-    "name": "Dead Pool",
+    "name": "Dead Pool Gambling",
     "key": "deadpool",
     "dir": [
       "Deadpool"
@@ -27658,7 +27688,7 @@
   },
   {
     "id": 403805,
-    "name": "EzChatBar",
+    "name": "Ez ChatBar",
     "key": "ezchatbar",
     "dir": [
       "DygDyg_Addons",
@@ -29978,6 +30008,16 @@
     "key": "freehold-boosting",
     "dir": [
       "FreeholdBoosting"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 419268,
+    "name": "Freemium",
+    "key": "freemium",
+    "dir": [
+      "Freemium"
     ],
     "source": "curse",
     "mode": 1
@@ -35772,6 +35812,16 @@
     "mode": 1
   },
   {
+    "id": 419032,
+    "name": "HandyNotes: Covenant Sanctum",
+    "key": "handynotes-covenant-sanctum",
+    "dir": [
+      "HandyNotes_CovenantSanctum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14155,
     "name": "HandyNotes: Directions",
     "key": "handy-notes_directions",
@@ -35937,6 +35987,16 @@
     "key": "tomcats-tours-nazjatar",
     "dir": [
       "TomCats-Nazjatar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 419434,
+    "name": "HandyNotes: Oribos",
+    "key": "handynotes-oribos",
+    "dir": [
+      "HandyNotes_Oribos"
     ],
     "source": "curse",
     "mode": 1
@@ -45325,6 +45385,36 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 419180,
+    "name": "LibMayronDB",
+    "key": "libmayrondb",
+    "dir": [
+      "LibMayronDB"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 419195,
+    "name": "LibMayronEvents",
+    "key": "libmayronevents",
+    "dir": [
+      "LibMayronEvents"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 419177,
+    "name": "LibMayronObjects",
+    "key": "libmayronobjects",
+    "dir": [
+      "LibMayronObjects"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 354116,
@@ -63178,6 +63268,16 @@
     "mode": 1
   },
   {
+    "id": 419148,
+    "name": "RareTrackerIcecrown (RTI)",
+    "key": "raretrackericecrown-rti",
+    "dir": [
+      "RareTrackerIcecrown"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327286,
     "name": "RareTrackerMechagon (RTM)",
     "key": "raretrackermechagon-rtm",
@@ -67857,7 +67957,7 @@
       "ShowMoney"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 256294,
@@ -69044,6 +69144,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 419498,
+    "name": "SimplyAutoInvite",
+    "key": "simplyautoinvite",
+    "dir": [
+      "InviteOnWhisper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 52061,
@@ -79125,6 +79235,16 @@
     "mode": 1
   },
   {
+    "id": 419487,
+    "name": "Tyllus' MapPin",
+    "key": "tyllus-mappin",
+    "dir": [
+      "Tyllus' MapPin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102143,
     "name": "Tyllus' QuestComplete",
     "key": "tyllus-questcomplete",
@@ -81462,6 +81582,7 @@
       "WeekKeys_Lootfinder",
       "WeekKeys_MTable",
       "WeekKeys_Party",
+      "WeekKeys_Rares",
       "WeekKeys_Settings"
     ],
     "source": "curse",
@@ -82923,6 +83044,16 @@
     "mode": 1
   },
   {
+    "id": 393307,
+    "name": "World Boss Attendance",
+    "key": "world-boss-attendance",
+    "dir": [
+      "WorldBossAttendance"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 386205,
     "name": "World Boss Loot Priorities",
     "key": "world-boss-loot-priorities",
@@ -82941,6 +83072,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 418848,
+    "name": "World Buff Death Announcer",
+    "key": "world-buff-death-announcer",
+    "dir": [
+      "WorldBuffDeathAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 53217,
