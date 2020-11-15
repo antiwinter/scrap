@@ -2426,7 +2426,7 @@
       "AllinoneMinimalistic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 6958,
@@ -29653,7 +29653,7 @@
       "FollowMePls"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 47557,
@@ -50472,17 +50472,6 @@
     "mode": 1
   },
   {
-    "id": 414251,
-    "name": "Minimap Button Frame (Fan-Update)",
-    "key": "minimap-button-frame-fan-update",
-    "dir": [
-      "MinimapButtonFrame_SkinPack",
-      "MinimapButtonFrame"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 32669,
     "name": "Minimap Mousewheel Enabler",
     "key": "minimap-mousewheel-enabler",
@@ -69536,6 +69525,16 @@
     "mode": 1
   },
   {
+    "id": 409216,
+    "name": "SlackerChecker",
+    "key": "slackerchecker",
+    "dir": [
+      "SlackerChecker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 28758,
     "name": "SlamAndAwe",
     "key": "slamandawe",
@@ -77344,7 +77343,7 @@
   },
   {
     "id": 327224,
-    "name": "TomPoints - Clickable waypoint links for TomTom",
+    "name": "TomPoints - Clickable waypoint links for TomTom or Map Pins",
     "key": "tompoints",
     "dir": [
       "TomPoints"
@@ -77521,7 +77520,7 @@
       "TooltipItemIcon"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 340449,
@@ -83074,16 +83073,6 @@
     "mode": 1
   },
   {
-    "id": 418848,
-    "name": "World Buff Death Announcer",
-    "key": "world-buff-death-announcer",
-    "dir": [
-      "WorldBuffDeathAnnouncer"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 53217,
     "name": "World Map Ping Hider",
     "key": "world-map-ping-hider",
@@ -86938,16 +86927,6 @@
     "id": 7036,
     "name": "iSquidMod",
     "key": "isquidmod",
-    "dir": [
-      "iSquidMod"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 417896,
-    "name": "iSquidMod 2020",
-    "key": "isquidmod-2020",
     "dir": [
       "iSquidMod"
     ],
