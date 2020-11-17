@@ -390,6 +390,16 @@
     "mode": 1
   },
   {
+    "id": 420344,
+    "name": "AFK FPS",
+    "key": "afkfps",
+    "dir": [
+      "AFKFPS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 74749,
     "name": "AFK Fullscreen Warning",
     "key": "afk-fullscreen-warning",
@@ -1656,16 +1666,6 @@
     "mode": 2
   },
   {
-    "id": 417785,
-    "name": "AdiBags - Cooking",
-    "key": "adibags-cooking",
-    "dir": [
-      "AdiBags_Cooking"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 361466,
     "name": "AdiBags - Corruption Gear",
     "key": "adibags-corruption-gear",
@@ -1731,16 +1731,6 @@
     "key": "adibags-prior-expansions",
     "dir": [
       "AdiBags_PriorExpansions"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 415674,
-    "name": "AdiBags - Reputation",
-    "key": "adibags-reputation",
-    "dir": [
-      "AdiBags_Reputation"
     ],
     "source": "curse",
     "mode": 1
@@ -2002,6 +1992,36 @@
     "key": "adispellhud",
     "dir": [
       "AdiSpellHUD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417785,
+    "name": "Adibags - Ren's Filters: Cooking",
+    "key": "adibags-cooking",
+    "dir": [
+      "AdiBags_RensFilters_Cooking"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420406,
+    "name": "Adibags - Ren's Filters: Fishing",
+    "key": "adibags-rens-filters-fishing",
+    "dir": [
+      "AdiBags_RensFilters_Fishing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 415674,
+    "name": "Adibags - Ren's Filters: Reputation",
+    "key": "adibags-reputation",
+    "dir": [
+      "AdiBags_RensFilters_Reputation"
     ],
     "source": "curse",
     "mode": 1
@@ -7820,26 +7840,6 @@
     "key": "baikactionbars",
     "dir": [
       "BaikActionbar"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 253993,
-    "name": "BaikItemLevel [Deprecated]",
-    "key": "baikitemlevel",
-    "dir": [
-      "BaikItemLevel"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 262619,
-    "name": "BaikMount [Deprecated]",
-    "key": "baikmount",
-    "dir": [
-      "BaikMount"
     ],
     "source": "curse",
     "mode": 1
@@ -14807,6 +14807,16 @@
     "mode": 1
   },
   {
+    "id": 419815,
+    "name": "CharacterProfiler",
+    "key": "characterprofiler",
+    "dir": [
+      "CharacterProfiler"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 278310,
     "name": "CharacterQuickLinks (WowProgress + Raider.io + WarcraftLogs)",
     "key": "characterquicklinks",
@@ -16794,6 +16804,16 @@
     "mode": 1
   },
   {
+    "id": 420121,
+    "name": "Clean-Mini-Map",
+    "key": "clean-mini-map",
+    "dir": [
+      "Clean-Mini-Map"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 313123,
     "name": "CleanActionBars",
     "key": "cleanactionbars",
@@ -16938,6 +16958,7 @@
     "name": "Clicked",
     "key": "clicked",
     "dir": [
+      "ClickedMedia",
       "Clicked"
     ],
     "source": "curse",
@@ -21293,8 +21314,6 @@
       "DBM-ZG",
       "DBM-Party-Shadowlands",
       "DBM-Shadowlands",
-      "DBM-EternalPalace",
-      "DBM-Nyalotha",
       "DBM-CastleNathria"
     ],
     "source": "curse",
@@ -21340,6 +21359,21 @@
       "DBM-AQ20",
       "DBM-TheEye",
       "DBM-BurningCrusade"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420275,
+    "name": "Deadly Boss Mods (DBM) - Battle for Azeroth (BfA)",
+    "key": "deadly-boss-mods-dbm-bfa",
+    "dir": [
+      "DBM-BfA",
+      "DBM-Uldir",
+      "DBM-CrucibleofStorms",
+      "DBM-ZuldazarRaid",
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ],
     "source": "curse",
     "mode": 1
@@ -21406,7 +21440,6 @@
     "dir": [
       "DBM-BrokenIsles",
       "DBM-AntorusBurningThrone",
-      "DBM-Argus",
       "DBM-EmeraldNightmare",
       "DBM-Nighthold",
       "DBM-TombofSargeras",
@@ -21442,7 +21475,8 @@
       "DBM-Party-Legion",
       "DBM-Party-MoP",
       "DBM-Party-WoD",
-      "DBM-Party-WotLK"
+      "DBM-Party-WotLK",
+      "DBM-Party-BfA"
     ],
     "source": "curse",
     "mode": 1
@@ -21494,7 +21528,6 @@
     "dir": [
       "DBM-Draenor",
       "DBM-BlackrockFoundry",
-      "DBM-GarrisonInvasions",
       "DBM-HellfireCitadel",
       "DBM-Highmaul"
     ],
@@ -29865,7 +29898,7 @@
       "4H-Assist"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 21320,
@@ -39178,6 +39211,16 @@
     "mode": 2
   },
   {
+    "id": 419554,
+    "name": "Icecrown Boss Alert (audio announcer)",
+    "key": "icecrown-boss-alert-audio-announcer",
+    "dir": [
+      "IcecrownBossAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 24783,
     "name": "Icetip",
     "key": "icetip",
@@ -40036,6 +40079,16 @@
     "key": "instance-gold-tracker",
     "dir": [
       "InstanceGoldTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 419909,
+    "name": "Instance Loot Manager",
+    "key": "instance-loot-manager",
+    "dir": [
+      "InstanceLootManager"
     ],
     "source": "curse",
     "mode": 1
@@ -41708,7 +41761,7 @@
   },
   {
     "id": 339809,
-    "name": "Kaliel's Quest Tracker (Classic)",
+    "name": "Kaliel's Tracker (Classic) ... Quest Tracker | supported Questie and ElvUI / Tukui",
     "key": "kaliels-tracker-classic",
     "dir": [
       "!KalielsTracker"
@@ -41718,7 +41771,7 @@
   },
   {
     "id": 87944,
-    "name": "Kaliel's Tracker",
+    "name": "Kaliel's Tracker ... Quests / World Quests / Achievements | Icecrown Rare Monitor",
     "key": "kaliels-tracker",
     "dir": [
       "!KalielsTracker"
@@ -43283,6 +43336,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 419979,
+    "name": "LFGSpamFilter",
+    "key": "lfgspamfilter",
+    "dir": [
+      "LFGSpamFilter"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 60146,
@@ -48253,6 +48316,16 @@
     "mode": 1
   },
   {
+    "id": 419964,
+    "name": "Mail Robot",
+    "key": "mail-robot",
+    "dir": [
+      "MailRobot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95437,
     "name": "Mail Sanctuary",
     "key": "mailsanc",
@@ -48532,6 +48605,16 @@
     "key": "zonemapclasscolors",
     "dir": [
       "ZoneMapClassColors"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420274,
+    "name": "Map Pin Helper",
+    "key": "map-pin-helper",
+    "dir": [
+      "MapPinHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -62865,6 +62948,16 @@
     "mode": 1
   },
   {
+    "id": 419998,
+    "name": "Rand-jahm (Random Bronjahm Sounds)",
+    "key": "rand-jahm",
+    "dir": [
+      "Randjahm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 321209,
     "name": "Random Battle Pet",
     "key": "random-battle-pet",
@@ -65241,6 +65334,16 @@
     "mode": 3
   },
   {
+    "id": 415231,
+    "name": "Rooster Tools",
+    "key": "rooster-tools",
+    "dir": [
+      "Rooster_Tools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14596,
     "name": "RootsBidder",
     "key": "project-14596",
@@ -65309,6 +65412,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 420193,
+    "name": "RotaCast_XChange",
+    "key": "rotacast_xchange",
+    "dir": [
+      "Rotacast_XChange"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 345255,
@@ -67193,6 +67306,16 @@
     "mode": 1
   },
   {
+    "id": 419751,
+    "name": "Shadowlands Pre Patch Boss",
+    "key": "shadowlands-pre-patch-boss",
+    "dir": [
+      "Shadowlands Pre Patch Boss"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101693,
     "name": "ShamAndAwe",
     "key": "shamandawe",
@@ -68118,6 +68241,16 @@
     "mode": 1
   },
   {
+    "id": 419848,
+    "name": "Silence, Ban-Lu",
+    "key": "silence-ban-lu",
+    "dir": [
+      "SilenceBanLu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 85962,
     "name": "Silent Running",
     "key": "silent-running",
@@ -68699,6 +68832,16 @@
     "key": "simple-shaman-resources",
     "dir": [
       "SimpleShamanResources"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 419852,
+    "name": "Simple Sound Replacer",
+    "key": "simple-sound-replacer",
+    "dir": [
+      "SimpleSoundReplacer"
     ],
     "source": "curse",
     "mode": 1
@@ -70289,6 +70432,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 420177,
+    "name": "Sokrydes AutoQuest",
+    "key": "sokrydes-autoquest",
+    "dir": [
+      "AutoQuest"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 90729,
@@ -73604,6 +73757,16 @@
     "key": "tea-roll-helper",
     "dir": [
       "TEARollHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 417043,
+    "name": "TKUI",
+    "key": "tkui",
+    "dir": [
+      "TKUI"
     ],
     "source": "curse",
     "mode": 1
@@ -85272,16 +85435,6 @@
     "mode": 2
   },
   {
-    "id": 417165,
-    "name": "abomiNATION",
-    "key": "abomination",
-    "dir": [
-      "abomiNATION"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 4938,
     "name": "ag_UnitFrames",
     "key": "ag_unitframes",
@@ -86275,16 +86428,6 @@
     "key": "gkick",
     "dir": [
       "gKick"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 411445,
-    "name": "gbTools",
-    "key": "gbtools",
-    "dir": [
-      "gb"
     ],
     "source": "curse",
     "mode": 1
