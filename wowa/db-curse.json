@@ -771,6 +771,16 @@
     "mode": 1
   },
   {
+    "id": 302838,
+    "name": "Ability Team Tracker",
+    "key": "att",
+    "dir": [
+      "ATT"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 42289,
     "name": "Aboutis",
     "key": "aboutis",
@@ -2550,16 +2560,6 @@
     "mode": 1
   },
   {
-    "id": 289884,
-    "name": "AltGameTooltip",
-    "key": "altgametooltip",
-    "dir": [
-      "AltGameTooltip"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 2462,
     "name": "AltMinder",
     "key": "alt-minder",
@@ -3743,16 +3743,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 302838,
-    "name": "Arena Team Tracker",
-    "key": "att",
-    "dir": [
-      "ATT"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 318698,
@@ -5697,7 +5687,7 @@
       "AutoDeleteItems"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 302738,
@@ -5890,16 +5880,6 @@
     "mode": 1
   },
   {
-    "id": 348252,
-    "name": "AutoInvitation for BfA",
-    "key": "autoinvitation",
-    "dir": [
-      "AutoInvitation"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 341297,
     "name": "AutoInvites",
     "key": "autoinvites",
@@ -6027,7 +6007,7 @@
       "AutoMailer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 340988,
@@ -6087,7 +6067,7 @@
       "AutoOpen"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 262816,
@@ -6944,6 +6924,16 @@
     "key": "booty-bay-dkp",
     "dir": [
       "BBDKP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420679,
+    "name": "BBUI",
+    "key": "bbui",
+    "dir": [
+      "BBUI"
     ],
     "source": "curse",
     "mode": 1
@@ -8840,6 +8830,17 @@
       "BestInSlotRedux_BfaDungeons",
       "BestInSlotRedux_BfaRaids",
       "BestInSlotRedux_BfaWorld",
+      "BestInSlotRedux"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420846,
+    "name": "Best In Slot-Shadowlands",
+    "key": "best-in-slot-shadowlands",
+    "dir": [
+      "BestInSlotRedux_SLRaids",
       "BestInSlotRedux"
     ],
     "source": "curse",
@@ -12728,6 +12729,16 @@
     "mode": 1
   },
   {
+    "id": 297381,
+    "name": "BtWQuests: Battle for Azeroth",
+    "key": "btw-quests-battle-for-azeroth",
+    "dir": [
+      "BtWQuestsBattleForAzeroth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297383,
     "name": "BtWQuests: Battle for Azeroth Prologue",
     "key": "btw-quests-battle-for-azeroth-prologue",
@@ -12813,6 +12824,16 @@
     "key": "btw-quests-warlords-of-draenor",
     "dir": [
       "BtWQuestsWarlordsOfDraenor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 297377,
+    "name": "BtWQuests: Wrath of the Lich King",
+    "key": "btw-quests-wrath-of-the-lich-king",
+    "dir": [
+      "BtWQuestsWrathOfTheLichKing"
     ],
     "source": "curse",
     "mode": 1
@@ -14491,16 +14512,6 @@
     "key": "catchthewind",
     "dir": [
       "CatchTheWind"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 347357,
-    "name": "CatchwordAlert for BfA",
-    "key": "catchwordalert",
-    "dir": [
-      "CatchwordAlert"
     ],
     "source": "curse",
     "mode": 1
@@ -25183,6 +25194,16 @@
     "mode": 1
   },
   {
+    "id": 420650,
+    "name": "EliAutoLoot",
+    "key": "eliautoloot",
+    "dir": [
+      "EliAutoLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 405933,
     "name": "ElioteDropDownMenu",
     "key": "eliotedropdownmenu",
@@ -33596,16 +33617,6 @@
     "mode": 1
   },
   {
-    "id": 83874,
-    "name": "GridStatusDungeonDebuff",
-    "key": "gridstatusdungeondebuff",
-    "dir": [
-      "GridStatusDungeonDebuff"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 21780,
     "name": "GridStatusDungeonRole",
     "key": "gridstatusdungeonrole",
@@ -33635,16 +33646,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 103213,
-    "name": "GridStatusExternals",
-    "key": "gridstatusexternals",
-    "dir": [
-      "GridStatusExternals"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 32221,
@@ -33707,31 +33708,11 @@
     "mode": 1
   },
   {
-    "id": 300448,
-    "name": "GridStatusRD_BfA",
-    "key": "gridstatusrd_bfa",
-    "dir": [
-      "GridStatusRD_BfA"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 28185,
     "name": "GridStatusRD_Cata",
     "key": "gridstatusrd_cata",
     "dir": [
       "GridStatusRD_Cata"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 101130,
-    "name": "GridStatusRD_Legion",
-    "key": "gridstatusrd_legion",
-    "dir": [
-      "GridStatusRD_Legion"
     ],
     "source": "curse",
     "mode": 1
@@ -33745,36 +33726,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 90159,
-    "name": "GridStatusRD_OldRaids",
-    "key": "gridstatusrd_oldraids",
-    "dir": [
-      "GridStatusRD_OldRaids"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 85975,
-    "name": "GridStatusRD_WoD",
-    "key": "gridstatusrd_wod",
-    "dir": [
-      "GridStatusRD_WoD"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 42578,
-    "name": "GridStatusRaidDebuff2",
-    "key": "gridstatusraiddebuff-mop",
-    "dir": [
-      "GridStatusRaidDebuff"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 20965,
@@ -33845,16 +33796,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 299850,
-    "name": "GridTooltip2",
-    "key": "gridtooltip2",
-    "dir": [
-      "GridTooltip2"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 14141,
@@ -42174,6 +42115,16 @@
     "mode": 1
   },
   {
+    "id": 420725,
+    "name": "Keyboard's Minimap Icons",
+    "key": "keyboards-minimap-icons",
+    "dir": [
+      "KeyboardsMinimapIcons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103148,
     "name": "Keyed",
     "key": "keyed",
@@ -42998,6 +42949,17 @@
     "key": "krosus-assist",
     "dir": [
       "KrosusAssist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 413582,
+    "name": "Krowi's Achievement Filter",
+    "key": "krowi-achievement-filter",
+    "dir": [
+      "Krowi_AchievementFilter_Tab",
+      "Krowi_AchievementFilter"
     ],
     "source": "curse",
     "mode": 1
@@ -55988,8 +55950,8 @@
   },
   {
     "id": 418067,
-    "name": "Outfitter (continued for 9.0.1 - fan fixes)",
-    "key": "outfitter-continued-for-9-0-1-fan-fixes",
+    "name": "Outfitter (continued for shadowlands - fan fixes)",
+    "key": "outfitter-continued-for-shadowlands-fan-fixes",
     "dir": [
       "Outfitter"
     ],
@@ -57060,6 +57022,16 @@
     "key": "personal-blacklist-pbl",
     "dir": [
       "PersonalBlacklist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420704,
+    "name": "Personal Buff",
+    "key": "personal-buff",
+    "dir": [
+      "PersonalBuff"
     ],
     "source": "curse",
     "mode": 1
@@ -58576,16 +58548,6 @@
     "mode": 3
   },
   {
-    "id": 411702,
-    "name": "PlexusGridStatusRD_SL",
-    "key": "plexusgridstatusrd_sl",
-    "dir": [
-      "PlexusGridStatusRD_SL"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 414001,
     "name": "PlexusIndicatorsDynamic",
     "key": "plexusindicatorsdynamic",
@@ -58616,11 +58578,107 @@
     "mode": 3
   },
   {
+    "id": 83874,
+    "name": "PlexusStatusDungeonDebuff",
+    "key": "plexusstatusdungeondebuff",
+    "dir": [
+      "GridStatusDungeonDebuff",
+      "PlexusStatusDungeonDebuff"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 103213,
+    "name": "PlexusStatusExternals",
+    "key": "plexusstatusexternals",
+    "dir": [
+      "GridStatusExternals",
+      "PlexusStatusExternals"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 399251,
     "name": "PlexusStatusHealTracker",
     "key": "plexusstatushealtracker",
     "dir": [
       "PlexusStatusHealTracker"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 300448,
+    "name": "PlexusStatusRD_BfA",
+    "key": "plexusstatusrdbfa",
+    "dir": [
+      "PlexusStatusRD_BfA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 101130,
+    "name": "PlexusStatusRD_Legion",
+    "key": "plexusstatusrdlegion",
+    "dir": [
+      "GridStatusRD_Legion",
+      "PlexusStatusRD_Legion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 90159,
+    "name": "PlexusStatusRD_OldRaids",
+    "key": "plexusstatusrdoldraids",
+    "dir": [
+      "GridStatusRD_OldRaids",
+      "PlexusStatusRD_OldRaids"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 411702,
+    "name": "PlexusStatusRD_SL",
+    "key": "plexusstatusrdsl",
+    "dir": [
+      "PlexusStatusRD_SL"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 85975,
+    "name": "PlexusStatusRD_WoD",
+    "key": "plexusstatusrdwod",
+    "dir": [
+      "GridStatusRD_WoD",
+      "PlexusStatusRD_WoD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 42578,
+    "name": "PlexusStatusRaidDebuff",
+    "key": "plexusstatusraiddebuff",
+    "dir": [
+      "GridStatusRaidDebuff",
+      "PlexusStatusRaidDebuff"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 299850,
+    "name": "PlexusTooltip",
+    "key": "plexustooltip",
+    "dir": [
+      "PlexusTooltip"
     ],
     "source": "curse",
     "mode": 3
@@ -58641,6 +58699,16 @@
     "key": "plusone-rolltracker",
     "dir": [
       "PlusOneRollTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 420186,
+    "name": "PoH Sounds Pack",
+    "key": "poh-sounds-pack",
+    "dir": [
+      "PoHSoundsPack"
     ],
     "source": "curse",
     "mode": 2
@@ -63360,6 +63428,16 @@
     "mode": 1
   },
   {
+    "id": 420873,
+    "name": "RareTrackerMaw (RTMW)",
+    "key": "raretrackermaw-rtmw",
+    "dir": [
+      "RareTrackerMaw"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327286,
     "name": "RareTrackerMechagon (RTM)",
     "key": "raretrackermechagon-rtm",
@@ -66386,10 +66464,10 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
-      "Scorpio.Secure",
       "Scorpio.UI",
       "Scorpio.Widget",
-      "Scorpio"
+      "Scorpio",
+      "Scorpio.Secure"
     ],
     "source": "curse",
     "mode": 3
@@ -66400,6 +66478,16 @@
     "key": "scourge-strike",
     "dir": [
       "ScourgeStrike"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420630,
+    "name": "Scourgestone Turn In",
+    "key": "scourgestone-turn-in",
+    "dir": [
+      "ScourgeStone"
     ],
     "source": "curse",
     "mode": 1
@@ -67307,10 +67395,20 @@
   },
   {
     "id": 419751,
-    "name": "Shadowlands Pre Patch Boss",
+    "name": "Shadowlands Pre Patch Boss EU",
     "key": "shadowlands-pre-patch-boss",
     "dir": [
-      "Shadowlands Pre Patch Boss"
+      "Shadowlands Pre Patch Boss EU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420644,
+    "name": "Shadowlands Pre Patch Boss NA",
+    "key": "shadowlands-pre-patch-boss-na",
+    "dir": [
+      "Shadowlands Pre Patch Boss NA"
     ],
     "source": "curse",
     "mode": 1
@@ -82792,16 +82890,6 @@
     "id": 43270,
     "name": "WoWDB Profiler",
     "key": "wowdb-profiler",
-    "dir": [
-      "WoWDBProfiler"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 85287,
-    "name": "WoWDB Profiler (Beta)",
-    "key": "wowdb-profiler-beta",
     "dir": [
       "WoWDBProfiler"
     ],
