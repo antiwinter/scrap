@@ -77,7 +77,7 @@
       "Shitlist"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 44359,
@@ -2022,6 +2022,16 @@
     "key": "adibags-rens-filters-fishing",
     "dir": [
       "AdiBags_RensFilters_Fishing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421089,
+    "name": "Adibags - Ren's Filters: Leveling",
+    "key": "adibags-rens-filters-leveling",
+    "dir": [
+      "AdiBags_RensFilters_Leveling"
     ],
     "source": "curse",
     "mode": 1
@@ -13470,6 +13480,16 @@
     "mode": 2
   },
   {
+    "id": 421262,
+    "name": "CCleanerClassic",
+    "key": "ccleanerclassic",
+    "dir": [
+      "CCleanerClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 90796,
     "name": "CDSpy",
     "key": "cdspy",
@@ -15719,7 +15739,7 @@
       "CircleHUD"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 317460,
@@ -22357,6 +22377,16 @@
     "mode": 1
   },
   {
+    "id": 421311,
+    "name": "Destructive Nature Assistant (DNA)",
+    "key": "destructive-nature-assistant",
+    "dir": [
+      "DNAssistant"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 351391,
     "name": "Detailed Durability",
     "key": "detailed-durability",
@@ -26955,21 +26985,21 @@
     "mode": 1
   },
   {
-    "id": 301821,
-    "name": "Equipment Marker",
-    "key": "equipment-marker",
+    "id": 29239,
+    "name": "Equipment Buddy",
+    "key": "weaponup",
     "dir": [
-      "Equipment_Marker"
+      "EquipmentBuddy"
     ],
     "source": "curse",
     "mode": 1
   },
   {
-    "id": 29239,
-    "name": "EquipmentBuddy",
-    "key": "weaponup",
+    "id": 301821,
+    "name": "Equipment Marker",
+    "key": "equipment-marker",
     "dir": [
-      "EquipmentBuddy"
+      "Equipment_Marker"
     ],
     "source": "curse",
     "mode": 1
@@ -27745,7 +27775,6 @@
     "name": "Ez ChatBar",
     "key": "ezchatbar",
     "dir": [
-      "DygDyg_Addons",
       "EzChatBar"
     ],
     "source": "curse",
@@ -28162,6 +28191,16 @@
     "key": "farm-buddy",
     "dir": [
       "FarmBuddy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421181,
+    "name": "Farm Hand Updated for SL",
+    "key": "farm-hand-updated-for-sl",
+    "dir": [
+      "Farmhand"
     ],
     "source": "curse",
     "mode": 1
@@ -30888,7 +30927,7 @@
       "GainsToNextRep"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 309199,
@@ -32053,16 +32092,6 @@
     "key": "gladiatorvoicealerter_yumihp",
     "dir": [
       "GladiatorVoiceAlerter_koKR_YumiHP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 412745,
-    "name": "Gladiatorial Arena Frame",
-    "key": "shado-ladius",
-    "dir": [
-      "Gladius"
     ],
     "source": "curse",
     "mode": 1
@@ -38173,6 +38202,16 @@
     "key": "hippo-alert",
     "dir": [
       "HippoAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421412,
+    "name": "Hit Combo Popups",
+    "key": "hit-combo-popups",
+    "dir": [
+      "HitComboPopups"
     ],
     "source": "curse",
     "mode": 1
@@ -50747,6 +50786,16 @@
     "mode": 2
   },
   {
+    "id": 421183,
+    "name": "MissingFlightPaths",
+    "key": "missingflightpaths",
+    "dir": [
+      "MissingFlightPaths"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86875,
     "name": "Mission Complete",
     "key": "mission-complete",
@@ -50967,6 +51016,16 @@
       "MobileVault_Sharing",
       "MobileVault_Options",
       "MobileVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421305,
+    "name": "Mocksamdi",
+    "key": "mocksamdi",
+    "dir": [
+      "Mocksamdi"
     ],
     "source": "curse",
     "mode": 1
@@ -55849,6 +55908,16 @@
     "mode": 1
   },
   {
+    "id": 421283,
+    "name": "Oribos Loop Counter",
+    "key": "oribos-loop-counter",
+    "dir": [
+      "OribosLoopCounter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 309521,
     "name": "Original Guild Panel Restorer",
     "key": "original-guild-panel-restorer",
@@ -58278,6 +58347,16 @@
     "mode": 3
   },
   {
+    "id": 421018,
+    "name": "Pkg-GridPanels",
+    "key": "pkg-gridpanels",
+    "dir": [
+      "Pkg-GridPanels"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 399043,
     "name": "PkmnLU - Pokemon Level Up!",
     "key": "pokemon-level-up",
@@ -60308,7 +60387,7 @@
     "name": "QTR-Quests",
     "key": "qtr-quests",
     "dir": [
-      "WoWinEnglish_Quests"
+      "WoWinItalian_Quests"
     ],
     "source": "curse",
     "mode": 1
@@ -61776,6 +61855,16 @@
     "key": "recrystallize-auction-house-scanner",
     "dir": [
       "RECrystallize"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421345,
+    "name": "RED Canids Sounds",
+    "key": "redcanids-sounds",
+    "dir": [
+      "REDCanidsSounds"
     ],
     "source": "curse",
     "mode": 1
@@ -70833,6 +70922,26 @@
     "mode": 2
   },
   {
+    "id": 421387,
+    "name": "Soulbind Conduit Manager",
+    "key": "soulbind-conduit-manager",
+    "dir": [
+      "SoulbindConduitManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420381,
+    "name": "SoulbindsTalents",
+    "key": "soulbindstalents",
+    "dir": [
+      "SoulbindTalents"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 345414,
     "name": "Soulstone notifier 1UP",
     "key": "soulstone-notifier-1up",
@@ -73616,7 +73725,7 @@
       "CustomAudio"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 362971,
@@ -82080,16 +82189,6 @@
     "mode": 1
   },
   {
-    "id": 77376,
-    "name": "Wherezit",
-    "key": "wherezit",
-    "dir": [
-      "Wherezit"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 28582,
     "name": "Which Rank Does What",
     "key": "whichrankdoeswhat",
@@ -85503,6 +85602,16 @@
     "mode": 1
   },
   {
+    "id": 421280,
+    "name": "aLoot",
+    "key": "aloot",
+    "dir": [
+      "aLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 351482,
     "name": "aMageSpellsReport",
     "key": "amagespellsreport",
@@ -88786,8 +88895,7 @@
     "name": "targetAssist",
     "key": "targetassist",
     "dir": [
-      "targetAssist",
-      "targetassist"
+      "targetAssist"
     ],
     "source": "curse",
     "mode": 1
