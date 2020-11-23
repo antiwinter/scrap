@@ -2674,37 +2674,9 @@
     "id": 13402,
     "name": "Altoholic",
     "key": "altoholic",
-    "dir": [
-      "Altoholic",
-      "DataStore_Mails",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore_Spells",
-      "DataStore_Stats",
-      "DataStore_Talents",
-      "Altoholic_Agenda",
-      "Altoholic_Characters",
-      "Altoholic_Grids",
-      "Altoholic_Guild",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Agenda",
-      "DataStore_Auctions",
-      "DataStore_Characters",
-      "DataStore_Containers",
-      "DataStore_Crafts",
-      "DataStore_Inventory",
-      "DataStore",
-      "Altoholic_Achievements",
-      "DataStore_Achievements",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
-      "DataStore_Keystones",
-      "DataStore_Pets",
-      "DataStore_Rares"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 3
+    "mode": 0
   },
   {
     "id": 99157,
@@ -5580,6 +5552,16 @@
     "mode": 1
   },
   {
+    "id": 421668,
+    "name": "AutoAura",
+    "key": "autoaura",
+    "dir": [
+      "AutoAura"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 5121,
     "name": "AutoBar",
     "key": "auto-bar",
@@ -7448,7 +7430,7 @@
       "BagMeters"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20357,
@@ -7816,7 +7798,7 @@
   },
   {
     "id": 278045,
-    "name": "Baik Mount Module",
+    "name": "Baik Mount Module [Deprecated]",
     "key": "baik-mount-module",
     "dir": [
       "BaikMount"
@@ -7830,16 +7812,6 @@
     "key": "baik-unitframe-module",
     "dir": [
       "BaikUnitFrame"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 103182,
-    "name": "BaikActionbar [Deprecated]",
-    "key": "baikactionbars",
-    "dir": [
-      "BaikActionbar"
     ],
     "source": "curse",
     "mode": 1
@@ -8851,7 +8823,8 @@
     "key": "best-in-slot-shadowlands",
     "dir": [
       "BestInSlotRedux_SLRaids",
-      "BestInSlotRedux"
+      "BestInSlotRedux",
+      "BestInSlotRedux_SLDungeons"
     ],
     "source": "curse",
     "mode": 1
@@ -9548,13 +9521,8 @@
       "BigWigs_ZulGurub",
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
-      "BigWigs_Azeroth",
-      "BigWigs_Uldir",
-      "BigWigs_BattleOfDazaralor",
-      "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace",
-      "BigWigs_Nyalotha",
-      "BigWigs_CastleNathria"
+      "BigWigs_CastleNathria",
+      "BigWigs_Naxxramas"
     ],
     "source": "curse",
     "mode": 3
@@ -9685,6 +9653,16 @@
     "key": "bigwigs-autoreply2",
     "dir": [
       "BigWigs_AutoReply2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420598,
+    "name": "BigWigs_BattleForAzeroth",
+    "key": "bigwigs_battleforazeroth",
+    "dir": [
+      "BigWigs_BattleForAzeroth"
     ],
     "source": "curse",
     "mode": 1
@@ -13650,6 +13628,46 @@
     "mode": 1
   },
   {
+    "id": 421660,
+    "name": "CSC Sound Pack: Notification #1",
+    "key": "csc-sound-pack-notification-1",
+    "dir": [
+      "CSC_NotificationPack01"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421661,
+    "name": "CSC Sound Pack: Notification #2",
+    "key": "csc-sound-pack-notification-2",
+    "dir": [
+      "CSC_NotificationPack02"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421662,
+    "name": "CSC Sound Pack: Sound Effects #1",
+    "key": "csc-sound-pack-sound-effects-1",
+    "dir": [
+      "CSC_EffectPack01"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421663,
+    "name": "CSC Sound Pack: StarCraft",
+    "key": "csc-sound-pack-starcraft",
+    "dir": [
+      "CSC_StarCraftPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88286,
     "name": "CSS",
     "key": "css",
@@ -15556,16 +15574,6 @@
     "key": "chibar",
     "dir": [
       "ChiBar"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 320648,
-    "name": "Children's Week by TomCat's Tours",
-    "key": "tomcats-tours-childrens-week",
-    "dir": [
-      "TomCats-ChildrensWeek"
     ],
     "source": "curse",
     "mode": 1
@@ -25225,10 +25233,10 @@
   },
   {
     "id": 420650,
-    "name": "EliAutoLoot",
-    "key": "eliautoloot",
+    "name": "EliAuto - Loot & Sell",
+    "key": "eliauto",
     "dir": [
-      "EliAutoLoot"
+      "EliAuto"
     ],
     "source": "curse",
     "mode": 1
@@ -27459,6 +27467,17 @@
     "mode": 1
   },
   {
+    "id": 339847,
+    "name": "ExpJunkie",
+    "key": "expjunkie",
+    "dir": [
+      "ExpJunkieClassic",
+      "ExpJunkie"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 307577,
     "name": "ExpMessage",
     "key": "morlis_wow",
@@ -27507,16 +27526,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 339847,
-    "name": "Experience Junkie Classic",
-    "key": "experience-junkie-classic",
-    "dir": [
-      "ExpJunkieClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 92904,
@@ -33737,26 +33746,6 @@
     "mode": 1
   },
   {
-    "id": 28185,
-    "name": "GridStatusRD_Cata",
-    "key": "gridstatusrd_cata",
-    "dir": [
-      "GridStatusRD_Cata"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 43401,
-    "name": "GridStatusRD_MoP",
-    "key": "gridstatusrd_mop",
-    "dir": [
-      "GridStatusRD_MoP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 20965,
     "name": "GridStatusRole",
     "key": "gridstatusrole",
@@ -35955,16 +35944,6 @@
     "mode": 1
   },
   {
-    "id": 320702,
-    "name": "HandyNotes: Mechagon by TomCat's Tours",
-    "key": "tomcats-tours-mechagon",
-    "dir": [
-      "TomCats-Mechagon"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 300570,
     "name": "HandyNotes: Mole Machine",
     "key": "handynotes-mole-machine",
@@ -35980,16 +35959,6 @@
     "key": "handynotes-mysterious-camel-figurines",
     "dir": [
       "HandyNotes_CamelFigurines"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 320703,
-    "name": "HandyNotes: Nazjatar by TomCat's Tours",
-    "key": "tomcats-tours-nazjatar",
-    "dir": [
-      "TomCats-Nazjatar"
     ],
     "source": "curse",
     "mode": 1
@@ -36090,16 +36059,6 @@
     "key": "handynotes-visions-of-nzoth",
     "dir": [
       "HandyNotes_VisionsOfNZoth"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 357905,
-    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's Tours (Uldum and Vale of Eternal Blossoms)",
-    "key": "tomcats-tours-visions-of-nzoth",
-    "dir": [
-      "TomCats-Nzoth"
     ],
     "source": "curse",
     "mode": 1
@@ -46478,7 +46437,14 @@
     "name": "LittleWigs",
     "key": "little-wigs",
     "dir": [
-      "LittleWigs"
+      "LittleWigs",
+      "LittleWigs_Classic",
+      "LittleWigs_BurningCrusade",
+      "LittleWigs_WrathOfTheLichKing",
+      "LittleWigs_Cataclysm",
+      "LittleWigs_MistsOfPandaria",
+      "LittleWigs_WarlordsOfDraenor",
+      "LittleWigs_Legion"
     ],
     "source": "curse",
     "mode": 3
@@ -52032,7 +51998,7 @@
       "MouselookHandler"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 300304,
@@ -54676,16 +54642,6 @@
     "key": "nozeps",
     "dir": [
       "nozeps"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 320050,
-    "name": "Noblegarden by TomCat's Tours",
-    "key": "tomcats-tours-noblegarden",
-    "dir": [
-      "TomCats-Noblegarden"
     ],
     "source": "curse",
     "mode": 1
@@ -58699,12 +58655,34 @@
     "mode": 1
   },
   {
+    "id": 28185,
+    "name": "PlexusStatusRD_Cata",
+    "key": "plexusstatusrdcata",
+    "dir": [
+      "GridStatusRD_Cata",
+      "PlexusStatusRD_Cata"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101130,
     "name": "PlexusStatusRD_Legion",
     "key": "plexusstatusrdlegion",
     "dir": [
       "GridStatusRD_Legion",
       "PlexusStatusRD_Legion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 43401,
+    "name": "PlexusStatusRD_MoP",
+    "key": "plexusstatusrdmop",
+    "dir": [
+      "GridStatusRD_MoP",
+      "PlexusStatusRD_MoP"
     ],
     "source": "curse",
     "mode": 1
@@ -68530,7 +68508,7 @@
   },
   {
     "id": 14647,
-    "name": "SilverDragon",
+    "name": "SilverDragon - Rare Scanner",
     "key": "silver-dragon",
     "dir": [
       "SilverDragon_Vanilla",
@@ -70936,7 +70914,7 @@
     "name": "SoulbindsTalents",
     "key": "soulbindstalents",
     "dir": [
-      "SoulbindTalents"
+      "SoulbindsTalents"
     ],
     "source": "curse",
     "mode": 1
@@ -77612,18 +77590,23 @@
   },
   {
     "id": 306085,
-    "name": "TomCat's Tours (now includes Icecrown / Death's Rising! / Scourge Invasion) + HandyNotes Support",
+    "name": "TomCat's Tours - Core AddOn - Shadowlands Rares Coming Soon!",
     "key": "tomcats",
     "dir": [
       "TomCats",
-      "TomCats-Bundled-DeathsRising"
+      "TomCats-Bundled-ArathiHighlandsRares",
+      "TomCats-Bundled-DarkshoreRares",
+      "TomCats-Bundled-DeathsRising",
+      "TomCats-Bundled-Mechagon",
+      "TomCats-Bundled-Nazjatar",
+      "TomCats-Bundled-Nzoth"
     ],
     "source": "curse",
     "mode": 3
   },
   {
     "id": 303116,
-    "name": "TomCat's Tours: Arathi Highlands / Warfront on Stromgarde (with HandyNotes Support)",
+    "name": "TomCat's Tours: Arathi Highlands",
     "key": "tomcats-tours-arathi-highlands-rares",
     "dir": [
       "TomCats-ArathiHighlandsRares"
@@ -77632,8 +77615,18 @@
     "mode": 1
   },
   {
+    "id": 320648,
+    "name": "TomCat's Tours: Children's Week",
+    "key": "tomcats-tours-childrens-week",
+    "dir": [
+      "TomCats-ChildrensWeek"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 312283,
-    "name": "TomCat's Tours: Complete (just added Icecrown / Death's Rising / Scourge Invasion) + HandyNotes Support",
+    "name": "TomCat's Tours: Complete",
     "key": "tomcats-complete",
     "dir": [
       "TomCats-Complete"
@@ -77643,7 +77636,7 @@
   },
   {
     "id": 307092,
-    "name": "TomCat's Tours: Darkshore / Warfront on Darkshore (with HandyNotes Support)",
+    "name": "TomCat's Tours: Darkshore",
     "key": "tomcats-tours-darkshore-rares",
     "dir": [
       "TomCats-DarkshoreRares"
@@ -77682,6 +77675,36 @@
     "mode": 1
   },
   {
+    "id": 320702,
+    "name": "TomCat's Tours: Mechagon",
+    "key": "tomcats-tours-mechagon",
+    "dir": [
+      "TomCats-Mechagon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 320703,
+    "name": "TomCat's Tours: Nazjatar",
+    "key": "tomcats-tours-nazjatar",
+    "dir": [
+      "TomCats-Nazjatar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 320050,
+    "name": "TomCat's Tours: Noblegarden",
+    "key": "tomcats-tours-noblegarden",
+    "dir": [
+      "TomCats-Noblegarden"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 320699,
     "name": "TomCat's Tours: PvP",
     "key": "tomcats-tours-pvp",
@@ -77697,6 +77720,16 @@
     "key": "tomcats-tours-hivemind",
     "dir": [
       "TomCats-Hivemind"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 357905,
+    "name": "TomCat's Tours: Uldum and Vale of Eternal Blossoms",
+    "key": "tomcats-tours-visions-of-nzoth",
+    "dir": [
+      "TomCats-Nzoth"
     ],
     "source": "curse",
     "mode": 1
@@ -89823,7 +89856,7 @@
   },
   {
     "id": 357503,
-    "name": "🖖️WOEZ Calendar Invit",
+    "name": "🖖️ Easy Calendar Invit",
     "key": "wo-ez-calendar-guild-invits",
     "dir": [
       "WO_ezcalinvit"
