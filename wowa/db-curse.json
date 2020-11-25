@@ -741,6 +741,16 @@
     "mode": 1
   },
   {
+    "id": 421978,
+    "name": "Abandon All Quests - AAQ",
+    "key": "abandon-all-quests-aaq",
+    "dir": [
+      "AbandonAllQuests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 413944,
     "name": "Abandon Zone Quests",
     "key": "abandon-zone-quests",
@@ -6727,6 +6737,16 @@
     "mode": 1
   },
   {
+    "id": 298648,
+    "name": "Azerite UI Collection (Retail)",
+    "key": "azeriteui-retail",
+    "dir": [
+      "AzeriteUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 300757,
     "name": "AzeriteBroker",
     "key": "azeritebroker",
@@ -6796,16 +6816,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 298648,
-    "name": "AzeriteUI for WoW Retail",
-    "key": "azeriteui-retail",
-    "dir": [
-      "AzeriteUI"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 300706,
@@ -7100,6 +7110,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 355322,
+    "name": "BGinv",
+    "key": "bginv",
+    "dir": [
+      "BGinv"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 68008,
@@ -8033,6 +8053,16 @@
     "key": "banner-banner",
     "dir": [
       "BannerBanner"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422119,
+    "name": "Banner Tracker",
+    "key": "banner-tracker",
+    "dir": [
+      "BannerTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -9521,8 +9551,8 @@
       "BigWigs_ZulGurub",
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
-      "BigWigs_CastleNathria",
-      "BigWigs_Naxxramas"
+      "BigWigs_Naxxramas",
+      "BigWigs_CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -12710,8 +12740,7 @@
       "BtWQuests",
       "BtWQuestsBattleForAzerothPrologue",
       "BtWQuestsLegion",
-      "BtWQuestsBattleForAzeroth",
-      "BtWQuestsShadowlandsPrologue"
+      "BtWQuestsShadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -13726,8 +13755,8 @@
     "dir": [
       "CUI_WorldmapMarkers",
       "CUI",
-      "CUI_Statistics",
-      "CUI_Config"
+      "CUI_Config",
+      "CUI_Statistics"
     ],
     "source": "curse",
     "mode": 1
@@ -22284,6 +22313,16 @@
     "mode": 1
   },
   {
+    "id": 421886,
+    "name": "Demon Hunter Experience",
+    "key": "demon-hunter-experience",
+    "dir": [
+      "DemonHunterExperience"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 92901,
     "name": "DemonMaster",
     "key": "demonmaster",
@@ -23543,6 +23582,16 @@
     "mode": 1
   },
   {
+    "id": 421274,
+    "name": "Draugor's Mount Up",
+    "key": "draugors-mount-up",
+    "dir": [
+      "DrgrMountUp"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101783,
     "name": "DreadWhisperForInvite",
     "key": "dreadwhisperforinvite",
@@ -24378,6 +24427,16 @@
     "id": 301945,
     "name": "EPGP Next",
     "key": "epgp-next",
+    "dir": [
+      "epgp"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421553,
+    "name": "EPGP Next SL",
+    "key": "epgp-next-sl",
     "dir": [
       "epgp"
     ],
@@ -25837,8 +25896,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts",
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts_Classic",
+      "ElvUI_NutsAndBolts"
     ],
     "source": "curse",
     "mode": 3
@@ -27471,11 +27530,10 @@
     "name": "ExpJunkie",
     "key": "expjunkie",
     "dir": [
-      "ExpJunkieClassic",
       "ExpJunkie"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 307577,
@@ -35934,6 +35992,16 @@
     "mode": 1
   },
   {
+    "id": 102475,
+    "name": "HandyNotes: Mage Hall Portals",
+    "key": "legion-mage-portals",
+    "dir": [
+      "HandyNotes_LegionMagePortals"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327568,
     "name": "HandyNotes: Mechagon & Nazjatar",
     "key": "handynotes-mechagon-nazjatar",
@@ -35989,6 +36057,16 @@
     "key": "handynotes-shadowlands",
     "dir": [
       "HandyNotes_Shadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422412,
+    "name": "HandyNotes: Shadowlands Treasures (and rares)",
+    "key": "handynotes-shadowlands-treasures",
+    "dir": [
+      "HandyNotes_ShadowlandsTreasures"
     ],
     "source": "curse",
     "mode": 1
@@ -36239,16 +36317,6 @@
     "key": "handynotes_hallowsend",
     "dir": [
       "HandyNotes_HallowsEnd"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 102475,
-    "name": "HandyNotes_LegionMagePortals",
-    "key": "legion-mage-portals",
-    "dir": [
-      "HandyNotes_LegionMagePortals"
     ],
     "source": "curse",
     "mode": 1
@@ -39842,6 +39910,16 @@
     "mode": 1
   },
   {
+    "id": 422035,
+    "name": "Inked",
+    "key": "inked",
+    "dir": [
+      "Inked"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342567,
     "name": "Innervate Noise",
     "key": "innervatenoise",
@@ -39890,6 +39968,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 421999,
+    "name": "Insomnia Amnennar Loot Priorities",
+    "key": "insomnia-amnennar-loot-priorities",
+    "dir": [
+      "Insomnia_Amnennar_Loot_Priorities"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 96361,
@@ -41667,6 +41755,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 422037,
+    "name": "KHMRaidFrames",
+    "key": "khmraidframes",
+    "dir": [
+      "KHMRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 340961,
@@ -46810,6 +46908,16 @@
     "mode": 2
   },
   {
+    "id": 421858,
+    "name": "Loot Spec Icon",
+    "key": "loot-spec-icon",
+    "dir": [
+      "LootSpecIcon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 363570,
     "name": "Loot Spec Swapper",
     "key": "lootspecswapper",
@@ -48582,6 +48690,16 @@
     "key": "map-pin-helper",
     "dir": [
       "MapPinHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421901,
+    "name": "Map Pin Timers",
+    "key": "map-pin-timers",
+    "dir": [
+      "MapPinTimers"
     ],
     "source": "curse",
     "mode": 1
@@ -54457,16 +54575,6 @@
     "mode": 1
   },
   {
-    "id": 331525,
-    "name": "NoFizzleSounds",
-    "key": "nofizzlesounds",
-    "dir": [
-      "NoFizzleSound"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 93110,
     "name": "NoFlashingTabs",
     "key": "noflashingtabs",
@@ -55835,10 +55943,10 @@
   },
   {
     "id": 393227,
-    "name": "Ore/herb money - bfa",
-    "key": "ore-herb-recolt-money-bfa",
+    "name": "Ore/herb money - Shadowlands",
+    "key": "ore-herb-recolt-money-shadowlands-sl",
     "dir": [
-      "Ores_money_bfa"
+      "Ores_money"
     ],
     "source": "curse",
     "mode": 1
@@ -61988,6 +62096,16 @@
     "mode": 1
   },
   {
+    "id": 421812,
+    "name": "RP Fortune Teller",
+    "key": "rp-fortune-teller",
+    "dir": [
+      "RPFortuneTeller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 308457,
     "name": "RP Prefix",
     "key": "rp-prefix",
@@ -66505,6 +66623,16 @@
     "mode": 1
   },
   {
+    "id": 421863,
+    "name": "SchtenksBars",
+    "key": "schtenksbars",
+    "dir": [
+      "SchtenksBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 16287,
     "name": "Scorchio! 2",
     "key": "scorchio2",
@@ -67270,6 +67398,16 @@
     "mode": 1
   },
   {
+    "id": 418293,
+    "name": "Session Gold Tracker",
+    "key": "session-gold-tracker",
+    "dir": [
+      "GoldTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90532,
     "name": "SessionKDR",
     "key": "sessionkdr",
@@ -67297,7 +67435,7 @@
       "SessisEmotes"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 84114,
@@ -70599,16 +70737,6 @@
     "mode": 2
   },
   {
-    "id": 420177,
-    "name": "Sokrydes AutoQuest",
-    "key": "sokrydes-autoquest",
-    "dir": [
-      "AutoQuest"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 90729,
     "name": "Sol's Noxxic Stat Priorities",
     "key": "sols-noxxic-stat-priorities",
@@ -70635,6 +70763,16 @@
     "key": "solarcollector",
     "dir": [
       "SolarCollector"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 421820,
+    "name": "SoldAuctions",
+    "key": "soldauctions",
+    "dir": [
+      "SoldAuction"
     ],
     "source": "curse",
     "mode": 1
@@ -76620,13 +76758,13 @@
   },
   {
     "id": 18864,
-    "name": "Titan Panel [Gathered]",
+    "name": "Titan Panel [Gathered] 2",
     "key": "titan-gathered",
     "dir": [
       "TitanGathered2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 7033,
@@ -77596,7 +77734,6 @@
       "TomCats",
       "TomCats-Bundled-ArathiHighlandsRares",
       "TomCats-Bundled-DarkshoreRares",
-      "TomCats-Bundled-DeathsRising",
       "TomCats-Bundled-Mechagon",
       "TomCats-Bundled-Nazjatar",
       "TomCats-Bundled-Nzoth"
@@ -77984,6 +78121,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 422148,
+    "name": "Top Parses on Boss Tooltip",
+    "key": "top-parses-on-boss-tooltip",
+    "dir": [
+      "TopParsesBossTooltip"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 22514,
@@ -80501,6 +80648,7 @@
       "Vendor_Titan",
       "Vendor_TSM",
       "Vendor",
+      "Vendor_AdiBags",
       "Vendor_RulePack"
     ],
     "source": "curse",
@@ -87191,16 +87339,6 @@
     "key": "ip-mythic-timer",
     "dir": [
       "ipmythictimer",
-      "iPMythicTimer"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 404855,
-    "name": "iP Mythic Timer for Shadowlands",
-    "key": "ip-mythic-timer-for-shadowlands",
-    "dir": [
       "iPMythicTimer"
     ],
     "source": "curse",
