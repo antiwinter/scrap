@@ -1826,6 +1826,16 @@
     "mode": 1
   },
   {
+    "id": 422791,
+    "name": "AdiBags Conduit Items Filter",
+    "key": "adibags-conduit-items-filter",
+    "dir": [
+      "AdiBags_Conduit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361415,
     "name": "AdiBags Corrupted Items",
     "key": "adibags-corrupted-items",
@@ -1861,6 +1871,16 @@
     "key": "adibags-keystones",
     "dir": [
       "adibags_keystones"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422705,
+    "name": "AdiBags_Anima&Conduits",
+    "key": "adibags_anima-conduits",
+    "dir": [
+      "AdiBags_Anima&Conduits"
     ],
     "source": "curse",
     "mode": 1
@@ -13293,7 +13313,7 @@
       "ButtonForge"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 89228,
@@ -17283,6 +17303,16 @@
     "mode": 1
   },
   {
+    "id": 422526,
+    "name": "CodexLite",
+    "key": "codexlite",
+    "dir": [
+      "CodexLite"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 378313,
     "name": "CoffinDeathSound",
     "key": "coffindeathsound",
@@ -18389,7 +18419,8 @@
       "ConsolePortLoader",
       "ConsolePortUI_Loot",
       "ConsolePortUI_Menu",
-      "ConsolePort_Config"
+      "ConsolePort_Config",
+      "ConsolePort_Bar"
     ],
     "source": "curse",
     "mode": 3
@@ -27762,7 +27793,8 @@
     "key": "extra-bar",
     "dir": [
       "ExtraBar",
-      "AlternateButtonTemplate"
+      "AlternateButtonTemplate",
+      "ExtraBars"
     ],
     "source": "curse",
     "mode": 1
@@ -27945,7 +27977,7 @@
       "FFLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 339921,
@@ -34921,7 +34953,7 @@
       "GuildSlacker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 339242,
@@ -36862,6 +36894,16 @@
     "key": "healers-adjust-loot-priority",
     "dir": [
       "Healersadjust_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 421708,
+    "name": "Healing Assigments",
+    "key": "healing-assigments",
+    "dir": [
+      "HealingAssignments"
     ],
     "source": "curse",
     "mode": 2
@@ -46678,6 +46720,16 @@
     "mode": 1
   },
   {
+    "id": 421707,
+    "name": "LogAnything",
+    "key": "loganything",
+    "dir": [
+      "LogAnything"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 6986,
     "name": "Logger",
     "key": "logger",
@@ -54880,6 +54932,16 @@
     "key": "notmyfault",
     "dir": [
       "NotMyFault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422852,
+    "name": "NotValidSocial",
+    "key": "notvalidsocial",
+    "dir": [
+      "NotValidSocial"
     ],
     "source": "curse",
     "mode": 1
@@ -65156,6 +65218,16 @@
     "mode": 2
   },
   {
+    "id": 421509,
+    "name": "Return Buff Tracker - Bueno Edition",
+    "key": "return-buff-tracker-bueno-edition",
+    "dir": [
+      "ReturnBuffTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17018,
     "name": "Revelation",
     "key": "revelation",
@@ -66304,7 +66376,7 @@
   },
   {
     "id": 351452,
-    "name": "Salvationed",
+    "name": "Salvationed - Blessing of Salvation Remover",
     "key": "salvationed",
     "dir": [
       "Salvationed"
@@ -68660,7 +68732,8 @@
       "SilverDragon_Classic",
       "SilverDragon_Overlay",
       "SilverDragon_BattleForAzeroth",
-      "SilverDragon_Shadowlands"
+      "SilverDragon_Shadowlands",
+      "SilverDragon_RangeExtender"
     ],
     "source": "curse",
     "mode": 3
@@ -77377,6 +77450,16 @@
     "mode": 1
   },
   {
+    "id": 422521,
+    "name": "Titan panel [Gathered] 2 - Herbalism",
+    "key": "titan-panel-gathered-2-herbalism",
+    "dir": [
+      "TitanGathered2_Herbs"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 88277,
     "name": "TitanDataMiner",
     "key": "titandataminer",
@@ -77647,6 +77730,16 @@
     "mode": 1
   },
   {
+    "id": 422632,
+    "name": "Token Price Notifier",
+    "key": "token-price-notifier",
+    "dir": [
+      "TokenPriceNotifier"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 376730,
     "name": "Token Reward Helper",
     "key": "token-reward-helper",
@@ -77728,7 +77821,7 @@
   },
   {
     "id": 306085,
-    "name": "TomCat's Tours - Core AddOn - Shadowlands Rares Coming Soon!",
+    "name": "TomCat's Tours",
     "key": "tomcats",
     "dir": [
       "TomCats",
@@ -77743,7 +77836,7 @@
   },
   {
     "id": 303116,
-    "name": "TomCat's Tours: Arathi Highlands",
+    "name": "TomCat's Tours: Arathi Highlands [ADDON MOVED - see description]",
     "key": "tomcats-tours-arathi-highlands-rares",
     "dir": [
       "TomCats-ArathiHighlandsRares"
@@ -77753,7 +77846,7 @@
   },
   {
     "id": 320648,
-    "name": "TomCat's Tours: Children's Week",
+    "name": "TomCat's Tours: Children's Week [ADDON MOVED - see description]",
     "key": "tomcats-tours-childrens-week",
     "dir": [
       "TomCats-ChildrensWeek"
@@ -77763,7 +77856,7 @@
   },
   {
     "id": 312283,
-    "name": "TomCat's Tours: Complete",
+    "name": "TomCat's Tours: Complete [ADDON MOVED - See Description]",
     "key": "tomcats-complete",
     "dir": [
       "TomCats-Complete"
@@ -77773,7 +77866,7 @@
   },
   {
     "id": 307092,
-    "name": "TomCat's Tours: Darkshore",
+    "name": "TomCat's Tours: Darkshore [ADDON MOVED - see description]",
     "key": "tomcats-tours-darkshore-rares",
     "dir": [
       "TomCats-DarkshoreRares"
@@ -77783,7 +77876,7 @@
   },
   {
     "id": 304762,
-    "name": "TomCat's Tours: Hallow's End (Candy Buckets / Tricky Treats)",
+    "name": "TomCat's Tours: Hallow's End [ADDON MOVED- see description]",
     "key": "tomcats-tours-hallows-end",
     "dir": [
       "TomCats-HallowsEnd"
@@ -77793,7 +77886,7 @@
   },
   {
     "id": 313948,
-    "name": "TomCat's Tours: Love is in the Air",
+    "name": "TomCat's Tours: Love is in the Air [ADDON MOVED - see description]",
     "key": "tomcats-tours-love-is-in-the-air",
     "dir": [
       "TomCats-LoveIsInTheAir"
@@ -77803,7 +77896,7 @@
   },
   {
     "id": 310332,
-    "name": "TomCat's Tours: Lunar Festival (Insta-Looting and Advanced Maps)",
+    "name": "TomCat's Tours: Lunar Festival [ADDON MOVED - see description]",
     "key": "tomcats-tours-lunar-festival",
     "dir": [
       "TomCats-LunarFestival"
@@ -77813,7 +77906,7 @@
   },
   {
     "id": 320702,
-    "name": "TomCat's Tours: Mechagon",
+    "name": "TomCat's Tours: Mechagon [ADDON MOVED - see description]",
     "key": "tomcats-tours-mechagon",
     "dir": [
       "TomCats-Mechagon"
@@ -77823,7 +77916,7 @@
   },
   {
     "id": 320703,
-    "name": "TomCat's Tours: Nazjatar",
+    "name": "TomCat's Tours: Nazjatar [ADDON MOVED - see description]",
     "key": "tomcats-tours-nazjatar",
     "dir": [
       "TomCats-Nazjatar"
@@ -77833,7 +77926,7 @@
   },
   {
     "id": 320050,
-    "name": "TomCat's Tours: Noblegarden",
+    "name": "TomCat's Tours: Noblegarden [ADDON MOVED - see description]",
     "key": "tomcats-tours-noblegarden",
     "dir": [
       "TomCats-Noblegarden"
@@ -77853,7 +77946,7 @@
   },
   {
     "id": 309091,
-    "name": "TomCat's Tours: The Hivemind",
+    "name": "TomCat's Tours: The Hivemind [ADDON MOVED - see description]",
     "key": "tomcats-tours-hivemind",
     "dir": [
       "TomCats-Hivemind"
@@ -77873,7 +77966,7 @@
   },
   {
     "id": 308336,
-    "name": "TomCat's Tours: Warfronts Command Center",
+    "name": "TomCat's Tours: Warfronts Command Center [DISCONTINUED - see description]",
     "key": "tomcats-tours-warfronts-command-center",
     "dir": [
       "TomCats-WarfrontsCommandCenter"
