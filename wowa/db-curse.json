@@ -1041,6 +1041,16 @@
     "mode": 1
   },
   {
+    "id": 421855,
+    "name": "AceGUI-3.0-Eliote-LSMSoundWidget",
+    "key": "acegui-3-0-eliote-lsmsoundwidget",
+    "dir": [
+      "AceGUI-3.0-Eliote-LSMSoundWidget"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 28782,
     "name": "AceGUI-3.0-FrameWithInput",
     "key": "acegui-3-0-framewithinput",
@@ -1607,6 +1617,16 @@
     "mode": 3
   },
   {
+    "id": 422893,
+    "name": "AdiBags - Anima item filter",
+    "key": "adibags-anima-item-filter",
+    "dir": [
+      "AdiBags_Anima"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 277220,
     "name": "AdiBags - Artifacts",
     "key": "adibags-artifacts",
@@ -1686,6 +1706,16 @@
     "mode": 2
   },
   {
+    "id": 422894,
+    "name": "AdiBags - Conduit item filter",
+    "key": "adibags-conduit-item-filter",
+    "dir": [
+      "AdiBags_Conduits"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361466,
     "name": "AdiBags - Corruption Gear",
     "key": "adibags-corruption-gear",
@@ -1751,6 +1781,16 @@
     "key": "adibags-prior-expansions",
     "dir": [
       "AdiBags_PriorExpansions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423029,
+    "name": "AdiBags - Shadowlands",
+    "key": "adibags-shadowlands",
+    "dir": [
+      "AdiBags_Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -2072,6 +2112,36 @@
     "key": "adibags-reputation",
     "dir": [
       "AdiBags_RensFilters_Reputation"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422960,
+    "name": "Adibags - Shadowlands filter",
+    "key": "adibags-shadowlands-filter",
+    "dir": [
+      "AdiBags_Shadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422654,
+    "name": "Adibags Anima",
+    "key": "adibags-anima",
+    "dir": [
+      "AdiBags_Anima"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 422956,
+    "name": "Adibags Anima Filter",
+    "key": "adibags-anima-filter",
+    "dir": [
+      "AdiBags_Anima"
     ],
     "source": "curse",
     "mode": 1
@@ -3826,7 +3896,7 @@
     "dir": [
       "ArenaMaster_DB_EU",
       "ArenaMaster_DB_US",
-      "ArenaMasterPVPInspect"
+      "ArenaMasterPvPInspect"
     ],
     "source": "curse",
     "mode": 1
@@ -5887,6 +5957,16 @@
     "key": "autoguildnote",
     "dir": [
       "AutoGuildNote"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423002,
+    "name": "AutoHideObjectives",
+    "key": "autohideobjectives",
+    "dir": [
+      "AutoHideObjectives"
     ],
     "source": "curse",
     "mode": 1
@@ -8863,6 +8943,18 @@
       "BestInSlotRedux_BfaRaids",
       "BestInSlotRedux_BfaWorld",
       "BestInSlotRedux"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 420410,
+    "name": "Best In Slot SL",
+    "key": "best-in-slot-sl",
+    "dir": [
+      "BestInSlotSL_ShadowlandsDungeons",
+      "BestInSlotSL_ShadowlandsRaids",
+      "BestInSlotSL"
     ],
     "source": "curse",
     "mode": 1
@@ -20148,7 +20240,7 @@
       "DBM-VPYike"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 405894,
@@ -29557,6 +29649,16 @@
     "mode": 1
   },
   {
+    "id": 422974,
+    "name": "Flight Master Oribos - TomTom Plugin",
+    "key": "flight-master-oribos",
+    "dir": [
+      "FlightMasterOribos"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 339124,
     "name": "Flight Masters Classic",
     "key": "flight-masters-classic",
@@ -32293,7 +32395,7 @@
       "GladiatorlosSA_zhCN"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 15979,
@@ -44323,6 +44425,16 @@
     "key": "lejon-addon",
     "dir": [
       "LejonAddon"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 422999,
+    "name": "Lemmo's Craft Cooldown",
+    "key": "lemmos-craft-cooldown",
+    "dir": [
+      "Lemmos_CraftCooldown"
     ],
     "source": "curse",
     "mode": 2
@@ -64775,6 +64887,16 @@
     "mode": 1
   },
   {
+    "id": 326898,
+    "name": "Remove UI Gryphons  - RuG bey",
+    "key": "remove-ui-gryphons-rug-bey",
+    "dir": [
+      "RuG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 416517,
     "name": "RemoveActionBarTexture",
     "key": "removeactionbartexture",
@@ -68731,9 +68853,9 @@
       "SilverDragon",
       "SilverDragon_Classic",
       "SilverDragon_Overlay",
+      "SilverDragon_RangeExtender",
       "SilverDragon_BattleForAzeroth",
-      "SilverDragon_Shadowlands",
-      "SilverDragon_RangeExtender"
+      "SilverDragon_Shadowlands"
     ],
     "source": "curse",
     "mode": 3
@@ -77956,7 +78078,7 @@
   },
   {
     "id": 357905,
-    "name": "TomCat's Tours: Uldum and Vale of Eternal Blossoms",
+    "name": "TomCat's Tours: Uldum and Vale of Eternal Blossoms [ADDON MOVED - see description]",
     "key": "tomcats-tours-visions-of-nzoth",
     "dir": [
       "TomCats-Nzoth"
@@ -82225,7 +82347,6 @@
       "WeekKeys_Lootfinder",
       "WeekKeys_MTable",
       "WeekKeys_Party",
-      "WeekKeys_Rares",
       "WeekKeys_Settings"
     ],
     "source": "curse",
