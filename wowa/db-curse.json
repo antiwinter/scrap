@@ -2846,7 +2846,9 @@
       "DataStore_Stats",
       "DataStore_Talents",
       "DataStore",
-      "DataStore_Rares"
+      "DataStore_Rares",
+      "Altoholic_Shadowlands",
+      "DataStore_Covenants"
     ],
     "source": "curse",
     "mode": 1
@@ -6837,6 +6839,17 @@
     "mode": 1
   },
   {
+    "id": 334593,
+    "name": "Azerite UI Collection (Classic)",
+    "key": "azeriteui-classic",
+    "dir": [
+      "AzeriteUI_Classic",
+      "AzeriteUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 298648,
     "name": "Azerite UI Collection (Retail)",
     "key": "azeriteui-retail",
@@ -6905,17 +6918,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 334593,
-    "name": "AzeriteUI for WoW Classic",
-    "key": "azeriteui-classic",
-    "dir": [
-      "AzeriteUI_Classic",
-      "AzeriteUI"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 300706,
@@ -8930,19 +8932,6 @@
       "BestInSlotNG_BattleForAzerothDungeons",
       "BestInSlotNG_BattleForAzerothRaids",
       "BestInSlotNG"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 282320,
-    "name": "Best In Slot Redux",
-    "key": "bestinslotredux",
-    "dir": [
-      "BestInSlotRedux_BfaDungeons",
-      "BestInSlotRedux_BfaRaids",
-      "BestInSlotRedux_BfaWorld",
-      "BestInSlotRedux"
     ],
     "source": "curse",
     "mode": 1
@@ -12489,16 +12478,6 @@
     "mode": 1
   },
   {
-    "id": 15972,
-    "name": "Broker_Portals",
-    "key": "broker-portals",
-    "dir": [
-      "Broker_Portals"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 263878,
     "name": "Broker_ProfessionMats",
     "key": "broker_professionmats",
@@ -13073,16 +13052,6 @@
     "key": "bufftimers",
     "dir": [
       "BuffTimers"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 349856,
-    "name": "Buff'o'mat",
-    "key": "buffomat",
-    "dir": [
-      "buffOmat"
     ],
     "source": "curse",
     "mode": 2
@@ -16784,16 +16753,6 @@
     "mode": 1
   },
   {
-    "id": 408210,
-    "name": "ClassicNumbers",
-    "key": "classicnumbers",
-    "dir": [
-      "ClassicNumbers"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 400050,
     "name": "ClassicPathCalculator",
     "key": "classicpathcalculator",
@@ -18511,8 +18470,8 @@
       "ConsolePortLoader",
       "ConsolePortUI_Loot",
       "ConsolePortUI_Menu",
-      "ConsolePort_Config",
-      "ConsolePort_Bar"
+      "ConsolePort_Bar",
+      "ConsolePort_Config"
     ],
     "source": "curse",
     "mode": 3
@@ -25566,17 +25525,6 @@
     "mode": 1
   },
   {
-    "id": 333072,
-    "name": "ElvUI AdiBags",
-    "key": "elvui-adibags",
-    "dir": [
-      "AdiBags_Config",
-      "AdiBags"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 96937,
     "name": "ElvUI Animations",
     "key": "elvui-animations",
@@ -26804,16 +26752,6 @@
     "mode": 1
   },
   {
-    "id": 392517,
-    "name": "Enemy Cooldown Count (Classic)",
-    "key": "enemy-cooldown-count-classic",
-    "dir": [
-      "ECDC"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 101124,
     "name": "Enemy Grid",
     "key": "enemy-grid",
@@ -27573,16 +27511,6 @@
     "key": "excavatinator",
     "dir": [
       "Excavatinator"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 409589,
-    "name": "Execute Music",
-    "key": "execute-music",
-    "dir": [
-      "em"
     ],
     "source": "curse",
     "mode": 1
@@ -33162,16 +33090,6 @@
     "key": "goldlantern",
     "dir": [
       "Goldlantern"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 300743,
-    "name": "GoldpawUI for WoW Retail",
-    "key": "goldpawui",
-    "dir": [
-      "GoldieSix"
     ],
     "source": "curse",
     "mode": 1
@@ -39542,16 +39460,6 @@
     "mode": 1
   },
   {
-    "id": 257550,
-    "name": "Immersion",
-    "key": "immersion",
-    "dir": [
-      "Immersion"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 362188,
     "name": "Immersion ExtraFade",
     "key": "immersion-extrafade",
@@ -41952,7 +41860,7 @@
   },
   {
     "id": 87944,
-    "name": "Kaliel's Tracker ... Quests / World Quests / Achievements | Icecrown Rare Monitor",
+    "name": "Kaliel's Tracker ... Quests / World Quests / Achievements",
     "key": "kaliels-tracker",
     "dir": [
       "!KalielsTracker"
@@ -53886,8 +53794,8 @@
     "key": "narcissus",
     "dir": [
       "Narcissus",
-      "Narcissus_Database",
-      "Narcissus_Barbershop"
+      "Narcissus_Barbershop",
+      "Narcissus_Database"
     ],
     "source": "curse",
     "mode": 1
@@ -56779,16 +56687,6 @@
     "mode": 1
   },
   {
-    "id": 287667,
-    "name": "Paragon",
-    "key": "paragon",
-    "dir": [
-      "Paragon"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 266463,
     "name": "Paragon Announcer",
     "key": "paragon-announcer",
@@ -57660,16 +57558,6 @@
     "key": "petbattlejunkie",
     "dir": [
       "PetBattleJunkie"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 277254,
-    "name": "PetBattleLogKeeper",
-    "key": "petbattlelogkeeper",
-    "dir": [
-      "PetBattleLogKeeper"
     ],
     "source": "curse",
     "mode": 1
@@ -69471,7 +69359,7 @@
   },
   {
     "id": 296245,
-    "name": "SimpleClassPower for WoW Retail",
+    "name": "SimpleClassPower",
     "key": "simpleclasspower",
     "dir": [
       "SimpleClassPower"
@@ -74762,16 +74650,6 @@
     "mode": 2
   },
   {
-    "id": 356845,
-    "name": "TankAddon",
-    "key": "tankaddon",
-    "dir": [
-      "TankAddon"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 88763,
     "name": "TankAssist",
     "key": "tankassist",
@@ -75795,16 +75673,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 338498,
-    "name": "Threat Plates (Classic)",
-    "key": "threat-plates-classic",
-    "dir": [
-      "TidyPlates_ThreatPlates"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 394380,
