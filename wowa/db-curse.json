@@ -5402,6 +5402,16 @@
     "mode": 1
   },
   {
+    "id": 423577,
+    "name": "Auto Equipment Compare",
+    "key": "auto-equipment-compare",
+    "dir": [
+      "AutoCompare"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301903,
     "name": "Auto Friendly Nameplates",
     "key": "auto-friendly-nameplates",
@@ -18369,6 +18379,16 @@
     "mode": 3
   },
   {
+    "id": 423404,
+    "name": "ConduitHelper",
+    "key": "conduithelper",
+    "dir": [
+      "ConduitHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 23417,
     "name": "ConfirmLeaveParty",
     "key": "confirmleaveparty",
@@ -18603,17 +18623,6 @@
     "key": "cool-aid",
     "dir": [
       "CoolAid"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 307601,
-    "name": "Cool Glow",
-    "key": "cool-glow",
-    "dir": [
-      "ElvUI_CustomGlow",
-      "CoolGlow"
     ],
     "source": "curse",
     "mode": 1
@@ -19128,6 +19137,16 @@
     "key": "crafting-filters",
     "dir": [
       "Crafting_Filters"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423255,
+    "name": "Crafting Filters Shadowlands",
+    "key": "crafting-filters-shadowlands",
+    "dir": [
+      "Crafting_Filters_SL"
     ],
     "source": "curse",
     "mode": 1
@@ -19952,6 +19971,26 @@
     "mode": 1
   },
   {
+    "id": 303853,
+    "name": "DBM Voicepack - VV",
+    "key": "dbm-voicepack-vv",
+    "dir": [
+      "DBM-VPVV"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 339162,
+    "name": "DBM Voicepack - VV (for WoW classic)",
+    "key": "dbm-voicepack-vv-for-wow-classic",
+    "dir": [
+      "DBM-VPVV"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 88734,
     "name": "DBM Voicepack Carebear",
     "key": "dbm-voicepack-carebear",
@@ -20210,26 +20249,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 303853,
-    "name": "DBM Voicepack:VV",
-    "key": "dbm-voicepack-vv",
-    "dir": [
-      "DBM-VPVV"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339162,
-    "name": "DBM Voicepack:VV (for WoW classic)",
-    "key": "dbm-voicepack-vv-for-wow-classic",
-    "dir": [
-      "DBM-VPVV"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 306701,
@@ -21453,6 +21472,9 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -21461,10 +21483,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -24864,7 +24883,7 @@
     "name": "Easy Invite",
     "key": "easy-invite",
     "dir": [
-      "EasyInvite"
+      "Easy_Invite"
     ],
     "source": "curse",
     "mode": 3
@@ -30215,16 +30234,6 @@
     "mode": 1
   },
   {
-    "id": 13865,
-    "name": "FreeRefills",
-    "key": "free-refills",
-    "dir": [
-      "FreeRefills"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 322358,
     "name": "Freehold Boosting",
     "key": "freehold-boosting",
@@ -32246,6 +32255,16 @@
     "mode": 1
   },
   {
+    "id": 303854,
+    "name": "GladiatorlosSA2 - zhCN - Female(VV)",
+    "key": "gladiatorlossa2_zhcn_female-vv",
+    "dir": [
+      "GladiatorlosSA2_zhCN"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 308249,
     "name": "GladiatorlosSA2_Dmci",
     "key": "gladiatorlossa2_dmci",
@@ -32259,16 +32278,6 @@
     "id": 306861,
     "name": "GladiatorlosSA2_zhCN_Female(Taotao)",
     "key": "gladiatorlossa2_zhcn_female-taotao",
-    "dir": [
-      "GladiatorlosSA2_zhCN"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 303854,
-    "name": "GladiatorlosSA2_zhCN_Female(VV)",
-    "key": "gladiatorlossa2_zhcn_female-vv",
     "dir": [
       "GladiatorlosSA2_zhCN"
     ],
@@ -32326,18 +32335,8 @@
     "mode": 3
   },
   {
-    "id": 15979,
-    "name": "Gladius",
-    "key": "gladius",
-    "dir": [
-      "Gladius"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 64284,
-    "name": "Gladius v3",
+    "name": "Gladius - Shadowlands",
     "key": "gladius-v3",
     "dir": [
       "Gladius"
@@ -35061,16 +35060,6 @@
     "key": "guildblock",
     "dir": [
       "GuildBlock"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 3843,
-    "name": "GuildCheck",
-    "key": "project-3843",
-    "dir": [
-      "GuildCheck"
     ],
     "source": "curse",
     "mode": 1
@@ -38844,7 +38833,7 @@
       "HunterBuddy"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 24235,
@@ -42825,6 +42814,17 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 423931,
+    "name": "King Kong Frame Fader - Shadowlands",
+    "key": "king-kong-frame-fader-shadowlands",
+    "dir": [
+      "KongConfig",
+      "Kong"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 15244,
@@ -47260,16 +47260,6 @@
     "mode": 1
   },
   {
-    "id": 301237,
-    "name": "LootSpecManager",
-    "key": "lootspecmanager",
-    "dir": [
-      "LootSpecManager"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 88088,
     "name": "LootSquid",
     "key": "lootsquid",
@@ -47915,6 +47905,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 423690,
+    "name": "MS/OS Master Loot",
+    "key": "ms-os-master-loot",
+    "dir": [
+      "MSOS"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 254936,
@@ -49623,7 +49623,7 @@
       "MasterLooterReminder"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 86832,
@@ -52368,7 +52368,7 @@
       "MoveSpeed"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 402280,
@@ -53535,8 +53535,8 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossipClassic",
-      "NPCRPGossip"
+      "NPCRPGossip",
+      "NPCRPGossipClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -55382,6 +55382,16 @@
     "mode": 1
   },
   {
+    "id": 423875,
+    "name": "Oak's Loot Tooltips",
+    "key": "oaks-loot-tooltips",
+    "dir": [
+      "OaksLootTooltips"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 101871,
     "name": "Oakensoul's GnomeSequencer Enhanced Sequences",
     "key": "oakensouls-gnomesequencer-enhanc",
@@ -56019,16 +56029,6 @@
     "key": "orderhallresourcetooltip",
     "dir": [
       "OrderHallResourceTooltip"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 393227,
-    "name": "Ore/herb money - Shadowlands",
-    "key": "ore-herb-recolt-money-shadowlands-sl",
-    "dir": [
-      "Ores_money"
     ],
     "source": "curse",
     "mode": 1
@@ -57358,6 +57358,16 @@
     "key": "pet-auction-levels",
     "dir": [
       "PetAuctionLevels"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 424292,
+    "name": "Pet Battle Dungeons Advanced",
+    "key": "pet-battle-dungeons-advanced",
+    "dir": [
+      "PetBattleDungeonAdvanced"
     ],
     "source": "curse",
     "mode": 1
@@ -59636,16 +59646,6 @@
     "mode": 2
   },
   {
-    "id": 306986,
-    "name": "Pretty Reps",
-    "key": "pretty-reps",
-    "dir": [
-      "PrettyReps"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 349158,
     "name": "PreyStation",
     "key": "preystation",
@@ -61440,7 +61440,7 @@
       "QuickEPGP"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 5130,
@@ -65258,16 +65258,6 @@
     "mode": 1
   },
   {
-    "id": 6930,
-    "name": "Rewatch",
-    "key": "rewatch",
-    "dir": [
-      "Rewatch"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 366586,
     "name": "Rewind Aggro Alert",
     "key": "classic-rewind-aggro-alert-rwa",
@@ -67490,6 +67480,16 @@
     "mode": 1
   },
   {
+    "id": 423441,
+    "name": "Session Time",
+    "key": "session-time",
+    "dir": [
+      "SessionTime"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90532,
     "name": "SessionKDR",
     "key": "sessionkdr",
@@ -68584,6 +68584,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 423266,
+    "name": "Signa Inferre Suicide Kings",
+    "key": "signainferresuicidekings",
+    "dir": [
+      "SignaInferreSK"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 335903,
@@ -73354,6 +73364,16 @@
     "key": "sunnartstarlord24x",
     "dir": [
       "SunnArtStarLord24x"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423628,
+    "name": "SunnArtErgoZPack",
+    "key": "sunnartergozpack",
+    "dir": [
+      "SunnArtErgoZPack"
     ],
     "source": "curse",
     "mode": 1
@@ -78241,6 +78261,16 @@
     "key": "torarange",
     "dir": [
       "ToraRange"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423328,
+    "name": "TorghastStats",
+    "key": "torghaststats",
+    "dir": [
+      "TorghastStats"
     ],
     "source": "curse",
     "mode": 1
@@ -83515,6 +83545,16 @@
     "mode": 1
   },
   {
+    "id": 424248,
+    "name": "Wokrah",
+    "key": "wokrah",
+    "dir": [
+      "Wokrah"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 340722,
     "name": "Wolfpack Emotes (Classic)",
     "key": "wolfpack-emotes",
@@ -87624,7 +87664,7 @@
       "idTweaks"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 408116,
