@@ -1906,6 +1906,16 @@
     "mode": 1
   },
   {
+    "id": 423179,
+    "name": "AdiBags Shadowlands: Anima & Conduits",
+    "key": "adibags-shadowlands-anima-conduits",
+    "dir": [
+      "AdiBags_Shadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 404971,
     "name": "AdiBags-Keystones",
     "key": "adibags-keystones",
@@ -9669,16 +9679,6 @@
     "mode": 3
   },
   {
-    "id": 307976,
-    "name": "BigWigs Countdown Arnold Schwarzenegger",
-    "key": "bigwigs-countdown-arnold-schwarzenegger",
-    "dir": [
-      "BigWigs_Voice_Arnold"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 323653,
     "name": "BigWigs Countdown Bread Edition",
     "key": "bigwigs-countdown-bread-edition",
@@ -10601,16 +10601,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 59610,
-    "name": "Blizzard Raid Interface Antidote",
-    "key": "blizzard-raid-interface-antidote",
-    "dir": [
-      "RaidInterfaceAntidote"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 28640,
@@ -14921,16 +14911,6 @@
     "key": "character-links",
     "dir": [
       "CharacterLinks"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 389472,
-    "name": "Character Loadout Manager",
-    "key": "character-loadout-manager",
-    "dir": [
-      "CharacterLoadoutManager"
     ],
     "source": "curse",
     "mode": 1
@@ -32922,6 +32902,16 @@
     "mode": 1
   },
   {
+    "id": 423347,
+    "name": "GogoLoot",
+    "key": "gogoloot",
+    "dir": [
+      "GogoLoot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 47525,
     "name": "GoingPrice_EU",
     "key": "goingprice_eu",
@@ -43648,6 +43638,16 @@
     "mode": 1
   },
   {
+    "id": 423608,
+    "name": "LPQFP",
+    "key": "lpqfp",
+    "dir": [
+      "LPQFP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 304412,
     "name": "LPT Loot Roll (LLR)",
     "key": "lpt-loot-roll",
@@ -51055,6 +51055,16 @@
     "mode": 1
   },
   {
+    "id": 425637,
+    "name": "Mists of Tirna Solver",
+    "key": "mists-of-tirna-solver",
+    "dir": [
+      "Mists_of_Tirna_Solved"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103274,
     "name": "MistyEmotes",
     "key": "mistyemotes",
@@ -52922,8 +52932,8 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic",
-      "MyBuddies"
+      "MyBuddies",
+      "MyBuddies_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -53124,6 +53134,16 @@
     "key": "mynpc",
     "dir": [
       "MyNPC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 425616,
+    "name": "MyPathfinder",
+    "key": "mypathfinder",
+    "dir": [
+      "MyPathfinder"
     ],
     "source": "curse",
     "mode": 1
@@ -53613,6 +53633,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 424358,
+    "name": "NS My Wish Lists",
+    "key": "ns_mywishlist",
+    "dir": [
+      "NS_MyWishList"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 261826,
@@ -55383,10 +55413,10 @@
   },
   {
     "id": 423875,
-    "name": "Oak's Loot Tooltips",
+    "name": "Oak's Loot Priority Tooltips",
     "key": "oaks-loot-tooltips",
     "dir": [
-      "OaksLootTooltips"
+      "OaksLootPriorityTooltips"
     ],
     "source": "curse",
     "mode": 2
@@ -59146,6 +59176,16 @@
     "key": "popup",
     "dir": [
       "Popup"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423639,
+    "name": "Popup Blocker",
+    "key": "popup-blocker",
+    "dir": [
+      "PopupBlocker"
     ],
     "source": "curse",
     "mode": 1
@@ -64845,6 +64885,16 @@
     "mode": 1
   },
   {
+    "id": 423710,
+    "name": "Rep Grinder",
+    "key": "rep-grinder",
+    "dir": [
+      "RepGrinder"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26483,
     "name": "Rep Items",
     "key": "rep-items",
@@ -65676,7 +65726,7 @@
       "Rooster_Tools"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14596,
@@ -66480,16 +66530,6 @@
     "key": "satchel-finder",
     "dir": [
       "SatchelFinder"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 35256,
-    "name": "Satchel Scanner",
-    "key": "satchel-scanner",
-    "dir": [
-      "SatchelScanner"
     ],
     "source": "curse",
     "mode": 1
@@ -69774,16 +69814,6 @@
     "mode": 1
   },
   {
-    "id": 17718,
-    "name": "Skada Damage Meter",
-    "key": "skada",
-    "dir": [
-      "Skada"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 91384,
     "name": "Skada Damage Reductions",
     "key": "skadadmgreductions",
@@ -73046,16 +73076,6 @@
     "mode": 1
   },
   {
-    "id": 306599,
-    "name": "Suffer Mythic Vectis",
-    "key": "suffermythicvectis",
-    "dir": [
-      "SufferMythicVectis"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 345519,
     "name": "Suggest Invite for Classic",
     "key": "suggest-invite",
@@ -73104,6 +73124,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 423628,
+    "name": "Sunn - Viewport Art (SunnArt) by [riftbit] ErgoZ",
+    "key": "sunnartpackergoz",
+    "dir": [
+      "SunnArtErgoZPack"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 31883,
@@ -73364,16 +73394,6 @@
     "key": "sunnartstarlord24x",
     "dir": [
       "SunnArtStarLord24x"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 423628,
-    "name": "SunnArtErgoZPack",
-    "key": "sunnartergozpack",
-    "dir": [
-      "SunnArtErgoZPack"
     ],
     "source": "curse",
     "mode": 1
@@ -75589,6 +75609,17 @@
     "key": "theorycraftclassic",
     "dir": [
       "TheoryCraftClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 423470,
+    "name": "ThickHealthBar",
+    "key": "thickhealthbar",
+    "dir": [
+      "ThickHPbar",
+      "ThickHealthBar"
     ],
     "source": "curse",
     "mode": 2
@@ -81594,6 +81625,16 @@
     "key": "wui",
     "dir": [
       "WUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 424311,
+    "name": "Wacky Wavy Inflatable Tube Sounds ",
+    "key": "eventsoundspack3",
+    "dir": [
+      "DBM-SoundEventsPack"
     ],
     "source": "curse",
     "mode": 1
