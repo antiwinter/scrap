@@ -5382,16 +5382,6 @@
     "mode": 1
   },
   {
-    "id": 99122,
-    "name": "Auto Confirm Static Popups",
-    "key": "confirmsp",
-    "dir": [
-      "ConfirmSP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 3727,
     "name": "Auto Destroy",
     "key": "auto-destroy",
@@ -8949,8 +8939,8 @@
     "name": "Best In Slot NG",
     "key": "best-in-slot-ng",
     "dir": [
-      "BestInSlotNG_BattleForAzerothDungeons",
-      "BestInSlotNG_BattleForAzerothRaids",
+      "BestInSlotNG_ShadowlandsDungeons",
+      "BestInSlotNG_ShadowlandsRaids",
       "BestInSlotNG"
     ],
     "source": "curse",
@@ -9665,6 +9655,7 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
+      "BigWigs_CastleNathria",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -9672,8 +9663,7 @@
       "BigWigs_ZulGurub",
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
-      "BigWigs_Naxxramas",
-      "BigWigs_CastleNathria"
+      "BigWigs_Naxxramas"
     ],
     "source": "curse",
     "mode": 3
@@ -10608,6 +10598,16 @@
     "key": "blizzard-ui-removal-addon",
     "dir": [
       "BUIR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 425903,
+    "name": "Block Quick Join",
+    "key": "block-quick-join",
+    "dir": [
+      "BlockQuickJoin"
     ],
     "source": "curse",
     "mode": 1
@@ -16492,6 +16492,16 @@
     "mode": 3
   },
   {
+    "id": 425982,
+    "name": "Classic focus",
+    "key": "classic-focus",
+    "dir": [
+      "ClassicFocus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 358421,
     "name": "ClassicAggroHighlight",
     "key": "classicaggrohighlight",
@@ -18429,6 +18439,16 @@
     "mode": 2
   },
   {
+    "id": 425853,
+    "name": "Consequence - Four Horsemen",
+    "key": "consequence-four-horsemen",
+    "dir": [
+      "Consequence-4H"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 384457,
     "name": "Consequence - Raid Sorter",
     "key": "consequence-raid-sorter",
@@ -19022,11 +19042,41 @@
     "mode": 1
   },
   {
+    "id": 425983,
+    "name": "Covenant Mission Success Estimates",
+    "key": "simple-covenant-mission-success-estimates",
+    "dir": [
+      "KayrCovenantMissions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 413777,
     "name": "Covenant Party!",
     "key": "covenant-party",
     "dir": [
       "CovenantParty"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 426035,
+    "name": "CovenantForge",
+    "key": "covenantforge",
+    "dir": [
+      "CovenantForge"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 426287,
+    "name": "CoyTooltip",
+    "key": "coytooltip",
+    "dir": [
+      "CoyTooltip"
     ],
     "source": "curse",
     "mode": 1
@@ -22683,6 +22733,16 @@
     "mode": 1
   },
   {
+    "id": 425852,
+    "name": "Details!: SlackMeter (plugin)",
+    "key": "details-slackmeter-plugin",
+    "dir": [
+      "Details_SlackMeter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361700,
     "name": "Details!: Sunder Count (plugin)",
     "key": "details-sundercount-plugin",
@@ -23387,7 +23447,7 @@
     "name": "Donkey Brains Loot Priority",
     "key": "donkey-brains-prio",
     "dir": [
-      "Donkey_Prio"
+      "Donkey_Prio-1.2.1"
     ],
     "source": "curse",
     "mode": 2
@@ -29908,6 +29968,16 @@
     "mode": 1
   },
   {
+    "id": 426125,
+    "name": "Following",
+    "key": "following",
+    "dir": [
+      "Following"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27385,
     "name": "Font Damage Changer",
     "key": "font-damage-changer",
@@ -35147,6 +35217,16 @@
     "mode": 1
   },
   {
+    "id": 426507,
+    "name": "GuildMemes",
+    "key": "guildmemes",
+    "dir": [
+      "GuildMemes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 299220,
     "name": "GuildMessageRemover",
     "key": "guildmessageremover",
@@ -36948,6 +37028,16 @@
     "mode": 1
   },
   {
+    "id": 426369,
+    "name": "HealthAlert",
+    "key": "healthalert",
+    "dir": [
+      "HealthAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 312940,
     "name": "Healthstone Auto Macro",
     "key": "healthstone-auto-macro",
@@ -37186,6 +37276,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 426141,
+    "name": "Help Beemo with Patchwerk",
+    "key": "help-beemo",
+    "dir": [
+      "PatchwerkHeal"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 339622,
@@ -37520,6 +37620,16 @@
     "key": "raidhide",
     "dir": [
       "RaidHide"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 426069,
+    "name": "Hide Button Glow",
+    "key": "hide-button-glow",
+    "dir": [
+      "HideButtonGlow"
     ],
     "source": "curse",
     "mode": 1
@@ -39079,16 +39189,6 @@
     "mode": 1
   },
   {
-    "id": 340639,
-    "name": "IAmAMerchant Classic",
-    "key": "iamamerchant-classic",
-    "dir": [
-      "IAmAMerchant"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 92590,
     "name": "ID Counter",
     "key": "ridcx",
@@ -39544,16 +39644,6 @@
     "key": "import-data-group-calendar-classic",
     "dir": [
       "GroupCalendar_ImportData"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 103336,
-    "name": "Improved Blizzard UI",
-    "key": "improved-blizzard-ui",
-    "dir": [
-      "ImprovedBlizzardUI"
     ],
     "source": "curse",
     "mode": 2
@@ -43964,7 +44054,10 @@
     "name": "LazyCurve",
     "key": "lazycurve",
     "dir": [
-      "LazyCurve"
+      "LazyCurve",
+      "LazyCurve_Legion",
+      "LazyCurve_BFA",
+      "LazyCurve_Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -45585,16 +45678,6 @@
     "key": "libmayronevents",
     "dir": [
       "LibMayronEvents"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 419177,
-    "name": "LibMayronObjects",
-    "key": "libmayronobjects",
-    "dir": [
-      "LibMayronObjects"
     ],
     "source": "curse",
     "mode": 3
@@ -47260,6 +47343,16 @@
     "mode": 1
   },
   {
+    "id": 301237,
+    "name": "LootSpecManager",
+    "key": "lootspecmanager",
+    "dir": [
+      "LootSpecManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88088,
     "name": "LootSquid",
     "key": "lootsquid",
@@ -47797,16 +47890,6 @@
     "mode": 3
   },
   {
-    "id": 14354,
-    "name": "MBB",
-    "key": "mbb",
-    "dir": [
-      "MBB"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 358411,
     "name": "MBB - Classic",
     "key": "mbb-classic",
@@ -48098,16 +48181,6 @@
     "mode": 1
   },
   {
-    "id": 3979,
-    "name": "Macro-Talk",
-    "key": "macro-talk",
-    "dir": [
-      "MacroTalk"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 338943,
     "name": "Macro-Talk_Classic",
     "key": "macro-talk_classic",
@@ -48237,6 +48310,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 424067,
+    "name": "Mafia - Loot Council",
+    "key": "mafia-loot-council",
+    "dir": [
+      "MafiaLC"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 68238,
@@ -49950,6 +50033,16 @@
     "mode": 1
   },
   {
+    "id": 419177,
+    "name": "MayronObjects",
+    "key": "mayronobjects",
+    "dir": [
+      "MayronObjects"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 342432,
     "name": "McCapFix",
     "key": "mccapfix",
@@ -51055,6 +51148,16 @@
     "mode": 1
   },
   {
+    "id": 426331,
+    "name": "Mists of Tirna Scithe Helper",
+    "key": "mists-of-tirna-scithe-helper",
+    "dir": [
+      "MistsOfTirnaScitheHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 425637,
     "name": "Mists of Tirna Solver",
     "key": "mists-of-tirna-solver",
@@ -51619,6 +51722,16 @@
     "mode": 2
   },
   {
+    "id": 425733,
+    "name": "Monochrome R1",
+    "key": "monochrome-r1",
+    "dir": [
+      "Monochrome"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 335947,
     "name": "Monolith DKP",
     "key": "monolith-dkp",
@@ -51833,6 +51946,16 @@
     "id": 403835,
     "name": "Morthalin Raid Tools",
     "key": "morthalin-raid-tools",
+    "dir": [
+      "MorthalinRaidTools"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 426207,
+    "name": "MorthalinRaidTools",
+    "key": "morthalinraidtools",
     "dir": [
       "MorthalinRaidTools"
     ],
@@ -59706,6 +59829,16 @@
     "mode": 1
   },
   {
+    "id": 425921,
+    "name": "Pride!",
+    "key": "pride",
+    "dir": [
+      "Pride"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 7650,
     "name": "Priest Friend",
     "key": "priestfriend",
@@ -61480,7 +61613,7 @@
       "QuickEPGP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 5130,
@@ -66133,6 +66266,16 @@
     "mode": 1
   },
   {
+    "id": 421389,
+    "name": "SK for Retail",
+    "key": "sk-for-retail",
+    "dir": [
+      "KKonferSK"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 390802,
     "name": "SKC",
     "key": "skc",
@@ -69809,6 +69952,16 @@
     "key": "dps-plus-hps",
     "dir": [
       "SkadaDPSplusHPS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 17718,
+    "name": "Skada Damage Meter",
+    "key": "skada",
+    "dir": [
+      "Skada"
     ],
     "source": "curse",
     "mode": 1
@@ -75126,16 +75279,6 @@
     "key": "taxitimer",
     "dir": [
       "TaxiTimer"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 406030,
-    "name": "Team Best C'Thun Positioning",
-    "key": "team-best-cthun-positioning",
-    "dir": [
-      "TBCThun"
     ],
     "source": "curse",
     "mode": 1
@@ -80787,13 +80930,13 @@
     "name": "Vendor",
     "key": "vendor",
     "dir": [
-      "Vendor_Ark",
       "Vendor_Pawn",
-      "Vendor_Titan",
-      "Vendor_TSM",
-      "Vendor",
+      "Vendor_Ark",
       "Vendor_AdiBags",
-      "Vendor_RulePack"
+      "Vendor_RulePack",
+      "Vendor_TSM",
+      "Vendor_Titan",
+      "Vendor"
     ],
     "source": "curse",
     "mode": 3
