@@ -5239,16 +5239,6 @@
     "mode": 3
   },
   {
-    "id": 22745,
-    "name": "Auctioneer Batch-Sell Highlight",
-    "key": "auc-util-bsh",
-    "dir": [
-      "Auc-Util-BSH"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 86550,
     "name": "Auctioneer Cheapo searcher module (with transmog)",
     "key": "auctioneer-cheapo-searcher-module-with-transmog",
@@ -9655,7 +9645,6 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_CastleNathria",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -9663,7 +9652,9 @@
       "BigWigs_ZulGurub",
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
-      "BigWigs_Naxxramas"
+      "BigWigs_Naxxramas",
+      "BigWigs_CastleNathria",
+      "BigWigs_Shadowlands"
     ],
     "source": "curse",
     "mode": 3
@@ -11333,17 +11324,6 @@
     "mode": 1
   },
   {
-    "id": 67997,
-    "name": "BossesKilled",
-    "key": "bosseskilled",
-    "dir": [
-      "bosseskilled",
-      "BossesKilled"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 357353,
     "name": "Bossneeder",
     "key": "bossneeder",
@@ -11729,17 +11709,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 101806,
-    "name": "Broker Specializations",
-    "key": "broker-specializations",
-    "dir": [
-      "Broker_SpecializationsConfig",
-      "Broker_Specializations"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 30804,
@@ -12483,16 +12452,6 @@
     "key": "broker_professionmats",
     "dir": [
       "Broker_ProfessionMats"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 24548,
-    "name": "Broker_ProfessionsMenu",
-    "key": "broker_professionsmenu",
-    "dir": [
-      "Broker_ProfessionsMenu"
     ],
     "source": "curse",
     "mode": 1
@@ -13563,16 +13522,6 @@
     "key": "cchatfilter",
     "dir": [
       "CChatFilter"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 421262,
-    "name": "CCleanerClassic",
-    "key": "ccleanerclassic",
-    "dir": [
-      "CCleanerClassic"
     ],
     "source": "curse",
     "mode": 2
@@ -16392,6 +16341,16 @@
     "mode": 2
   },
   {
+    "id": 426943,
+    "name": "Classic Raid Info [CRI]",
+    "key": "classic-raid-info-cri",
+    "dir": [
+      "ClassicRaidInfo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 344365,
     "name": "Classic Raid Tracker",
     "key": "classic-raid-tracker",
@@ -16748,6 +16707,16 @@
     "key": "classiclevelup",
     "dir": [
       "ClassicLevelUp"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408210,
+    "name": "ClassicNumbers",
+    "key": "classicnumbers",
+    "dir": [
+      "ClassicNumbers"
     ],
     "source": "curse",
     "mode": 1
@@ -18628,6 +18597,17 @@
     "mode": 1
   },
   {
+    "id": 307601,
+    "name": "Cool Glow",
+    "key": "cool-glow",
+    "dir": [
+      "ElvUI_CustomGlow",
+      "CoolGlow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 279697,
     "name": "CoolDamageFont",
     "key": "cooldamagefont",
@@ -20341,6 +20321,16 @@
     "mode": 1
   },
   {
+    "id": 427013,
+    "name": "DBM-LogoutTimer",
+    "key": "dbm-logouttimer",
+    "dir": [
+      "DBM-LogoutTimer"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 89997,
     "name": "DBM-LootReminder",
     "key": "dbm-lootreminder",
@@ -21502,9 +21492,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -21513,7 +21500,10 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -23880,16 +23870,6 @@
     "dir": [
       "droodfocus",
       "DroodFocus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 7174,
-    "name": "DropCount",
-    "key": "dropcount",
-    "dir": [
-      "LootCount_DropCount"
     ],
     "source": "curse",
     "mode": 1
@@ -27575,6 +27555,16 @@
     "mode": 1
   },
   {
+    "id": 409589,
+    "name": "Execute Music",
+    "key": "execute-music",
+    "dir": [
+      "em"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 50218,
     "name": "Execute Range",
     "key": "execute-range",
@@ -28653,16 +28643,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 19410,
-    "name": "Fatality",
-    "key": "fatality",
-    "dir": [
-      "Fatality"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 89245,
@@ -32245,16 +32225,6 @@
     "mode": 2
   },
   {
-    "id": 101365,
-    "name": "GladiatorVoiceAlerter",
-    "key": "gladiatorvoicealerter",
-    "dir": [
-      "GladiatorVoiceAlerter"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 101527,
     "name": "GladiatorVoiceAlerter_JulieHP",
     "key": "gladiatorvoicealerter_juliehp",
@@ -32810,16 +32780,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 20555,
-    "name": "Gnosis (Castbars and Timers)",
-    "key": "gnosis",
-    "dir": [
-      "Gnosis"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 277509,
@@ -35903,16 +35863,6 @@
     "mode": 1
   },
   {
-    "id": 18149,
-    "name": "HandyNotes Special NPCs Etc",
-    "key": "handynotes_specialnpcsetc",
-    "dir": [
-      "HandyNotes_SpecialNPCsEtc"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 305235,
     "name": "HandyNotes Universal Explorer",
     "key": "handynotes-universal-explorer",
@@ -36303,16 +36253,6 @@
     "mode": 1
   },
   {
-    "id": 276879,
-    "name": "HandyNotes_Argus",
-    "key": "handynotes_argus",
-    "dir": [
-      "HandyNotes_Argus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 91286,
     "name": "HandyNotes_AzerothsTopTunes",
     "key": "handynotes_azerothstoptunes",
@@ -36328,16 +36268,6 @@
     "key": "handy-notes_city-guide",
     "dir": [
       "HandyNotes_CityGuide"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 86352,
-    "name": "HandyNotes_DraenorTreasures",
-    "key": "handynotes_draenortreasures",
-    "dir": [
-      "HandyNotes_DraenorTreasures"
     ],
     "source": "curse",
     "mode": 1
@@ -36594,17 +36524,6 @@
     "mode": 1
   },
   {
-    "id": 302430,
-    "name": "Handynotes - Warfront Rares",
-    "key": "handynotes-warfrontrares",
-    "dir": [
-      "HandyNotes_Arathi",
-      "HandyNotes_WarfrontRares"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 345228,
     "name": "Handynotes BFA Jelly",
     "key": "handynotes-bfa-jelly",
@@ -36620,16 +36539,6 @@
     "key": "handynotes_jetpacks",
     "dir": [
       "HandyNotes_Jetpacks"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 100250,
-    "name": "Handynotes_LegionRares&Treasures",
-    "key": "handynotes_legionrarestreasures",
-    "dir": [
-      "HandyNotes_LegionRaresTreasures"
     ],
     "source": "curse",
     "mode": 1
@@ -37276,16 +37185,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 426141,
-    "name": "Help Beemo with Patchwerk",
-    "key": "help-beemo",
-    "dir": [
-      "PatchwerkHeal"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 339622,
@@ -39539,6 +39438,16 @@
     "mode": 1
   },
   {
+    "id": 257550,
+    "name": "Immersion",
+    "key": "immersion",
+    "dir": [
+      "Immersion"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 362188,
     "name": "Immersion ExtraFade",
     "key": "immersion-extrafade",
@@ -39649,6 +39558,16 @@
     "mode": 2
   },
   {
+    "id": 103336,
+    "name": "Improved Blizzard UI",
+    "key": "improved-blizzard-ui",
+    "dir": [
+      "ImprovedBlizzardUI"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 355022,
     "name": "Improved Blizzard UI (Classic Edition)",
     "key": "improved-blizzard-ui-classic-edition",
@@ -39717,16 +39636,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 358454,
-    "name": "Improved Raid Frame Status Text",
-    "key": "improvedraidframestatustext",
-    "dir": [
-      "ImprovedRaidFrameStatusText"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 30136,
@@ -41559,6 +41468,16 @@
     "mode": 3
   },
   {
+    "id": 426565,
+    "name": "JeypLoathebHealSorter",
+    "key": "jeyploathebhealsorter",
+    "dir": [
+      "JeypLoathebHealSorter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 345010,
     "name": "JitterDKP Classic",
     "key": "jitterdkp-classic",
@@ -43317,16 +43236,6 @@
     "mode": 1
   },
   {
-    "id": 28188,
-    "name": "LDB-LagTolerance",
-    "key": "ldb-lagtolerance",
-    "dir": [
-      "LDB-LagTolerance"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 20183,
     "name": "LDB-Threat",
     "key": "ldb-threat",
@@ -44051,7 +43960,7 @@
   },
   {
     "id": 290074,
-    "name": "LazyCurve",
+    "name": "LazyCurve Shadowlands",
     "key": "lazycurve",
     "dir": [
       "LazyCurve",
@@ -45450,7 +45359,7 @@
       "LibHighvalue"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 92912,
@@ -47765,7 +47674,7 @@
       "Ludwig"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 408908,
@@ -50043,6 +49952,16 @@
     "mode": 3
   },
   {
+    "id": 426358,
+    "name": "Maze Helper (Mists of Tirna Scithe)",
+    "key": "maze-helper-mists-of-tirna-scithe",
+    "dir": [
+      "MazeHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342432,
     "name": "McCapFix",
     "key": "mccapfix",
@@ -51025,16 +50944,6 @@
     "mode": 2
   },
   {
-    "id": 340839,
-    "name": "Missing TradeSkills List",
-    "key": "missing-tradeskills-list",
-    "dir": [
-      "MissingTradeSkillsList"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 421183,
     "name": "MissingFlightPaths",
     "key": "missingflightpaths",
@@ -51465,26 +51374,6 @@
     "key": "mogit-highlighter",
     "dir": [
       "MogIt_Highlighter"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 61746,
-    "name": "MogIt_Wardrobe",
-    "key": "mogit_wardrobe",
-    "dir": [
-      "MogIt_Wardrobe"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 72695,
-    "name": "MogIt_WowHead",
-    "key": "mogit_wowhead",
-    "dir": [
-      "MogIt_WowHead"
     ],
     "source": "curse",
     "mode": 1
@@ -53768,6 +53657,16 @@
     "mode": 2
   },
   {
+    "id": 426616,
+    "name": "NS_ExportMe",
+    "key": "ns_exportme",
+    "dir": [
+      "NS_ExportMe"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 261826,
     "name": "Name2Chat",
     "key": "name2chat",
@@ -53979,16 +53878,6 @@
     "key": "nativespeech",
     "dir": [
       "NativeSpeech"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 2066,
-    "name": "Natur EnemyCastBar",
-    "key": "natur-enemy-cast-bar",
-    "dir": [
-      "Natur"
     ],
     "source": "curse",
     "mode": 1
@@ -56207,6 +56096,16 @@
     "mode": 1
   },
   {
+    "id": 426841,
+    "name": "Oribos Flight Attendant",
+    "key": "oribos-flight-attendant",
+    "dir": [
+      "OribosFlightAttendant"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 421283,
     "name": "Oribos Loop Counter",
     "key": "oribos-loop-counter",
@@ -56911,7 +56810,7 @@
   },
   {
     "id": 32827,
-    "name": "Pare! Interrupt",
+    "name": "Pare! Interrupt Announcer",
     "key": "pare",
     "dir": [
       "Pare"
@@ -57370,6 +57269,16 @@
     "key": "persolootroll",
     "dir": [
       "PersoLootRoll"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 426442,
+    "name": "Personal BlackList for Shadowlands (Fan-Update)",
+    "key": "personal-blacklist-for-shadowlands-fan-update",
+    "dir": [
+      "PersonalBlacklist"
     ],
     "source": "curse",
     "mode": 1
@@ -59743,16 +59652,6 @@
     "key": "premade-sort",
     "dir": [
       "PremadeSort"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 93224,
-    "name": "PremadeAge",
-    "key": "premadeage",
-    "dir": [
-      "PremadeAge"
     ],
     "source": "curse",
     "mode": 1
@@ -65601,16 +65500,6 @@
     "mode": 1
   },
   {
-    "id": 28425,
-    "name": "RobBossMods",
-    "key": "robbossmods1",
-    "dir": [
-      "RobBossMods"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102800,
     "name": "Roboto Fonts",
     "key": "robotofonts",
@@ -68084,6 +67973,16 @@
     "mode": 1
   },
   {
+    "id": 419014,
+    "name": "SharedMedia: ToxiUI",
+    "key": "sharedmedia_toxiui",
+    "dir": [
+      "SharedMedia_ToxiUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14640,
     "name": "SharedMediaAdditionalFonts",
     "key": "shared-media-additional-fonts",
@@ -68199,16 +68098,6 @@
     "key": "sharedmedia_tbd",
     "dir": [
       "SharedMedia_TBD"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 419014,
-    "name": "SharedMedia_ToxiUI",
-    "key": "sharedmedia_toxiui",
-    "dir": [
-      "SharedMedia_ToxiUI"
     ],
     "source": "curse",
     "mode": 1
@@ -68997,16 +68886,6 @@
     "key": "simcompare",
     "dir": [
       "SimCompare"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 254069,
-    "name": "SimPermut",
-    "key": "simpermut",
-    "dir": [
-      "SimPermut"
     ],
     "source": "curse",
     "mode": 1
@@ -71242,16 +71121,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 345172,
-    "name": "SotA - DKP Addon",
-    "key": "sota-dkp-addon",
-    "dir": [
-      "sota"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 95719,
@@ -80181,16 +80050,6 @@
     "mode": 2
   },
   {
-    "id": 303603,
-    "name": "UIG Twitch Emotes",
-    "key": "uig-twitch-emotes",
-    "dir": [
-      "UIGTwitchEmotes"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 278183,
     "name": "US-realm Free CD [Horde]",
     "key": "mianfeicd",
@@ -83970,16 +83829,6 @@
     "mode": 1
   },
   {
-    "id": 102307,
-    "name": "World Quest Group Finder",
-    "key": "worldquestgroupfinder",
-    "dir": [
-      "WorldQuestGroupFinder"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 266678,
     "name": "World Quest Groupie",
     "key": "wqgroupie",
@@ -86812,7 +86661,7 @@
       "devnull"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 299936,
