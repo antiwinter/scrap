@@ -3077,6 +3077,16 @@
     "mode": 1
   },
   {
+    "id": 426990,
+    "name": "Angrier World Quests",
+    "key": "angrier-world-quests",
+    "dir": [
+      "AngrierWorldQuests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 67138,
     "name": "Angry Assignments",
     "key": "angry-assignments",
@@ -8875,6 +8885,16 @@
     "mode": 1
   },
   {
+    "id": 426962,
+    "name": "Beemo One Click Win",
+    "key": "beemo-one-click-win",
+    "dir": [
+      "BeemoHelper"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 351047,
     "name": "BeerCount",
     "key": "beercount",
@@ -13527,6 +13547,16 @@
     "mode": 2
   },
   {
+    "id": 421262,
+    "name": "CCleanerClassic",
+    "key": "ccleanerclassic",
+    "dir": [
+      "CCleanerClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 90796,
     "name": "CDSpy",
     "key": "cdspy",
@@ -16343,7 +16373,7 @@
   {
     "id": 426943,
     "name": "Classic Raid Info [CRI]",
-    "key": "classic-raid-info-cri",
+    "key": "classic-raid-info",
     "dir": [
       "ClassicRaidInfo"
     ],
@@ -18460,7 +18490,8 @@
       "ConsolePortUI_Loot",
       "ConsolePortUI_Menu",
       "ConsolePort_Bar",
-      "ConsolePort_Config"
+      "ConsolePort_Config",
+      "ConsolePort_Menu"
     ],
     "source": "curse",
     "mode": 3
@@ -24758,6 +24789,16 @@
     "mode": 2
   },
   {
+    "id": 426973,
+    "name": "EZLoatheb Classic",
+    "key": "ezloatheb-classic",
+    "dir": [
+      "EZLoatheb"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 401033,
     "name": "EZPoolSize",
     "key": "ezpoolsize",
@@ -25562,6 +25603,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 333072,
+    "name": "ElvUI AdiBags",
+    "key": "elvui-adibags",
+    "dir": [
+      "AdiBags_Config",
+      "AdiBags"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 96937,
@@ -29093,16 +29145,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 13844,
-    "name": "FishermansFriend",
-    "key": "fishermans-friend",
-    "dir": [
-      "FishermansFriend"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 15093,
@@ -39511,6 +39553,16 @@
     "id": 39317,
     "name": "Immortalis Announce",
     "key": "immortalis-announce",
+    "dir": [
+      "ImmortalisAnnounce"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427231,
+    "name": "Immortalis Announce v2",
+    "key": "immortalis-announce-v2",
     "dir": [
       "ImmortalisAnnounce"
     ],
@@ -71123,6 +71175,16 @@
     "mode": 3
   },
   {
+    "id": 345172,
+    "name": "SotA - DKP Addon",
+    "key": "sota-dkp-addon",
+    "dir": [
+      "sota"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 95719,
     "name": "Soul Energy Tracker",
     "key": "soul-energy-tracker",
@@ -71251,16 +71313,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 301966,
-    "name": "SoundPlayer",
-    "key": "soundplayer",
-    "dir": [
-      "SoundPlayer"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 416252,
@@ -74689,7 +74741,7 @@
       "DD_LC_Helper"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 398385,
@@ -81607,16 +81659,6 @@
     "key": "wqachievements",
     "dir": [
       "WQAchievements"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 86433,
-    "name": "WRAIO",
-    "key": "wraio",
-    "dir": [
-      "WRAIO"
     ],
     "source": "curse",
     "mode": 1
