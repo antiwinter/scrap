@@ -5483,16 +5483,6 @@
     "mode": 1
   },
   {
-    "id": 255369,
-    "name": "Auto Quest Tracker",
-    "key": "auto-quest-tracker",
-    "dir": [
-      "AutoQuestTracker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 26829,
     "name": "Auto Questing Tools",
     "key": "auto-questing-tools",
@@ -13126,6 +13116,17 @@
     "mode": 3
   },
   {
+    "id": 422079,
+    "name": "Bufflehead",
+    "key": "bufflehead",
+    "dir": [
+      "Bufflehead_Options",
+      "Bufflehead"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334677,
     "name": "Buffwatch Classic",
     "key": "buffwatch-classic",
@@ -16416,16 +16417,6 @@
     "key": "classic-target-helper",
     "dir": [
       "ClassicTargetHelper"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 341670,
-    "name": "Classic Tracking Cycler",
-    "key": "classic-tracking-cycler",
-    "dir": [
-      "TrackingCycler"
     ],
     "source": "curse",
     "mode": 2
@@ -19832,6 +19823,16 @@
     "mode": 1
   },
   {
+    "id": 427986,
+    "name": "DBM - Ashen Sound Pack",
+    "key": "dbm-ashen-sound-pack",
+    "dir": [
+      "DBM-AshenSoundPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 97210,
     "name": "DBM - UndeadVO - Voice Pack - VEM",
     "key": "undeadvo",
@@ -19887,6 +19888,16 @@
     "key": "dbm-fail-sounds",
     "dir": [
       "DBM-Fail-Sounds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427569,
+    "name": "DBM Insatiable Sounds",
+    "key": "dbm-insatiable-sounds",
+    "dir": [
+      "DBM-InsatiableSounds"
     ],
     "source": "curse",
     "mode": 1
@@ -20581,16 +20592,6 @@
     "key": "dmfquest",
     "dir": [
       "DMFQuest"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 279536,
-    "name": "DMFAutoDailyQuest",
-    "key": "dmfautodailyquest",
-    "dir": [
-      "DMFAutoDailyQuest"
     ],
     "source": "curse",
     "mode": 1
@@ -26573,6 +26574,16 @@
     "mode": 1
   },
   {
+    "id": 427339,
+    "name": "ElvUI_Vampire",
+    "key": "elvui_vampire",
+    "dir": [
+      "ElvUI_Vampire"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 289502,
     "name": "ElvUI_mMediaTag",
     "key": "elvui_mmediatag",
@@ -26841,6 +26852,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 392517,
+    "name": "Enemy Cooldown Count (Classic)",
+    "key": "enemy-cooldown-count-classic",
+    "dir": [
+      "ECDC"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101124,
@@ -32261,7 +32282,8 @@
     "name": "Give it a Lick",
     "key": "give-it-a-lick",
     "dir": [
-      "EssentialDKP"
+      "EssentialDKP",
+      "Giveitalick"
     ],
     "source": "curse",
     "mode": 2
@@ -33376,6 +33398,36 @@
     "key": "grease-goblin",
     "dir": [
       "GreaseGoblin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427952,
+    "name": "Great Vault",
+    "key": "great-vault",
+    "dir": [
+      "GreatVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427758,
+    "name": "Great Vault Anywhere",
+    "key": "great-vault-anywhere",
+    "dir": [
+      "GreatVaultAnywhere"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427686,
+    "name": "GreatVaultAnywhere",
+    "key": "greatvaultanywhere",
+    "dir": [
+      "GreatVaultAnywhere"
     ],
     "source": "curse",
     "mode": 1
@@ -37099,6 +37151,16 @@
     "mode": 1
   },
   {
+    "id": 427917,
+    "name": "HearthCloak",
+    "key": "hearthcloak",
+    "dir": [
+      "HearthCloak"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 385361,
     "name": "HearthRoulette",
     "key": "hearthroulette",
@@ -37264,6 +37326,16 @@
     "key": "project-14171",
     "dir": [
       "Henge"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 102029,
+    "name": "Henrik Lundqvist",
+    "key": "hkib-profession-tracker",
+    "dir": [
+      "hKiB_ProfessionTrack"
     ],
     "source": "curse",
     "mode": 1
@@ -41093,6 +41165,16 @@
     "mode": 1
   },
   {
+    "id": 427962,
+    "name": "ItemNameLocalized [Korean module]",
+    "key": "itemnamelocalized-kokr",
+    "dir": [
+      "ItemNameLocalized_koKR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 367371,
     "name": "ItemNameLocalized [Portuguese module]",
     "key": "itemnamelocalized-ptbr",
@@ -41113,6 +41195,16 @@
     "mode": 1
   },
   {
+    "id": 427964,
+    "name": "ItemNameLocalized [Simplified Chinese module]",
+    "key": "itemnamelocalized-zhcn",
+    "dir": [
+      "ItemNameLocalized_zhCN"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 367364,
     "name": "ItemNameLocalized [Spanish (Latin American) module]",
     "key": "itemnamelocalized-esmx",
@@ -41128,6 +41220,16 @@
     "key": "itemnamelocalized-eses",
     "dir": [
       "ItemNameLocalized_esES"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427965,
+    "name": "ItemNameLocalized [Traditional Chinese module]",
+    "key": "itemnamelocalized-zhtw",
+    "dir": [
+      "ItemNameLocalized_zhTW"
     ],
     "source": "curse",
     "mode": 1
@@ -46704,6 +46806,16 @@
     "mode": 1
   },
   {
+    "id": 427899,
+    "name": "Loatheb Debuffs",
+    "key": "loatheb-debuffs",
+    "dir": [
+      "LoathebDebuffs"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 87572,
     "name": "Localized Groups",
     "key": "localized-groups",
@@ -48258,6 +48370,16 @@
     "key": "macronomy",
     "dir": [
       "Macronomy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427732,
+    "name": "MadeByBeGone",
+    "key": "madebybegone",
+    "dir": [
+      "MadeByBeGone"
     ],
     "source": "curse",
     "mode": 1
@@ -53709,6 +53831,16 @@
     "mode": 2
   },
   {
+    "id": 427524,
+    "name": "NS WishLists Master",
+    "key": "ns-wishlists-master",
+    "dir": [
+      "NS_WishLists_Master"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 426616,
     "name": "NS_ExportMe",
     "key": "ns_exportme",
@@ -54651,6 +54783,16 @@
     "mode": 2
   },
   {
+    "id": 427498,
+    "name": "No Screen Glow",
+    "key": "no-screen-glow",
+    "dir": [
+      "NoScreenGlow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 375477,
     "name": "No Talking Heads",
     "key": "no-talking-heads",
@@ -55116,6 +55258,16 @@
     "key": "notes",
     "dir": [
       "Notes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427905,
+    "name": "Notes ArtHider",
+    "key": "notes-arthider",
+    "dir": [
+      "Notes_ArtHider"
     ],
     "source": "curse",
     "mode": 1
@@ -58341,6 +58493,16 @@
     "mode": 1
   },
   {
+    "id": 427314,
+    "name": "Pinup",
+    "key": "pinup",
+    "dir": [
+      "Pinup"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4466,
     "name": "PitBull Unit Frames 3.0",
     "key": "pit-bull",
@@ -58778,7 +58940,7 @@
   },
   {
     "id": 386631,
-    "name": "PlayerMadeQuests",
+    "name": "PlayerMadeQuests (PMQ)",
     "key": "pmq",
     "dir": [
       "PlayerMadeQuests"
@@ -60027,16 +60189,6 @@
     "key": "profession-track",
     "dir": [
       "ProfessionTrack"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 102029,
-    "name": "Profession Tracker",
-    "key": "hkib-profession-tracker",
-    "dir": [
-      "hKiB_ProfessionTrack"
     ],
     "source": "curse",
     "mode": 1
@@ -63649,16 +63801,6 @@
     "mode": 1
   },
   {
-    "id": 345144,
-    "name": "Rare Share: Core",
-    "key": "rare-share",
-    "dir": [
-      "RareShare"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 326009,
     "name": "Rare Share: Mechagon",
     "key": "mechagon-rare-share",
@@ -65637,6 +65779,16 @@
     "key": "rpb-20",
     "dir": [
       "RoguePowerBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 427367,
+    "name": "RogueWizz",
+    "key": "roguewizz",
+    "dir": [
+      "RogueWizz"
     ],
     "source": "curse",
     "mode": 1
@@ -68075,6 +68227,16 @@
     "mode": 3
   },
   {
+    "id": 427987,
+    "name": "SharedMedia_AshenMedia",
+    "key": "sharedmedia_ashenmedia",
+    "dir": [
+      "SharedMedia_AshenMedia"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301812,
     "name": "SharedMedia_Causese",
     "key": "sharedmedia_causese",
@@ -68579,6 +68741,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 427841,
+    "name": "ShowMyTime",
+    "key": "showmytime",
+    "dir": [
+      "ShowMyTime"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 256294,
