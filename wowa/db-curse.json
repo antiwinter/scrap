@@ -8559,7 +8559,7 @@
       "BattleGroundEnemies"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 354439,
@@ -11329,6 +11329,16 @@
     "dir": [
       "Bosses-Killed-lfr",
       "Bosses_Killed_lfr"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428062,
+    "name": "BossesKilledLFR",
+    "key": "bosseskilledlfr",
+    "dir": [
+      "BossesKilled"
     ],
     "source": "curse",
     "mode": 1
@@ -17542,6 +17552,16 @@
     "mode": 2
   },
   {
+    "id": 428333,
+    "name": "Combat Daggers",
+    "key": "combat-daggers",
+    "dir": [
+      "CombatDaggers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 398922,
     "name": "Combat Helm",
     "key": "combat-helm",
@@ -18482,7 +18502,8 @@
       "ConsolePortUI_Menu",
       "ConsolePort_Bar",
       "ConsolePort_Config",
-      "ConsolePort_Menu"
+      "ConsolePort_Menu",
+      "ConsolePort_World"
     ],
     "source": "curse",
     "mode": 3
@@ -25224,6 +25245,16 @@
     "mode": 1
   },
   {
+    "id": 428507,
+    "name": "EasyQueue",
+    "key": "easyqueue",
+    "dir": [
+      "EasyQueue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102535,
     "name": "EasyReload",
     "key": "easyreload",
@@ -26569,16 +26600,6 @@
     "key": "elvui_tooltip2bag",
     "dir": [
       "ElvUI_Tooltip2Bag"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 427339,
-    "name": "ElvUI_Vampire",
-    "key": "elvui_vampire",
-    "dir": [
-      "ElvUI_Vampire"
     ],
     "source": "curse",
     "mode": 1
@@ -29714,6 +29735,16 @@
     "key": "flight-hud",
     "dir": [
       "FlightHUD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428336,
+    "name": "FlightPath Search",
+    "key": "flightpath-search",
+    "dir": [
+      "FlightPathSearch"
     ],
     "source": "curse",
     "mode": 1
@@ -32948,7 +32979,7 @@
   {
     "id": 336854,
     "name": "GoblinTalk",
-    "key": "sharedmediagoblintalk",
+    "key": "goblintalk",
     "dir": [
       "GoblinTalk"
     ],
@@ -33418,6 +33449,26 @@
     "key": "great-vault-anywhere",
     "dir": [
       "GreatVaultAnywhere"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428254,
+    "name": "Great Vault Key Tracker",
+    "key": "great-vault-key-tracker",
+    "dir": [
+      "GreatVaultKeyTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428108,
+    "name": "Great Vault Viewer",
+    "key": "great-vault-viewer",
+    "dir": [
+      "GreatVaultViewer"
     ],
     "source": "curse",
     "mode": 1
@@ -37331,16 +37382,6 @@
     "mode": 1
   },
   {
-    "id": 102029,
-    "name": "Henrik Lundqvist",
-    "key": "hkib-profession-tracker",
-    "dir": [
-      "hKiB_ProfessionTrack"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 36551,
     "name": "Herald",
     "key": "herald",
@@ -40059,16 +40100,6 @@
     "key": "ingredient",
     "dir": [
       "Ingredient"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 422035,
-    "name": "Inked",
-    "key": "inked",
-    "dir": [
-      "Inked"
     ],
     "source": "curse",
     "mode": 1
@@ -48254,6 +48285,16 @@
     "mode": 1
   },
   {
+    "id": 3979,
+    "name": "Macro-Talk",
+    "key": "macro-talk",
+    "dir": [
+      "MacroTalk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 338943,
     "name": "Macro-Talk_Classic",
     "key": "macro-talk_classic",
@@ -50998,6 +51039,16 @@
     "mode": 2
   },
   {
+    "id": 428181,
+    "name": "MinimapVault",
+    "key": "minimapvault",
+    "dir": [
+      "MinimapVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 15140,
     "name": "MinimapZoom",
     "key": "mmz",
@@ -51259,6 +51310,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 427711,
+    "name": "MistyFinder",
+    "key": "mistyfinder",
+    "dir": [
+      "MystFinder"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 311392,
@@ -52009,16 +52070,6 @@
     "id": 403835,
     "name": "Morthalin Raid Tools",
     "key": "morthalin-raid-tools",
-    "dir": [
-      "MorthalinRaidTools"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 426207,
-    "name": "MorthalinRaidTools",
-    "key": "morthalinraidtools",
     "dir": [
       "MorthalinRaidTools"
     ],
@@ -54382,16 +54433,6 @@
     "mode": 1
   },
   {
-    "id": 87901,
-    "name": "New Openables",
-    "key": "new-openables",
-    "dir": [
-      "NOP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 279587,
     "name": "New Portable",
     "key": "portable-bfa",
@@ -56310,6 +56351,16 @@
     "mode": 1
   },
   {
+    "id": 428478,
+    "name": "Oribos Lap",
+    "key": "oribos-lap",
+    "dir": [
+      "OribosLap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 421283,
     "name": "Oribos Loop Counter",
     "key": "oribos-loop-counter",
@@ -57251,6 +57302,16 @@
     "key": "pay-my-tax",
     "dir": [
       "PayMyTax"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428079,
+    "name": "PeaMacros",
+    "key": "peamacros",
+    "dir": [
+      "PeaMacros"
     ],
     "source": "curse",
     "mode": 1
@@ -60369,26 +60430,6 @@
     "key": "prydaz-saves",
     "dir": [
       "PrydazSaves"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 406209,
-    "name": "PsychoBars",
-    "key": "psychobars",
-    "dir": [
-      "PsychoBars"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 413501,
-    "name": "PsychoUI",
-    "key": "psychoui",
-    "dir": [
-      "PsychoUI"
     ],
     "source": "curse",
     "mode": 1
@@ -63710,6 +63751,16 @@
     "mode": 1
   },
   {
+    "id": 428500,
+    "name": "RangeBox",
+    "key": "rangebox",
+    "dir": [
+      "RangeBox"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 19011,
     "name": "RangeColors",
     "key": "rangecolors",
@@ -67016,6 +67067,16 @@
     "mode": 3
   },
   {
+    "id": 426524,
+    "name": "Scourge Invasion Detector (Classic)",
+    "key": "scourge-invasion-detector-classic",
+    "dir": [
+      "InvasionDetector"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 26563,
     "name": "Scourge Strike",
     "key": "scourge-strike",
@@ -69865,6 +69926,16 @@
     "key": "simpletarget",
     "dir": [
       "SimpleTarget"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428240,
+    "name": "SimpleTargetTooltip",
+    "key": "simpletargettooltip",
+    "dir": [
+      "SimpleTargetTooltip"
     ],
     "source": "curse",
     "mode": 1
@@ -74913,7 +74984,7 @@
       "DD_LC_Helper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 398385,
@@ -74934,6 +75005,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 356845,
+    "name": "TankAddon",
+    "key": "tankaddon",
+    "dir": [
+      "TankAddon"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 88763,
@@ -78553,6 +78634,16 @@
     "mode": 1
   },
   {
+    "id": 428001,
+    "name": "Torsins Marking Bar",
+    "key": "torsins-marking-bar",
+    "dir": [
+      "TorsinsMarkingBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301816,
     "name": "Tortollan Quest Chain Completion",
     "key": "tortollan-quest-chain-completion",
@@ -80395,16 +80486,6 @@
     "mode": 1
   },
   {
-    "id": 403767,
-    "name": "UltraXPRA_Bars",
-    "key": "ultraxpra_bars",
-    "dir": [
-      "UltraXPRA_Bars"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 40889,
     "name": "UmberRunes",
     "key": "umberrunes",
@@ -81113,6 +81194,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 420840,
+    "name": "Vendor_ElvUI",
+    "key": "vendor_elvui",
+    "dir": [
+      "Vendor_ElvUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 93484,
@@ -83397,6 +83488,16 @@
     "key": "wowchallenger",
     "dir": [
       "WoWChallenger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428113,
+    "name": "WoW Countdown",
+    "key": "wow-countdown",
+    "dir": [
+      "WoWCountdown"
     ],
     "source": "curse",
     "mode": 1
@@ -87480,6 +87581,16 @@
     "mode": 1
   },
   {
+    "id": 102029,
+    "name": "hKiB's Profession Tracker",
+    "key": "hkib-profession-tracker",
+    "dir": [
+      "hKiB_ProfessionTrack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 310966,
     "name": "handynotes_DMF (Darkmoon Faire)",
     "key": "handynotes_dmf-darkmoon-faire",
@@ -88930,16 +89041,6 @@
     "mode": 1
   },
   {
-    "id": 407135,
-    "name": "oUF_Nameplates",
-    "key": "ouf_nameplates",
-    "dir": [
-      "oUF_Nameplates"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 373892,
     "name": "oUF_Nihlathak",
     "key": "nihlathak",
@@ -89096,6 +89197,16 @@
     "key": "picoguild",
     "dir": [
       "picoGuild"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428407,
+    "name": "pluslist",
+    "key": "pluslist",
+    "dir": [
+      "pluslist"
     ],
     "source": "curse",
     "mode": 1
