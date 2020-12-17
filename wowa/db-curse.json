@@ -2087,6 +2087,16 @@
     "mode": 1
   },
   {
+    "id": 428803,
+    "name": "Adibags - Covenant Armour Set",
+    "key": "adibags-covenant-armour-set",
+    "dir": [
+      "AdiBags_Covenant_Armour_Set"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 417785,
     "name": "Adibags - Ren's Filters: Cooking",
     "key": "adibags-cooking",
@@ -5174,6 +5184,16 @@
     "mode": 1
   },
   {
+    "id": 428903,
+    "name": "AuctionSellers",
+    "key": "auctionsellers",
+    "dir": [
+      "AuctionSellers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 37872,
     "name": "AuctionSold",
     "key": "auctionsold",
@@ -6784,6 +6804,16 @@
     "key": "azerpug-instanceutility-core",
     "dir": [
       "AzerPUG-InstanceUtility-Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 426772,
+    "name": "AzerPUG-InstanceUtility-GreatVault",
+    "key": "azerpug-instanceutility-greatvault",
+    "dir": [
+      "AzerPUG-InstanceUtility-GreatVault"
     ],
     "source": "curse",
     "mode": 1
@@ -27817,7 +27847,7 @@
       "ExpressYourElf"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 339976,
@@ -32654,6 +32684,16 @@
     "key": "globalplayed",
     "dir": [
       "GlobalPlayed"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428556,
+    "name": "Glock Farmer",
+    "key": "glock-farmer",
+    "dir": [
+      "GlockFarmer"
     ],
     "source": "curse",
     "mode": 1
@@ -48417,7 +48457,7 @@
   },
   {
     "id": 427732,
-    "name": "MadeByBeGone",
+    "name": "Made By Be Gone",
     "key": "madebybegone",
     "dir": [
       "MadeByBeGone"
@@ -51283,7 +51323,7 @@
   },
   {
     "id": 426331,
-    "name": "Mists of Tirna Scithe Helper",
+    "name": "Mists of Tirna Scithe Helper (MOTSH)",
     "key": "mists-of-tirna-scithe-helper",
     "dir": [
       "MistsOfTirnaScitheHelper"
@@ -64491,6 +64531,17 @@
     "mode": 1
   },
   {
+    "id": 428729,
+    "name": "Realm Active - Gurubashi, Aegwynn, Hakkar, Daggerspine, Bonechewer and Garrosh.",
+    "key": "realm-active",
+    "dir": [
+      "AddonYala",
+      "RealmActive"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 95696,
     "name": "Realm Bounty Hunter",
     "key": "realm-bounty-hunter",
@@ -71378,16 +71429,6 @@
     "mode": 2
   },
   {
-    "id": 96442,
-    "name": "SortGroup",
-    "key": "sortgroup",
-    "dir": [
-      "SortGroup"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 285130,
     "name": "SortMyRaid",
     "key": "sortmyraid",
@@ -73223,6 +73264,16 @@
     "key": "storayui",
     "dir": [
       "StorayUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428797,
+    "name": "StoredAnimaCounter",
+    "key": "storedanimacounter",
+    "dir": [
+      "StoredAnimaCounter"
     ],
     "source": "curse",
     "mode": 1
@@ -75734,6 +75785,16 @@
     "key": "great-datening",
     "dir": [
       "TheGreatDatening"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428228,
+    "name": "The Great Vault Viewer",
+    "key": "the-great-vault-viewer",
+    "dir": [
+      "TGVV"
     ],
     "source": "curse",
     "mode": 1
@@ -80325,16 +80386,6 @@
     "mode": 1
   },
   {
-    "id": 94577,
-    "name": "Tz: TanaanBonus",
-    "key": "tz-tanaanbonus",
-    "dir": [
-      "TzTanaanBonus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 98481,
     "name": "UAWOW",
     "key": "uawow",
@@ -81393,8 +81444,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "Viks_ConfigUI",
-      "ViksUI"
+      "ViksUI",
+      "Viks_ConfigUI"
     ],
     "source": "curse",
     "mode": 1
@@ -83611,6 +83662,10 @@
     "dir": [
       "WoWPro_Leveling",
       "WowPro",
+      "WoWPro_Dailies",
+      "WoWPro_Profession",
+      "WoWPro_WorldEvents",
+      "WoWPro_Achievements",
       "WoWPro"
     ],
     "source": "curse",
@@ -87942,7 +87997,7 @@
       "ITaunted"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 30325,
