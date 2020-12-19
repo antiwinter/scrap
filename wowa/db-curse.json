@@ -1920,7 +1920,7 @@
     "name": "AdiBags-Keystones",
     "key": "adibags-keystones",
     "dir": [
-      "adibags_keystones"
+      "AdiBags_Keystones"
     ],
     "source": "curse",
     "mode": 1
@@ -6824,6 +6824,16 @@
     "key": "azerpug-instanceutility-instanceleading",
     "dir": [
       "AzerPUG-InstanceUtility-InstanceLeading"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429493,
+    "name": "AzerPUG-InstanceUtility-ManaGement",
+    "key": "azerpug-instanceutility-management",
+    "dir": [
+      "AzerPUG-InstanceUtility-ManaGement"
     ],
     "source": "curse",
     "mode": 1
@@ -14772,7 +14782,7 @@
       "Cellular"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 119,
@@ -17952,16 +17962,6 @@
     "key": "combustionhelper",
     "dir": [
       "CombustionHelper"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 336087,
-    "name": "Comcon WA Soundpack",
-    "key": "comcon-wa-soundpack",
-    "dir": [
-      "SharedMedia_Rybus"
     ],
     "source": "curse",
     "mode": 1
@@ -46399,16 +46399,6 @@
     "mode": 1
   },
   {
-    "id": 16386,
-    "name": "LibWindow-1.1",
-    "key": "libwindow-1-1",
-    "dir": [
-      "LibWindow-1.1"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 26474,
     "name": "LibXML-1.0",
     "key": "libxml-1-0",
@@ -54388,6 +54378,16 @@
     "dir": [
       "NephilistNamePlates",
       "NephilistNameplates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 42999,
+    "name": "Nerien's Ovale Scripts",
+    "key": "nerien-ovale-scripts",
+    "dir": [
+      "Nerien_Ovale_Scripts"
     ],
     "source": "curse",
     "mode": 1
@@ -69085,6 +69085,16 @@
     "mode": 1
   },
   {
+    "id": 428087,
+    "name": "SilentRotate",
+    "key": "silentrotate",
+    "dir": [
+      "SilentRotate"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 413697,
     "name": "Silentium",
     "key": "silentium",
@@ -70086,7 +70096,7 @@
     "name": "SimplyAutoInvite",
     "key": "simplyautoinvite",
     "dir": [
-      "InviteOnWhisper"
+      "SimplyAutoInvite"
     ],
     "source": "curse",
     "mode": 1
@@ -71637,7 +71647,7 @@
       "SoundtrackMusic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 288872,
@@ -76102,6 +76112,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 338498,
+    "name": "Threat Plates (Classic)",
+    "key": "threat-plates-classic",
+    "dir": [
+      "TidyPlates_ThreatPlates"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 394380,
