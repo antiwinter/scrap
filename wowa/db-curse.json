@@ -1566,6 +1566,16 @@
     "mode": 1
   },
   {
+    "id": 429028,
+    "name": "Addon Yala",
+    "key": "addon-yala",
+    "dir": [
+      "AddonYala"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13387,
     "name": "AddonLoader",
     "key": "addon-loader",
@@ -1615,6 +1625,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 429208,
+    "name": "AdiBags - Anima & Conduits",
+    "key": "adibags-anima-conduits",
+    "dir": [
+      "AdiBags_Anima_Conduits"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 422893,
@@ -2859,6 +2879,7 @@
       "DataStore_Inventory",
       "DataStore_Keystones",
       "DataStore_Mails",
+      "DataStore_Rares",
       "DataStore_Pets",
       "DataStore_Quests",
       "DataStore_Reputations",
@@ -2866,7 +2887,6 @@
       "DataStore_Stats",
       "DataStore_Talents",
       "DataStore",
-      "DataStore_Rares",
       "Altoholic_Shadowlands",
       "DataStore_Covenants"
     ],
@@ -3262,6 +3282,16 @@
     "key": "announcetarget",
     "dir": [
       "AnnounceTarget"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429489,
+    "name": "AnnounceTarget PH",
+    "key": "announcetargetph",
+    "dir": [
+      "AnnounceTargetPH"
     ],
     "source": "curse",
     "mode": 1
@@ -17967,6 +17997,16 @@
     "mode": 1
   },
   {
+    "id": 336087,
+    "name": "Comcon WA Soundpack",
+    "key": "comcon-wa-soundpack",
+    "dir": [
+      "SharedMedia_Rybus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 31626,
     "name": "Come And Get It",
     "key": "come-and-get-it",
@@ -19965,7 +20005,7 @@
   },
   {
     "id": 306880,
-    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v9.0.1)",
+    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v9.0.2)",
     "key": "dbm-voice-pack-korean-female-dingdiring",
     "dir": [
       "DBM-VPDingdiringKR"
@@ -38159,6 +38199,16 @@
     "mode": 1
   },
   {
+    "id": 429155,
+    "name": "HideCrafterName",
+    "key": "hidecraftername",
+    "dir": [
+      "HideCrafterName"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90450,
     "name": "HideGroupNumber",
     "key": "hidegroupnumber",
@@ -50157,6 +50207,16 @@
     "mode": 1
   },
   {
+    "id": 429833,
+    "name": "MaxDps Warrior Improved",
+    "key": "better-maxdps-warrior",
+    "dir": [
+      "MaxDps_Warrior"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101602,
     "name": "MaxZoom",
     "key": "maxzoom",
@@ -52238,6 +52298,16 @@
     "mode": 1
   },
   {
+    "id": 429900,
+    "name": "MountCount",
+    "key": "mountcount",
+    "dir": [
+      "MountCount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 84219,
     "name": "MountInfo: WOD",
     "key": "mountinfo-wod",
@@ -52706,16 +52776,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 358752,
-    "name": "Mr KnowItAll",
-    "key": "mr-knowitall",
-    "dir": [
-      "MrKnowItAll"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 382875,
@@ -54111,8 +54171,8 @@
     "key": "narcissus",
     "dir": [
       "Narcissus",
-      "Narcissus_Barbershop",
-      "Narcissus_Database"
+      "Narcissus_Database",
+      "Narcissus_Barbershop"
     ],
     "source": "curse",
     "mode": 1
@@ -57260,6 +57320,16 @@
     "id": 253817,
     "name": "PartyTalk - Group Language",
     "key": "partytalk-group-language",
+    "dir": [
+      "PartyTalk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429119,
+    "name": "PartyTalk - Group Language Shadowlands",
+    "key": "partytalk-group-language-shadowlands",
     "dir": [
       "PartyTalk"
     ],
@@ -64194,6 +64264,16 @@
     "mode": 1
   },
   {
+    "id": 429936,
+    "name": "Ravenous GPS",
+    "key": "ravgps",
+    "dir": [
+      "ravGPS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 274452,
     "name": "Ravenous Mounts",
     "key": "ravmounts",
@@ -65403,6 +65483,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 429955,
+    "name": "Reputable",
+    "key": "reputable",
+    "dir": [
+      "Reputable"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 390329,
@@ -67699,10 +67789,10 @@
       "Semi_Action_Bars",
       "Semi_Pet_Bar",
       "Semi_ClassIcons_Portrait",
-      "Semi_Totem_Bar",
+      "Semi_Aspect_Stance_Bar",
       "Semi_Extra_Scaling",
       "Semi_Move_Objective_Frame",
-      "Semi_Aspect_Stance_Bar"
+      "Semi_Totem_Bar"
     ],
     "source": "curse",
     "mode": 1
@@ -68424,6 +68514,16 @@
     "key": "sharedmedia_tbd",
     "dir": [
       "SharedMedia_TBD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 400965,
+    "name": "SharedMedia_Terawr",
+    "key": "sharedmedia-terawr",
+    "dir": [
+      "SharedMedia_Terawr"
     ],
     "source": "curse",
     "mode": 1
@@ -74586,16 +74686,6 @@
     "mode": 1
   },
   {
-    "id": 417043,
-    "name": "TKUI",
-    "key": "tkui",
-    "dir": [
-      "TKUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 403205,
     "name": "TL Gear Prio",
     "key": "tl-gear-prio",
@@ -78695,11 +78785,31 @@
     "mode": 1
   },
   {
+    "id": 428249,
+    "name": "TorghastHelper",
+    "key": "torghasthelper",
+    "dir": [
+      "TorghastHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 423328,
     "name": "TorghastStats",
     "key": "torghaststats",
     "dir": [
       "TorghastStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429730,
+    "name": "TorghastTeams",
+    "key": "torghastteams",
+    "dir": [
+      "TorghastTeams"
     ],
     "source": "curse",
     "mode": 1
@@ -81308,6 +81418,16 @@
     "mode": 1
   },
   {
+    "id": 429765,
+    "name": "VenturedUI",
+    "key": "venturedui",
+    "dir": [
+      "VenturedUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 382502,
     "name": "Verbose",
     "key": "verbose",
@@ -81884,7 +82004,7 @@
       "WFGoWhoosh"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 94717,
@@ -84204,6 +84324,16 @@
     "key": "world-map-point-interest-removal",
     "dir": [
       "MapPOIremoval"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429526,
+    "name": "World Marker Bar",
+    "key": "world-marker-bar",
+    "dir": [
+      "WorldMarker"
     ],
     "source": "curse",
     "mode": 1
