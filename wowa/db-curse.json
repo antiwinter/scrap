@@ -3547,6 +3547,16 @@
     "mode": 2
   },
   {
+    "id": 430267,
+    "name": "Applebandit Bulk Messager",
+    "key": "applebandit-bulk-messager",
+    "dir": [
+      "Applebandit_Bulk_Messager"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 280790,
     "name": "Aptechka",
     "key": "aptechka",
@@ -3804,6 +3814,16 @@
     "key": "project-4875",
     "dir": [
       "ArenaCalculator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 430145,
+    "name": "Arena Combat Logger",
+    "key": "arena-combat-logger",
+    "dir": [
+      "ArenaLogger"
     ],
     "source": "curse",
     "mode": 1
@@ -10652,16 +10672,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 357629,
-    "name": "Blizzard Raid Frames Fix",
-    "key": "blizzardraidframesfix",
-    "dir": [
-      "!BlizzardRaidFramesFix"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 28640,
@@ -19155,6 +19165,16 @@
     "mode": 1
   },
   {
+    "id": 430240,
+    "name": "Covenant Vault",
+    "key": "covenant-vault",
+    "dir": [
+      "CovenantVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 426035,
     "name": "CovenantForge",
     "key": "covenantforge",
@@ -20051,7 +20071,7 @@
       "DBM-VPLanna"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 92309,
@@ -20449,6 +20469,16 @@
     "key": "dbm-legendarydummy",
     "dir": [
       "DBM-LegendaryDummy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 430303,
+    "name": "DBM-LegionFishing",
+    "key": "dbm-legionfishing",
+    "dir": [
+      "DBM-LegionFishing"
     ],
     "source": "curse",
     "mode": 1
@@ -39130,6 +39160,26 @@
     "mode": 1
   },
   {
+    "id": 430227,
+    "name": "Hyperframes",
+    "key": "hyperframes",
+    "dir": [
+      "Hyperframes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 430585,
+    "name": "Hyperframes: Classic",
+    "key": "hyperframes-classic",
+    "dir": [
+      "HyperframesClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 414986,
     "name": "Hyperphase",
     "key": "hyperphase",
@@ -39158,6 +39208,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 430579,
+    "name": "Hyperspawn: Classic",
+    "key": "hyperspawn-classic",
+    "dir": [
+      "HyperspawnClassic"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 37044,
@@ -45847,26 +45907,6 @@
     "mode": 1
   },
   {
-    "id": 419180,
-    "name": "LibMayronDB",
-    "key": "libmayrondb",
-    "dir": [
-      "LibMayronDB"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 419195,
-    "name": "LibMayronEvents",
-    "key": "libmayronevents",
-    "dir": [
-      "LibMayronEvents"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 354116,
     "name": "LibMemoize",
     "key": "libmemoize",
@@ -52076,6 +52116,20 @@
     "mode": 2
   },
   {
+    "id": 430278,
+    "name": "MoosiAlert (무시얼럿) -Voice Pack Lanna",
+    "key": "moosialert-voice-pack-lanna",
+    "dir": [
+      "MoosiAlert.cc",
+      "MoosiAlert.Makta",
+      "MoosiAlert.sa",
+      "MoosiAlert.Target",
+      "MoosiAlert.Zzal"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 344163,
     "name": "Mootality-Emotes",
     "key": "mootality-emotes",
@@ -56884,16 +56938,6 @@
     "mode": 2
   },
   {
-    "id": 101356,
-    "name": "PVP Tooltips",
-    "key": "pvp-tooltips",
-    "dir": [
-      "PVPTooltips"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 341453,
     "name": "PVPLUL - Laughter when killing the enemy",
     "key": "pvplul",
@@ -58935,6 +58979,26 @@
     "key": "pkg-gridpanels",
     "dir": [
       "Pkg-GridPanels"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 419180,
+    "name": "Pkg-MayronDB",
+    "key": "libmayrondb",
+    "dir": [
+      "Pkg-MayronDB"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 419195,
+    "name": "Pkg-MayronEvents",
+    "key": "libmayronevents",
+    "dir": [
+      "Pkg-MayronEvents"
     ],
     "source": "curse",
     "mode": 3
@@ -65726,6 +65790,16 @@
     "mode": 1
   },
   {
+    "id": 6930,
+    "name": "Rewatch",
+    "key": "rewatch",
+    "dir": [
+      "Rewatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 366586,
     "name": "Rewind Aggro Alert",
     "key": "classic-rewind-aggro-alert-rwa",
@@ -66581,6 +66655,16 @@
     "mode": 1
   },
   {
+    "id": 430186,
+    "name": "SLVault",
+    "key": "slvault",
+    "dir": [
+      "SLVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 16776,
     "name": "SMBSewer",
     "key": "smbsewer",
@@ -66958,6 +67042,16 @@
     "key": "satchel-finder",
     "dir": [
       "SatchelFinder"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 430298,
+    "name": "Satchel Scanner (Shadowlands)",
+    "key": "satchel-scanner-shadowlands",
+    "dir": [
+      "SatchelScanner"
     ],
     "source": "curse",
     "mode": 1
@@ -70773,16 +70867,6 @@
     "mode": 2
   },
   {
-    "id": 356970,
-    "name": "Small Friendly Nameplates",
-    "key": "small-friendly-nameplates",
-    "dir": [
-      "SmallFriendlyNameplates"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 407212,
     "name": "Smart Chat Fade",
     "key": "smart-chat-fade",
@@ -74505,6 +74589,16 @@
     "mode": 1
   },
   {
+    "id": 429850,
+    "name": "Swiss Prime Audio",
+    "key": "swiss-prime-audio",
+    "dir": [
+      "SwissPrime_Audio"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101380,
     "name": "Switch Specs",
     "key": "switchspecs",
@@ -75063,16 +75157,6 @@
     "key": "project-14797",
     "dir": [
       "Talismonger-3.0"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 102426,
-    "name": "TalkLess",
-    "key": "talk-less",
-    "dir": [
-      "TalkLess"
     ],
     "source": "curse",
     "mode": 1
@@ -88396,6 +88480,16 @@
     "key": "kittycat",
     "dir": [
       "kittycat"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429943,
+    "name": "kyleUI",
+    "key": "kyleui",
+    "dir": [
+      "kyleUI"
     ],
     "source": "curse",
     "mode": 1
