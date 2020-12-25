@@ -11418,7 +11418,7 @@
     "name": "BossesKilledLFR",
     "key": "bosseskilledlfr",
     "dir": [
-      "BossesKilled"
+      "BossesKilledLFR"
     ],
     "source": "curse",
     "mode": 1
@@ -36338,16 +36338,6 @@
     "mode": 1
   },
   {
-    "id": 279242,
-    "name": "HandyNotes: Mysterious Camel Figurines",
-    "key": "handynotes-mysterious-camel-figurines",
-    "dir": [
-      "HandyNotes_CamelFigurines"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 419434,
     "name": "HandyNotes: Oribos",
     "key": "handynotes-oribos",
@@ -54356,16 +54346,6 @@
     "mode": 3
   },
   {
-    "id": 334389,
-    "name": "Necrosis Classic",
-    "key": "necrosis-classic",
-    "dir": [
-      "Necrosis"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 1669,
     "name": "Necrosis LdC",
     "key": "necrosis-ld-c",
@@ -64343,6 +64323,16 @@
     "key": "ravmounts",
     "dir": [
       "ravMounts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 429939,
+    "name": "Ravenous Nameplates",
+    "key": "ravnameplates",
+    "dir": [
+      "ravNameplates"
     ],
     "source": "curse",
     "mode": 1
@@ -81668,8 +81658,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
-      "Viks_ConfigUI"
+      "Viks_ConfigUI",
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
@@ -82899,16 +82889,6 @@
     "key": "wepair",
     "dir": [
       "Wepair"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 97534,
-    "name": "Wgrasp",
-    "key": "wgrasp",
-    "dir": [
-      "wgrasp"
     ],
     "source": "curse",
     "mode": 1
@@ -84839,6 +84819,16 @@
     "mode": 1
   },
   {
+    "id": 363346,
+    "name": "X Practice",
+    "key": "x-practice",
+    "dir": [
+      "XPractice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 355170,
     "name": "X Tranq Manager",
     "key": "easy-and-lazy-tranq-shot-announcer",
@@ -85185,16 +85175,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 363346,
-    "name": "Xanesh Practice",
-    "key": "xanesh-practice",
-    "dir": [
-      "XaneshPractice"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 303151,
