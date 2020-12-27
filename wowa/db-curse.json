@@ -1776,6 +1776,16 @@
     "mode": 1
   },
   {
+    "id": 431000,
+    "name": "AdiBags - Manual Crowd Pummler Charges MCP Overlay",
+    "key": "adibags-manual-crowd-pummler-charges-mcp-overlay",
+    "dir": [
+      "AdiBags-PummlerCharges"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 325466,
     "name": "AdiBags - Mechagon Tinkering",
     "key": "adibags-mechagon-tinkering",
@@ -2857,7 +2867,7 @@
   },
   {
     "id": 384785,
-    "name": "Altoholic-Retail (Teelo's Fork)",
+    "name": "Altoholic-Retail",
     "key": "altoholic-retail",
     "dir": [
       "Altoholic",
@@ -7050,6 +7060,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 431312,
+    "name": "Azeroth Exchange Rate",
+    "key": "azeroth-exchange-rate",
+    "dir": [
+      "AzerothExchangeRate"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 314017,
@@ -18539,11 +18559,31 @@
     "mode": 2
   },
   {
+    "id": 431272,
+    "name": "Consequence - KT",
+    "key": "consequence-kt",
+    "dir": [
+      "Consequence-KT"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 384457,
     "name": "Consequence - Raid Sorter",
     "key": "consequence-raid-sorter",
     "dir": [
       "Consequence-RaidSorter"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 431268,
+    "name": "Consequence - Sapphiron",
+    "key": "consequence-sapphiron",
+    "dir": [
+      "Consequence-Sapphiron"
     ],
     "source": "curse",
     "mode": 2
@@ -21645,6 +21685,9 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -21653,10 +21696,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -31714,6 +31754,16 @@
     "mode": 1
   },
   {
+    "id": 431399,
+    "name": "GatherMate2_ImportExport",
+    "key": "gathermate2_importexport",
+    "dir": [
+      "GatherMate2_ImportExport"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14072,
     "name": "GatherMate_Sharing",
     "key": "gathermate_sharing",
@@ -35837,6 +35887,16 @@
     "mode": 1
   },
   {
+    "id": 431447,
+    "name": "HT-Seperator",
+    "key": "ht-seperator",
+    "dir": [
+      "HT-SEPERATOR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19103,
     "name": "Hack",
     "key": "hack",
@@ -37077,6 +37137,16 @@
     "key": "healmana",
     "dir": [
       "HealMana"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 430622,
+    "name": "HealRotate",
+    "key": "healrotate",
+    "dir": [
+      "HealRotate"
     ],
     "source": "curse",
     "mode": 2
@@ -42373,6 +42443,16 @@
     "mode": 2
   },
   {
+    "id": 430981,
+    "name": "KayrFriendSync - Account-Wide Friend/Ignore Lists",
+    "key": "kayrfriendsync-synchronized-friend-ignore-lists",
+    "dir": [
+      "KayrFriendSync"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 385130,
     "name": "KazAddons",
     "key": "kazaddons",
@@ -44528,6 +44608,16 @@
     "key": "legendary-progress-tracker",
     "dir": [
       "LegendaryProgressTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431064,
+    "name": "Legendary Stock Tracker",
+    "key": "legendary-stock-tracker",
+    "dir": [
+      "LegendaryStockTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -50880,7 +50970,7 @@
     "name": "MiniHUD - Currency",
     "key": "minihudcurrency",
     "dir": [
-      "MiniHUDCurrency"
+      "MiniHudCurrency"
     ],
     "source": "curse",
     "mode": 1
@@ -53822,6 +53912,16 @@
     "mode": 1
   },
   {
+    "id": 431246,
+    "name": "MythicPlusPullReEstimated - Shadowlands",
+    "key": "mythicpluspullreestimated",
+    "dir": [
+      "MythicPlusPullReEstimated"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102508,
     "name": "MythicPlusTimer",
     "key": "mythicplustimer",
@@ -55093,6 +55193,16 @@
     "key": "noguild",
     "dir": [
       "NoGuild"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431101,
+    "name": "NoHelpTips",
+    "key": "nohelptips",
+    "dir": [
+      "NoHelpTips"
     ],
     "source": "curse",
     "mode": 1
@@ -57113,6 +57223,16 @@
     "key": "pdf-stats",
     "dir": [
       "PDFStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 287667,
+    "name": "Paragon",
+    "key": "paragon",
+    "dir": [
+      "Paragon"
     ],
     "source": "curse",
     "mode": 1
@@ -66041,7 +66161,7 @@
   },
   {
     "id": 427367,
-    "name": "RogueWizz",
+    "name": "RogueWizz - Buff / Debuff Tracker",
     "key": "roguewizz",
     "dir": [
       "RogueWizz"
@@ -66456,7 +66576,8 @@
     "name": "Rune-Hero",
     "key": "rune-hero",
     "dir": [
-      "RuneHero"
+      "RuneHero",
+      "RunePack"
     ],
     "source": "curse",
     "mode": 1
@@ -73087,6 +73208,16 @@
     "key": "statusbars2",
     "dir": [
       "StatusBars2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 430968,
+    "name": "Stay Collapsed",
+    "key": "stay-collapsed",
+    "dir": [
+      "StayCollapsed"
     ],
     "source": "curse",
     "mode": 1
