@@ -2117,6 +2117,17 @@
     "mode": 1
   },
   {
+    "id": 431557,
+    "name": "Adibags (Pawn Support)",
+    "key": "adibags-pawn-support",
+    "dir": [
+      "AdiBags_Config",
+      "AdiBags"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 428803,
     "name": "Adibags - Covenant Armour Set",
     "key": "adibags-covenant-armour-set",
@@ -2834,71 +2845,6 @@
     "key": "altoholic-count-hider",
     "dir": [
       "Altoholic_CountHider"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 384737,
-    "name": "Altoholic-Classic",
-    "key": "altoholic-classic",
-    "dir": [
-      "Altoholic",
-      "Altoholic_Characters",
-      "Altoholic_Grids",
-      "Altoholic_Guild",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Auctions",
-      "DataStore_Characters",
-      "DataStore_Containers",
-      "DataStore_Crafts",
-      "DataStore_Inventory",
-      "DataStore_Mails",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore",
-      "Altoholic_Agenda",
-      "DataStore_Agenda",
-      "DataStore_Talents"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 384785,
-    "name": "Altoholic-Retail",
-    "key": "altoholic-retail",
-    "dir": [
-      "Altoholic",
-      "Altoholic_Achievements",
-      "Altoholic_Agenda",
-      "Altoholic_Characters",
-      "Altoholic_Grids",
-      "Altoholic_Guild",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
-      "DataStore_Auctions",
-      "DataStore_Characters",
-      "DataStore_Containers",
-      "DataStore_Crafts",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
-      "DataStore_Inventory",
-      "DataStore_Keystones",
-      "DataStore_Mails",
-      "DataStore_Rares",
-      "DataStore_Pets",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore_Spells",
-      "DataStore_Stats",
-      "DataStore_Talents",
-      "DataStore",
-      "Altoholic_Shadowlands",
-      "DataStore_Covenants"
     ],
     "source": "curse",
     "mode": 1
@@ -5772,16 +5718,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 95028,
-    "name": "AutoCage",
-    "key": "autocage",
-    "dir": [
-      "AutoCage"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 358528,
@@ -8945,6 +8881,16 @@
     "mode": 1
   },
   {
+    "id": 431002,
+    "name": "BeaniesbroCustomSounds",
+    "key": "beaniesbrocustomsounds",
+    "dir": [
+      "BeaniesbroCustomSounds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 303386,
     "name": "Bear Force",
     "key": "bfo",
@@ -9664,6 +9610,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 431371,
+    "name": "Biddikus",
+    "key": "biddikus",
+    "dir": [
+      "Biddikus"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 94218,
@@ -12422,6 +12378,16 @@
     "key": "broker_gems",
     "dir": [
       "Broker_Gems"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431667,
+    "name": "Broker_GroupHelperRedux",
+    "key": "broker_grouphelperredux",
+    "dir": [
+      "Broker_GroupHelperRedux"
     ],
     "source": "curse",
     "mode": 1
@@ -21685,9 +21651,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -21696,7 +21659,10 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -22934,6 +22900,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 431558,
+    "name": "Details!|Skada Covenants",
+    "key": "details-covenants",
+    "dir": [
+      "Details_Covenants"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 325056,
@@ -29650,6 +29626,16 @@
     "mode": 2
   },
   {
+    "id": 432019,
+    "name": "Flag Generator",
+    "key": "flag-generator",
+    "dir": [
+      "FlagGenerator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341447,
     "name": "Flame",
     "key": "flame",
@@ -33609,6 +33595,16 @@
     "key": "great-vault-anywhere",
     "dir": [
       "GreatVaultAnywhere"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 428084,
+    "name": "Great Vault Display",
+    "key": "great-vault-display",
+    "dir": [
+      "FazzGreatVault"
     ],
     "source": "curse",
     "mode": 1
@@ -38166,7 +38162,7 @@
       "HideWorldMapMinimapButton"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 255249,
@@ -39215,6 +39211,16 @@
     "key": "hydra",
     "dir": [
       "Hydra"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431726,
+    "name": "Hydrate",
+    "key": "hydrate",
+    "dir": [
+      "Hydrate"
     ],
     "source": "curse",
     "mode": 1
@@ -42386,7 +42392,6 @@
     "name": "Karmarang",
     "key": "karmarang",
     "dir": [
-      "ChatThrottleLib",
       "Karmarang"
     ],
     "source": "curse",
@@ -42721,6 +42726,16 @@
     "key": "keystone-manager",
     "dir": [
       "KeystoneManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431920,
+    "name": "Keystone Maps",
+    "key": "keystone-maps",
+    "dir": [
+      "KeystoneMaps"
     ],
     "source": "curse",
     "mode": 1
@@ -47327,6 +47342,16 @@
     "mode": 1
   },
   {
+    "id": 431656,
+    "name": "Loot Angel",
+    "key": "lootangel",
+    "dir": [
+      "LootAngel"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 21960,
     "name": "Loot Council Lite",
     "key": "lootcouncil-lite",
@@ -49752,6 +49777,16 @@
     "mode": 1
   },
   {
+    "id": 431247,
+    "name": "Masque: Newsom",
+    "key": "masque_newsom",
+    "dir": [
+      "Masque_Newsom"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13600,
     "name": "Masque: Onyx",
     "key": "masque-onyx",
@@ -50971,6 +51006,16 @@
     "key": "minihudcurrency",
     "dir": [
       "MiniHudCurrency"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 36591,
+    "name": "MiniHUD - Profession",
+    "key": "profession-hud",
+    "dir": [
+      "MiniHudProfession"
     ],
     "source": "curse",
     "mode": 1
@@ -53003,6 +53048,16 @@
     "mode": 1
   },
   {
+    "id": 431723,
+    "name": "Mrs Click",
+    "key": "mrs-click",
+    "dir": [
+      "MrsClick"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27718,
     "name": "MrtWoo Anti Spam",
     "key": "mrtwoo",
@@ -54410,16 +54465,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 360681,
-    "name": "Neat Plates: BlizzardPlates",
-    "key": "neat-plates-blizzardplates",
-    "dir": [
-      "NeatPlates_BlizzardPlates"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 299093,
@@ -59646,7 +59691,8 @@
     "name": "Pokemon Trainer: The Pet Battle Mod",
     "key": "pokemon-trainer",
     "dir": [
-      "PokemonTrainer"
+      "PokemonTrainer",
+      "PokemonTrainer_Loader"
     ],
     "source": "curse",
     "mode": 1
@@ -61232,8 +61278,7 @@
     "key": "local-whispers",
     "dir": [
       "LocalWhispers",
-      "QoL_LocalWhispers",
-      "QoL_Core"
+      "QoL_LocalWhispers"
     ],
     "source": "curse",
     "mode": 2
@@ -70832,6 +70877,7 @@
     "key": "slash-magic",
     "dir": [
       "SlashMagicConfig",
+      "SlashMagicDefaultCmds",
       "SlashMagic"
     ],
     "source": "curse",
@@ -71734,6 +71780,16 @@
     "mode": 2
   },
   {
+    "id": 96442,
+    "name": "SortGroup",
+    "key": "sortgroup",
+    "dir": [
+      "SortGroup"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 285130,
     "name": "SortMyRaid",
     "key": "sortmyraid",
@@ -71904,6 +71960,16 @@
     "mode": 2
   },
   {
+    "id": 432044,
+    "name": "SoundManager",
+    "key": "soundmanager",
+    "dir": [
+      "SoundManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 416252,
     "name": "Soundpack By Bayfuss",
     "key": "soundpack-by-bayfuss",
@@ -72010,6 +72076,16 @@
     "key": "spamalyzer",
     "dir": [
       "Spamalyzer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431624,
+    "name": "SparkleSwap",
+    "key": "sparkleswap",
+    "dir": [
+      "SparkleSwap"
     ],
     "source": "curse",
     "mode": 1
@@ -73399,6 +73475,16 @@
     "key": "spsitems",
     "dir": [
       "SPSItems"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431921,
+    "name": "Steward Auto Dismiss",
+    "key": "steward-auto-dismiss",
+    "dir": [
+      "StewardAutoDismiss"
     ],
     "source": "curse",
     "mode": 1
@@ -79692,7 +79778,6 @@
     "name": "TradeSkillMaster String Converter",
     "key": "tradeskillmaster-string-converter",
     "dir": [
-      "TradeSkillMaster_StringConverter",
       "TSM_StringConverter"
     ],
     "source": "curse",
@@ -81381,6 +81466,26 @@
     "key": "vaseline-twinker",
     "dir": [
       "VaselineTwinker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431427,
+    "name": "Vault Everywhere",
+    "key": "vault-everywhere",
+    "dir": [
+      "VaultAnywhere"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 431494,
+    "name": "Vaulty",
+    "key": "vaulty",
+    "dir": [
+      "Vaulty"
     ],
     "source": "curse",
     "mode": 1
@@ -89982,6 +90087,16 @@
     "mode": 2
   },
   {
+    "id": 431986,
+    "name": "tdBag2 OilTimes",
+    "key": "tdbag2-oiltimes",
+    "dir": [
+      "tdBag2_OilTimes"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 354831,
     "name": "tdBag2_Facade",
     "key": "tdbag2_facade",
@@ -90697,6 +90812,16 @@
     "key": "xpnotify",
     "dir": [
       "xpNotify"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 300674,
+    "name": "yoFrame",
+    "key": "yoframe",
+    "dir": [
+      "yoFrame"
     ],
     "source": "curse",
     "mode": 1
