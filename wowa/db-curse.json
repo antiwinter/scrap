@@ -1856,6 +1856,16 @@
     "mode": 2
   },
   {
+    "id": 432049,
+    "name": "AdiBags - World Events",
+    "key": "adibags-world-events",
+    "dir": [
+      "AdiBags_WorldEvents"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 325447,
     "name": "AdiBags - Zone Items",
     "key": "adibags-zone-items",
@@ -3826,10 +3836,10 @@
   },
   {
     "id": 318784,
-    "name": "Arena Mounts Progress",
-    "key": "arenamountsprogress",
+    "name": "Arena Mount Progress",
+    "key": "arena-mount-progress",
     "dir": [
-      "ArenaMountsProgress"
+      "ArenaMountProgress"
     ],
     "source": "curse",
     "mode": 1
@@ -8064,16 +8074,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 372329,
-    "name": "BananaBar Raid Symbols Classic",
-    "key": "bananabar-raid-symbols",
-    "dir": [
-      "BananaBarClassic"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 414334,
@@ -22768,7 +22768,7 @@
   },
   {
     "id": 396450,
-    "name": "Details! Damage Meter Shadowlands",
+    "name": "Details! Damage Meter for Shadowlands Beta",
     "key": "details2",
     "dir": [
       "Details_Streamer",
@@ -24349,6 +24349,16 @@
     "key": "dungeon-organizer",
     "dir": [
       "DungeonOrganizer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 432055,
+    "name": "Dungeon Tools",
+    "key": "dungeon-tools",
+    "dir": [
+      "DungeonTools"
     ],
     "source": "curse",
     "mode": 1
@@ -29095,6 +29105,16 @@
     "mode": 2
   },
   {
+    "id": 432452,
+    "name": "FightToFitness",
+    "key": "fighttofitness",
+    "dir": [
+      "FightToFitness"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 96076,
     "name": "Figolas",
     "key": "figolas",
@@ -29232,7 +29252,7 @@
       "Finder"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 47339,
@@ -30399,6 +30419,16 @@
     "key": "frads-interruption",
     "dir": [
       "Interruption"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 432189,
+    "name": "Frame Scanner",
+    "key": "frame-scanner",
+    "dir": [
+      "EventList"
     ],
     "source": "curse",
     "mode": 1
@@ -33021,6 +33051,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 20555,
+    "name": "Gnosis (Castbars and Timers)",
+    "key": "gnosis",
+    "dir": [
+      "Gnosis"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 277509,
@@ -35693,6 +35733,16 @@
     "key": "guildmateinvestigator",
     "dir": [
       "GuildmateInvestigator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 432144,
+    "name": "Guilds of WoW",
+    "key": "guilds-of-wow",
+    "dir": [
+      "GuildsOfWoW"
     ],
     "source": "curse",
     "mode": 1
@@ -42137,6 +42187,16 @@
     "mode": 1
   },
   {
+    "id": 432201,
+    "name": "Just Hides the Gryphons",
+    "key": "just-hides-the-gryphons",
+    "dir": [
+      "HideGryphons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297308,
     "name": "JustInTime",
     "key": "justintime",
@@ -42985,8 +43045,8 @@
     "name": "KillThemAll",
     "key": "killthemall",
     "dir": [
-      "KillThemAll_Classic",
-      "KillThemAll"
+      "KillThemAll",
+      "KillThemAll_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -66922,6 +66982,16 @@
     "mode": 2
   },
   {
+    "id": 431860,
+    "name": "STFU (Talking Head Frame Blocker)",
+    "key": "stfu-talking-head-frame-blocker",
+    "dir": [
+      "STFU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 416643,
     "name": "STSwitcher",
     "key": "stswitcher",
@@ -68754,6 +68824,16 @@
     "key": "sharedmedia_noto",
     "dir": [
       "SharedMedia_Noto"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 390533,
+    "name": "SharedMedia_Okay",
+    "key": "sharedmedia_okay",
+    "dir": [
+      "SharedMedia_Okay"
     ],
     "source": "curse",
     "mode": 1
@@ -74796,6 +74876,16 @@
     "mode": 1
   },
   {
+    "id": 419093,
+    "name": "Sweetsours's Custom Audio Voicepack - HoneyNutFeelios",
+    "key": "sweetsourss-custom-audio-voicepack-honeynutfeelios",
+    "dir": [
+      "CustomAudio-Dante"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 429850,
     "name": "Swiss Prime Audio",
     "key": "swiss-prime-audio",
@@ -79445,16 +79535,6 @@
     "key": "tracer",
     "dir": [
       "Tracer"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 271937,
-    "name": "Track Call to Arms",
-    "key": "track-call-to-arms",
-    "dir": [
-      "Track_CallToArms"
     ],
     "source": "curse",
     "mode": 1
