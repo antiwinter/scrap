@@ -30238,16 +30238,6 @@
     "mode": 1
   },
   {
-    "id": 285364,
-    "name": "For The Alliance!",
-    "key": "forthealliance",
-    "dir": [
-      "ForTheAlliance"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 281267,
     "name": "For The Horde!",
     "key": "for-the-horde",
@@ -64891,11 +64881,11 @@
   },
   {
     "id": 428729,
-    "name": "Realm Active - Gurubashi, Aegwynn, Hakkar, Daggerspine, Bonechewer and Garrosh.",
+    "name": "Realm Active ",
     "key": "realm-active",
     "dir": [
-      "AddonYala",
-      "RealmActive"
+      "RealmActive",
+      "AddonYala"
     ],
     "source": "curse",
     "mode": 1
@@ -84182,10 +84172,6 @@
     "dir": [
       "WoWPro_Leveling",
       "WowPro",
-      "WoWPro_Dailies",
-      "WoWPro_Profession",
-      "WoWPro_WorldEvents",
-      "WoWPro_Achievements",
       "WoWPro"
     ],
     "source": "curse",
