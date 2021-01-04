@@ -2419,16 +2419,6 @@
     "mode": 1
   },
   {
-    "id": 6654,
-    "name": "Afterlife Crowd Control",
-    "key": "afterlife",
-    "dir": [
-      "Afterlife"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 7641,
     "name": "AggroNotifier",
     "key": "aggronotifier",
@@ -5293,6 +5283,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 433337,
+    "name": "Audio Reset",
+    "key": "reset-audio",
+    "dir": [
+      "AudioReset"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 314687,
@@ -15620,6 +15620,16 @@
     "key": "cheatsheet",
     "dir": [
       "Cheatsheet"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 432824,
+    "name": "Check Guild Bank Deposit",
+    "key": "check-guild-bank-deposit",
+    "dir": [
+      "CheckGuildBankDeposit"
     ],
     "source": "curse",
     "mode": 1
@@ -30238,6 +30248,16 @@
     "mode": 1
   },
   {
+    "id": 432812,
+    "name": "For The Alliance! 9.0.2",
+    "key": "for-the-alliance-9-0-2",
+    "dir": [
+      "ForTheAlliance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 281267,
     "name": "For The Horde!",
     "key": "for-the-horde",
@@ -30296,6 +30316,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 432774,
+    "name": "Forgotten Souls Loot Priority",
+    "key": "forgotten-souls-loot-priority",
+    "dir": [
+      "FS_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 16377,
@@ -41614,6 +41644,16 @@
     "mode": 3
   },
   {
+    "id": 433258,
+    "name": "ItemVersion",
+    "key": "itemversion",
+    "dir": [
+      "ItemVersion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 396623,
     "name": "Items expansions in tooltip",
     "key": "items-expansions-in-tooltip",
@@ -51093,6 +51133,16 @@
     "mode": 1
   },
   {
+    "id": 432900,
+    "name": "MiniHud - Sanctum",
+    "key": "minihud-sanctum",
+    "dir": [
+      "MiniHudSanctum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 43440,
     "name": "MiniLoot",
     "key": "miniloot",
@@ -51469,6 +51519,16 @@
     "key": "missing-raid-buffs",
     "dir": [
       "MissingRaidBuffs"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 340839,
+    "name": "Missing TradeSkills List",
+    "key": "missing-tradeskills-list",
+    "dir": [
+      "MissingTradeSkillsList"
     ],
     "source": "curse",
     "mode": 2
@@ -54539,6 +54599,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 334389,
+    "name": "Necrosis Classic",
+    "key": "necrosis-classic",
+    "dir": [
+      "Necrosis"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 1669,
@@ -59888,6 +59958,16 @@
     "mode": 1
   },
   {
+    "id": 428615,
+    "name": "Portable Great Vault",
+    "key": "portable-great-vault",
+    "dir": [
+      "PortableGreatVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 283086,
     "name": "Portal Mage",
     "key": "portal-mage",
@@ -60833,6 +60913,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 433394,
+    "name": "PukeSaver",
+    "key": "pukesaver",
+    "dir": [
+      "PukeSaver"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 98091,
@@ -65061,6 +65151,16 @@
     "mode": 1
   },
   {
+    "id": 432954,
+    "name": "Reckless Abandon",
+    "key": "reckless-abandon",
+    "dir": [
+      "RecklessAbandon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4872,
     "name": "Recount",
     "key": "recount",
@@ -66305,17 +66405,6 @@
     "mode": 1
   },
   {
-    "id": 349264,
-    "name": "Roll Casino",
-    "key": "greybeards-casino",
-    "dir": [
-      "GreybeardsCasino",
-      "RollCasino"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 21947,
     "name": "Roll For Blame",
     "key": "rollforblame",
@@ -67258,6 +67347,16 @@
     "key": "satchel-finder",
     "dir": [
       "SatchelFinder"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 432943,
+    "name": "Satchel Reward Finder",
+    "key": "satchelrewardfinder",
+    "dir": [
+      "SatchelRewardFinder"
     ],
     "source": "curse",
     "mode": 1
@@ -68647,6 +68746,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 433356,
+    "name": "SharedMedia FiinkUI",
+    "key": "sharedmedia-fiinkui",
+    "dir": [
+      "SharedMedia_FiinkUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 93875,
@@ -73741,8 +73850,8 @@
   },
   {
     "id": 428797,
-    "name": "StoredAnimaCounter",
-    "key": "storedanimacounter",
+    "name": "Stored Anima Counter",
+    "key": "stored-anima-counter",
     "dir": [
       "StoredAnimaCounter"
     ],
@@ -75382,6 +75491,16 @@
     "key": "talentmacros",
     "dir": [
       "TalentMacros"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 315447,
+    "name": "TalentNotes",
+    "key": "talentnotes",
+    "dir": [
+      "TalentNotes"
     ],
     "source": "curse",
     "mode": 1
@@ -81964,8 +82083,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "Viks_ConfigUI",
-      "ViksUI"
+      "ViksUI",
+      "Viks_ConfigUI"
     ],
     "source": "curse",
     "mode": 1
@@ -82713,6 +82832,16 @@
     "key": "wardrobeachiever",
     "dir": [
       "WardrobeAchiever"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 432814,
+    "name": "WardrobeMalfunction",
+    "key": "wardrobemalfunction",
+    "dir": [
+      "WardrobeMalfunction"
     ],
     "source": "curse",
     "mode": 1
@@ -83824,6 +83953,16 @@
     "mode": 1
   },
   {
+    "id": 432810,
+    "name": "Wider Transmog Preview",
+    "key": "kayrwidertransmogui",
+    "dir": [
+      "KayrWiderTransmogUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 1205,
     "name": "Widest Audience",
     "key": "widest-audience",
@@ -84700,6 +84839,16 @@
     "key": "world-marker-bar",
     "dir": [
       "WorldMarker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 433334,
+    "name": "World Of Memes",
+    "key": "world-of-memes",
+    "dir": [
+      "WorldOfMemes"
     ],
     "source": "curse",
     "mode": 1
@@ -86056,16 +86205,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 402223,
-    "name": "Zadrot Item Level",
-    "key": "zadrot-itemlevel",
-    "dir": [
-      "Zadrot_ItemLevel"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 394542,
@@ -89097,6 +89236,16 @@
     "mode": 1
   },
   {
+    "id": 432680,
+    "name": "nKeys",
+    "key": "nkeys",
+    "dir": [
+      "nKeys"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101700,
     "name": "nPlates 2.0",
     "key": "nplates-2-0",
@@ -90887,6 +91036,7 @@
     "name": "yoFrame",
     "key": "yoframe",
     "dir": [
+      "yoFrame_Config",
       "yoFrame"
     ],
     "source": "curse",
