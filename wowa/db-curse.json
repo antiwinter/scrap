@@ -5610,6 +5610,16 @@
     "mode": 1
   },
   {
+    "id": 434176,
+    "name": "Auto Summon Random Favorite Pet",
+    "key": "auto-summon-random-favorite-pet",
+    "dir": [
+      "AutoSummonRandomFavoritePet"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 414142,
     "name": "Auto Track Map Pin",
     "key": "auto-track-map-pin",
@@ -6692,6 +6702,16 @@
     "mode": 1
   },
   {
+    "id": 433820,
+    "name": "Axiom Raid Tools",
+    "key": "axiom-raid-tools",
+    "dir": [
+      "AxiomRaidTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4888,
     "name": "AzCastBar",
     "key": "az-cast-bar",
@@ -7546,6 +7566,16 @@
     "key": "bag_ends",
     "dir": [
       "BagEnds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 434007,
+    "name": "BagAppraiser",
+    "key": "bagappraiser",
+    "dir": [
+      "BagAppraiser"
     ],
     "source": "curse",
     "mode": 1
@@ -15323,6 +15353,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 434156,
+    "name": "ChatAssistant Classic",
+    "key": "chatassistant-classic",
+    "dir": [
+      "ChatAssistant"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 340226,
@@ -23330,8 +23370,8 @@
   },
   {
     "id": 305888,
-    "name": "DiscAzeriteArmor",
-    "key": "discazeritearmor",
+    "name": "DiscHelper",
+    "key": "dischelper",
     "dir": [
       "DiscAzeriteArmor"
     ],
@@ -25035,6 +25075,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 433771,
+    "name": "EarthShockWarning",
+    "key": "earthshockwarning",
+    "dir": [
+      "EarthShockWarning"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 102656,
@@ -30318,16 +30368,6 @@
     "mode": 1
   },
   {
-    "id": 432774,
-    "name": "Forgotten Souls Loot Priority",
-    "key": "forgotten-souls-loot-priority",
-    "dir": [
-      "FS_Loot_Priority"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 16377,
     "name": "ForgottenMail",
     "key": "forgotten-mail",
@@ -33680,6 +33720,16 @@
     "mode": 1
   },
   {
+    "id": 430666,
+    "name": "Great Vault Script",
+    "key": "great-vault-script",
+    "dir": [
+      "GreatVaultScript"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 428108,
     "name": "Great Vault Viewer",
     "key": "great-vault-viewer",
@@ -34452,6 +34502,16 @@
     "id": 1495,
     "name": "Group Calendar 5",
     "key": "group-calendar",
+    "dir": [
+      "GroupCalendar5"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 433876,
+    "name": "Group Calendar 5 Reloaded",
+    "key": "group-calendar-5-reloaded",
     "dir": [
       "GroupCalendar5"
     ],
@@ -35301,6 +35361,16 @@
     "key": "guild-repairs-toggle",
     "dir": [
       "GuildRepairsToggle"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 433166,
+    "name": "Guild Revenue Agent",
+    "key": "guild-revenue-agent",
+    "dir": [
+      "GRA"
     ],
     "source": "curse",
     "mode": 1
@@ -44247,6 +44317,16 @@
     "mode": 1
   },
   {
+    "id": 434157,
+    "name": "LZM DisplayCoins",
+    "key": "lzm-displaycoins",
+    "dir": [
+      "LZM_DisplayCoins"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 384811,
     "name": "LZM_DisplayCoins",
     "key": "lzm_displaycoins",
@@ -50938,6 +51018,16 @@
     "key": "micromenuhider",
     "dir": [
       "MicroMenuHider"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 433562,
+    "name": "Migraine Helper",
+    "key": "migraine-helper",
+    "dir": [
+      "WowMigraineHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -62299,6 +62389,16 @@
     "mode": 1
   },
   {
+    "id": 433723,
+    "name": "QuickCommands",
+    "key": "quickcommands",
+    "dir": [
+      "QuickCommands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 258292,
     "name": "QuickGroup",
     "key": "quickgroup",
@@ -65582,6 +65682,16 @@
     "mode": 1
   },
   {
+    "id": 428653,
+    "name": "Remove Realm Name",
+    "key": "remove-realm-name",
+    "dir": [
+      "Remove Realm Name"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 387663,
     "name": "Remove Sell Price",
     "key": "remove-sell-price",
@@ -65720,7 +65830,7 @@
       "RepByZone"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 25107,
@@ -67021,6 +67131,16 @@
     "mode": 1
   },
   {
+    "id": 434094,
+    "name": "SR13-AntiSpam",
+    "key": "sr13-antispam",
+    "dir": [
+      "SR13-AntiSpam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14609,
     "name": "SRA",
     "key": "project-14609",
@@ -68264,7 +68384,7 @@
       "Separateur_de_nombre"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 101569,
@@ -68953,6 +69073,16 @@
     "key": "sharedmedia-terawr",
     "dir": [
       "SharedMedia_Terawr"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 433058,
+    "name": "SharedMedia_Wiyix",
+    "key": "sharedmedia_wiyix",
+    "dir": [
+      "SharedMedia_Wiyix"
     ],
     "source": "curse",
     "mode": 1
@@ -71058,6 +71188,16 @@
       "SlashMagicConfig",
       "SlashMagicDefaultCmds",
       "SlashMagic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 434061,
+    "name": "SlashAddons",
+    "key": "slashaddons",
+    "dir": [
+      "SlashAddons"
     ],
     "source": "curse",
     "mode": 1
@@ -76375,6 +76515,16 @@
     "key": "great-datening",
     "dir": [
       "TheGreatDatening"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 433903,
+    "name": "The Great Vault",
+    "key": "the-great-vault",
+    "dir": [
+      "GreatVault"
     ],
     "source": "curse",
     "mode": 1
@@ -90117,6 +90267,16 @@
     "key": "sarena",
     "dir": [
       "sArena"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 434029,
+    "name": "sArena Layout: Flat",
+    "key": "sarena-layout-flat",
+    "dir": [
+      "sArena Flat"
     ],
     "source": "curse",
     "mode": 1
