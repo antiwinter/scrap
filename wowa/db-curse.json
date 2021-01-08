@@ -3845,6 +3845,16 @@
     "mode": 1
   },
   {
+    "id": 434427,
+    "name": "Arena Names",
+    "key": "arena-names",
+    "dir": [
+      "ArenaNames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 46549,
     "name": "Arena Raid Icons",
     "key": "arenaraidicons",
@@ -6589,6 +6599,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 434350,
+    "name": "AutomaticWeaponRemoval",
+    "key": "automaticweaponremoval",
+    "dir": [
+      "AutomaticWeaponRemoval"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 283118,
@@ -21701,6 +21721,9 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -21709,10 +21732,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -30366,6 +30386,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 432774,
+    "name": "Forgotten Souls Loot Priority",
+    "key": "forgotten-souls-loot-priority",
+    "dir": [
+      "FS_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 16377,
@@ -48419,16 +48449,6 @@
     "mode": 1
   },
   {
-    "id": 356775,
-    "name": "MDT Guide",
-    "key": "mdt-guide",
-    "dir": [
-      "MDTGuide"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 409781,
     "name": "MDX_Auto_Macro",
     "key": "mdx_auto-macro",
@@ -59013,16 +59033,6 @@
     "mode": 1
   },
   {
-    "id": 416248,
-    "name": "PinShare",
-    "key": "pinshare",
-    "dir": [
-      "PinShare"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 2250,
     "name": "Ping Snitch",
     "key": "ping-snitch",
@@ -69574,6 +69584,16 @@
     "mode": 1
   },
   {
+    "id": 433843,
+    "name": "Shut-Up",
+    "key": "shutup",
+    "dir": [
+      "ShutUp"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44234,
     "name": "ShutUpRhonin",
     "key": "shutuprhonin",
@@ -74585,17 +74605,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 30226,
-    "name": "SuperGuildInvite",
-    "key": "superguildinvite",
-    "dir": [
-      "SuperGuildInvite",
-      "SuperGuildInvite2"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 88828,
@@ -82842,16 +82851,6 @@
     "key": "wanmark",
     "dir": [
       "WanMark"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 261947,
-    "name": "Wanderers Gambling",
-    "key": "wanderers-gambling",
-    "dir": [
-      "wanderersgambling"
     ],
     "source": "curse",
     "mode": 1
