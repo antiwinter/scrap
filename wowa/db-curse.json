@@ -9409,18 +9409,6 @@
     "mode": 3
   },
   {
-    "id": 374657,
-    "name": "BetterBlizzFrames",
-    "key": "betterblizzframes",
-    "dir": [
-      "!BlizzardRaidFramesFix",
-      "BetterBlizzFrames",
-      "ShowRaidFrameSoloandHidePlayerFrame"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 13508,
     "name": "BetterBlizzOptions",
     "key": "better-blizz-options",
@@ -13250,7 +13238,7 @@
       "Bufflehead"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 334677,
@@ -20789,6 +20777,16 @@
     "key": "dmfquest",
     "dir": [
       "DMFQuest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 430369,
+    "name": "DNA",
+    "key": "dna",
+    "dir": [
+      "dna"
     ],
     "source": "curse",
     "mode": 1
@@ -28564,6 +28562,16 @@
     "mode": 1
   },
   {
+    "id": 434801,
+    "name": "FallDamageSound",
+    "key": "falldamagesound",
+    "dir": [
+      "FallDamageSound"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 403527,
     "name": "Fallen Oath Guild Addons",
     "key": "fallen-oath-guild-addons",
@@ -31538,6 +31546,17 @@
     "mode": 1
   },
   {
+    "id": 418746,
+    "name": "Gargul",
+    "key": "gargul",
+    "dir": [
+      "EssentialDKP",
+      "Gargul"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 322123,
     "name": "Garrison Button Hider",
     "key": "garrison-button-hider",
@@ -32563,17 +32582,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 418746,
-    "name": "Give it a Lick",
-    "key": "give-it-a-lick",
-    "dir": [
-      "EssentialDKP",
-      "Giveitalick"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 101527,
@@ -40836,7 +40844,7 @@
     "name": "Instant Sell, Repair, & Autoloot",
     "key": "instant-sell-repair-autoloot",
     "dir": [
-      "InstantSellRepairandLoot"
+      "BetterBlizzFrames - InstantRepairLootandSell"
     ],
     "source": "curse",
     "mode": 1
@@ -56860,6 +56868,16 @@
     "mode": 1
   },
   {
+    "id": 433393,
+    "name": "Oribos Exchange",
+    "key": "oribos-exchange",
+    "dir": [
+      "OribosExchange"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 426841,
     "name": "Oribos Flight Attendant",
     "key": "oribos-flight-attendant",
@@ -59659,6 +59677,16 @@
     "mode": 3
   },
   {
+    "id": 433900,
+    "name": "PlexusStatusAltRole",
+    "key": "plexusstatusaltrole",
+    "dir": [
+      "PlexusStatusAltRole"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 413886,
     "name": "PlexusStatusAurasExt",
     "key": "plexusstatusaurasext",
@@ -59753,6 +59781,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 434980,
+    "name": "PlexusStatusRD_PvP",
+    "key": "plexusstatusrd_pvp",
+    "dir": [
+      "PlexusStatusRD_PvP"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 411702,
@@ -61064,16 +61102,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 415933,
-    "name": "Pumpers",
-    "key": "pumpers",
-    "dir": [
-      "Pumpers"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 28368,
@@ -67712,17 +67740,6 @@
     "mode": 1
   },
   {
-    "id": 16287,
-    "name": "Scorchio! 2",
-    "key": "scorchio2",
-    "dir": [
-      "Scorchio2_Options",
-      "Scorchio2"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 27055,
     "name": "Scoreboard (Titan Points)",
     "key": "titanpanel-points",
@@ -72189,6 +72206,16 @@
     "mode": 2
   },
   {
+    "id": 435160,
+    "name": "SoulEater",
+    "key": "souleater",
+    "dir": [
+      "SoulEater"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 412982,
     "name": "SoulKeeper",
     "key": "soulkeeper",
@@ -72227,6 +72254,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 434822,
+    "name": "Soulbind Cache Opener",
+    "key": "soulbind-cache-opener",
+    "dir": [
+      "SoulbindCacheOpener"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 421387,
@@ -72314,6 +72351,16 @@
     "key": "soundpack-by-bayfuss",
     "dir": [
       "SharedMedia_Bayfuss"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 435219,
+    "name": "Soundpack_UB",
+    "key": "soundpack_ub",
+    "dir": [
+      "SharedMedia_UB"
     ],
     "source": "curse",
     "mode": 1
@@ -87052,16 +87099,6 @@
     "mode": 3
   },
   {
-    "id": 293782,
-    "name": "[rp:tags]",
-    "key": "rp-tags",
-    "dir": [
-      "RP_Tags"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 44020,
     "name": "_Abandoned5",
     "key": "abandoned4",
@@ -90256,6 +90293,16 @@
     "key": "rp-friends",
     "dir": [
       "RP_Friends"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 293782,
+    "name": "rp:Tags",
+    "key": "rp-tags",
+    "dir": [
+      "RP_Tags"
     ],
     "source": "curse",
     "mode": 1
