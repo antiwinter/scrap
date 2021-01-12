@@ -2460,6 +2460,16 @@
     "mode": 1
   },
   {
+    "id": 427475,
+    "name": "Aim",
+    "key": "aim",
+    "dir": [
+      "Aim"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348167,
     "name": "Aimed Shot Castbar Classic",
     "key": "aimedshotcastbarclassic",
@@ -3148,6 +3158,16 @@
     "key": "angry-world-quests",
     "dir": [
       "AngryWorldQuests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 435601,
+    "name": "Anima Shortage",
+    "key": "anima-shortage",
+    "dir": [
+      "AnimaShortage"
     ],
     "source": "curse",
     "mode": 1
@@ -5326,6 +5346,16 @@
     "mode": 1
   },
   {
+    "id": 435515,
+    "name": "Aui",
+    "key": "aui",
+    "dir": [
+      "Aui"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27305,
     "name": "Aura Frames",
     "key": "aura-frames",
@@ -6672,6 +6702,16 @@
     "mode": 1
   },
   {
+    "id": 432969,
+    "name": "Avenyx Light",
+    "key": "avenyx-light",
+    "dir": [
+      "AvenyxLight"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 79158,
     "name": "Avenyx UI",
     "key": "avenyx-ui",
@@ -7124,6 +7164,16 @@
     "key": "booty-bay-dkp",
     "dir": [
       "BBDKP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 358447,
+    "name": "BBF - Instant Sell, Repair, Autoloot & More!",
+    "key": "instant-sell-repair-autoloot",
+    "dir": [
+      "BetterBlizzFrames - InstantRepairLootandSell"
     ],
     "source": "curse",
     "mode": 1
@@ -16255,6 +16305,16 @@
     "mode": 1
   },
   {
+    "id": 435414,
+    "name": "Classic Achievements",
+    "key": "classic-achievements",
+    "dir": [
+      "ClassicAchievements"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 298814,
     "name": "Classic Action Bars",
     "key": "classic-action-bars",
@@ -19249,6 +19309,16 @@
     "mode": 1
   },
   {
+    "id": 434671,
+    "name": "CovenantMissionHelper",
+    "key": "covenantmissionhelper",
+    "dir": [
+      "CovenantMissionHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 426287,
     "name": "CoyTooltip",
     "key": "coytooltip",
@@ -21180,6 +21250,16 @@
     "id": 87882,
     "name": "Daily To Do",
     "key": "daily-to-do",
+    "dir": [
+      "DailyToDo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 435628,
+    "name": "Daily To Do Continued",
+    "key": "daily-to-do-continued",
     "dir": [
       "DailyToDo"
     ],
@@ -23391,7 +23471,8 @@
     "name": "DiscHelper",
     "key": "dischelper",
     "dir": [
-      "DiscAzeriteArmor"
+      "DiscAzeriteArmor",
+      "DiscHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -40840,16 +40921,6 @@
     "mode": 1
   },
   {
-    "id": 358447,
-    "name": "Instant Sell, Repair, & Autoloot",
-    "key": "instant-sell-repair-autoloot",
-    "dir": [
-      "BetterBlizzFrames - InstantRepairLootandSell"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 375407,
     "name": "Instant Sell, Repair, and Autoloot - No Guild",
     "key": "instant-sell-repair-and-autoloot-no-guild",
@@ -48457,6 +48528,16 @@
     "mode": 1
   },
   {
+    "id": 356775,
+    "name": "MDT Guide",
+    "key": "mdt-guide",
+    "dir": [
+      "MDTGuide"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 409781,
     "name": "MDX_Auto_Macro",
     "key": "mdx_auto-macro",
@@ -53728,6 +53809,16 @@
     "key": "my-instance-lockouts",
     "dir": [
       "MyInstanceLocks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 434558,
+    "name": "My Interrupt",
+    "key": "my-interrupt",
+    "dir": [
+      "MyInterrupt"
     ],
     "source": "curse",
     "mode": 1
@@ -60061,16 +60152,6 @@
     "key": "popup",
     "dir": [
       "Popup"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 423639,
-    "name": "Popup Blocker",
-    "key": "popup-blocker",
-    "dir": [
-      "PopupBlocker"
     ],
     "source": "curse",
     "mode": 1
@@ -67758,7 +67839,9 @@
       "Scorpio.UI",
       "Scorpio.Widget",
       "Scorpio",
-      "Scorpio.Secure"
+      "Scorpio.Action",
+      "Scorpio.Secure",
+      "Scorpio.Unit"
     ],
     "source": "curse",
     "mode": 3
@@ -68612,6 +68695,66 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 435431,
+    "name": "SexyLib-Binlog",
+    "key": "sexylib-binlog",
+    "dir": [
+      "SexyLib-Binlog"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 435424,
+    "name": "SexyLib-Core",
+    "key": "sexylib-core",
+    "dir": [
+      "SexyLib-Core"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 435430,
+    "name": "SexyLib-Hashing",
+    "key": "sexylib-hashing",
+    "dir": [
+      "SexyLib-Hashing"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 435425,
+    "name": "SexyLib-Localization",
+    "key": "sexylib-localization",
+    "dir": [
+      "SexyLib-Localization"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 435427,
+    "name": "SexyLib-Minimap",
+    "key": "sexylib-minimap",
+    "dir": [
+      "SexyLib-Minimap"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 435428,
+    "name": "SexyLib-Network",
+    "key": "sexylib-network",
+    "dir": [
+      "SexyLib-Network"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 15936,
@@ -74021,6 +74164,16 @@
     "key": "stop-request-button",
     "dir": [
       "StopRequest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 423639,
+    "name": "Stop Talking",
+    "key": "stop-talking",
+    "dir": [
+      "StopTalking"
     ],
     "source": "curse",
     "mode": 1
@@ -90263,6 +90416,16 @@
     "key": "randomfacts_beta",
     "dir": [
       "RNFCT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 435272,
+    "name": "regaddon",
+    "key": "regaddon",
+    "dir": [
+      "regaddon"
     ],
     "source": "curse",
     "mode": 1
