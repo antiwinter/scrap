@@ -2845,9 +2845,35 @@
     "id": 13402,
     "name": "Altoholic",
     "key": "altoholic",
-    "dir": [],
+    "dir": [
+      "Altoholic",
+      "Altoholic_Achievements",
+      "Altoholic_Agenda",
+      "Altoholic_Characters",
+      "Altoholic_Grids",
+      "Altoholic_Guild",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
+      "DataStore_Auctions",
+      "DataStore_Characters",
+      "DataStore_Containers",
+      "DataStore_Crafts",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
+      "DataStore_Inventory",
+      "DataStore_Mails",
+      "DataStore_Pets",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore_Spells",
+      "DataStore_Stats",
+      "DataStore_Talents",
+      "DataStore"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 99157,
@@ -21623,6 +21649,46 @@
     "mode": 1
   },
   {
+    "id": 19873,
+    "name": "DataStore_Achievements",
+    "key": "datastore_achievements",
+    "dir": [
+      "DataStore_Achievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 29739,
+    "name": "DataStore_Agenda",
+    "key": "datastore_agenda",
+    "dir": [
+      "DataStore_Agenda"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20205,
+    "name": "DataStore_Auctions",
+    "key": "datastore_auctions",
+    "dir": [
+      "DataStore_Auctions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20206,
+    "name": "DataStore_Characters",
+    "key": "datastore_characters",
+    "dir": [
+      "DataStore_Characters"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19872,
     "name": "DataStore_Containers",
     "key": "datastore_containers",
@@ -21638,6 +21704,26 @@
     "key": "datastore_crafts",
     "dir": [
       "DataStore_Crafts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20207,
+    "name": "DataStore_Currencies",
+    "key": "datastore_currencies",
+    "dir": [
+      "DataStore_Currencies"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 88051,
+    "name": "DataStore_Garrisons",
+    "key": "datastore_garrisons",
+    "dir": [
+      "DataStore_Garrisons"
     ],
     "source": "curse",
     "mode": 1
@@ -21663,6 +21749,36 @@
     "mode": 1
   },
   {
+    "id": 20209,
+    "name": "DataStore_Mails",
+    "key": "datastore_mails",
+    "dir": [
+      "DataStore_Mails"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 19875,
+    "name": "DataStore_Pets",
+    "key": "datastore_pets",
+    "dir": [
+      "DataStore_Pets"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20210,
+    "name": "DataStore_Quests",
+    "key": "datastore_quests",
+    "dir": [
+      "DataStore_Quests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 411494,
     "name": "DataStore_Rares",
     "key": "datastore_rares",
@@ -21678,6 +21794,36 @@
     "key": "datastore_reputations",
     "dir": [
       "DataStore_Reputations"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20212,
+    "name": "DataStore_Spells",
+    "key": "datastore_spells",
+    "dir": [
+      "DataStore_Spells"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 20213,
+    "name": "DataStore_Stats",
+    "key": "datastore_stats",
+    "dir": [
+      "DataStore_Stats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 19877,
+    "name": "DataStore_Talents",
+    "key": "datastore_talents",
+    "dir": [
+      "DataStore_Talents"
     ],
     "source": "curse",
     "mode": 1
@@ -58852,18 +58998,6 @@
     "mode": 1
   },
   {
-    "id": 67951,
-    "name": "Pets and Mounts",
-    "key": "pets-and-mounts",
-    "dir": [
-      "PetsAndMountsConfig",
-      "PetsAndMounts",
-      "PetsAndMountsLoader"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102153,
     "name": "Petship",
     "key": "petship",
@@ -69841,6 +69975,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 429765,
+    "name": "SignalUI",
+    "key": "signalui",
+    "dir": [
+      "SignalUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 335903,
@@ -82271,16 +82415,6 @@
     "key": "venge",
     "dir": [
       "Venge"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 429765,
-    "name": "VenturedUI",
-    "key": "venturedui",
-    "dir": [
-      "VenturedUI"
     ],
     "source": "curse",
     "mode": 1
