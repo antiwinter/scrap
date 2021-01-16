@@ -2846,18 +2846,6 @@
     "name": "Altoholic",
     "key": "altoholic",
     "dir": [
-      "Altoholic",
-      "Altoholic_Achievements",
-      "Altoholic_Agenda",
-      "Altoholic_Characters",
-      "Altoholic_Grids",
-      "Altoholic_Guild",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
-      "DataStore_Auctions",
-      "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
       "DataStore_Currencies",
@@ -2870,6 +2858,18 @@
       "DataStore_Spells",
       "DataStore_Stats",
       "DataStore_Talents",
+      "Altoholic",
+      "Altoholic_Achievements",
+      "Altoholic_Agenda",
+      "Altoholic_Characters",
+      "Altoholic_Grids",
+      "Altoholic_Guild",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
+      "DataStore_Auctions",
+      "DataStore_Characters",
       "DataStore"
     ],
     "source": "curse",
@@ -10711,17 +10711,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 257283,
-    "name": "Blizzard Nameplates - Threat",
-    "key": "blizzard-nameplates-threat",
-    "dir": [
-      "NameplatesThreat",
-      "NamePlatesThreat"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 69099,
@@ -19295,6 +19284,16 @@
     "mode": 1
   },
   {
+    "id": 436144,
+    "name": "CovDB",
+    "key": "covdb",
+    "dir": [
+      "CovDB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 425983,
     "name": "Covenant Mission Success Estimates",
     "key": "simple-covenant-mission-success-estimates",
@@ -20479,6 +20478,16 @@
     "key": "dbm-voicepack-russian-tatyana-natural-voice",
     "dir": [
       "DBM-VPTatyana"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 435860,
+    "name": "DBM Voicepack Sevalina",
+    "key": "dbm-voicepack-sevalina",
+    "dir": [
+      "DBM-Sevalina-Counter"
     ],
     "source": "curse",
     "mode": 1
@@ -43940,7 +43949,6 @@
     "name": "Krowi's Achievement Filter",
     "key": "krowi-achievement-filter",
     "dir": [
-      "Krowi_AchievementFilter_Tab",
       "Krowi_AchievementFilter"
     ],
     "source": "curse",
@@ -83770,13 +83778,7 @@
     "name": "WeekKeys",
     "key": "weekkeys",
     "dir": [
-      "WeekKeys",
-      "WeekKeys_Friends",
-      "WeekKeys_Guild",
-      "WeekKeys_Lootfinder",
-      "WeekKeys_MTable",
-      "WeekKeys_Party",
-      "WeekKeys_Settings"
+      "WeekKeys"
     ],
     "source": "curse",
     "mode": 1
