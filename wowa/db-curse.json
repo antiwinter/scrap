@@ -5404,6 +5404,16 @@
     "mode": 1
   },
   {
+    "id": 437202,
+    "name": "AuraSpy",
+    "key": "auraspy",
+    "dir": [
+      "AuraSpy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 17295,
     "name": "Auracle (De)Buff Monitor",
     "key": "auracle",
@@ -8387,6 +8397,16 @@
     "key": "barbershop-profiles",
     "dir": [
       "BarberShopProfiles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 436908,
+    "name": "BarbershopRoulette",
+    "key": "barbershoproulette",
+    "dir": [
+      "BarbershopRoulette"
     ],
     "source": "curse",
     "mode": 1
@@ -13752,6 +13772,16 @@
     "key": "cepgp",
     "dir": [
       "CEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 437341,
+    "name": "CEPGP - TBC",
+    "key": "cepgp-tbc",
+    "dir": [
+      "CEPGP-TBC"
     ],
     "source": "curse",
     "mode": 2
@@ -19288,6 +19318,14 @@
     "name": "CovDB",
     "key": "covdb",
     "dir": [
+      "CovDB_EU_A",
+      "CovDB_EU_H",
+      "CovDB_KR_A",
+      "CovDB_KR_H",
+      "CovDB_TW_A",
+      "CovDB_TW_H",
+      "CovDB_US_A",
+      "CovDB_US_H",
       "CovDB"
     ],
     "source": "curse",
@@ -20268,6 +20306,16 @@
     "key": "dbm-voice-pack-elarinti-vem",
     "dir": [
       "DBM-VPElarinti"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 436959,
+    "name": "DBM VoicePack (Korean male) Jiny",
+    "key": "dbm-voicepack-korean-male-jiny",
+    "dir": [
+      "DBM-VPJiny"
     ],
     "source": "curse",
     "mode": 1
@@ -23074,18 +23122,18 @@
     "name": "Details! Damage Meter for Shadowlands Beta",
     "key": "details2",
     "dir": [
+      "Details_RaidPowerBars",
       "Details_Streamer",
-      "Details_DataStorage",
-      "Details_EncounterDetails",
-      "Details_RaidCheck",
       "Details_TargetCaller",
       "Details_TimeLine",
       "Details_TinyThreat",
       "Details_Vanguard",
       "Details_CastHistory",
       "Details_ChartViewer",
+      "Details_DataStorage",
       "Details_DeathGraphs",
-      "Details_RaidPowerBars",
+      "Details_EncounterDetails",
+      "Details_RaidCheck",
       "Details"
     ],
     "source": "curse",
@@ -28959,6 +29007,16 @@
     "mode": 2
   },
   {
+    "id": 436906,
+    "name": "FarmRestock",
+    "key": "farmrestock",
+    "dir": [
+      "FarmRestock"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 412896,
     "name": "FarmSesh",
     "key": "farmsesh",
@@ -29234,6 +29292,16 @@
     "key": "favorites",
     "dir": [
       "Favorites"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 436660,
+    "name": "FazzTools",
+    "key": "fazztools",
+    "dir": [
+      "FazzTools"
     ],
     "source": "curse",
     "mode": 1
@@ -33929,6 +33997,16 @@
     "key": "project-14098",
     "dir": [
       "GratuityLib"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 436775,
+    "name": "Gratwurst",
+    "key": "gratwurst",
+    "dir": [
+      "Gratwurst"
     ],
     "source": "curse",
     "mode": 1
@@ -56461,16 +56539,6 @@
     "mode": 1
   },
   {
-    "id": 300166,
-    "name": "ObeliskMinimap",
-    "key": "obeliskminimap",
-    "dir": [
-      "ObeliskMinimap"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 263156,
     "name": "ObeliskQuest",
     "key": "obeliskquest",
@@ -65622,6 +65690,16 @@
     "mode": 1
   },
   {
+    "id": 437347,
+    "name": "RedeemerReloaded",
+    "key": "redeemerreloaded",
+    "dir": [
+      "Redeemer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87875,
     "name": "Redprints",
     "key": "redprints",
@@ -69150,6 +69228,16 @@
     "mode": 1
   },
   {
+    "id": 435201,
+    "name": "Shared Media: Loud Noises!",
+    "key": "shared-media-loud-noises",
+    "dir": [
+      "SharedMedia_LoudNoises"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 95429,
     "name": "SharedMacros",
     "key": "dispelmacro",
@@ -69265,6 +69353,16 @@
     "key": "sharedmedia_abain",
     "dir": [
       "SharedMedia_Abain"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 437068,
+    "name": "SharedMedia_AdHominemGuild",
+    "key": "sharedmedia_adhominemguild",
+    "dir": [
+      "SharedMedia_AdHominemGuild"
     ],
     "source": "curse",
     "mode": 1
@@ -75608,7 +75706,7 @@
   },
   {
     "id": 410737,
-    "name": "Syndicate_Summoner",
+    "name": "Syndicate Summoner",
     "key": "syndicate_summoner",
     "dir": [
       "Syndicate_Summoner"
@@ -81176,6 +81274,16 @@
     "mode": 1
   },
   {
+    "id": 437378,
+    "name": "True Stat Values",
+    "key": "true-stat-values",
+    "dir": [
+      "TrueStatValues"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 284849,
     "name": "TrueChatFrameHistory",
     "key": "truechatframehistory",
@@ -82176,6 +82284,16 @@
     "key": "vault-everywhere",
     "dir": [
       "VaultAnywhere"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 435685,
+    "name": "VaultMinimapButton",
+    "key": "vaultminimapbutton",
+    "dir": [
+      "VaultMinimapButton"
     ],
     "source": "curse",
     "mode": 1
@@ -85815,6 +85933,16 @@
       "XPerl_RaidFrames",
       "XPerl_Target",
       "XPerl"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 436562,
+    "name": "XBF Arena Nameplates",
+    "key": "xbf-arena-nameplates",
+    "dir": [
+      "XBFArenaNames"
     ],
     "source": "curse",
     "mode": 1
