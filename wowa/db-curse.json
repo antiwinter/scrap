@@ -7209,7 +7209,8 @@
     "name": "BBF - Instant Sell, Repair, Autoloot & More!",
     "key": "instant-sell-repair-autoloot",
     "dir": [
-      "BetterBlizzFrames - InstantRepairLootandSell"
+      "BetterBlizzFrames - InstantRepairLootandSell",
+      "BBF - InstantRepairLootSell"
     ],
     "source": "curse",
     "mode": 1
@@ -9042,6 +9043,16 @@
     "key": "bfo",
     "dir": [
       "BearForceOne"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 438140,
+    "name": "Beauty Reps",
+    "key": "beauty-reps",
+    "dir": [
+      "BeautyReps"
     ],
     "source": "curse",
     "mode": 1
@@ -22002,9 +22013,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -22013,7 +22021,10 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG"
+      "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria"
     ],
     "source": "curse",
     "mode": 3
@@ -36180,16 +36191,6 @@
     "mode": 1
   },
   {
-    "id": 432144,
-    "name": "Guilds of WoW",
-    "key": "guilds-of-wow",
-    "dir": [
-      "GuildsOfWoW"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 291423,
     "name": "Guildster",
     "key": "guildster",
@@ -44033,6 +44034,16 @@
     "mode": 1
   },
   {
+    "id": 437715,
+    "name": "Krytools Mad Wizard Scrawlings Thorgast Helper",
+    "key": "krytools-mad-wizard-scrawlings-thorgast-helper",
+    "dir": [
+      "KryTools_MadWizardScrawlings"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 416016,
     "name": "KsRaidSkip",
     "key": "ksraidskip",
@@ -48546,6 +48557,16 @@
     "mode": 1
   },
   {
+    "id": 437490,
+    "name": "Lucid Keystone",
+    "key": "lucid-keystone",
+    "dir": [
+      "LucidKeystone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 276940,
     "name": "Lucid Nightmare Helper",
     "key": "lucid-nightmare-helper",
@@ -51148,6 +51169,16 @@
     "key": "memoria",
     "dir": [
       "Memoria"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 413371,
+    "name": "Memory",
+    "key": "memory",
+    "dir": [
+      "Memory"
     ],
     "source": "curse",
     "mode": 3
@@ -72740,8 +72771,8 @@
   },
   {
     "id": 416252,
-    "name": "Soundpack By Bayfuss",
-    "key": "soundpack-by-bayfuss",
+    "name": "Soundpack By - Bayfuss",
+    "key": "soundpack-bayfuss",
     "dir": [
       "SharedMedia_Bayfuss"
     ],
@@ -79879,6 +79910,16 @@
     "key": "torarange",
     "dir": [
       "ToraRange"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 437121,
+    "name": "Torghast TourGuide",
+    "key": "torghast-tourguide",
+    "dir": [
+      "TorghastTourguide"
     ],
     "source": "curse",
     "mode": 1
