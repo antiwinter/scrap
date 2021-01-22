@@ -7209,7 +7209,6 @@
     "name": "BBF - Instant Sell, Repair, Autoloot & More!",
     "key": "instant-sell-repair-autoloot",
     "dir": [
-      "BetterBlizzFrames - InstantRepairLootandSell",
       "BBF - InstantRepairLootSell"
     ],
     "source": "curse",
@@ -7843,16 +7842,6 @@
     "key": "baggins-scrap",
     "dir": [
       "Baggins_Scrap"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 13480,
-    "name": "Baggins_Search",
-    "key": "baggins_search",
-    "dir": [
-      "Baggins_Search"
     ],
     "source": "curse",
     "mode": 1
@@ -16762,6 +16751,16 @@
     "mode": 2
   },
   {
+    "id": 437670,
+    "name": "ClassicAutoGearChanger",
+    "key": "classis-auto-gear-changer",
+    "dir": [
+      "ClassicAutoGearChanger"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 378122,
     "name": "ClassicAutoRepair",
     "key": "classicautorepair",
@@ -19283,16 +19282,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 382449,
-    "name": "Countdown Loot Priority",
-    "key": "countdown-loot-priority",
-    "dir": [
-      "Countdown_Loot_Priority"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 373746,
@@ -36627,16 +36616,6 @@
     "mode": 1
   },
   {
-    "id": 301885,
-    "name": "HandyNotes : BFA_HF_Tracker",
-    "key": "handynotes-bfa_hf_tracker",
-    "dir": [
-      "HandyNotes_BFA_HF_Tracker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 384181,
     "name": "HandyNotes Data Broker and Minimap Button",
     "key": "handynotes-databroker",
@@ -37546,6 +37525,16 @@
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 438425,
+    "name": "HealBot Plugin ExtraButtons",
+    "key": "healbot-plugin-extrabuttons",
+    "dir": [
+      "HealBot_Plugin_ExtraButtons"
     ],
     "source": "curse",
     "mode": 1
@@ -40723,6 +40712,16 @@
     "mode": 1
   },
   {
+    "id": 437922,
+    "name": "IndulgenceGuildHelper",
+    "key": "indulgence-guild-helper",
+    "dir": [
+      "IndulgenceGuildHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 271062,
     "name": "Infernum Assignments",
     "key": "infernum-assignments",
@@ -41745,16 +41744,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 356073,
-    "name": "ItemAutocomplete",
-    "key": "itemautocomplete",
-    "dir": [
-      "ItemAutocomplete"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 276896,
@@ -51776,6 +51765,16 @@
     "mode": 1
   },
   {
+    "id": 436829,
+    "name": "MinimapButtonBag Reborn (MBB Reborn)",
+    "key": "minimapbuttonbag-reborn-mmb-reborn",
+    "dir": [
+      "MBB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 21577,
     "name": "MinimapButtonFrame_Rings",
     "key": "rings",
@@ -60862,6 +60861,16 @@
     "mode": 1
   },
   {
+    "id": 438251,
+    "name": "PremadeQuickJoin",
+    "key": "premadequickjoin",
+    "dir": [
+      "PremadeQuickJoin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44235,
     "name": "Premo Power",
     "key": "premo_power-1",
@@ -65040,7 +65049,7 @@
       "Raven"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 32932,
