@@ -2846,7 +2846,6 @@
     "name": "Altoholic",
     "key": "altoholic",
     "dir": [
-      "DataStore_Containers",
       "DataStore_Crafts",
       "DataStore_Currencies",
       "DataStore_Garrisons",
@@ -2870,6 +2869,7 @@
       "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
+      "DataStore_Containers",
       "DataStore"
     ],
     "source": "curse",
@@ -27514,6 +27514,16 @@
     "mode": 1
   },
   {
+    "id": 439014,
+    "name": "Enhanced Tooltips",
+    "key": "enhanced-tooltips",
+    "dir": [
+      "EnhancedTooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 340120,
     "name": "Enhanced World Map for WoW Classic",
     "key": "enhanced-world-map-for-wow-classic",
@@ -34831,6 +34841,16 @@
     "mode": 2
   },
   {
+    "id": 439396,
+    "name": "Grounded",
+    "key": "grounded",
+    "dir": [
+      "Grounded"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 351800,
     "name": "Group / Guild Calendar for Classic",
     "key": "group-calendar-for-classic",
@@ -35445,6 +35465,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 439062,
+    "name": "Guild Bank Audit",
+    "key": "guild-bank-audit",
+    "dir": [
+      "GuildBankAudit"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 374458,
@@ -37468,6 +37498,16 @@
       "HealBot_Tips",
       "HealBot_tw",
       "HealBot"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 438895,
+    "name": "HealBot Classic Plugin ExtraButtons",
+    "key": "healbot-classic-plugin-extrabuttons",
+    "dir": [
+      "HealBot_Plugin_ExtraButtons"
     ],
     "source": "curse",
     "mode": 2
@@ -40667,6 +40707,16 @@
     "key": "avellianceincoming",
     "dir": [
       "Incoming"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439417,
+    "name": "Incoming Damage",
+    "key": "incoming-damage",
+    "dir": [
+      "IncomingDamage"
     ],
     "source": "curse",
     "mode": 1
@@ -46508,6 +46558,16 @@
     "key": "libmapdata-1-0",
     "dir": [
       "LibMapData-1.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439365,
+    "name": "LibMarkdown",
+    "key": "libmarkdown",
+    "dir": [
+      "LibMarkdown"
     ],
     "source": "curse",
     "mode": 1
@@ -53914,6 +53974,16 @@
     "mode": 1
   },
   {
+    "id": 439354,
+    "name": "Mute Mount Merchants",
+    "key": "mute-mount-merchants",
+    "dir": [
+      "MuteMountMerchants"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 376943,
     "name": "Mute Obsidian Nightwing",
     "key": "mute-obsidian-nightwing",
@@ -58847,7 +58917,7 @@
       "PetEmote"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 280034,
@@ -63353,6 +63423,16 @@
     "mode": 2
   },
   {
+    "id": 439401,
+    "name": "RNG",
+    "key": "rng",
+    "dir": [
+      "rng"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 294515,
     "name": "RP Adjutant",
     "key": "rp-adjutant",
@@ -65170,7 +65250,7 @@
   },
   {
     "id": 309541,
-    "name": "ReEnhancedStackSplit",
+    "name": "ReEnhancedStackSplit [9.0]",
     "key": "reenhancedstacksplit",
     "dir": [
       "ReEnhancedStackSplit"
@@ -83977,6 +84057,16 @@
     "key": "wepair",
     "dir": [
       "Wepair"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439456,
+    "name": "Whaazz UI",
+    "key": "whaazz-ui",
+    "dir": [
+      "Whaazz UI"
     ],
     "source": "curse",
     "mode": 1
