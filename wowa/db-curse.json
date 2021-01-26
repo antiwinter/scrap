@@ -1697,6 +1697,16 @@
     "mode": 1
   },
   {
+    "id": 438684,
+    "name": "AdiBags - Better Categories",
+    "key": "adibags-better-categories",
+    "dir": [
+      "AdiBags-BetterCategories"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 294318,
     "name": "AdiBags - By Expansion",
     "key": "adibags_by_expansion",
@@ -2347,6 +2357,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 439628,
+    "name": "AdventureGuideClassic",
+    "key": "adventureguideclassic",
+    "dir": [
+      "AdventureGuide"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 93914,
@@ -5404,6 +5424,16 @@
     "mode": 1
   },
   {
+    "id": 439835,
+    "name": "AuraBreak Notify",
+    "key": "aurabreak-notify",
+    "dir": [
+      "AuraBreak_Notify"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 437202,
     "name": "AuraSpy",
     "key": "auraspy",
@@ -6793,6 +6823,16 @@
     "key": "avyr-raid-tools",
     "dir": [
       "AvyrRaidTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439657,
+    "name": "AwsomeMediaPack",
+    "key": "awsome-media-pack",
+    "dir": [
+      "AwesomeMediaPack"
     ],
     "source": "curse",
     "mode": 1
@@ -26839,8 +26879,8 @@
   },
   {
     "id": 97581,
-    "name": "ElvUI_BenikUI v3",
-    "key": "benikui-v3",
+    "name": "ElvUI_BenikUI v4",
+    "key": "benikui",
     "dir": [
       "ElvUI_BenikUI_Classic",
       "ElvUI_BenikUI"
@@ -28082,6 +28122,16 @@
     "key": "ever-shifting-mirror",
     "dir": [
       "EverShiftingMirror"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439960,
+    "name": "Everezh Nameplates - No Filter Debuffs on default Nameplates",
+    "key": "everezh-nameplates-no-filter-debuffs-on-default",
+    "dir": [
+      "Nameplates_Everezh"
     ],
     "source": "curse",
     "mode": 1
@@ -42780,6 +42830,16 @@
     "mode": 1
   },
   {
+    "id": 440158,
+    "name": "KVCD - Darken Chat Messages by Speaker Distance",
+    "key": "kvcd-darken-chat-messages-by-speaker-distance",
+    "dir": [
+      "KvChatDistance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 339809,
     "name": "Kaliel's Tracker (Classic) ... Quest Tracker | supported Questie and ElvUI / Tukui",
     "key": "kaliels-tracker-classic",
@@ -48666,6 +48726,16 @@
     "mode": 1
   },
   {
+    "id": 440163,
+    "name": "LucyWatch",
+    "key": "lucywatch",
+    "dir": [
+      "LucyWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 3831,
     "name": "Ludwig",
     "key": "ludwig",
@@ -48745,6 +48815,16 @@
     "key": "lustpopper",
     "dir": [
       "LustPopper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439958,
+    "name": "LuuxiaUI",
+    "key": "luuxiaui",
+    "dir": [
+      "LuuxiaUI"
     ],
     "source": "curse",
     "mode": 1
@@ -51480,6 +51560,16 @@
     "key": "mikamounter",
     "dir": [
       "MikaMounter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 438671,
+    "name": "Mike's Raiding Tool",
+    "key": "mikes-raiding-tool",
+    "dir": [
+      "Mike-s-Raiding-Tool"
     ],
     "source": "curse",
     "mode": 1
@@ -54750,6 +54840,16 @@
     "mode": 1
   },
   {
+    "id": 440246,
+    "name": "NPC Time",
+    "key": "npctime",
+    "dir": [
+      "NPCTime"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 33041,
     "name": "NPC-Silencer international",
     "key": "npc-silencer-international",
@@ -56444,6 +56544,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 439883,
+    "name": "NugTotemIcon",
+    "key": "nugtotemicon",
+    "dir": [
+      "NugTotemIcon"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 4216,
@@ -63498,6 +63608,16 @@
     "key": "rp-prefix",
     "dir": [
       "RPPrefix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 293782,
+    "name": "RP Tags",
+    "key": "rp-tags",
+    "dir": [
+      "RP_Tags"
     ],
     "source": "curse",
     "mode": 1
@@ -83617,16 +83737,6 @@
     "mode": 1
   },
   {
-    "id": 305368,
-    "name": "Warfront Status",
-    "key": "warfront-status",
-    "dir": [
-      "WarfrontStatus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 350438,
     "name": "Warhawk",
     "key": "wh",
@@ -83662,6 +83772,16 @@
     "key": "warlock-healthstone-tracker-blizzui",
     "dir": [
       "WarlockHealthstoneTracker_BlizzUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 439693,
+    "name": "Warlock Healthstone Tracker Tweaked",
+    "key": "warlockhealthstonetracker",
+    "dir": [
+      "WarlockHealthstoneTracker"
     ],
     "source": "curse",
     "mode": 2
@@ -85524,7 +85644,7 @@
       "WorldBossStatus"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 53217,
@@ -85990,7 +86110,7 @@
       "WyeSoftGoldHoarder"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 45195,
@@ -86000,7 +86120,7 @@
       "WyeSoftZoneTrack"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 97396,
@@ -90860,16 +90980,6 @@
     "key": "rp-friends",
     "dir": [
       "RP_Friends"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 293782,
-    "name": "rp:Tags",
-    "key": "rp-tags",
-    "dir": [
-      "RP_Tags"
     ],
     "source": "curse",
     "mode": 1
