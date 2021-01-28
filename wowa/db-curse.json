@@ -9494,6 +9494,16 @@
     "mode": 1
   },
   {
+    "id": 436554,
+    "name": "Better Tooltips",
+    "key": "better-tooltips",
+    "dir": [
+      "BetterTooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 321889,
     "name": "Better Twitch Emotes",
     "key": "better-twitch-emotes",
@@ -22042,6 +22052,9 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -22050,10 +22063,7 @@
       "DBM-MC",
       "DBM-Onyxia",
       "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria"
+      "DBM-ZG"
     ],
     "source": "curse",
     "mode": 3
@@ -40261,6 +40271,16 @@
     "mode": 1
   },
   {
+    "id": 440532,
+    "name": "Iconic",
+    "key": "iconic",
+    "dir": [
+      "Iconic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 286395,
     "name": "Icy Veins Stat Priority",
     "key": "icy-veins-stat-priority",
@@ -48820,16 +48840,6 @@
     "mode": 1
   },
   {
-    "id": 439958,
-    "name": "LuuxiaUI",
-    "key": "luuxiaui",
-    "dir": [
-      "LuuxiaUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 279812,
     "name": "M+ Ledger",
     "key": "mplusledger",
@@ -54677,16 +54687,6 @@
     "mode": 1
   },
   {
-    "id": 102760,
-    "name": "MythicPlusLoot",
-    "key": "mythicplusloot",
-    "dir": [
-      "MythicPlusLoot"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102783,
     "name": "MythicPlusProgress",
     "key": "mythicplusprogress",
@@ -57366,6 +57366,16 @@
     "key": "orderhallresourcetooltip",
     "dir": [
       "OrderHallResourceTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 393227,
+    "name": "Ore/herb money - Shadowlands",
+    "key": "ore-herb-recolt-money-shadowlands-sl",
+    "dir": [
+      "Ores_money"
     ],
     "source": "curse",
     "mode": 1
@@ -75540,7 +75550,7 @@
       "SushiSort"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 21538,
@@ -83897,6 +83907,16 @@
     "mode": 1
   },
   {
+    "id": 440245,
+    "name": "Watchlist",
+    "key": "watchlist",
+    "dir": [
+      "Watchlist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89056,
     "name": "Watchtower",
     "key": "watchtower",
@@ -90314,6 +90334,16 @@
     "key": "nameplatem",
     "dir": [
       "Nameplates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 439116,
+    "name": "nameplateBuffs",
+    "key": "nameplatebuffs",
+    "dir": [
+      "nameplateBuffs"
     ],
     "source": "curse",
     "mode": 1
