@@ -39809,23 +39809,13 @@
   },
   {
     "id": 430227,
-    "name": "Hyperframes",
-    "key": "hyperframes",
+    "name": "Hyperframe",
+    "key": "hyperframe",
     "dir": [
-      "Hyperframes"
+      "Hyperframe"
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 430585,
-    "name": "Hyperframes: Classic",
-    "key": "hyperframes-classic",
-    "dir": [
-      "HyperframesClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 414986,
@@ -39856,16 +39846,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 430579,
-    "name": "Hyperspawn: Classic",
-    "key": "hyperspawn-classic",
-    "dir": [
-      "HyperspawnClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 37044,
@@ -85664,7 +85644,7 @@
       "WorldBossStatus"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 53217,
