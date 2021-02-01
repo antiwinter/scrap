@@ -5846,6 +5846,16 @@
     "mode": 2
   },
   {
+    "id": 440686,
+    "name": "AutoCalc",
+    "key": "autocalc",
+    "dir": [
+      "AutoCalc"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 358528,
     "name": "AutoCancelGhostWolf",
     "key": "autocancelghostwolf",
@@ -7541,6 +7551,16 @@
     "key": "btex",
     "dir": [
       "Btex"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 436549,
+    "name": "BabbiWatch",
+    "key": "babbiwatch",
+    "dir": [
+      "BabbiWatch"
     ],
     "source": "curse",
     "mode": 1
@@ -9901,7 +9921,6 @@
     "name": "BigWigs Bossmods",
     "key": "big-wigs",
     "dir": [
-      "BigWigs",
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
@@ -9913,6 +9932,7 @@
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
       "BigWigs_Naxxramas",
+      "BigWigs",
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands"
     ],
@@ -10828,6 +10848,16 @@
     "key": "blizzard-ui-removal-addon",
     "dir": [
       "BUIR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 441130,
+    "name": "Block Polish Chat",
+    "key": "begonepolish",
+    "dir": [
+      "BlockPolishSkull"
     ],
     "source": "curse",
     "mode": 1
@@ -20781,6 +20811,16 @@
     "mode": 1
   },
   {
+    "id": 441070,
+    "name": "DBM-PersonaMusicPack",
+    "key": "dbm-personamusicpack",
+    "dir": [
+      "DBM-PersonaMusicPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 21364,
     "name": "DBM-RaidLeadTools2",
     "key": "dbm-raidleadtools",
@@ -20819,6 +20859,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 439677,
+    "name": "DBM-VPXiaobai",
+    "key": "luoxiaobai",
+    "dir": [
+      "DBM-VPXiaobai"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 18720,
@@ -27664,6 +27714,16 @@
     "mode": 1
   },
   {
+    "id": 441208,
+    "name": "Entity LoD",
+    "key": "entity-lod",
+    "dir": [
+      "EntityLoD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 265395,
     "name": "Enumerate",
     "key": "enumerate",
@@ -33038,6 +33098,16 @@
     "mode": 1
   },
   {
+    "id": 441909,
+    "name": "GladiatorlosSA3(by Andrewqtx)",
+    "key": "gladiatorlossa3",
+    "dir": [
+      "GladiatorlosSA3"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89803,
     "name": "GladiatorlosSA_enUS_Male",
     "key": "gladiatorlossa_enus_male",
@@ -33568,6 +33638,16 @@
     "id": 6689,
     "name": "GoGoMount",
     "key": "gogomount",
+    "dir": [
+      "GoGoMount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 442189,
+    "name": "GoGoMount (Ghuda's fork)",
+    "key": "gogomount-ghudas-fork",
     "dir": [
       "GoGoMount"
     ],
@@ -42831,7 +42911,7 @@
   },
   {
     "id": 440158,
-    "name": "KVCD - Darken Chat Messages by Speaker Distance",
+    "name": "KVCD - RP Chat Clarity - Darken Chat Messages by Speaker Distance",
     "key": "kvcd-darken-chat-messages-by-speaker-distance",
     "dir": [
       "KvChatDistance"
@@ -48596,16 +48676,6 @@
     "mode": 1
   },
   {
-    "id": 18316,
-    "name": "Low HP Alert",
-    "key": "low-hp-alert",
-    "dir": [
-      "LowHPAlert"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 97270,
     "name": "Low Health Alarm",
     "key": "low-health-alarm",
@@ -49922,6 +49992,16 @@
       "MapNotesIconLib",
       "MapNotesForAtlas",
       "MapNotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 441677,
+    "name": "MapPinEnhanced",
+    "key": "mappinenhanced",
+    "dir": [
+      "MapPinEnhanced"
     ],
     "source": "curse",
     "mode": 1
@@ -52688,6 +52768,18 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 441390,
+    "name": "MoneyPrinter",
+    "key": "moneyprinter",
+    "dir": [
+      "MoneyPrinter",
+      "LibMoneyPrinter",
+      "ClassicStuff"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 14410,
@@ -61001,6 +61093,16 @@
     "mode": 1
   },
   {
+    "id": 441218,
+    "name": "Premade Regions Europe",
+    "key": "premade-regions-europe",
+    "dir": [
+      "PremadeRegionsEU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 297681,
     "name": "Premade Sort",
     "key": "premade-sort",
@@ -61810,6 +61912,16 @@
     "key": "pvpdb",
     "dir": [
       "PvPDB"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 441432,
+    "name": "PvPEncounters",
+    "key": "pvpencounters",
+    "dir": [
+      "PvPEncounters"
     ],
     "source": "curse",
     "mode": 1
@@ -64357,6 +64469,16 @@
     "key": "raidframes",
     "dir": [
       "RaidFrameS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 440993,
+    "name": "RaidFramesPlus",
+    "key": "raidframesplus",
+    "dir": [
+      "RaidFramesPlus"
     ],
     "source": "curse",
     "mode": 1
@@ -72807,6 +72929,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 440676,
+    "name": "Soul Ash Tooltip",
+    "key": "soul-ash-tooltip",
+    "dir": [
+      "SoulAshTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 95719,
@@ -84262,6 +84394,20 @@
     "mode": 2
   },
   {
+    "id": 439776,
+    "name": "What's Your Covenant",
+    "key": "whats-your-covenant",
+    "dir": [
+      "WhatsYourCovenant_DB_EU_A",
+      "WhatsYourCovenant_DB_EU_H",
+      "WhatsYourCovenant_DB_US_A",
+      "WhatsYourCovenant_DB_US_H",
+      "WhatsYourCovenant"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 337191,
     "name": "WhatADrop",
     "key": "whatadrop",
@@ -91173,6 +91319,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 442222,
+    "name": "tdAuction",
+    "key": "tdauction",
+    "dir": [
+      "tdAuction"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 349175,
