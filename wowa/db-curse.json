@@ -2409,16 +2409,6 @@
     "mode": 1
   },
   {
-    "id": 413551,
-    "name": "AffixSchedule",
-    "key": "affixschedule",
-    "dir": [
-      "AffixSchedule"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 18964,
     "name": "Afflicted 3",
     "key": "afflicted3",
@@ -7561,6 +7551,16 @@
     "key": "babbiwatch",
     "dir": [
       "BabbiWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 442191,
+    "name": "BabbiWatch Voice Pack Doobujam",
+    "key": "babbiwatch-voice-pack-dooubujam",
+    "dir": [
+      "BabbiWatch_VoicePack_koKR_Doobu"
     ],
     "source": "curse",
     "mode": 1
@@ -14297,6 +14297,16 @@
     "key": "calendarnotify",
     "dir": [
       "CalendarNotify"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 442407,
+    "name": "CalendarSync",
+    "key": "calendarsync",
+    "dir": [
+      "CalendarSync"
     ],
     "source": "curse",
     "mode": 1
@@ -27418,6 +27428,16 @@
     "key": "enchantcheck",
     "dir": [
       "EnchantCheck"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 442379,
+    "name": "Enchant Me",
+    "key": "enchant-me",
+    "dir": [
+      "EnchantMe"
     ],
     "source": "curse",
     "mode": 1
@@ -44848,6 +44868,16 @@
     "mode": 1
   },
   {
+    "id": 437503,
+    "name": "LWO Radio",
+    "key": "lwo-radio",
+    "dir": [
+      "LWO-Radio"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 434157,
     "name": "LZM DisplayCoins",
     "key": "lzm-displaycoins",
@@ -54664,6 +54694,16 @@
     "key": "mythic-plus-lfg-filter",
     "dir": [
       "LFGFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 441394,
+    "name": "Mythic Plus Loot",
+    "key": "mythic-plus-loot",
+    "dir": [
+      "MythicPlusLoot"
     ],
     "source": "curse",
     "mode": 1
@@ -67425,6 +67465,20 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 439796,
+    "name": "RotationHelper",
+    "key": "rotationhelper",
+    "dir": [
+      "RotationHelper_DemonHunter",
+      "RotationHelper_Druid",
+      "RotationHelper_Hunter",
+      "RotationHelper_Warlock",
+      "RotationHelper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 101694,
@@ -90661,12 +90715,12 @@
     "name": "oUF_Adirelle",
     "key": "ouf_adirelle",
     "dir": [
-      "oUF_Adirelle_Config",
       "oUF_Adirelle",
-      "oUF_Adirelle_Boss",
+      "oUF_Adirelle_Config",
+      "oUF_Adirelle_Raid",
       "oUF_Adirelle_Single",
-      "oUF_Adirelle_Arena",
-      "oUF_Adirelle_Raid"
+      "oUF_Adirelle_Boss",
+      "oUF_Adirelle_Arena"
     ],
     "source": "curse",
     "mode": 1
