@@ -39675,6 +39675,16 @@
     "mode": 2
   },
   {
+    "id": 437862,
+    "name": "Horizon-EPGP",
+    "key": "horizon-epgp",
+    "dir": [
+      "CEPGP"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 83543,
     "name": "Hot Corners",
     "key": "hotcorners",
@@ -40718,7 +40728,7 @@
       "D4KiR Improved Ui"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 360127,
@@ -44869,10 +44879,10 @@
   },
   {
     "id": 437503,
-    "name": "LWO Radio",
-    "key": "lwo-radio",
+    "name": "LWO Runestone",
+    "key": "lwo-runestone",
     "dir": [
-      "LWO-Radio"
+      "LWORadio"
     ],
     "source": "curse",
     "mode": 1
@@ -47737,7 +47747,8 @@
       "LittleWigs_Cataclysm",
       "LittleWigs_MistsOfPandaria",
       "LittleWigs_WarlordsOfDraenor",
-      "LittleWigs_Legion"
+      "LittleWigs_Legion",
+      "LittleWigs_BattleForAzeroth"
     ],
     "source": "curse",
     "mode": 3
@@ -52804,9 +52815,8 @@
     "name": "MoneyPrinter",
     "key": "moneyprinter",
     "dir": [
-      "MoneyPrinter",
       "LibMoneyPrinter",
-      "ClassicStuff"
+      "MoneyPrinter"
     ],
     "source": "curse",
     "mode": 3
@@ -67471,10 +67481,6 @@
     "name": "RotationHelper",
     "key": "rotationhelper",
     "dir": [
-      "RotationHelper_DemonHunter",
-      "RotationHelper_Druid",
-      "RotationHelper_Hunter",
-      "RotationHelper_Warlock",
       "RotationHelper"
     ],
     "source": "curse",
@@ -77122,6 +77128,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 434775,
+    "name": "TechnoWolf Raid Observer",
+    "key": "technowolfraidobserver",
+    "dir": [
+      "twObs"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 101216,
