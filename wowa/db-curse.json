@@ -42920,6 +42920,16 @@
     "mode": 1
   },
   {
+    "id": 421389,
+    "name": "KSK for Retail",
+    "key": "ksk-for-retail",
+    "dir": [
+      "KKonferSK"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341081,
     "name": "KSUI",
     "key": "ksui",
@@ -67781,16 +67791,6 @@
     "mode": 1
   },
   {
-    "id": 421389,
-    "name": "SK for Retail",
-    "key": "sk-for-retail",
-    "dir": [
-      "KKonferSK"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 390802,
     "name": "SKC",
     "key": "skc",
@@ -79884,12 +79884,7 @@
     "name": "TomCat's Tours",
     "key": "tomcats",
     "dir": [
-      "TomCats",
-      "TomCats-Bundled-ArathiHighlandsRares",
-      "TomCats-Bundled-DarkshoreRares",
-      "TomCats-Bundled-Mechagon",
-      "TomCats-Bundled-Nazjatar",
-      "TomCats-Bundled-Nzoth"
+      "TomCats"
     ],
     "source": "curse",
     "mode": 3
