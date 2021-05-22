@@ -12,7 +12,7 @@ git remote add origin https://antiwinter:${GITHUB_TOKEN}@github.com/antiwinter/s
 git push origin master
 
 #push to gitee
-git remote rm origin
-git remote add origin https://antiwinter:${GITEE_TOKEN}@gitee.com/antiwinter/scrap.git
-git push origin master
+#git remote rm origin
+#git remote add origin https://antiwinter:${GITEE_TOKEN}@gitee.com/antiwinter/scrap.git
+#git push origin master
 
