@@ -2690,7 +2690,7 @@
       "AjDKP"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 317378,
@@ -4909,7 +4909,8 @@
     "key": "ataxyui",
     "dir": [
       "AtaxyUI",
-      "AtaxyUIClassic"
+      "AtaxyUIClassic",
+      "AUI"
     ],
     "source": "curse",
     "mode": 3
@@ -6074,7 +6075,17 @@
       "AutoCancelGhostWolf"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
+  },
+  {
+    "id": 484847,
+    "name": "AutoClam",
+    "key": "autoclam",
+    "dir": [
+      "AutoClam"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 260030,
@@ -6214,7 +6225,7 @@
       "AutoEquip"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 28517,
@@ -6474,7 +6485,7 @@
       "AutoMarkTarget"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 405190,
@@ -7435,6 +7446,16 @@
     "mode": 2
   },
   {
+    "id": 484821,
+    "name": "Azeroth Auto Pilot - TBC Classic",
+    "key": "azeroth-auto-pilot-tbc-classic",
+    "dir": [
+      "AAP-TBC-Classic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 431312,
     "name": "Azeroth Exchange Rate",
     "key": "azeroth-exchange-rate",
@@ -8135,7 +8156,7 @@
       "BagFreeSpaceCounter"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 86506,
@@ -12484,13 +12505,13 @@
   },
   {
     "id": 342504,
-    "name": "Broker Pet Happiness (Classic)",
+    "name": "Broker Pet Happiness",
     "key": "broker-pet-happiness",
     "dir": [
       "Broker_PetHappiness"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 23496,
@@ -14038,7 +14059,7 @@
       "BulkMail2"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 13587,
@@ -14048,7 +14069,7 @@
       "BulkMail2Inbox"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 87508,
@@ -14168,7 +14189,7 @@
       "ButtonBin"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 25524,
@@ -16992,7 +17013,7 @@
       "ClassTrainerPlus"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 481732,
@@ -17204,18 +17225,18 @@
       "ClassicCameraDistance"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 322865,
-    "name": "Classic Castbars",
+    "name": "Classic Castbars (TBC & Classic)",
     "key": "classiccastbars",
     "dir": [
       "ClassicCastbars_Options",
       "ClassicCastbars"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 328240,
@@ -17532,7 +17553,7 @@
   },
   {
     "id": 425982,
-    "name": "Classic focus",
+    "name": "Classic focus / Classic era focus",
     "key": "classic-focus",
     "dir": [
       "ClassicFocus"
@@ -17666,10 +17687,22 @@
     "name": "ClassicCodex",
     "key": "classiccodex",
     "dir": [
-      "ClassicCodex"
+      "ClassicCodex",
+      "ClassicCodex-db",
+      "ClassicCodex-db-deDE",
+      "ClassicCodex-db-enUS",
+      "ClassicCodex-db-esES",
+      "ClassicCodex-db-esMX",
+      "ClassicCodex-db-frFR",
+      "ClassicCodex-db-koKR",
+      "ClassicCodex-db-ruRU",
+      "ClassicCodex-db-zhCN",
+      "ClassicCodex-db-zhTW",
+      "ClassicCodex-patch",
+      "ClassicCodex-loader"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 358777,
@@ -21760,7 +21793,7 @@
       "DFT"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101606,
@@ -24436,7 +24469,7 @@
       "DidIDoIt"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 78067,
@@ -24731,6 +24764,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 484758,
+    "name": "Dismounter TBC",
+    "key": "dismounter-tbc",
+    "dir": [
+      "dismounter-tbc-2.1.2"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 456672,
@@ -25360,6 +25403,16 @@
     "id": 347532,
     "name": "DrinkIT",
     "key": "drinkit",
+    "dir": [
+      "DrinkIt"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 484378,
+    "name": "DrinkIt - Trinda's Fork",
+    "key": "drinkit-trindas-fork",
     "dir": [
       "DrinkIt"
     ],
@@ -26008,6 +26061,19 @@
     "mode": 3
   },
   {
+    "id": 484725,
+    "name": "Dyslectic Horserolls",
+    "key": "dyslectic-horserolls",
+    "dir": [
+      "Dyslectic_Horserolls_Bulk",
+      "Dyslectic_Horserolls_DFB",
+      "Dyslectic_Horserolls_TBC",
+      "Dyslectic_Horserolls"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 467000,
     "name": "Dyslectic Loot Priority",
     "key": "dyslectic-loot-priority",
@@ -26640,7 +26706,7 @@
       "EasyBind_Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 89716,
@@ -27686,7 +27752,7 @@
       "ElvUI_PVPDT"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 99026,
@@ -28504,7 +28570,7 @@
       "ECDC"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 101124,
@@ -29479,7 +29545,7 @@
       "Expy"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 334877,
@@ -29662,7 +29728,7 @@
       "ExtraTooltip"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100348,
@@ -31956,7 +32022,7 @@
   },
   {
     "id": 432774,
-    "name": "Forgotten Souls Loot Priority",
+    "name": "Forgotten Souls Loot Priority Classic",
     "key": "forgotten-souls-loot-priority",
     "dir": [
       "FS_Loot_Priority"
@@ -31982,7 +32048,7 @@
       "FormatFix"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 97090,
@@ -35524,7 +35590,7 @@
       "GreatestRogueOnTheServer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 17796,
@@ -36910,6 +36976,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 484722,
+    "name": "Guild Betrayer",
+    "key": "guild-betrayer",
+    "dir": [
+      "GuildBetrayer"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 21887,
@@ -44560,7 +44636,7 @@
   },
   {
     "id": 339809,
-    "name": "Kaliel's Tracker (Classic) ... Quest Tracker | supported Questie and ElvUI / Tukui",
+    "name": "Kaliel's Tracker (Classic | BCC) ... Quest Tracker | supported Questie and ElvUI / Tukui",
     "key": "kaliels-tracker-classic",
     "dir": [
       "!KalielsTracker"
@@ -44570,7 +44646,7 @@
   },
   {
     "id": 87944,
-    "name": "Kaliel's Tracker ... Quests / World Quests / Achievements",
+    "name": "Kaliel's Tracker (Shadowlands) ... Quests / World Quests / Achievements",
     "key": "kaliels-tracker",
     "dir": [
       "!KalielsTracker"
@@ -48028,7 +48104,7 @@
       "LibDropdown-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19651,
@@ -48449,7 +48525,7 @@
       "LibLogger-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 267058,
@@ -48469,7 +48545,7 @@
       "LibMagicUtil-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 23845,
@@ -48761,16 +48837,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 342684,
-    "name": "LibRecipes-1.0 (Classic)",
-    "key": "librecipes-1-0-classic",
-    "dir": [
-      "LibRecipes-1.0"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 254113,
@@ -50553,7 +50619,7 @@
       "Gavran"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 33251,
@@ -51415,7 +51481,7 @@
       "MagicTargets"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14360,
@@ -51425,7 +51491,7 @@
       "MagicComm"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14363,
@@ -51433,6 +51499,16 @@
     "key": "magic-marker",
     "dir": [
       "MagicMarker"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 14364,
+    "name": "MagicMarker_Data",
+    "key": "magic-marker_data",
+    "dir": [
+      "MagicMarker_Data"
     ],
     "source": "curse",
     "mode": 1
@@ -52596,6 +52672,16 @@
     "key": "masque_dark",
     "dir": [
       "Masque_Dark"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 484622,
+    "name": "Masque_Deniro",
+    "key": "masque_deniro",
+    "dir": [
+      "Masque_Deniro"
     ],
     "source": "curse",
     "mode": 1
@@ -55007,16 +55093,6 @@
     "mode": 1
   },
   {
-    "id": 341770,
-    "name": "Mooides Mount Mod",
-    "key": "mooides-mount-mod",
-    "dir": [
-      "MooidesMountMod"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 22302,
     "name": "MoonTime",
     "key": "moontime",
@@ -56215,16 +56291,6 @@
     "key": "mutilate",
     "dir": [
       "Mutilate"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 303419,
-    "name": "Mutiny Invite",
-    "key": "mutiny-invite",
-    "dir": [
-      "MutinyInvite"
     ],
     "source": "curse",
     "mode": 1
@@ -60998,6 +61064,16 @@
     "mode": 1
   },
   {
+    "id": 484784,
+    "name": "Pet Battle Autoheal",
+    "key": "pet-battle-autoheal",
+    "dir": [
+      "Pet Battle Autoheal"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 424292,
     "name": "Pet Battle Dungeons Advanced",
     "key": "pet-battle-dungeons-advanced",
@@ -64420,7 +64496,7 @@
       "Quartz_Rank"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 46800,
@@ -69138,16 +69214,6 @@
     "mode": 1
   },
   {
-    "id": 483016,
-    "name": "RestedXP Guides",
-    "key": "restedxp-guides",
-    "dir": [
-      "RXPGuides"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 57326,
     "name": "RestoShamanStats",
     "key": "restoshamanstats",
@@ -70453,7 +70519,7 @@
       "SalvAway"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 89350,
@@ -70794,6 +70860,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 485318,
+    "name": "SchakaPvPUI TBC Classic",
+    "key": "schakapvpui-tbc-classic",
+    "dir": [
+      "SchakaPvPUI"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 255158,
@@ -71699,7 +71775,7 @@
       "SexyReputation"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 20998,
@@ -74869,7 +74945,7 @@
       "SmartLoot"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100978,
@@ -76260,7 +76336,7 @@
       "SpellbookAbridged"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 96117,
@@ -77543,6 +77619,16 @@
     "key": "streambuddy",
     "dir": [
       "StreamBuddy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 462068,
+    "name": "Stripes",
+    "key": "stripes",
+    "dir": [
+      "Stripes"
     ],
     "source": "curse",
     "mode": 1
@@ -80572,16 +80658,6 @@
     "mode": 1
   },
   {
-    "id": 349715,
-    "name": "Tidy Minimap Classic",
-    "key": "minimapzoom",
-    "dir": [
-      "TidyMinimap_Classic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 21409,
     "name": "Tidy Plates",
     "key": "tidy-plates",
@@ -83229,7 +83305,7 @@
       "TotemTimers"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 462175,
@@ -83477,6 +83553,16 @@
     "key": "trackharmony",
     "dir": [
       "TrackHarmony"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 484676,
+    "name": "TrackIt",
+    "key": "trackit",
+    "dir": [
+      "TrackIt"
     ],
     "source": "curse",
     "mode": 1
@@ -84505,7 +84591,7 @@
       "Tukui_AmmoDT"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 47902,
@@ -84525,7 +84611,7 @@
       "Tukui_PVP"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 1154,
@@ -84929,6 +85015,16 @@
     "mode": 1
   },
   {
+    "id": 485107,
+    "name": "UltraPlus",
+    "key": "ultraplus",
+    "dir": [
+      "UltraPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 358964,
     "name": "UltraSquirt",
     "key": "ultrasquirt",
@@ -85220,7 +85316,7 @@
       "UnsheathAlready"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 102287,
@@ -86650,6 +86746,16 @@
     "mode": 1
   },
   {
+    "id": 485470,
+    "name": "Wardrobe-TBC",
+    "key": "wardrobe-tbc",
+    "dir": [
+      "Wardrobe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14884,
     "name": "Wardrobe2",
     "key": "project-14884",
@@ -86919,6 +87025,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 485178,
+    "name": "Water Dispenser (Classic & TBC Classic)",
+    "key": "water-dispenser-classic-tbc-classic",
+    "dir": [
+      "WaterDispenser"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 40508,
@@ -87283,7 +87399,7 @@
       "WhatsUp"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 439776,
@@ -88021,7 +88137,7 @@
       "WitchHunt-Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 268983,
@@ -94536,7 +94652,7 @@
       "tdPack2"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 103101,
