@@ -438,7 +438,7 @@
       "AFKTimer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 470041,
@@ -3108,6 +3108,16 @@
     "mode": 1
   },
   {
+    "id": 486121,
+    "name": "Always show nameplates in arena",
+    "key": "always-show-nameplates-in-arena",
+    "dir": [
+      "AlwaysShowNameplatesInArena"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 33436,
     "name": "Alysmon",
     "key": "alysmon",
@@ -3575,6 +3585,16 @@
     "key": "anti_wand_of_lightning_shield",
     "dir": [
       "Anti_Wand_of_Lightning_Shield"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 485870,
+    "name": "Anti-Deluxe",
+    "key": "anti-deluxe",
+    "dir": [
+      "Anti-Deluxe"
     ],
     "source": "curse",
     "mode": 1
@@ -6405,7 +6425,7 @@
       "AutoLoggerClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 361114,
@@ -8036,7 +8056,7 @@
       "BadBoy_Levels"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 16663,
@@ -10200,16 +10220,6 @@
     "mode": 1
   },
   {
-    "id": 338634,
-    "name": "BiS Tracker - Classic",
-    "key": "bis-tracker-classic",
-    "dir": [
-      "BiSTracker"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 376654,
     "name": "BiS Tracker - Classic 2020",
     "key": "bis-tracker-classic-updated-to-phase-6",
@@ -10218,6 +10228,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 338634,
+    "name": "BiS Tracker - TBCC & Classic",
+    "key": "bis-tracker-tbcc-classic",
+    "dir": [
+      "BiSTracker"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 381099,
@@ -13887,7 +13907,7 @@
       "BuffCheck3"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 347888,
@@ -16883,7 +16903,7 @@
       "ClamMaster"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 18704,
@@ -17264,16 +17284,6 @@
     "key": "classicgearset",
     "dir": [
       "ClassicGearSet"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 336707,
-    "name": "Classic Guild Bank",
-    "key": "classic-guild-bank",
-    "dir": [
-      "ClassicGuildBank"
     ],
     "source": "curse",
     "mode": 2
@@ -22465,6 +22475,16 @@
     "mode": 2
   },
   {
+    "id": 485751,
+    "name": "DamageType",
+    "key": "damagetype",
+    "dir": [
+      "DamageType"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348708,
     "name": "Damnation",
     "key": "damnation",
@@ -23642,6 +23662,7 @@
     "key": "defs-toolbox",
     "dir": [
       "Defs-Toolbox-Classic",
+      "Defs-Toolbox-TBC",
       "Defs-Toolbox"
     ],
     "source": "curse",
@@ -24744,6 +24765,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 485737,
+    "name": "Dismount at Flight Master",
+    "key": "dismount-at-flight-master",
+    "dir": [
+      "DismountAtFlightMaster"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 396287,
@@ -27306,7 +27337,7 @@
   },
   {
     "id": 49767,
-    "name": "ElvUI Bag Filter",
+    "name": "ElvUI Bag Filters",
     "key": "elvui-bag-filters",
     "dir": [
       "ElvUI_BagFilter"
@@ -27558,7 +27589,7 @@
       "ElvUI_FogofWar"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 277856,
@@ -27652,7 +27683,7 @@
   },
   {
     "id": 290419,
-    "name": "ElvUI KlixUI Classic",
+    "name": "ElvUI KlixUI Classic (TBC & Vanilla)",
     "key": "elvui-klixui-classic",
     "dir": [
       "ElvUI_KlixUI",
@@ -34625,7 +34656,7 @@
       "GlobalIgnoreList"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 4944,
@@ -37460,6 +37491,16 @@
     "mode": 2
   },
   {
+    "id": 486006,
+    "name": "GuildInspector",
+    "key": "guildinspector",
+    "dir": [
+      "GuildInspector"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 306406,
     "name": "GuildKeys",
     "key": "guildkeys",
@@ -38538,13 +38579,14 @@
   },
   {
     "id": 339397,
-    "name": "HandyNotes: TravelGuide (Classic)",
+    "name": "HandyNotes: TravelGuide (Classic & BCC)",
     "key": "handynotes-travelguide-classic",
     "dir": [
-      "HandyNotes_TravelGuide (Classic)"
+      "HandyNotes_TravelGuide (Classic)",
+      "HandyNotes_TravelGuide (BCC)"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 86342,
@@ -38765,6 +38807,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 486174,
+    "name": "HandyNotes_NetherwingEggs",
+    "key": "handynotes_netherwingeggs",
+    "dir": [
+      "HandyNotes_NetherwingEggs"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 271078,
@@ -39734,7 +39786,7 @@
       "Hemlock"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 14171,
@@ -42360,6 +42412,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 358454,
+    "name": "Improved Raid Frame Status Text",
+    "key": "improvedraidframestatustext",
+    "dir": [
+      "ImprovedRaidFrameStatusText"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 30136,
@@ -46928,6 +46990,16 @@
     "mode": 1
   },
   {
+    "id": 484415,
+    "name": "Leaderbot",
+    "key": "leaderbot",
+    "dir": [
+      "LeaderBot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 255642,
     "name": "Leaderchange",
     "key": "leaderchange",
@@ -47384,6 +47456,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 485516,
+    "name": "Level 49",
+    "key": "level-49",
+    "dir": [
+      "Level49"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 391930,
@@ -49087,7 +49169,7 @@
       "LibTouristClassic-1.0"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 14330,
@@ -50482,11 +50564,31 @@
     "mode": 1
   },
   {
+    "id": 484860,
+    "name": "Lorti UI (Burning Crusade Classic)",
+    "key": "lorti-ui-tbc",
+    "dir": [
+      "Lorti-UI-TBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 360927,
     "name": "Lorti UI Remake",
     "key": "lorti-ui-remake",
     "dir": [
       "Lorti-UI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 485241,
+    "name": "LortiUI TBC Classic",
+    "key": "lortiui-tbc-classic",
+    "dir": [
+      "Lorti-UI-Classic"
     ],
     "source": "curse",
     "mode": 1
@@ -52647,6 +52749,16 @@
     "mode": 1
   },
   {
+    "id": 484622,
+    "name": "Masque:Deniro",
+    "key": "masque_deniro",
+    "dir": [
+      "Masque_Deniro"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100424,
     "name": "Masque_CleanUI : Elegance_Legion (Beta legion)",
     "key": "masque_cleanui-elegance_legion",
@@ -52672,16 +52784,6 @@
     "key": "masque_dark",
     "dir": [
       "Masque_Dark"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 484622,
-    "name": "Masque_Deniro",
-    "key": "masque_deniro",
-    "dir": [
-      "Masque_Deniro"
     ],
     "source": "curse",
     "mode": 1
@@ -54036,6 +54138,17 @@
     "id": 5292,
     "name": "Minimap Button Frame",
     "key": "minimap-button-frame",
+    "dir": [
+      "MinimapButtonFrame_SkinPack",
+      "MinimapButtonFrame"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 486103,
+    "name": "Minimap Buttons Frame",
+    "key": "minimap-buttons-frame",
     "dir": [
       "MinimapButtonFrame_SkinPack",
       "MinimapButtonFrame"
@@ -63163,6 +63276,16 @@
     "mode": 1
   },
   {
+    "id": 486157,
+    "name": "PowerSpark",
+    "key": "powerspark",
+    "dir": [
+      "PowerSpark"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 93921,
     "name": "PowerTrackerBar",
     "key": "powertrackerbar",
@@ -65801,7 +65924,7 @@
       "RCLootCouncil_Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100772,
@@ -66960,7 +67083,7 @@
       "RaidRestore"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 90077,
@@ -69234,6 +69357,17 @@
     "mode": 1
   },
   {
+    "id": 485550,
+    "name": "Restocker Classic",
+    "key": "restocker-classic",
+    "dir": [
+      "RestockerClassic",
+      "RestockerTBC"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 470528,
     "name": "RetCustomSounds",
     "key": "retcustomsounds",
@@ -70549,7 +70683,7 @@
       "SamyTotemTimers"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 261745,
@@ -74745,6 +74879,16 @@
     "mode": 2
   },
   {
+    "id": 485687,
+    "name": "SlicerTNG",
+    "key": "slicertng",
+    "dir": [
+      "SlicerTNG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19261,
     "name": "SlyProfits",
     "key": "slyprofits",
@@ -75350,6 +75494,16 @@
     "mode": 1
   },
   {
+    "id": 485232,
+    "name": "Solace Dungeon Info",
+    "key": "solace-dungeon-info",
+    "dir": [
+      "SDI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4585,
     "name": "SolaceBuffDisplay",
     "key": "solace-party-buffs",
@@ -75726,6 +75880,16 @@
     "key": "sound-pack",
     "dir": [
       "SoundPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 485858,
+    "name": "SoundAlerter(Rus by Andrewqtx)",
+    "key": "soundalerter-rus-by-andrewqtx",
+    "dir": [
+      "SoundAlerter"
     ],
     "source": "curse",
     "mode": 1
@@ -76397,6 +76561,16 @@
       "SpellNotifications"
     ],
     "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 485343,
+    "name": "SpellNotifications - Classic Era, TBC & Retail",
+    "key": "spellnotifications-tbc",
+    "dir": [
+      "SpellNotifications"
+    ],
+    "source": "curse",
     "mode": 1
   },
   {
@@ -76487,7 +76661,7 @@
       "SpellWhisper"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 86821,
@@ -77484,6 +77658,16 @@
     "mode": 1
   },
   {
+    "id": 485740,
+    "name": "Stop Boost Spam",
+    "key": "stop-boost-spam",
+    "dir": [
+      "StopBoostSpam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102433,
     "name": "Stop Request Button",
     "key": "stop-request-button",
@@ -78446,7 +78630,7 @@
       "SvensLootAddon"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 67914,
@@ -80495,7 +80679,7 @@
       "TidyPlates_ThreatPlates"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 338498,
@@ -83495,7 +83679,7 @@
       "TrackEverything"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 334242,
@@ -83746,7 +83930,7 @@
       "TradeLogUnlimited"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 17118,
@@ -90593,7 +90777,7 @@
       "ZoneInfoClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 25969,
