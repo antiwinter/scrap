@@ -1,5 +1,16 @@
 [
   {
+    "id": 486539,
+    "name": " Classic Threat (Classic + TBC Classic)",
+    "key": "classic-threat-classic-tbc-classic",
+    "dir": [
+      "QoL_ClassicThreat-TBC",
+      "QoL_Core-TBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 477662,
     "name": " DBM-VPMomo",
     "key": "momodbm",
@@ -890,16 +901,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 407154,
-    "name": "AbyssUI Classic",
-    "key": "abyssui-classic",
-    "dir": [
-      "AbyssUIClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 89712,
@@ -3280,6 +3281,17 @@
     "mode": 1
   },
   {
+    "id": 485504,
+    "name": "AncestorQuotes",
+    "key": "ancestorquotes",
+    "dir": [
+      "JackyRP",
+      "AncestorQuotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 389106,
     "name": "Anchor Weed Farmer",
     "key": "awfarmer",
@@ -3997,6 +4009,16 @@
     "dir": [
       "areyouexperienced",
       "AreYouExperienced"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 485869,
+    "name": "Are You Ready",
+    "key": "are-you-ready",
+    "dir": [
+      "AreYouReady"
     ],
     "source": "curse",
     "mode": 1
@@ -8036,7 +8058,7 @@
       "BadBoy_History"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 103223,
@@ -19804,6 +19826,16 @@
     "mode": 1
   },
   {
+    "id": 7472,
+    "name": "CoolLevelUp",
+    "key": "project-7472",
+    "dir": [
+      "CoolLevelUp"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 356973,
     "name": "CoolLine (classic updated)",
     "key": "coolline-classic-updated",
@@ -24734,7 +24766,7 @@
       "DiscoHealer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 283467,
@@ -24801,7 +24833,7 @@
     "name": "Dismounter TBC",
     "key": "dismounter-tbc",
     "dir": [
-      "dismounter-tbc-2.1.2"
+      "dismounter-tbc"
     ],
     "source": "curse",
     "mode": 1
@@ -28088,16 +28120,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 336665,
-    "name": "ElvUI_GennUI",
-    "key": "elvui_gennui",
-    "dir": [
-      "ElvUI_GennUI"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 301940,
@@ -31537,7 +31559,7 @@
       "Flexi"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 503,
@@ -33982,6 +34004,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 336665,
+    "name": "GennUI",
+    "key": "elvui_gennui",
+    "dir": [
+      "ElvUI_GennUI"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 85730,
@@ -38157,6 +38189,16 @@
     "mode": 1
   },
   {
+    "id": 486174,
+    "name": "HandyNotes - Netherwing Eggs",
+    "key": "handynotes_netherwingeggs",
+    "dir": [
+      "HandyNotes_NetherwingEggs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101284,
     "name": "HandyNotes - Pandaria Treasures",
     "key": "handy-notes-pandaria-treasures",
@@ -38807,16 +38849,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 486174,
-    "name": "HandyNotes_NetherwingEggs",
-    "key": "handynotes_netherwingeggs",
-    "dir": [
-      "HandyNotes_NetherwingEggs"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 271078,
@@ -40806,6 +40838,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 486301,
+    "name": "HideQuestTracker-TBC-Classic",
+    "key": "hidequesttracker-tbc-classic",
+    "dir": [
+      "HideQuestTracker"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 30389,
@@ -46214,6 +46256,17 @@
     "mode": 1
   },
   {
+    "id": 484920,
+    "name": "LFG Bulletin Board TBC",
+    "key": "lfg-group-finder-bulletin-board-tbc",
+    "dir": [
+      "GroupBulletinBoard",
+      "LFGBulletinBoard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29705,
     "name": "LFG Call to Arms Broker",
     "key": "lfg-call-arms-broker",
@@ -47445,7 +47498,17 @@
       "LetMeCast"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
+  },
+  {
+    "id": 486487,
+    "name": "LetMeFly",
+    "key": "letmefly",
+    "dir": [
+      "LetMeFly"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 385831,
@@ -50940,6 +51003,16 @@
     "mode": 1
   },
   {
+    "id": 486395,
+    "name": "LynStats TBC Classic",
+    "key": "lynstats-tbc-classic",
+    "dir": [
+      "LynStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 61326,
     "name": "M4A1 Carbine Silencer/Suppressor/Crossbow/Bow",
     "key": "m4a1-carbine-silencersuppressor",
@@ -53370,7 +53443,7 @@
       "MeefMod"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 258375,
@@ -57514,7 +57587,8 @@
     "name": "Necrosis Classic",
     "key": "necrosis-classic",
     "dir": [
-      "Necrosis"
+      "Necrosis",
+      "Necrosis-Classic"
     ],
     "source": "curse",
     "mode": 2
@@ -62303,6 +62377,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 486098,
+    "name": "PizzaTime",
+    "key": "pizzatime",
+    "dir": [
+      "PizzaTime"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 421018,
@@ -69337,6 +69421,16 @@
     "mode": 1
   },
   {
+    "id": 486246,
+    "name": "RestedXP Guide",
+    "key": "restedxp-guide",
+    "dir": [
+      "RXPGuides"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 57326,
     "name": "RestoShamanStats",
     "key": "restoshamanstats",
@@ -71789,7 +71883,7 @@
       "ServerFriendsOnly"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 96180,
@@ -79134,16 +79228,6 @@
     "mode": 1
   },
   {
-    "id": 463570,
-    "name": "TMB Helper",
-    "key": "tmb-helper",
-    "dir": [
-      "TMBHelper"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 27880,
     "name": "TRON - A Combat Log Start/Stop Utility",
     "key": "tron",
@@ -80296,6 +80380,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 463570,
+    "name": "Thats my BIS Tooltips",
+    "key": "tmb-helper",
+    "dir": [
+      "TMBHelper"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 449923,
@@ -83779,7 +83873,7 @@
       "TrackingSwitcher"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 411216,
