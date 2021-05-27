@@ -1524,7 +1524,7 @@
       "adblock"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 20830,
@@ -3109,16 +3109,6 @@
     "mode": 1
   },
   {
-    "id": 486121,
-    "name": "Always show nameplates in arena",
-    "key": "always-show-nameplates-in-arena",
-    "dir": [
-      "AlwaysShowNameplatesInArena"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 33436,
     "name": "Alysmon",
     "key": "alysmon",
@@ -3617,6 +3607,16 @@
     "key": "anti-social-mode",
     "dir": [
       "AntiSocialMode"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 486700,
+    "name": "AntiBoostSpam",
+    "key": "antiboostspam",
+    "dir": [
+      "AntiBoostSpam"
     ],
     "source": "curse",
     "mode": 1
@@ -6207,7 +6207,7 @@
       "AutoDismount"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 364525,
@@ -8048,7 +8048,7 @@
       "BadBoy_Guilded"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28451,
@@ -9318,6 +9318,16 @@
     "mode": 1
   },
   {
+    "id": 443619,
+    "name": "Battleground Nameplate Numbers",
+    "key": "battlegroundnameplatenumbers",
+    "dir": [
+      "BattlegroundNumbers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102539,
     "name": "Battleground Radar",
     "key": "bgradar",
@@ -9346,16 +9356,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 443619,
-    "name": "BattlegroundNameplateNumbers",
-    "key": "battlegroundnameplatenumbers",
-    "dir": [
-      "BattlegroundNumbers"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 95070,
@@ -21939,7 +21939,7 @@
       "DKPLootMaster"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 22404,
@@ -23058,6 +23058,10 @@
       "DBM-Onyxia",
       "DBM-Naxx",
       "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
       "DBM-Party-BC",
       "DBM-BlackTemple",
       "DBM-Hyjal",
@@ -23065,11 +23069,7 @@
       "DBM-Outlands",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
-      "DBM-TheEye",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination"
+      "DBM-TheEye"
     ],
     "source": "curse",
     "mode": 3
@@ -24970,7 +24970,7 @@
   },
   {
     "id": 334960,
-    "name": "DomDom Pack Classic",
+    "name": "DomDom Pack Classic & TBC",
     "key": "domdom-pack-classic",
     "dir": [
       "DomDomMenu",
@@ -24983,7 +24983,7 @@
       "DomDom_SoundPack06"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 6650,
@@ -26898,6 +26898,16 @@
     "key": "easypartymarkers",
     "dir": [
       "easypartymarkers",
+      "EasyPartyMarkers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 486556,
+    "name": "EasyPartyMarkers TBC Classic",
+    "key": "easypartymarkers-tbc-classic",
+    "dir": [
       "EasyPartyMarkers"
     ],
     "source": "curse",
@@ -34969,6 +34979,16 @@
     "mode": 1
   },
   {
+    "id": 486589,
+    "name": "Go Time",
+    "key": "go-time",
+    "dir": [
+      "GoTime"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 444314,
     "name": "GoAway",
     "key": "goaway",
@@ -39388,7 +39408,7 @@
       "HealCommClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 398991,
@@ -45222,6 +45242,16 @@
     "mode": 1
   },
   {
+    "id": 486817,
+    "name": "Keystone AutoFill",
+    "key": "keystone-autofill",
+    "dir": [
+      "KeystoneAutoFill"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 258447,
     "name": "Keystone Commander",
     "key": "keystone-commander",
@@ -45857,17 +45887,6 @@
     "mode": 3
   },
   {
-    "id": 342348,
-    "name": "KkthnxUI Classic",
-    "key": "kkthnxui_classic",
-    "dir": [
-      "KkthnxUI_Config",
-      "KkthnxUI"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 95528,
     "name": "KkthnxUI Retail",
     "key": "kkthnxui",
@@ -46256,17 +46275,6 @@
     "mode": 1
   },
   {
-    "id": 484920,
-    "name": "LFG Bulletin Board TBC",
-    "key": "lfg-group-finder-bulletin-board-tbc",
-    "dir": [
-      "GroupBulletinBoard",
-      "LFGBulletinBoard"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 29705,
     "name": "LFG Call to Arms Broker",
     "key": "lfg-call-arms-broker",
@@ -46315,6 +46323,17 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 484920,
+    "name": "LFG Group Bulletin Board TBC",
+    "key": "lfg-group-finder-bulletin-board-tbc",
+    "dir": [
+      "GroupBulletinBoard",
+      "LFGBulletinBoard"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 342516,
@@ -50238,10 +50257,11 @@
     "name": "LootAppraiser Classic",
     "key": "lootappraiser-classic",
     "dir": [
-      "LootAppraiserClassic"
+      "LootAppraiserClassic",
+      "LootAppraiserClassic-TBC"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 304912,
@@ -54491,13 +54511,14 @@
   },
   {
     "id": 340839,
-    "name": "Missing TradeSkills List",
+    "name": "Missing TradeSkills List (Classic + TBC)",
     "key": "missing-tradeskills-list",
     "dir": [
+      "MissingTradeSkillsList_TBC",
       "MissingTradeSkillsList"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 421183,
@@ -57355,6 +57376,16 @@
     "mode": 2
   },
   {
+    "id": 486821,
+    "name": "Nameplate EliteDragon TBCC",
+    "key": "nameplate-elitedragon-tbcc",
+    "dir": [
+      "NamePlateEliteDragon"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 393022,
     "name": "Nameplate Highlight",
     "key": "nameplate-highlight",
@@ -59990,7 +60021,7 @@
       "Outfitter"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 481734,
@@ -74001,7 +74032,7 @@
       "SimpleAutoCombatLog"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 272787,
@@ -76658,16 +76689,6 @@
     "mode": 3
   },
   {
-    "id": 485343,
-    "name": "SpellNotifications - Classic Era, TBC & Retail",
-    "key": "spellnotifications-tbc",
-    "dir": [
-      "SpellNotifications"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 34241,
     "name": "SpellRedux",
     "key": "spellredux",
@@ -77348,7 +77369,7 @@
       "StatPriorityTracker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 302174,
@@ -80379,7 +80400,7 @@
       "TFTB"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 463570,
@@ -94592,6 +94613,17 @@
     "mode": 2
   },
   {
+    "id": 485613,
+    "name": "rio alert",
+    "key": "queue",
+    "dir": [
+      "queue",
+      "rioalert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 91814,
     "name": "rlTools",
     "key": "rltools",
@@ -95028,7 +95060,11 @@
     "name": "uExp",
     "key": "uexp",
     "dir": [
-      "uExp"
+      "uExp",
+      "uChatNotify_Exp",
+      "uChatNotify_Honor",
+      "uChatNotify_Rep",
+      "uChatNotify"
     ],
     "source": "curse",
     "mode": 3
