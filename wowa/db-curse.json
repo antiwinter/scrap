@@ -3109,6 +3109,16 @@
     "mode": 1
   },
   {
+    "id": 486121,
+    "name": "Always show nameplates in arena",
+    "key": "always-show-nameplates-in-arena",
+    "dir": [
+      "AlwaysShowNameplatesInArena"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 33436,
     "name": "Alysmon",
     "key": "alysmon",
@@ -7951,10 +7961,10 @@
   },
   {
     "id": 442250,
-    "name": "BabbiWatch Voice Pack HipHopHamster",
-    "key": "babbiwatch-voice-pack-hiphophamster",
+    "name": "BabbiWatch Voice Pack HipHam",
+    "key": "babbiwatch-voice-pack-hipham",
     "dir": [
-      "BabbiWatch_VPKR_HipHopHamster"
+      "BabbiWatch_VPKR_HipHam"
     ],
     "source": "curse",
     "mode": 1
@@ -8667,7 +8677,7 @@
   },
   {
     "id": 414334,
-    "name": "BananaBar3 WoW Classic Addon",
+    "name": "BananaBar3 WoW Classic & TBC",
     "key": "bananabar3-wow-classic-addon",
     "dir": [
       "BananaBar3"
@@ -9072,10 +9082,12 @@
     "name": "BastionLoot",
     "key": "bastionloot",
     "dir": [
-      "BastionEPGP"
+      "BastionEPGP",
+      "BastionLoot_Gearpoints-1.2",
+      "BastionLoot"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 79863,
@@ -10444,6 +10456,7 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
+      "BigWigs_SanctumOfDomination",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10457,8 +10470,7 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple",
-      "BigWigs_SanctumOfDomination"
+      "BigWigs_BlackTemple"
     ],
     "source": "curse",
     "mode": 3
@@ -15917,10 +15929,11 @@
     "name": "CharacterStatsClassic (Character Stats Classic)",
     "key": "characterstatsclassic",
     "dir": [
-      "CharacterStatsClassic"
+      "CharacterStatsClassic",
+      "CharacterStatsTBC"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 469780,
@@ -22158,8 +22171,8 @@
     "name": "DagAssist Continued",
     "key": "dagassist-continued",
     "dir": [
-      "DagAssistClassic",
-      "DagAssist"
+      "DagAssist",
+      "DagAssistClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -31048,7 +31061,7 @@
       "Fishbringer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 15093,
@@ -35184,16 +35197,6 @@
     "key": "gold-standard-gear-points",
     "dir": [
       "GoldPoints"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 376629,
-    "name": "Gold Standard:  Gold Raid Loot Council Prio",
-    "key": "gold-standard-gold-raid-loot-council-prio",
-    "dir": [
-      "GoldLCPrio"
     ],
     "source": "curse",
     "mode": 2
@@ -43748,6 +43751,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 356073,
+    "name": "ItemAutocomplete",
+    "key": "itemautocomplete",
+    "dir": [
+      "ItemAutocomplete"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 276896,
@@ -57622,7 +57635,7 @@
       "Necrosis-Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 1669,
@@ -80766,6 +80779,16 @@
     "mode": 1
   },
   {
+    "id": 486214,
+    "name": "Thomas Karlsson",
+    "key": "auto-bullets-arrows-tbc-classic",
+    "dir": [
+      "Auto Bullets & Arrows TBC Classic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 308612,
     "name": "ThorRep",
     "key": "thorrep",
@@ -83584,7 +83607,7 @@
       "TotemStatus"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 6384,
@@ -84256,16 +84279,6 @@
     "key": "tradeskilltracker",
     "dir": [
       "TradeSkillTracker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 331728,
-    "name": "TradeSkillUIImproved",
-    "key": "tradeskilluiimproved",
-    "dir": [
-      "TradeSkillUIImproved"
     ],
     "source": "curse",
     "mode": 1
@@ -90446,16 +90459,6 @@
     "mode": 1
   },
   {
-    "id": 320739,
-    "name": "Z-AllTimePlayed",
-    "key": "z-alltimeplayed",
-    "dir": [
-      "ZAllTimePlayed"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 85876,
     "name": "Z-Perl Unit Frames",
     "key": "zperl",
@@ -91410,7 +91413,7 @@
       "alaCalendar"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 296551,
