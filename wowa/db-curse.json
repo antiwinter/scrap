@@ -900,7 +900,7 @@
       "AbyssUI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 89712,
@@ -5766,6 +5766,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 486214,
+    "name": "Auto Bullets Arrows TBC Classic",
+    "key": "auto-bullets-arrows-tbc-classic",
+    "dir": [
+      "Auto Bullets & Arrows TBC Classic"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 303200,
@@ -44819,7 +44829,7 @@
       "Kals_ClassicAmmoCount"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 465340,
@@ -44829,7 +44839,7 @@
       "Kals_ClassicMovableMoneyLabel"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 465425,
@@ -44839,7 +44849,7 @@
       "Kals_ClassicQuestTextToChat"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 465342,
@@ -44849,7 +44859,7 @@
       "Kals_ClassicToDoList"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 340268,
@@ -46346,7 +46356,7 @@
       "LFGBulletinBoard"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 342516,
@@ -50855,6 +50865,16 @@
     "key": "lua-browser",
     "dir": [
       "LuaBrowser"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 471150,
+    "name": "LuaDKP",
+    "key": "luadkp",
+    "dir": [
+      "LuaDKP-Core"
     ],
     "source": "curse",
     "mode": 1
@@ -57628,7 +57648,7 @@
   },
   {
     "id": 334389,
-    "name": "Necrosis Classic",
+    "name": "Necrosis Classic ERA version",
     "key": "necrosis-classic",
     "dir": [
       "Necrosis",
@@ -68586,10 +68606,11 @@
     "name": "Reckless Abandon",
     "key": "reckless-abandon",
     "dir": [
-      "RecklessAbandon"
+      "RecklessAbandon",
+      "RecklessAbandonClassic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 4872,
@@ -80779,16 +80800,6 @@
     "mode": 1
   },
   {
-    "id": 486214,
-    "name": "Thomas Karlsson",
-    "key": "auto-bullets-arrows-tbc-classic",
-    "dir": [
-      "Auto Bullets & Arrows TBC Classic"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 308612,
     "name": "ThorRep",
     "key": "thorrep",
@@ -91946,7 +91957,7 @@
       "cleangroupassigns"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 444651,
@@ -94618,7 +94629,7 @@
   {
     "id": 485613,
     "name": "rio alert",
-    "key": "queue",
+    "key": "rioalert",
     "dir": [
       "queue",
       "rioalert"
