@@ -422,6 +422,17 @@
     "mode": 3
   },
   {
+    "id": 400249,
+    "name": "AFK Master",
+    "key": "afktimer",
+    "dir": [
+      "AFKTimer",
+      "AFKMaster"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 28207,
     "name": "AFK Quit",
     "key": "afkquit",
@@ -440,16 +451,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 400249,
-    "name": "AFKTimer",
-    "key": "afktimer",
-    "dir": [
-      "AFKTimer"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 470041,
@@ -3023,6 +3024,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487982,
+    "name": "Altimate Chat",
+    "key": "altimate-chat",
+    "dir": [
+      "AltimateChat"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 13402,
@@ -11387,7 +11398,7 @@
       "BlizzMovePlugin_QuestTracker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 283494,
@@ -14427,6 +14438,16 @@
     "mode": 1
   },
   {
+    "id": 487986,
+    "name": "CC Watcher",
+    "key": "cc-watcher",
+    "dir": [
+      "CCWatcher"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 381568,
     "name": "CCAM",
     "key": "ccam",
@@ -15723,6 +15744,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487957,
+    "name": "CensusPlusTBC",
+    "key": "censusplustbc",
+    "dir": [
+      "CensusPlusTBC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 386754,
@@ -17837,7 +17868,7 @@
       "ClassicHunterPetInfo"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 358014,
@@ -19203,6 +19234,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487925,
+    "name": "CommunityDKP-BCC",
+    "key": "communitydkp-bcc",
+    "dir": [
+      "CommunityDKP"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 323095,
@@ -23864,6 +23905,16 @@
     "mode": 3
   },
   {
+    "id": 487137,
+    "name": "DejaDeBuffTracker",
+    "key": "dejadebufftracker",
+    "dir": [
+      "DejaDeBuffTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44708,
     "name": "DejaMark",
     "key": "dejamark",
@@ -25464,16 +25515,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 359705,
-    "name": "Drift (Classic)",
-    "key": "driftclassic",
-    "dir": [
-      "Drift"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 341287,
@@ -32147,6 +32188,21 @@
     "mode": 1
   },
   {
+    "id": 487561,
+    "name": "ForteXorcist TBC Classic",
+    "key": "fortexorcist-tbc-classic",
+    "dir": [
+      "Forte_Casting",
+      "Forte_Class",
+      "Forte_Cooldown",
+      "Forte_Talent",
+      "Forte_Timer",
+      "Forte_Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 302564,
     "name": "Fortuna Dice Roller",
     "key": "fortuna-dice-roller",
@@ -33539,6 +33595,16 @@
     "mode": 1
   },
   {
+    "id": 487909,
+    "name": "GatherBot",
+    "key": "gatherbot",
+    "dir": [
+      "GatherBot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 414381,
     "name": "GatherCounter Cont.",
     "key": "gathercounter-cont",
@@ -33851,6 +33917,16 @@
     "key": "gearrenter",
     "dir": [
       "GearRenter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 487293,
+    "name": "GearScore TBC",
+    "key": "gearscorelite-classic-fix",
+    "dir": [
+      "GearScoreLite"
     ],
     "source": "curse",
     "mode": 1
@@ -38152,6 +38228,16 @@
     "mode": 1
   },
   {
+    "id": 487213,
+    "name": "Handy Notes - Loose Pebbles",
+    "key": "handy-notes-loose-pebbles",
+    "dir": [
+      "HandyNotes_LoosePebbles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101505,
     "name": "HandyCam",
     "key": "handycam",
@@ -38170,6 +38256,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 487934,
+    "name": "HandyNotes - Adorable Raptor Hatchlings",
+    "key": "handynotes-adorable-raptor-hatchlings",
+    "dir": [
+      "HandyNotes_AdorableRaptorHatchlings"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 276954,
@@ -40708,6 +40804,16 @@
     "key": "hidehealingtext",
     "dir": [
       "HideHealingText"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 487259,
+    "name": "HideHotKey TBC",
+    "key": "hidehotkey-tbc",
+    "dir": [
+      "HideHotKeys"
     ],
     "source": "curse",
     "mode": 1
@@ -43770,7 +43876,7 @@
       "ItemAutocomplete"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 276896,
@@ -44569,6 +44675,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487991,
+    "name": "Jump Master",
+    "key": "jump-master",
+    "dir": [
+      "JumpMaster"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 14230,
@@ -45400,6 +45516,16 @@
     "key": "keystroke-launcher",
     "dir": [
       "KeystrokeLauncher"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 487025,
+    "name": "Keyword Master",
+    "key": "keywordmaster",
+    "dir": [
+      "KeywordMaster"
     ],
     "source": "curse",
     "mode": 1
@@ -46356,7 +46482,7 @@
       "LFGBulletinBoard"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 342516,
@@ -46377,6 +46503,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487937,
+    "name": "LFG MatchMaker TBC",
+    "key": "lfg-matchmaker-tbc",
+    "dir": [
+      "LFG_MatchMaker_TBC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 468569,
@@ -49447,6 +49583,16 @@
     "mode": 1
   },
   {
+    "id": 487066,
+    "name": "Limbo Loot List",
+    "key": "limbo-loot-list",
+    "dir": [
+      "LimboLLPrio"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 94312,
     "name": "Limited Stock Buyer",
     "key": "limited-stock-buyer",
@@ -51454,7 +51600,7 @@
       "MacroMaker_classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 92447,
@@ -57150,6 +57296,16 @@
     "mode": 1
   },
   {
+    "id": 487799,
+    "name": "NAS - Nomex Anti Spam",
+    "key": "nas-nomex-anti-spam",
+    "dir": [
+      "NAS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 378028,
     "name": "NC Media",
     "key": "nc-media",
@@ -61285,6 +61441,16 @@
     "mode": 1
   },
   {
+    "id": 487217,
+    "name": "Pet Abilities",
+    "key": "pet-abilities",
+    "dir": [
+      "PetAbilities"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 58070,
     "name": "Pet Accuracy Recorder",
     "key": "pet-accuracy-recorder",
@@ -62142,6 +62308,16 @@
     "key": "ping-snitch",
     "dir": [
       "PingSnitch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 488032,
+    "name": "PingAlerter",
+    "key": "pingalerter",
+    "dir": [
+      "PingAlerter"
     ],
     "source": "curse",
     "mode": 1
@@ -63678,6 +63854,16 @@
     "mode": 1
   },
   {
+    "id": 487996,
+    "name": "Prepared - Loot Priority",
+    "key": "prepared-loot-priority",
+    "dir": [
+      "Prepared_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 83670,
     "name": "PreserveMyCompanion",
     "key": "preserve-my-companion",
@@ -64592,6 +64778,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 354597,
+    "name": "QE Live Gear Importer - Burning Crusade",
+    "key": "qe-live-gear-importer-bc",
+    "dir": [
+      "Questionably Epic",
+      "QE Live Gear Importer-bcc"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 304872,
@@ -67139,6 +67336,16 @@
     "key": "raidinvitehelper",
     "dir": [
       "RaidInviteHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 487889,
+    "name": "RaidInvites",
+    "key": "raidinvites",
+    "dir": [
+      "RaidInvites"
     ],
     "source": "curse",
     "mode": 1
@@ -74958,6 +75165,16 @@
     "mode": 3
   },
   {
+    "id": 487637,
+    "name": "SlashPet",
+    "key": "slashpet",
+    "dir": [
+      "SlashPet"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 413845,
     "name": "SlashPin",
     "key": "slashpin",
@@ -79955,6 +80172,16 @@
     "mode": 1
   },
   {
+    "id": 486979,
+    "name": "Target Nearest Enemy Player in PVP",
+    "key": "target-nearest-enemy-in-pvp",
+    "dir": [
+      "TargetNearestEnemyPlayerInPVP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 72023,
     "name": "Target Portrait Percent Health",
     "key": "portrait-health",
@@ -80191,6 +80418,16 @@
     "key": "taxitimer",
     "dir": [
       "TaxiTimer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 487739,
+    "name": "TeaPartySoundPack",
+    "key": "teapartysoundpack",
+    "dir": [
+      "TeaPartySoundPack"
     ],
     "source": "curse",
     "mode": 1
@@ -89692,6 +89929,26 @@
     "mode": 1
   },
   {
+    "id": 487968,
+    "name": "Wyr3d's Icy Veins Stats Priorities - Classic",
+    "key": "wyr3ds-icy-veins-stats-priorities-classic",
+    "dir": [
+      "Wyr3d_IcyVeins_Stats_Classic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 487970,
+    "name": "Wyr3d's Icy Veins Stats Priorities - Classic TBC",
+    "key": "wyr3ds-icy-veins-stats-priorities-classic-tbc",
+    "dir": [
+      "Wyr3d_IcyVeins_Stats_Classic_TBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 363346,
     "name": "X Practice",
     "key": "x-practice",
@@ -90687,6 +90944,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487037,
+    "name": "ZeldaLoot BCC",
+    "key": "zeldaloot-bcc",
+    "dir": [
+      "ZeldaLoot_BCC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 413760,
@@ -94699,6 +94966,16 @@
     "mode": 1
   },
   {
+    "id": 487659,
+    "name": "sDispelBorder",
+    "key": "sdispelborder",
+    "dir": [
+      "sDispelBorder"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101324,
     "name": "sFilter",
     "key": "sfilter",
@@ -95092,6 +95369,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 487885,
+    "name": "unitscan (Topkek mod)",
+    "key": "unitscan-topkek-mod",
+    "dir": [
+      "unitscan"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 417296,
