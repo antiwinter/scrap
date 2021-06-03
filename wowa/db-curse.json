@@ -5909,6 +5909,16 @@
     "mode": 1
   },
   {
+    "id": 490232,
+    "name": "Auto Quest Tracking Manager",
+    "key": "auto-quest-tracking-manager",
+    "dir": [
+      "Auto Quest Tracking Manager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26829,
     "name": "Auto Questing Tools",
     "key": "auto-questing-tools",
@@ -11818,6 +11828,16 @@
     "key": "spring-boing",
     "dir": [
       "Boing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 490042,
+    "name": "Bomb!!",
+    "key": "bomb",
+    "dir": [
+      "Bomb!!"
     ],
     "source": "curse",
     "mode": 1
@@ -28863,6 +28883,16 @@
     "mode": 1
   },
   {
+    "id": 489980,
+    "name": "Enhanced Flight Map",
+    "key": "enhanced-flight-map",
+    "dir": [
+      "EnhancedFlightMap"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 298558,
     "name": "Enhanced Raid Frames",
     "key": "enhanced-raid-frames",
@@ -37091,6 +37121,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 487904,
+    "name": "Guidelime_Robsie's Outland Dungeon/Quest Guide",
+    "key": "guidelime_robsies-outland-dungeon-quest-guide",
+    "dir": [
+      "Guidelime_Robsie's Outland DGQuest Guide"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 336684,
@@ -61303,7 +61343,7 @@
   },
   {
     "id": 486717,
-    "name": "Per Hour Tracker Monitor",
+    "name": "Per Hour Tracker Monitor (XP/Honor/Reputation)",
     "key": "per-hour",
     "dir": [
       "per-hour"
@@ -61989,6 +62029,16 @@
     "key": "petoverlay",
     "dir": [
       "PetOverlay"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 488483,
+    "name": "PetPal",
+    "key": "petpal",
+    "dir": [
+      "PetPal"
     ],
     "source": "curse",
     "mode": 1
@@ -71196,6 +71246,16 @@
     "mode": 3
   },
   {
+    "id": 490001,
+    "name": "San's GatherNotify",
+    "key": "sansgathernotify",
+    "dir": [
+      "SansGatherNotify"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 261745,
     "name": "Sang de Sargeras / Sargerite Primordiale",
     "key": "sang-de-sargeras",
@@ -72098,7 +72158,7 @@
       "SellCrap"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 14628,
@@ -73241,6 +73301,16 @@
     "key": "shieldon",
     "dir": [
       "ShieldOn"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 487258,
+    "name": "Shieldify",
+    "key": "shieldify",
+    "dir": [
+      "Shieldify"
     ],
     "source": "curse",
     "mode": 1
@@ -92695,16 +92765,6 @@
     "mode": 1
   },
   {
-    "id": 325069,
-    "name": "eCastingBar Classic",
-    "key": "ecastingbarclassic",
-    "dir": [
-      "eCastingBar"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 299701,
     "name": "eCastingBar Retail",
     "key": "ecastingbar-retail",
@@ -92713,6 +92773,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 325069,
+    "name": "eCastingBar TBC",
+    "key": "ecastingbarclassic",
+    "dir": [
+      "eCastingBar"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 98125,
