@@ -2412,16 +2412,6 @@
     "mode": 1
   },
   {
-    "id": 93556,
-    "name": "Adorable Hatchling Nests",
-    "key": "adorable-hatchling-nests",
-    "dir": [
-      "AdorableHatchlingNests"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 89452,
     "name": "Advanced Addon Loader",
     "key": "advanced-addon-loader",
@@ -10496,6 +10486,7 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
+      "BigWigs_SanctumOfDomination",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10509,8 +10500,7 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple",
-      "BigWigs_SanctumOfDomination"
+      "BigWigs_BlackTemple"
     ],
     "source": "curse",
     "mode": 3
@@ -14079,8 +14069,8 @@
     "name": "Buffomat Classic",
     "key": "buffomat-classic",
     "dir": [
-      "BuffomatClassic",
-      "BuffomatClassicTBC"
+      "BuffomatClassicTBC",
+      "BuffomatClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -23620,7 +23610,7 @@
       "DeathyStats"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100006,
@@ -26409,7 +26399,7 @@
       "EPGP-Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 262472,
@@ -28181,8 +28171,8 @@
     "name": "ElvUI Zarac G13",
     "key": "elvui-zarac-g13",
     "dir": [
-      "ElvUI_Zarac_G13",
-      "elvui_zarac_g13"
+      "elvui_zarac_g13",
+      "ElvUI_Zarac_G13"
     ],
     "source": "curse",
     "mode": 3
@@ -34870,7 +34860,7 @@
       "GlobalIgnoreList"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 338644,
@@ -37933,7 +37923,7 @@
       "GuildTooltip"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 381775,
@@ -41188,16 +41178,6 @@
     "key": "higher-hotkey",
     "dir": [
       "Higher HotKey"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 312063,
-    "name": "Higher Learning",
-    "key": "higher-learning",
-    "dir": [
-      "HigherLearning"
     ],
     "source": "curse",
     "mode": 1
@@ -49967,6 +49947,16 @@
     "mode": 1
   },
   {
+    "id": 490109,
+    "name": "Little Buster",
+    "key": "little-buster",
+    "dir": [
+      "LittleBuster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 386219,
     "name": "Little Helper: Audio Device",
     "key": "little-helper-audio-device",
@@ -50403,16 +50393,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 270511,
-    "name": "Loose Pebble",
-    "key": "loose-pebble",
-    "dir": [
-      "LoosePebble"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 431656,
@@ -57937,7 +57917,7 @@
   },
   {
     "id": 334389,
-    "name": "Necrosis Classic ERA version",
+    "name": "Necrosis Classic",
     "key": "necrosis-classic",
     "dir": [
       "Necrosis",
@@ -58113,16 +58093,6 @@
     "key": "netview",
     "dir": [
       "NetView"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 100767,
-    "name": "Netherwing Eggs",
-    "key": "netherwing-eggs",
-    "dir": [
-      "NetherwingEggs"
     ],
     "source": "curse",
     "mode": 1
@@ -63374,8 +63344,7 @@
     "name": "Poisoner",
     "key": "poisoner",
     "dir": [
-      "Poisoner",
-      "Poisoner_Masque"
+      "Poisoner"
     ],
     "source": "curse",
     "mode": 3
@@ -72283,7 +72252,7 @@
   },
   {
     "id": 488100,
-    "name": "Sensible AutoQuest",
+    "name": "Sensible AutoQuest (for English clients)",
     "key": "sensible-autoquest",
     "dir": [
       "SensibleAutoQuest"
@@ -73567,7 +73536,7 @@
       "ShowMeMyHeal"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 348425,
@@ -73715,13 +73684,13 @@
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
     "dir": [
-      "SigmaProfessionFilterPoisons",
       "SigmaProfessionFilterAlchemy",
       "SigmaProfessionFilterBeastTraining",
       "SigmaProfessionFilterCooking",
       "SigmaProfessionFilterEnchanting",
       "SigmaProfessionFilterFirstAid",
       "SigmaProfessionFilterMining",
+      "SigmaProfessionFilterPoisons",
       "SigmaProfessionFilter"
     ],
     "source": "curse",
@@ -84419,7 +84388,7 @@
       "TrackingEye"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 353327,
@@ -85856,7 +85825,7 @@
       "UltraPlus"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 358964,
@@ -94609,17 +94578,7 @@
       "npcGToTRP3"
     ],
     "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 349864,
-    "name": "npcGenerator To Total RP 3 Classic",
-    "key": "npcgenerator-to-total-rp-3-classic",
-    "dir": [
-      "npcGToTRP3"
-    ],
-    "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 102195,
@@ -95467,7 +95426,7 @@
       "tdBag2_Glass"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 431986,
