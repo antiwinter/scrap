@@ -4,7 +4,8 @@
     "name": " Classic Threat (Classic + TBC Classic)",
     "key": "classic-threat-classic-tbc-classic",
     "dir": [
-      "QoL_ClassicThreat-TBC"
+      "QoL_ClassicThreat-TBC",
+      "QoL_Core-TBC"
     ],
     "source": "curse",
     "mode": 1
@@ -6210,6 +6211,16 @@
     "mode": 1
   },
   {
+    "id": 491712,
+    "name": "AutoCrop",
+    "key": "autocrop",
+    "dir": [
+      "AutoCrop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 358434,
     "name": "AutoDeleteItems",
     "key": "autodeleteitems",
@@ -11418,6 +11429,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 490528,
+    "name": "BlizzMove Plugin - Venture Plan",
+    "key": "blizzmove-plugin-venture-plan",
+    "dir": [
+      "BlizzMovePlugin_VenturePlan"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 283494,
@@ -23116,6 +23137,16 @@
     "mode": 3
   },
   {
+    "id": 490544,
+    "name": "Dead Mario Soundbit",
+    "key": "dead-mario-soundbit",
+    "dir": [
+      "SharedMedia_MyMedia"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 264393,
     "name": "Dead Pool Gambling",
     "key": "deadpool",
@@ -30657,6 +30688,16 @@
     "mode": 1
   },
   {
+    "id": 491119,
+    "name": "Fastbind",
+    "key": "fastbind",
+    "dir": [
+      "Fastbind"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 261459,
     "name": "Faster Loot",
     "key": "faster-loot",
@@ -32597,7 +32638,7 @@
       "FriendsListPlus"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 65239,
@@ -35168,7 +35209,7 @@
       "GoAway"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 386831,
@@ -36677,7 +36718,7 @@
       "GroupXP"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 102562,
@@ -38321,6 +38362,16 @@
     "mode": 1
   },
   {
+    "id": 490701,
+    "name": "Handy Notes - Higher Learning",
+    "key": "handy-notes-higher-learning",
+    "dir": [
+      "HandyNotes_HigherLearning"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 487213,
     "name": "Handy Notes - Loose Pebbles",
     "key": "handy-notes-loose-pebbles",
@@ -38386,6 +38437,16 @@
     "key": "handynotes-daily-quest-spots",
     "dir": [
       "HandyNotes_DailyQuestSpots"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 491373,
+    "name": "HandyNotes - Dark Soil Tillers",
+    "key": "handynotes-dark-soil-tillers",
+    "dir": [
+      "HandyNotes_DarkSoilTillers"
     ],
     "source": "curse",
     "mode": 1
@@ -38622,6 +38683,16 @@
     "mode": 1
   },
   {
+    "id": 323067,
+    "name": "HandyNotes: DungeonLocations (Classic)",
+    "key": "handynotes_dungeonlocations-classic",
+    "dir": [
+      "HandyNotes_DungeonLocations (Classic)"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 98392,
     "name": "HandyNotes: Ever-Shifting Mirror",
     "key": "handynotes-ever-shifting-mirror",
@@ -38750,6 +38821,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 340222,
+    "name": "HandyNotes: NPCs (Classic)",
+    "key": "handynotes_npcs-classic",
+    "dir": [
+      "HandyNotes_NPCs (Classic)"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 419434,
@@ -38953,16 +39034,6 @@
     "mode": 1
   },
   {
-    "id": 323067,
-    "name": "HandyNotes_DungeonLocations (Classic)",
-    "key": "handynotes_dungeonlocations-classic",
-    "dir": [
-      "HandyNotes_DungeonLocations (Classic)"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 102297,
     "name": "HandyNotes_EagleFlightNetwork",
     "key": "handynotes_eagleflightnetwork",
@@ -39061,16 +39132,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 340222,
-    "name": "HandyNotes_NPCs (Classic)",
-    "key": "handynotes_npcs-classic",
-    "dir": [
-      "HandyNotes_NPCs (Classic)"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 271078,
@@ -39344,6 +39405,17 @@
     "mode": 1
   },
   {
+    "id": 352582,
+    "name": "HealBarsClassic",
+    "key": "healbarsclassic",
+    "dir": [
+      "HealCommClassic",
+      "HealBarsClassic"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 361516,
     "name": "HealBot Classic",
     "key": "healbot-classic",
@@ -39603,16 +39675,6 @@
     "mode": 2
   },
   {
-    "id": 352582,
-    "name": "HealCommClassic",
-    "key": "healcommclassic",
-    "dir": [
-      "HealCommClassic"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 398991,
     "name": "HealMana",
     "key": "healmana",
@@ -39738,6 +39800,16 @@
     "key": "healthalert",
     "dir": [
       "HealthAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 491096,
+    "name": "HealthNumbers",
+    "key": "healthnumbers",
+    "dir": [
+      "HealthNumbers"
     ],
     "source": "curse",
     "mode": 1
@@ -40621,6 +40693,16 @@
     "mode": 1
   },
   {
+    "id": 490989,
+    "name": "Hide Quest Arrow for Shadowlands",
+    "key": "hide-quest-arrow-for-shadowlands",
+    "dir": [
+      "HideQuestArrow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 362636,
     "name": "Hide Quest Objectives",
     "key": "hide-quest-objectives",
@@ -40769,6 +40851,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 490332,
+    "name": "HideBattleNetFriends",
+    "key": "hidebattlenetfriends",
+    "dir": [
+      "HideBattleNetFriends"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 18700,
@@ -41200,7 +41292,7 @@
       "Highlighter"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 102670,
@@ -48580,7 +48672,7 @@
       "LibEncounters"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 340714,
@@ -48849,6 +48941,16 @@
     "key": "libinventory-2-1",
     "dir": [
       "LibInventory-2.1"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 488159,
+    "name": "LibIsClassic",
+    "key": "libisclassic",
+    "dir": [
+      "LibIsClassic-1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -51248,6 +51350,16 @@
       "LugnUI_ActionBars",
       "LugnUI_CastBars",
       "LugnUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 488546,
+    "name": "Lui v3 (tbcc)",
+    "key": "lui-v3-tbcc",
+    "dir": [
+      "LUI"
     ],
     "source": "curse",
     "mode": 1
@@ -54109,6 +54221,16 @@
     "mode": 1
   },
   {
+    "id": 491581,
+    "name": "MicroMenuAndBagsSettings",
+    "key": "micromenuandbagssettings",
+    "dir": [
+      "MMBS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 407443,
     "name": "MicroMenuHider",
     "key": "micromenuhider",
@@ -55318,16 +55440,6 @@
     "mode": 1
   },
   {
-    "id": 20498,
-    "name": "Moncai Compare",
-    "key": "moncaicompare",
-    "dir": [
-      "!MoncaiCompare"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 33697,
     "name": "Moncai Hotkey Label Improver",
     "key": "moncai-hotkey-label-improver",
@@ -56043,6 +56155,16 @@
     "key": "mouse-track",
     "dir": [
       "MouseTrack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 491156,
+    "name": "MouseLook AOE Targeting",
+    "key": "mouselook-aoe-targeting",
+    "dir": [
+      "MouseLookAOETargeting"
     ],
     "source": "curse",
     "mode": 1
@@ -59822,7 +59944,7 @@
       "OnCast"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 258064,
@@ -64448,6 +64570,16 @@
     "mode": 1
   },
   {
+    "id": 491716,
+    "name": "Prophecy of Hellscream Sounds Pack",
+    "key": "prophecy-of-hellscream-sounds-pack",
+    "dir": [
+      "PoHSoundsPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 28739,
     "name": "Prospect Me",
     "key": "prospect-me",
@@ -67220,7 +67352,7 @@
       "ClassicRaidTracker_Stormforged"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 354100,
@@ -71847,6 +71979,16 @@
     "mode": 1
   },
   {
+    "id": 490391,
+    "name": "SealBar",
+    "key": "sealbar",
+    "dir": [
+      "SealBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 258721,
     "name": "Seamore Spheres",
     "key": "seamore-spheres",
@@ -74406,16 +74548,6 @@
     "mode": 3
   },
   {
-    "id": 449102,
-    "name": "Simple Vault Rewards",
-    "key": "simple-vault-rewards",
-    "dir": [
-      "SimpleVaultRewards"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 28530,
     "name": "Simple iLevel",
     "key": "simple-ilevel",
@@ -75359,7 +75491,7 @@
   },
   {
     "id": 348250,
-    "name": "SlashFour",
+    "name": "SlashFour LFG",
     "key": "slashfour",
     "dir": [
       "SlashFour"
@@ -76321,7 +76453,7 @@
       "sota"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 440676,
@@ -76582,7 +76714,7 @@
       "SpaceForceRaidTracker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 36051,
@@ -77433,6 +77565,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 490947,
+    "name": "Spy TBC Hotfix",
+    "key": "spy-tbc-hotfix",
+    "dir": [
+      "Spy"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 6280,
@@ -80160,6 +80302,16 @@
     "key": "tanis-lc-helper",
     "dir": [
       "DD_LC_Helper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 491423,
+    "name": "Tank Buddy BCC",
+    "key": "tank-buddy-bcc",
+    "dir": [
+      "TankBuddy"
     ],
     "source": "curse",
     "mode": 1
@@ -88340,6 +88492,16 @@
     "mode": 1
   },
   {
+    "id": 490799,
+    "name": "WhereToNow Resurrected",
+    "key": "wheretonow-resurrected",
+    "dir": [
+      "WhereToNow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 28582,
     "name": "Which Rank Does What",
     "key": "whichrankdoeswhat",
@@ -90230,6 +90392,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 491714,
+    "name": "X and Y (TBC)",
+    "key": "x-and-y-tbc",
+    "dir": [
+      "XandY"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 14911,
@@ -93567,6 +93739,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 490985,
+    "name": "iSold_More_Classic_TBC",
+    "key": "isold_more_classic_tbc",
+    "dir": [
+      "iSold_More"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 380224,
