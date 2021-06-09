@@ -1748,7 +1748,7 @@
       "AdiBags-BetterCategories"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 294318,
@@ -7367,6 +7367,17 @@
     "mode": 1
   },
   {
+    "id": 461182,
+    "name": "AzerPUG's Timed Encounters",
+    "key": "azerpug-timed-encounters",
+    "dir": [
+      "TimedEncounters",
+      "AzerPUG's Timed Encounters"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 454955,
     "name": "AzerPUG's ToolTips",
     "key": "azerpugs-tooltips",
@@ -12646,7 +12657,7 @@
       "Broker_PlayedTime"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101558,
@@ -19296,6 +19307,16 @@
     "mode": 2
   },
   {
+    "id": 487925,
+    "name": "CommunityDKP-BCC",
+    "key": "communitydkp-bcc",
+    "dir": [
+      "CommunityDKP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 323095,
     "name": "CommunityInfo",
     "key": "communityinfo",
@@ -22716,16 +22737,6 @@
     "id": 46077,
     "name": "Dark Soil",
     "key": "dark-soil",
-    "dir": [
-      "DarkSoil"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 266880,
-    "name": "Dark Soil Tillers",
-    "key": "dark-soil-tillers",
     "dir": [
       "DarkSoil"
     ],
@@ -26198,6 +26209,16 @@
     "mode": 1
   },
   {
+    "id": 492330,
+    "name": "Dynamic Status Icons (ElvUI Plugin)",
+    "key": "dynamic-status-icons-elvui-plugin",
+    "dir": [
+      "ElvUI_DynamicStatusIcons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 388657,
     "name": "Dynamic Weather - Immersive, realistic, changing weather for all zones!",
     "key": "dynamic-weather-immersive-realistic-changing",
@@ -28533,16 +28554,6 @@
     "mode": 1
   },
   {
-    "id": 428294,
-    "name": "Ember: Loot Order",
-    "key": "ember-loot-order",
-    "dir": [
-      "EmberLootOrder"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 344166,
     "name": "EmmaDizzyEmotes",
     "key": "emmadizzyemotes",
@@ -29693,6 +29704,16 @@
     "key": "exptextremove",
     "dir": [
       "ExpTextRemove"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 491735,
+    "name": "ExpansionMats",
+    "key": "expansionmats",
+    "dir": [
+      "ExpansionMats"
     ],
     "source": "curse",
     "mode": 1
@@ -33736,7 +33757,7 @@
       "GatherLite"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 26120,
@@ -34929,6 +34950,16 @@
     "key": "global-tmog",
     "dir": [
       "Global TMog"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492009,
+    "name": "Global Warn Solution",
+    "key": "global-warn-solution",
+    "dir": [
+      "GlobalWarnSolution"
     ],
     "source": "curse",
     "mode": 1
@@ -37622,7 +37653,7 @@
       "GuildTooltip"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 43785,
@@ -39303,6 +39334,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 491317,
+    "name": "Harmless Quest Rep Reward",
+    "key": "harmless-quest-rep-reward",
+    "dir": [
+      "HarmlessQuestRep"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 90689,
@@ -46781,6 +46822,16 @@
     "mode": 1
   },
   {
+    "id": 492235,
+    "name": "LFGFilter",
+    "key": "lfgfilter",
+    "dir": [
+      "LFGFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90852,
     "name": "LFGHUD",
     "key": "lfghud",
@@ -51627,34 +51678,94 @@
     "mode": 1
   },
   {
-    "id": 411196,
-    "name": "MUI Config",
-    "key": "mui_config",
+    "id": 492031,
+    "name": "MUI Config (Burning Crusade Classic)",
+    "key": "mui-config-burning-crusade-classic",
     "dir": [
       "MUI_Config"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
+  },
+  {
+    "id": 492038,
+    "name": "MUI Config (Classic)",
+    "key": "mui-config-classic",
+    "dir": [
+      "MUI_Config"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 411196,
+    "name": "MUI Config (Shadowlands)",
+    "key": "mui-config-retail",
+    "dir": [
+      "MUI_Config"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 411194,
-    "name": "MUI Core",
-    "key": "mui_core",
+    "name": "MUI Core (Burning Crusade Classic)",
+    "key": "mui-core-bcc",
     "dir": [
       "MUI_Core"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
-    "id": 411198,
-    "name": "MUI Setup",
-    "key": "mui_setup",
+    "id": 492030,
+    "name": "MUI Core (Classic)",
+    "key": "mui-core-classic",
+    "dir": [
+      "MUI_Core"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 492029,
+    "name": "MUI Core (Shadowlands)",
+    "key": "mui-core-shadowlands",
+    "dir": [
+      "MUI_Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492036,
+    "name": "MUI Setup (Burning Crusade Classic)",
+    "key": "mui-setup-bcc",
     "dir": [
       "MUI_Setup"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
+  },
+  {
+    "id": 492039,
+    "name": "MUI Setup (Classic)",
+    "key": "mui-setup-classic",
+    "dir": [
+      "MUI_Setup"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 411198,
+    "name": "MUI Setup (Shadowlands)",
+    "key": "mui-setup-retail",
+    "dir": [
+      "MUI_Setup"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 477318,
@@ -53847,7 +53958,7 @@
       "MedusaPrelude"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 394339,
@@ -54928,8 +55039,8 @@
     "name": "Missing TradeSkills List (Classic + TBC)",
     "key": "missing-tradeskills-list",
     "dir": [
-      "MissingTradeSkillsList_TBC",
-      "MissingTradeSkillsList"
+      "MissingTradeSkillsList",
+      "MissingTradeSkillsList_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -56953,7 +57064,7 @@
     "dir": [
       "MyBuddies_Classic",
       "MyBuddies",
-      "MyBuddies_ClassicTBC"
+      "MyBuddies_Classic_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -60368,6 +60479,16 @@
     "mode": 1
   },
   {
+    "id": 492258,
+    "name": "Orïgins Wishlist",
+    "key": "origins-wishlist",
+    "dir": [
+      "OriginsWishlist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 49489,
     "name": "Otis",
     "key": "otis",
@@ -63011,7 +63132,7 @@
       "PlayedTimeMinimapClock"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 85706,
@@ -75930,7 +76051,7 @@
       "SmexyMats"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 270824,
@@ -76210,16 +76331,6 @@
     "key": "sols-noxxic-stat-priorities",
     "dir": [
       "_sols_noxxic_stats"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 485232,
-    "name": "Solace Dungeon Info",
-    "key": "solace-dungeon-info",
-    "dir": [
-      "SDI"
     ],
     "source": "curse",
     "mode": 1
@@ -77565,6 +77676,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 492334,
+    "name": "Spy TBC Classic",
+    "key": "spy-tbc-classic",
+    "dir": [
+      "Spy"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 490947,
@@ -81094,6 +81215,16 @@
     "key": "dulo_chat",
     "dir": [
       "TheDuloChat"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492244,
+    "name": "The Earth Mother",
+    "key": "the-earth-mother",
+    "dir": [
+      "TheEarthMother"
     ],
     "source": "curse",
     "mode": 1
@@ -88492,16 +88623,6 @@
     "mode": 1
   },
   {
-    "id": 490799,
-    "name": "WhereToNow Resurrected",
-    "key": "wheretonow-resurrected",
-    "dir": [
-      "WhereToNow"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 28582,
     "name": "Which Rank Does What",
     "key": "whichrankdoeswhat",
@@ -92166,7 +92287,7 @@
       "alaTrade"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 380889,
