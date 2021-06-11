@@ -831,7 +831,7 @@
       "ATT"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 42289,
@@ -6111,6 +6111,16 @@
     "mode": 1
   },
   {
+    "id": 492541,
+    "name": "AutoBar BCC",
+    "key": "autobar-bcc",
+    "dir": [
+      "AutoBarBCC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 340094,
     "name": "AutoBar Classic",
     "key": "autobar-classic",
@@ -8434,7 +8444,7 @@
       "Bagnon_BoE"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 281457,
@@ -8484,7 +8494,7 @@
       "Bagnon_Garbage"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 316029,
@@ -8504,7 +8514,7 @@
       "Bagnon_ItemLevel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 306127,
@@ -10508,7 +10518,6 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
-      "BigWigs_SanctumOfDomination",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10522,7 +10531,8 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple"
+      "BigWigs_BlackTemple",
+      "BigWigs_SanctumOfDomination"
     ],
     "source": "curse",
     "mode": 3
@@ -17325,16 +17335,6 @@
     "mode": 1
   },
   {
-    "id": 342552,
-    "name": "Classic Action Combat",
-    "key": "classic-action-combat",
-    "dir": [
-      "ClassicActionCombat"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 347982,
     "name": "Classic Armory",
     "key": "classic-armory",
@@ -21283,6 +21283,16 @@
     "mode": 1
   },
   {
+    "id": 492590,
+    "name": "DBM - EpicMusicPack",
+    "key": "dbm-epicmusicpack",
+    "dir": [
+      "DBM-EpicMusicPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 97210,
     "name": "DBM - UndeadVO - Voice Pack - VEM",
     "key": "undeadvo",
@@ -24077,6 +24087,16 @@
     "mode": 3
   },
   {
+    "id": 44035,
+    "name": "DejaTweaks",
+    "key": "dejatweaks",
+    "dir": [
+      "DejaTweaks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 483864,
     "name": "DejaUFClassic",
     "key": "dejaufclassic",
@@ -24332,8 +24352,8 @@
     "name": "Details! Damage Meter (burning crusade)",
     "key": "details-damage-meter-burning-crusade",
     "dir": [
-      "Details_TinyThreat",
       "Details_Streamer",
+      "Details_TinyThreat",
       "Details"
     ],
     "source": "curse",
@@ -24602,7 +24622,7 @@
   },
   {
     "id": 100658,
-    "name": "DiabolicUI for WoW Retail",
+    "name": "DiabolicUI for BfA",
     "key": "diabolicui",
     "dir": [
       "DiabolicUI"
@@ -24973,7 +24993,7 @@
       "DismountOrStand"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 341111,
@@ -26216,7 +26236,7 @@
       "ElvUI_DynamicStatusIcons"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 388657,
@@ -32479,7 +32499,7 @@
       "FreeBagSpaces"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 415572,
@@ -36647,6 +36667,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 490612,
+    "name": "Group / Guild Calendar for Classic TBC",
+    "key": "group-guild-calendar-for-classic-tbc",
+    "dir": [
+      "GroupCalendar"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 1495,
@@ -46802,6 +46832,16 @@
     "mode": 1
   },
   {
+    "id": 492545,
+    "name": "LFG for Burning Crusade Classic",
+    "key": "lfg-for-burning-crusade-classic",
+    "dir": [
+      "LFG-Classic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 473650,
     "name": "LFG sorter",
     "key": "lfg-sorter",
@@ -52291,7 +52331,7 @@
       "MailRobot"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 95437,
@@ -53529,6 +53569,17 @@
     "mode": 3
   },
   {
+    "id": 4095,
+    "name": "Master and Commander",
+    "key": "master-and-commander",
+    "dir": [
+      "MasterCommander",
+      "MasterAndCommander"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29115,
     "name": "MasterChannel",
     "key": "masterchannel",
@@ -53968,7 +54019,7 @@
       "MedusaStaple"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 405161,
@@ -55257,16 +55308,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 366124,
-    "name": "MobHealthClassic",
-    "key": "mobhealthclassic",
-    "dir": [
-      "MobHealthClassic"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 1080,
@@ -57899,16 +57940,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 345662,
-    "name": "Nameplate EliteDragon",
-    "key": "nameplate-elitedragon",
-    "dir": [
-      "NamePlateEliteDragon"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 486821,
@@ -60737,6 +60768,16 @@
     "key": "owen-wilson-loot-addon",
     "dir": [
       "OwenWilson"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492599,
+    "name": "OwnGearScore",
+    "key": "owngearscore",
+    "dir": [
+      "OwnGearScore"
     ],
     "source": "curse",
     "mode": 1
@@ -68839,6 +68880,17 @@
     "key": "rexp",
     "dir": [
       "ReXP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492393,
+    "name": "Reactions",
+    "key": "reactions",
+    "dir": [
+      "Reactions_Settings",
+      "Reactions"
     ],
     "source": "curse",
     "mode": 1
