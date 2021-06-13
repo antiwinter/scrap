@@ -391,6 +391,16 @@
     "mode": 1
   },
   {
+    "id": 493505,
+    "name": "AEmotes - Millhouse Manastorm Sound Pack",
+    "key": "aemotes-millhouse-manastorm-sound-pack",
+    "dir": [
+      "AEmotes_Millhouse"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 476768,
     "name": "AEmotes Classic",
     "key": "aemotes-classic",
@@ -831,7 +841,7 @@
       "ATT"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 42289,
@@ -3100,6 +3110,16 @@
     "mode": 3
   },
   {
+    "id": 493613,
+    "name": "Always Raiding",
+    "key": "always-raiding",
+    "dir": [
+      "AlwaysRaiding"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 395022,
     "name": "Always Show Level",
     "key": "always-show-level",
@@ -3648,6 +3668,16 @@
     "key": "antiportalspam",
     "dir": [
       "AntiPortalSpam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492813,
+    "name": "AntiSpamer",
+    "key": "antispamer",
+    "dir": [
+      "AntiSpamer"
     ],
     "source": "curse",
     "mode": 1
@@ -7382,7 +7412,7 @@
     "key": "azerpug-timed-encounters",
     "dir": [
       "TimedEncounters",
-      "AzerPUG's Timed Encounters"
+      "AzerPUGsTimedEncounters"
     ],
     "source": "curse",
     "mode": 1
@@ -8534,7 +8564,7 @@
       "Bagnon_RequiredLevel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 29700,
@@ -9954,16 +9984,6 @@
     "mode": 3
   },
   {
-    "id": 254826,
-    "name": "Better Difficulty",
-    "key": "better-difficulty",
-    "dir": [
-      "BetterDifficulty"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 303136,
     "name": "Better Loot Message",
     "key": "better-loot-message",
@@ -10387,6 +10407,16 @@
     "mode": 3
   },
   {
+    "id": 415432,
+    "name": "Big Battle Shout",
+    "key": "bigbattleshout",
+    "dir": [
+      "BigBattleShout"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 472413,
     "name": "Big Character Window",
     "key": "big-character-info",
@@ -10425,16 +10455,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 415432,
-    "name": "BigBattleShout",
-    "key": "bigbattleshout",
-    "dir": [
-      "BigBattleShout"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 349169,
@@ -14436,16 +14456,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 405922,
-    "name": "Buzz",
-    "key": "buzz",
-    "dir": [
-      "Buzz"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 257533,
@@ -21076,6 +21086,16 @@
     "mode": 2
   },
   {
+    "id": 489749,
+    "name": "CustomFlyout",
+    "key": "customflyout",
+    "dir": [
+      "CustomFlyout"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357941,
     "name": "CustomKeystones",
     "key": "customkeystones",
@@ -21480,7 +21500,7 @@
       "DBM-VPDingdiringKR"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 293978,
@@ -24352,8 +24372,8 @@
     "name": "Details! Damage Meter (burning crusade)",
     "key": "details-damage-meter-burning-crusade",
     "dir": [
-      "Details_Streamer",
       "Details_TinyThreat",
+      "Details_Streamer",
       "Details"
     ],
     "source": "curse",
@@ -25797,8 +25817,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_EU",
-      "Drustvar_DB_US"
+      "Drustvar_DB_US",
+      "Drustvar_DB_EU"
     ],
     "source": "curse",
     "mode": 1
@@ -40701,7 +40721,7 @@
       "HideMinimapPOIArrow"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 473519,
@@ -41366,6 +41386,16 @@
     "mode": 3
   },
   {
+    "id": 493235,
+    "name": "Highlighter2 TBC Classic",
+    "key": "highlighter2-tbc-classic",
+    "dir": [
+      "Highlighter2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102670,
     "name": "Hippo Alert",
     "key": "hippo-alert",
@@ -41612,6 +41642,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 492873,
+    "name": "HolyStats TBC",
+    "key": "holystats-tbc",
+    "dir": [
+      "HolyStatsTBC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 28998,
@@ -45451,7 +45491,7 @@
       "KeepTheHerbs"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 306872,
@@ -46218,7 +46258,7 @@
       "Kong"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 423931,
@@ -51718,40 +51758,12 @@
     "mode": 1
   },
   {
-    "id": 492031,
-    "name": "MUI Config (Burning Crusade Classic)",
-    "key": "mui-config-burning-crusade-classic",
-    "dir": [
-      "MUI_Config"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 492038,
-    "name": "MUI Config (Classic)",
-    "key": "mui-config-classic",
-    "dir": [
-      "MUI_Config"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 411196,
-    "name": "MUI Config (Shadowlands)",
-    "key": "mui-config-retail",
-    "dir": [
-      "MUI_Config"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 411194,
     "name": "MUI Core (Burning Crusade Classic)",
     "key": "mui-core-bcc",
     "dir": [
+      "MUI_Setup",
+      "MUI_Config",
       "MUI_Core"
     ],
     "source": "curse",
@@ -51762,6 +51774,8 @@
     "name": "MUI Core (Classic)",
     "key": "mui-core-classic",
     "dir": [
+      "MUI_Setup",
+      "MUI_Config",
       "MUI_Core"
     ],
     "source": "curse",
@@ -51772,37 +51786,9 @@
     "name": "MUI Core (Shadowlands)",
     "key": "mui-core-shadowlands",
     "dir": [
+      "MUI_Config",
+      "MUI_Setup",
       "MUI_Core"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 492036,
-    "name": "MUI Setup (Burning Crusade Classic)",
-    "key": "mui-setup-bcc",
-    "dir": [
-      "MUI_Setup"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 492039,
-    "name": "MUI Setup (Classic)",
-    "key": "mui-setup-classic",
-    "dir": [
-      "MUI_Setup"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 411198,
-    "name": "MUI Setup (Shadowlands)",
-    "key": "mui-setup-retail",
-    "dir": [
-      "MUI_Setup"
     ],
     "source": "curse",
     "mode": 1
@@ -52451,6 +52437,16 @@
     "key": "make-tab-targeting-great-again",
     "dir": [
       "make-tab-targeting-great-again"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492663,
+    "name": "MakeItStop - Blocks \"No player named ' ' is currently online\" messages.",
+    "key": "makeitstop-blocks-no-player-named-is-currently",
+    "dir": [
+      "MakeItStop"
     ],
     "source": "curse",
     "mode": 1
@@ -53571,7 +53567,7 @@
   {
     "id": 4095,
     "name": "Master and Commander",
-    "key": "master-and-commander",
+    "key": "master-commander",
     "dir": [
       "MasterCommander",
       "MasterAndCommander"
@@ -60086,7 +60082,7 @@
       "OnCast"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 258064,
@@ -64108,6 +64104,17 @@
     "mode": 3
   },
   {
+    "id": 492755,
+    "name": "Prat-TBC",
+    "key": "prat-tbc",
+    "dir": [
+      "Prat-3.0_Libraries",
+      "Prat-3.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301285,
     "name": "PratBlocker",
     "key": "pratblocker",
@@ -64627,6 +64634,16 @@
     "key": "professions-complete",
     "dir": [
       "ProfessionsComplete"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492743,
+    "name": "Professions exporter",
+    "key": "professions-exporter",
+    "dir": [
+      "ProfessionsExporter"
     ],
     "source": "curse",
     "mode": 1
@@ -65346,6 +65363,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 405922,
+    "name": "Quack!",
+    "key": "quackee",
+    "dir": [
+      "Buzz"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 319533,
@@ -67160,7 +67187,7 @@
       "Ragequit"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 92060,
@@ -68644,7 +68671,7 @@
       "RatBG"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 472655,
@@ -77730,6 +77757,16 @@
     "mode": 2
   },
   {
+    "id": 492982,
+    "name": "Spy TBC",
+    "key": "spy-tbc",
+    "dir": [
+      "Spy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 492334,
     "name": "Spy TBC Classic",
     "key": "spy-tbc-classic",
@@ -78226,16 +78263,6 @@
     "key": "stay-sheathed-lite",
     "dir": [
       "StaySheathed"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 256189,
-    "name": "Stay With Me",
-    "key": "stay-with-me",
-    "dir": [
-      "StayWithMe"
     ],
     "source": "curse",
     "mode": 1
@@ -91509,6 +91536,17 @@
     "key": "zapretroui",
     "dir": [
       "ZapRetroUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 493211,
+    "name": "Zarr's Elite Player Frames",
+    "key": "zarrs-elite-player-frames",
+    "dir": [
+      "ZarrEPF-v2",
+      "ZarrEPF"
     ],
     "source": "curse",
     "mode": 1
