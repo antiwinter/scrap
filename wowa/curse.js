@@ -4,12 +4,13 @@ const log = console.log
 
 let data = []
 let index = 0
+let step = 50
 
 let api = {
   $srl: 'https://addons-ecs.forgesvc.net/api/v2/addon',
 
   search(index, done) {
-    let qs = `${api.$srl}/search?gameId=1&index=${index}&pageSize=255&searchFilter=&sort=3`
+    let qs = `${api.$srl}/search?gameId=1&index=${index}&pageSize=${step}&searchFilter=&sort=3`
 
     // log('searching', qs)
     g.get(qs)
@@ -23,7 +24,7 @@ let api = {
   },
 
   fetch(done) {
-    log('fetching page', index / 255)
+    log('fetching page', index / step)
     api.search(index, res => {
       log('ack')
       if (!res) {
@@ -63,13 +64,13 @@ let api = {
         // log('got', res.length)
 
         data = data.concat(res)
-        if (res.length < 255) {
+        if (res.length < step) {
           // log('????')
           done(data)
           return
         }
 
-        index += 255
+        index += step
         api.fetch(done)
       }
     })
