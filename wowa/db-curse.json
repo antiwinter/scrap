@@ -1660,6 +1660,16 @@
     "mode": 1
   },
   {
+    "id": 500752,
+    "name": "AdiBags - Baubleworm Junk",
+    "key": "adibags-baubleworm-junk",
+    "dir": [
+      "AdiBags_BaublewormJunk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 438684,
     "name": "AdiBags - Better Categories",
     "key": "adibags-better-categories",
@@ -1824,6 +1834,16 @@
     "key": "adibags-shadowlands",
     "dir": [
       "AdiBags_Shadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 501006,
+    "name": "AdiBags - Shadowlands MoarPack",
+    "key": "adibags-shadowlands-moarpack",
+    "dir": [
+      "AdiBags_MoarPack"
     ],
     "source": "curse",
     "mode": 1
@@ -4221,6 +4241,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 500038,
+    "name": "Armory Hub",
+    "key": "armory-hub",
+    "dir": [
+      "ArmoryHub"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 311977,
@@ -20670,6 +20700,16 @@
     "mode": 1
   },
   {
+    "id": 500809,
+    "name": "DKPcalc",
+    "key": "dkpcalc",
+    "dir": [
+      "DKPcalc"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87642,
     "name": "DKRot",
     "key": "dkrot",
@@ -22627,7 +22667,7 @@
       "DeleteConfirmer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 100911,
@@ -23265,7 +23305,7 @@
       "DirectGameMenu"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 402306,
@@ -26374,16 +26414,6 @@
     "key": "elvui-serenity-gaming-eu-2-0",
     "dir": [
       "ElvUI_SG20"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 39618,
-    "name": "ElvUI Shadow & Light",
-    "key": "elvui-shadow-light",
-    "dir": [
-      "ElvUI_SLE"
     ],
     "source": "curse",
     "mode": 1
@@ -44051,6 +44081,16 @@
     "mode": 3
   },
   {
+    "id": 501072,
+    "name": "LFGSign",
+    "key": "lfg-sign",
+    "dir": [
+      "LFGSign"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 419979,
     "name": "LFGSpamFilter",
     "key": "lfgspamfilter",
@@ -49978,6 +50018,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 500790,
+    "name": "Masque: Umbra",
+    "key": "masque-umbra",
+    "dir": [
+      "Masque_Umbra"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 18783,
@@ -60140,7 +60190,7 @@
       "!!!PrintTracer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 380426,
@@ -60822,8 +60872,8 @@
     "name": "QE Dungeon Tips",
     "key": "qe-dungeon-tips",
     "dir": [
-      "QE-DungeonTips",
-      "QE-Dungeon-Tips-BC"
+      "QE-Dungeon-Tips-BC",
+      "QE-DungeonTips"
     ],
     "source": "curse",
     "mode": 1
@@ -63505,6 +63555,16 @@
     "mode": 1
   },
   {
+    "id": 501031,
+    "name": "Random Chuck Norris Facts",
+    "key": "random-chuck-norris-facts",
+    "dir": [
+      "ChuckNorrisFacts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 351984,
     "name": "Random Dungeon Generator.",
     "key": "random-dungeon-generator",
@@ -63772,6 +63832,16 @@
     "key": "rare-share",
     "dir": [
       "RareShare"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 499742,
+    "name": "Rare Share: Korthia (9.1)",
+    "key": "rare-share-korthia-9-1",
+    "dir": [
+      "RareShareKorthia"
     ],
     "source": "curse",
     "mode": 1
@@ -65881,7 +65951,7 @@
       "RollTrackerClassicZ"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 305165,
@@ -68007,6 +68077,16 @@
     "mode": 2
   },
   {
+    "id": 39618,
+    "name": "Shadow & Light (ElvUI Plugin)",
+    "key": "elvui-shadow-light",
+    "dir": [
+      "ElvUI_SLE"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 276747,
     "name": "Shadow Dance Monitor",
     "key": "shadow-dance-monitor",
@@ -68338,16 +68418,6 @@
     "mode": 1
   },
   {
-    "id": 373102,
-    "name": "SharedMedia_Abain",
-    "key": "sharedmedia_abain",
-    "dir": [
-      "SharedMedia_Abain"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 437068,
     "name": "SharedMedia_AdHominemGuild",
     "key": "sharedmedia_adhominemguild",
@@ -68503,6 +68573,17 @@
     "key": "sharedmedia-terawr",
     "dir": [
       "SharedMedia_Terawr"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 373102,
+    "name": "SharedMedia_Twatty",
+    "key": "smt",
+    "dir": [
+      "SharedMedia_Abain",
+      "SharedMedia_Twatty"
     ],
     "source": "curse",
     "mode": 1
@@ -71754,7 +71835,7 @@
       "STFU"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 488107,
@@ -73524,6 +73605,16 @@
     "mode": 2
   },
   {
+    "id": 501103,
+    "name": "SuggestInvite",
+    "key": "suggestinvite",
+    "dir": [
+      "SuggestInvite"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361649,
     "name": "Sunder Armor Counter",
     "key": "itruliasunder",
@@ -74868,6 +74959,16 @@
     "key": "tabbind",
     "dir": [
       "Tabbind"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 500172,
+    "name": "Table Data Collector",
+    "key": "table-data-collector",
+    "dir": [
+      "TableData"
     ],
     "source": "curse",
     "mode": 1
@@ -81372,8 +81473,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "Viks_ConfigUI",
-      "ViksUI"
+      "ViksUI",
+      "Viks_ConfigUI"
     ],
     "source": "curse",
     "mode": 1
@@ -89380,7 +89481,7 @@
       "tdBag2_OilTimes"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 354831,
