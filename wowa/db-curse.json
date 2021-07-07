@@ -10644,6 +10644,16 @@
     "mode": 2
   },
   {
+    "id": 501334,
+    "name": "BlackListImproved",
+    "key": "blacklistimproved",
+    "dir": [
+      "BlackListImproved"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90447,
     "name": "Blackhand Marks & Bombs",
     "key": "blackhand-marks-bombs",
@@ -48507,6 +48517,16 @@
     "mode": 1
   },
   {
+    "id": 491581,
+    "name": "MMBT",
+    "key": "micromenubagsandtooltipmodifier",
+    "dir": [
+      "MMBT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 399920,
     "name": "MOAR DOTS Loot Priority Tooltip",
     "key": "moar-dots-loot-priority-tooltip",
@@ -50901,16 +50921,6 @@
     "key": "micromenue",
     "dir": [
       "Broker_MicroMenu"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 491581,
-    "name": "MicroMenuAndBagsSettings",
-    "key": "micromenuandbagssettings",
-    "dir": [
-      "MMBS"
     ],
     "source": "curse",
     "mode": 1
@@ -63219,16 +63229,6 @@
     "mode": 1
   },
   {
-    "id": 440993,
-    "name": "RaidFramesPlus",
-    "key": "raidframesplus",
-    "dir": [
-      "RaidFramesPlus"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 83789,
     "name": "RaidHelper",
     "key": "raidhelper",
@@ -66359,6 +66359,17 @@
     "mode": 1
   },
   {
+    "id": 501337,
+    "name": "SCT Reborn For TBC",
+    "key": "sct-reborn-for-tbc",
+    "dir": [
+      "sct_options",
+      "sct"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 38593,
     "name": "SC_ChaChing",
     "key": "sc_chaching",
@@ -68288,6 +68299,16 @@
     "mode": 2
   },
   {
+    "id": 501194,
+    "name": "ShardCap",
+    "key": "shardcap",
+    "dir": [
+      "ShardCap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 82790,
     "name": "ShardCounter",
     "key": "shardcounter",
@@ -69366,6 +69387,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 501276,
+    "name": "SilverDragon_SendFakeRares",
+    "key": "silverdragon_sendfakerares",
+    "dir": [
+      "SilverDragon_SendFakeRares"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 261845,
