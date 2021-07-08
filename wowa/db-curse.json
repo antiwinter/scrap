@@ -1365,6 +1365,16 @@
     "mode": 1
   },
   {
+    "id": 501629,
+    "name": "AcoTools",
+    "key": "acotools",
+    "dir": [
+      "AcoTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 319469,
     "name": "Act's Functions",
     "key": "acts-functions",
@@ -1844,6 +1854,16 @@
     "key": "adibags-shadowlands-moarpack",
     "dir": [
       "AdiBags_MoarPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 501758,
+    "name": "AdiBags - Shards of Domination",
+    "key": "adibags-shards-of-domination",
+    "dir": [
+      "AdiBags_ShardsofDomination"
     ],
     "source": "curse",
     "mode": 1
@@ -6761,6 +6781,16 @@
     "mode": 1
   },
   {
+    "id": 501769,
+    "name": "AvoidanceRating",
+    "key": "avoidance-rating",
+    "dir": [
+      "AvoidanceRating"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 345851,
     "name": "Avyr Raid Tools",
     "key": "avyr-raid-tools",
@@ -11156,6 +11186,16 @@
     "key": "bodyguardhealth",
     "dir": [
       "BodyguardHealth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 501378,
+    "name": "BohemkaDKP",
+    "key": "bohemkadkp",
+    "dir": [
+      "BohemkaDKP"
     ],
     "source": "curse",
     "mode": 1
@@ -16416,7 +16456,7 @@
   },
   {
     "id": 498648,
-    "name": "Classic ItemLevel",
+    "name": "Classic Item Levels",
     "key": "classic-itemlevel",
     "dir": [
       "ClassicItemLevel"
@@ -36531,6 +36571,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 501499,
+    "name": "HandyNotes: Old World Treasures",
+    "key": "handynotes-old-world-treasures",
+    "dir": [
+      "HandyNotes_OldWorldTreasures"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 419434,
