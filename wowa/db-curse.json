@@ -18033,16 +18033,6 @@
     "mode": 1
   },
   {
-    "id": 95233,
-    "name": "Comix",
-    "key": "comix-reloaded",
-    "dir": [
-      "Comix"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 91498,
     "name": "Command and Conquer Red Alert",
     "key": "command-and-conquer-red-alert",
@@ -20194,7 +20184,7 @@
       "DBM-VPVV"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 88734,
@@ -24360,8 +24350,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_US",
-      "Drustvar_DB_EU"
+      "Drustvar_DB_EU",
+      "Drustvar_DB_US"
     ],
     "source": "curse",
     "mode": 1
@@ -24501,6 +24491,16 @@
     "key": "dungeon-assist",
     "dir": [
       "DungeonAssist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 354981,
+    "name": "Dungeon Entrances",
+    "key": "dungeon-entrances",
+    "dir": [
+      "DungeonEntrances"
     ],
     "source": "curse",
     "mode": 1
@@ -54438,11 +54438,10 @@
     "name": "Narcissus",
     "key": "narcissus",
     "dir": [
-      "Narcissus_Database",
-      "Narcissus_Barbershop",
-      "Narcissus",
       "Narcissus_Database_NPC",
-      "Narcissus_Database_Item"
+      "Narcissus_Barbershop",
+      "Narcissus_Database_Item",
+      "Narcissus"
     ],
     "source": "curse",
     "mode": 1
@@ -65543,16 +65542,6 @@
     "mode": 3
   },
   {
-    "id": 470528,
-    "name": "RetCustomSounds",
-    "key": "retcustomsounds",
-    "dir": [
-      "RetCustomSounds"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 348032,
     "name": "Retail UI",
     "key": "retail-ui",
@@ -69798,6 +69787,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 501439,
+    "name": "Simple Not Ready",
+    "key": "simple-not-ready",
+    "dir": [
+      "SimpleNotReady"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 299543,
@@ -85000,7 +84999,7 @@
   },
   {
     "id": 300564,
-    "name": "XarMods (previously XarUI)",
+    "name": "XarMods",
     "key": "xarmods",
     "dir": [
       "XarMods"
