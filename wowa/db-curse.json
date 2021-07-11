@@ -6874,6 +6874,16 @@
     "mode": 1
   },
   {
+    "id": 502653,
+    "name": "AzerPUG's Boss Tools",
+    "key": "azerpugs-boss-tools",
+    "dir": [
+      "AzerPUGsBossTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 409972,
     "name": "AzerPUG's Chat Improvements",
     "key": "azerpugs-chat-improvements",
@@ -29155,6 +29165,16 @@
     "mode": 1
   },
   {
+    "id": 502217,
+    "name": "FigSellJunk",
+    "key": "figselljunk",
+    "dir": [
+      "FigSellJunk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 432452,
     "name": "FightToFitness",
     "key": "fighttofitness",
@@ -36232,6 +36252,16 @@
     "mode": 1
   },
   {
+    "id": 502415,
+    "name": "HandyNotes - Springfur Alpaca",
+    "key": "handynotes-springfur-alpaca",
+    "dir": [
+      "HandyNotes_SpringfurAlpaca"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 265782,
     "name": "HandyNotes - Suramar and Shal'Aran Telemancy",
     "key": "handynotes-suramar-and-shalaran-telemancy",
@@ -41530,6 +41560,17 @@
     "key": "item-level-overlay",
     "dir": [
       "ItemLevelOverlay"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 502324,
+    "name": "Item Link Lie",
+    "key": "item-link-lie",
+    "dir": [
+      "ItemLinkLie_Data",
+      "ItemLinkLie"
     ],
     "source": "curse",
     "mode": 1
@@ -50642,6 +50683,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 502353,
+    "name": "MedusaTimeAlert",
+    "key": "medusa-time-alert",
+    "dir": [
+      "MedusaTimeAlert"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 497970,
@@ -66284,6 +66335,16 @@
     "mode": 1
   },
   {
+    "id": 501833,
+    "name": "Rune Helper (Tazavesh, the Veiled Market)",
+    "key": "rune-helper-tazavesh-the-veiled-market",
+    "dir": [
+      "RuneHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102524,
     "name": "Rune Replacement",
     "key": "rune-replacement",
@@ -74721,6 +74782,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 502447,
+    "name": "SynItemPrice",
+    "key": "synitemprice",
+    "dir": [
+      "SynItemPrice"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 21160,
@@ -86296,7 +86367,8 @@
     "name": "alaChat_Classic",
     "key": "alachat_classic",
     "dir": [
-      "alaChat_Classic"
+      "alaChat_Classic",
+      "alaChat"
     ],
     "source": "curse",
     "mode": 3
