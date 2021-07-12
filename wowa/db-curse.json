@@ -351,6 +351,16 @@
     "mode": 2
   },
   {
+    "id": 499875,
+    "name": "AA-Faded",
+    "key": "aa-faded",
+    "dir": [
+      "AA-Faded"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361413,
     "name": "ABGP",
     "key": "abgp",
@@ -44075,7 +44085,7 @@
     "name": "LFG Quick Signup",
     "key": "lfg-quick-signup",
     "dir": [
-      "LFG Quick Signup"
+      "LFGQuickSignup-1.1.0"
     ],
     "source": "curse",
     "mode": 1
@@ -45883,7 +45893,7 @@
       "LibDropDownMenu"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 17280,
@@ -60427,8 +60437,9 @@
     "name": "Profession Assistance",
     "key": "profession_assistance",
     "dir": [
+      "Profession_Assistance",
       "Profession_Assistance_Classic",
-      "Profession_Assistance"
+      "Profession_Assistance_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -71999,6 +72010,16 @@
     "mode": 2
   },
   {
+    "id": 21481,
+    "name": "SpamThrottle",
+    "key": "spamthrottle",
+    "dir": [
+      "SpamThrottle"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341303,
     "name": "SpamThrottleClassic",
     "key": "spamthrottleclassic",
@@ -72565,6 +72586,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 502939,
+    "name": "Spellbook Scroll",
+    "key": "spellbook-scroll",
+    "dir": [
+      "SpellbookScroll"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 319461,
