@@ -4242,6 +4242,16 @@
     "mode": 1
   },
   {
+    "id": 503173,
+    "name": "ArkinventoryRules_Profession",
+    "key": "arkinventoryrules_profession",
+    "dir": [
+      "ArkInventoryRules_Profession"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 5195,
     "name": "Armory",
     "key": "armory",
@@ -7574,6 +7584,16 @@
     "key": "babbiwatch",
     "dir": [
       "BabbiWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 495992,
+    "name": "BabbiWatch Expension Heroes of the Battleground",
+    "key": "babbiwatch-expension-heroes-of-the-battleground",
+    "dir": [
+      "BabbiWatch_Expansion_Announcer"
     ],
     "source": "curse",
     "mode": 1
@@ -11212,7 +11232,7 @@
   },
   {
     "id": 501378,
-    "name": "BohemkaDKP",
+    "name": "Bohemka DKP",
     "key": "bohemkadkp",
     "dir": [
       "BohemkaDKP"
@@ -15969,6 +15989,16 @@
     "mode": 1
   },
   {
+    "id": 310531,
+    "name": "Chromie Booster",
+    "key": "chromie-booster",
+    "dir": [
+      "ChromieBooster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 283977,
     "name": "ChromieTime",
     "key": "chromietime",
@@ -16307,7 +16337,7 @@
       "ClassTactics"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 4571,
@@ -20078,7 +20108,7 @@
   },
   {
     "id": 306880,
-    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v9.0.2)",
+    "name": "DBM Voice Pack (Korean Female) Dingdiring딩디링 (v9.1.0)",
     "key": "dbm-voice-pack-korean-female-dingdiring",
     "dir": [
       "DBM-VPDingdiringKR"
@@ -20605,6 +20635,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 499551,
+    "name": "DBM-VPTaotao Classic&TBC",
+    "key": "dbm-vptaotao-classic-tbc",
+    "dir": [
+      "DBM-VPTaotao"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 439677,
@@ -24370,8 +24410,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_EU",
-      "Drustvar_DB_US"
+      "Drustvar_DB_US",
+      "Drustvar_DB_EU"
     ],
     "source": "curse",
     "mode": 1
@@ -32762,6 +32802,16 @@
     "mode": 1
   },
   {
+    "id": 503022,
+    "name": "GladiusEx (TBC)",
+    "key": "gladiusex-tbc",
+    "dir": [
+      "GladiusEx"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 56628,
     "name": "GladiusWoD",
     "key": "gladiusmop",
@@ -34841,7 +34891,7 @@
       "GuideLime_TUGs"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 30184,
@@ -35521,6 +35571,16 @@
     "key": "guildblock",
     "dir": [
       "GuildBlock"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 503736,
+    "name": "GuildChecker",
+    "key": "guildchecker",
+    "dir": [
+      "GuildChecker"
     ],
     "source": "curse",
     "mode": 1
@@ -43683,6 +43743,16 @@
     "mode": 1
   },
   {
+    "id": 498290,
+    "name": "Knightfall Priority",
+    "key": "knightfall-priority",
+    "dir": [
+      "Knightfall_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 62368,
     "name": "Know Your Loot Spec",
     "key": "know-your-loot-spec",
@@ -44085,7 +44155,7 @@
     "name": "LFG Quick Signup",
     "key": "lfg-quick-signup",
     "dir": [
-      "LFGQuickSignup-1.1.0"
+      "LFG Quick Signup"
     ],
     "source": "curse",
     "mode": 1
@@ -46924,6 +46994,16 @@
     "key": "libweaponenchantcomm",
     "dir": [
       "LibWeaponEnchantComm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 16386,
+    "name": "LibWindow-1.1",
+    "key": "libwindow-1-1",
+    "dir": [
+      "LibWindow-1.1"
     ],
     "source": "curse",
     "mode": 1
@@ -52494,6 +52574,17 @@
     "mode": 2
   },
   {
+    "id": 289212,
+    "name": "MoreTooltipInfo",
+    "key": "moretooltipinfo",
+    "dir": [
+      "MoreItemInfo",
+      "MoreTooltipInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 1243,
     "name": "MorethurQuickUse",
     "key": "morethur-quick-use",
@@ -55852,6 +55943,16 @@
     "key": "numeration",
     "dir": [
       "Numeration"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 495342,
+    "name": "Nurse Nancy",
+    "key": "nurse-nancy",
+    "dir": [
+      "NurseNancy"
     ],
     "source": "curse",
     "mode": 1
@@ -60437,9 +60538,9 @@
     "name": "Profession Assistance",
     "key": "profession_assistance",
     "dir": [
-      "Profession_Assistance",
+      "Profession_Assistance_TBC",
       "Profession_Assistance_Classic",
-      "Profession_Assistance_TBC"
+      "Profession_Assistance"
     ],
     "source": "curse",
     "mode": 3
@@ -62775,11 +62876,31 @@
     "mode": 1
   },
   {
+    "id": 503095,
+    "name": "RageBuffChecker",
+    "key": "ragebuffchecker",
+    "dir": [
+      "RageBuffChecker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 5940,
     "name": "RagePoints",
     "key": "project-5940",
     "dir": [
       "RagePoints"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 503090,
+    "name": "RageRaidMaps",
+    "key": "rageraidmaps",
+    "dir": [
+      "RageRaidMaps"
     ],
     "source": "curse",
     "mode": 1
@@ -65488,6 +65609,16 @@
     "key": "requeststop",
     "dir": [
       "RequestStop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 503615,
+    "name": "Requires Level X",
+    "key": "requires-level-x",
+    "dir": [
+      "RequiresLevelX"
     ],
     "source": "curse",
     "mode": 1
@@ -74991,6 +75122,16 @@
     "key": "tl-dr",
     "dir": [
       "TLDR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 503491,
+    "name": "TMB Loot",
+    "key": "tmb-loot",
+    "dir": [
+      "TMBLoot"
     ],
     "source": "curse",
     "mode": 1
