@@ -6637,7 +6637,7 @@
       "AutoWhisperInvite"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 415989,
@@ -29756,16 +29756,6 @@
     "mode": 2
   },
   {
-    "id": 19799,
-    "name": "Flame Warden",
-    "key": "flame-warden",
-    "dir": [
-      "FlameWarden"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 453367,
     "name": "FlapAway",
     "key": "flapaway",
@@ -32795,16 +32785,6 @@
     "id": 45973,
     "name": "GladiusEx",
     "key": "gladiusex",
-    "dir": [
-      "GladiusEx"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 503022,
-    "name": "GladiusEx (TBC)",
-    "key": "gladiusex-tbc",
     "dir": [
       "GladiusEx"
     ],
@@ -66404,7 +66384,7 @@
       "RoutesImportExport"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 308172,
@@ -70869,7 +70849,7 @@
       "SlackerChecker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 28758,
@@ -76582,7 +76562,7 @@
       "ThreatWatch"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 344559,
