@@ -60518,9 +60518,9 @@
     "name": "Profession Assistance",
     "key": "profession_assistance",
     "dir": [
-      "Profession_Assistance_TBC",
       "Profession_Assistance_Classic",
-      "Profession_Assistance"
+      "Profession_Assistance",
+      "Profession_Assistance_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -68751,16 +68751,6 @@
     "mode": 1
   },
   {
-    "id": 496539,
-    "name": "SharedMedia_Loki",
-    "key": "sharedmedia_loki",
-    "dir": [
-      "SharedMedia_Loki"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 322243,
     "name": "SharedMedia_N6",
     "key": "sharedmedia_n6",
@@ -68789,6 +68779,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 496539,
+    "name": "SharedMedia_OW",
+    "key": "sharedmediaowsounds",
+    "dir": [
+      "SharedMedia_Loki"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 390533,
