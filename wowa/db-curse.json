@@ -66582,8 +66582,8 @@
   },
   {
     "id": 501337,
-    "name": "SCT Reborn For TBC",
-    "key": "sct-reborn-for-tbc",
+    "name": "SCT Reborn",
+    "key": "sct-reborn",
     "dir": [
       "sct_options",
       "sct"
@@ -70529,7 +70529,7 @@
       "SinStats"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 300386,
