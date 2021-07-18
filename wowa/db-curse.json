@@ -1589,6 +1589,16 @@
     "mode": 1
   },
   {
+    "id": 504844,
+    "name": "AddonProfiles",
+    "key": "addonprofiles",
+    "dir": [
+      "AddonProfiles"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 100562,
     "name": "AddonTCC",
     "key": "addontcc",
@@ -1824,6 +1834,16 @@
     "key": "adibags-mechagon-tinkering",
     "dir": [
       "AdiBags_Mechagon_Tinkering"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 504566,
+    "name": "AdiBags - Nilganihmaht",
+    "key": "adibags-nilganihmaht",
+    "dir": [
+      "AdiBags_Nilganihmaht"
     ],
     "source": "curse",
     "mode": 1
@@ -3134,7 +3154,6 @@
     "name": "AncestorQuotes",
     "key": "ancestorquotes",
     "dir": [
-      "JackyRP",
       "AncestorQuotes"
     ],
     "source": "curse",
@@ -4232,11 +4251,31 @@
     "mode": 1
   },
   {
+    "id": 504716,
+    "name": "ArkInventoryRules_RaceFaction",
+    "key": "arkinventoryrules_racefaction",
+    "dir": [
+      "ArkInventoryRules_RaceFaction"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101473,
     "name": "ArkInventoryRules_TSMValue",
     "key": "arkinventoryrules_tsmvalue",
     "dir": [
       "ArkInventoryRules_TSMValue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 504205,
+    "name": "ArkinventoryRules_Covenant",
+    "key": "arkinventoryrules_covenant",
+    "dir": [
+      "ArkinventoryRules_Covenant"
     ],
     "source": "curse",
     "mode": 1
@@ -30728,6 +30767,16 @@
     "mode": 3
   },
   {
+    "id": 504186,
+    "name": "Friendly Nameplates Instanced",
+    "key": "friendly-nameplates-instanced",
+    "dir": [
+      "FriendlyNameplatesInstanced"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 274207,
     "name": "Friendly PvP Nameplates",
     "key": "friendly-pvp-nameplates",
@@ -48912,7 +48961,7 @@
       "MacroTalkClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 35704,
@@ -61840,6 +61889,16 @@
     "mode": 2
   },
   {
+    "id": 504658,
+    "name": "QuestTTS",
+    "key": "questtts",
+    "dir": [
+      "QuestTTS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 296929,
     "name": "QuestTogether",
     "key": "questtogether",
@@ -61955,6 +62014,16 @@
     "key": "queuetimer",
     "dir": [
       "QueueTimer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 503896,
+    "name": "QueueAlert (WoW TBC)",
+    "key": "queuealert-wow-tbc",
+    "dir": [
+      "QueueAlert"
     ],
     "source": "curse",
     "mode": 1
@@ -67776,6 +67845,16 @@
     "mode": 2
   },
   {
+    "id": 504270,
+    "name": "See You Next TradeSkillExport",
+    "key": "syntradeskillexport",
+    "dir": [
+      "SYNTradeSkillExport"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 37100,
     "name": "SeeCD",
     "key": "seecd",
@@ -70522,6 +70601,16 @@
     "mode": 1
   },
   {
+    "id": 504541,
+    "name": "SinStats Classic Era",
+    "key": "sinstats-classic-era",
+    "dir": [
+      "SinStats"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 389802,
     "name": "SinStats Live Character Stats ",
     "key": "sinstats",
@@ -72406,6 +72495,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 504267,
+    "name": "Speedy",
+    "key": "speedy",
+    "dir": [
+      "Speedy"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 295182,
@@ -77506,6 +77605,16 @@
     "key": "titan-panel-currency",
     "dir": [
       "TitanCurrency"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 504879,
+    "name": "Titan Panel [Daily Reset]",
+    "key": "titan-panel-daily-reset",
+    "dir": [
+      "TitanDailyReset"
     ],
     "source": "curse",
     "mode": 1
@@ -87263,6 +87372,16 @@
     "mode": 2
   },
   {
+    "id": 504724,
+    "name": "eAlign TBC",
+    "key": "ealign-tbc",
+    "dir": [
+      "eAlignTBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87991,
     "name": "eAlign Updated",
     "key": "ealign-updated",
@@ -89045,6 +89164,16 @@
     "key": "numquests",
     "dir": [
       "numQuests"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 504626,
+    "name": "oGlowClassic",
+    "key": "oglowclassic",
+    "dir": [
+      "oGlowClassic"
     ],
     "source": "curse",
     "mode": 1
