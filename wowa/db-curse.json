@@ -27826,6 +27826,16 @@
     "mode": 1
   },
   {
+    "id": 506018,
+    "name": "Everest Twitch Emotes",
+    "key": "everest-twitch-emotes",
+    "dir": [
+      "EverestTwitchEmotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 439960,
     "name": "Everezh Nameplates - No Filter Debuffs on default Nameplates",
     "key": "everezh-nameplates-no-filter-debuffs-on-default",
@@ -41693,7 +41703,7 @@
       "ItemProtectorOrDestroyer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 28397,
@@ -55435,6 +55445,16 @@
     "mode": 1
   },
   {
+    "id": 506105,
+    "name": "NoEscapeFrustration",
+    "key": "noescapefrustration",
+    "dir": [
+      "NoEscapeFrustration"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86060,
     "name": "NoGlow",
     "key": "noglow",
@@ -68941,6 +68961,16 @@
     "mode": 1
   },
   {
+    "id": 506255,
+    "name": "SharedSettings: CVars",
+    "key": "sharedsettings-cvars",
+    "dir": [
+      "SharedSettings_CVars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295122,
     "name": "SharpRangeCollector",
     "key": "sharprangecollector",
@@ -70601,16 +70631,6 @@
     "mode": 1
   },
   {
-    "id": 504541,
-    "name": "SinStats Classic Era",
-    "key": "sinstats-classic-era",
-    "dir": [
-      "SinStats"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 389802,
     "name": "SinStats Live Character Stats ",
     "key": "sinstats",
@@ -70618,7 +70638,7 @@
       "SinStats"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 300386,
@@ -72575,6 +72595,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 504673,
+    "name": "SpeedyMount-BCC",
+    "key": "speedymount-bcc",
+    "dir": [
+      "SpeedyMountBCC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 262346,
@@ -79532,6 +79562,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 506233,
+    "name": "Track Quest Button",
+    "key": "track-quest-button",
+    "dir": [
+      "TrackQuestButton"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 334242,
