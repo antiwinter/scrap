@@ -2372,6 +2372,16 @@
     "mode": 1
   },
   {
+    "id": 506378,
+    "name": "Adibags Shadowlands Cooking",
+    "key": "adibags-shadowlands-cooking",
+    "dir": [
+      "AdiBags_Shadowlands_Cooking"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 269672,
     "name": "Adibags_Fishing",
     "key": "adibags_fishing",
@@ -2461,6 +2471,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 506554,
+    "name": "Adventure Stan",
+    "key": "adventure-stan",
+    "dir": [
+      "AdventureStan"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 304629,
@@ -13792,7 +13812,7 @@
       "CChatFilter"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 90796,
@@ -26296,6 +26316,16 @@
     "key": "elvui_garrisonres",
     "dir": [
       "ElvUI_GarrisonResourcesDT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 506296,
+    "name": "ElvUI GlobalFadePersist - Shadowlands",
+    "key": "elvui-globalfadepersist-shadowlands",
+    "dir": [
+      "ElvUI_GlobalFadePersist_Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -42628,6 +42658,16 @@
     "key": "khmraidframes",
     "dir": [
       "KHMRaidFrames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 506356,
+    "name": "KR DBM Voicepack Hipham (힙햄) Korean",
+    "key": "kr-dbm-voicepack-hipham-korean",
+    "dir": [
+      "DBM-VPHipham"
     ],
     "source": "curse",
     "mode": 1
@@ -68961,6 +69001,16 @@
     "mode": 1
   },
   {
+    "id": 506284,
+    "name": "SharedSettings: AddonProfiles",
+    "key": "sharedsettings-addonprofiles",
+    "dir": [
+      "SharedSettings_AddonProfiles"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 506255,
     "name": "SharedSettings: CVars",
     "key": "sharedsettings-cvars",
@@ -70250,6 +70300,16 @@
     "key": "simpleactionbars",
     "dir": [
       "SimpleActionBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 506568,
+    "name": "SimpleAnimaPowers",
+    "key": "simpleanimapowers",
+    "dir": [
+      "SimpleAnimaPowers"
     ],
     "source": "curse",
     "mode": 1
@@ -82859,6 +82919,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 426612,
+    "name": "WaypointsNative",
+    "key": "waypointsnative",
+    "dir": [
+      "WaypointsNative"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 406686,
