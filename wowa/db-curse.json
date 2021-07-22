@@ -20376,6 +20376,16 @@
     "mode": 1
   },
   {
+    "id": 506356,
+    "name": "DBM Voicepack Hipham (힙햄) Korean",
+    "key": "dbm-voicepack-hipham-korean",
+    "dir": [
+      "DBM-VPHipham"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 287335,
     "name": "DBM Voicepack Kimnaa324 (김나는)",
     "key": "dbm-voicepack-kimnaa324",
@@ -23820,6 +23830,16 @@
     "key": "domdommenu",
     "dir": [
       "DomDomMenu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 507074,
+    "name": "Domination Socket Helper",
+    "key": "domination-socket-helper",
+    "dir": [
+      "DominationSocketHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -35203,6 +35223,16 @@
     "mode": 2
   },
   {
+    "id": 485412,
+    "name": "Guidelime_Summersisle | Horde | 1-70 |",
+    "key": "guidelime_summersisle-horde-1-70",
+    "dir": [
+      "Guidelime_Summersisle-1-70-leveling"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 390458,
     "name": "Guidelime_Zarant",
     "key": "guidelime_zarant",
@@ -42673,16 +42703,6 @@
     "mode": 1
   },
   {
-    "id": 506356,
-    "name": "KR DBM Voicepack Hipham (힙햄) Korean",
-    "key": "kr-dbm-voicepack-hipham-korean",
-    "dir": [
-      "DBM-VPHipham"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 421389,
     "name": "KSK for Retail",
     "key": "ksk-for-retail",
@@ -43171,6 +43191,16 @@
     "key": "keystone-commander",
     "dir": [
       "KeystoneCommander"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 320521,
+    "name": "Keystone Loot",
+    "key": "keystone-loot",
+    "dir": [
+      "KeystoneLoot"
     ],
     "source": "curse",
     "mode": 1
@@ -58279,6 +58309,16 @@
     "mode": 1
   },
   {
+    "id": 40916,
+    "name": "Pet Emote",
+    "key": "petemote",
+    "dir": [
+      "PetEmote"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 90241,
     "name": "Pet Farm Helper (What Pet to Farm Next?)",
     "key": "pet-farm-helper",
@@ -58447,16 +58487,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 40916,
-    "name": "PetEmote",
-    "key": "petemote",
-    "dir": [
-      "PetEmote"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 280034,
@@ -68984,7 +69014,6 @@
     "name": "SharedMedia_Twatty",
     "key": "smt",
     "dir": [
-      "SharedMedia_Abain",
       "SharedMedia_Twatty"
     ],
     "source": "curse",
@@ -81020,16 +81049,6 @@
     "mode": 1
   },
   {
-    "id": 485107,
-    "name": "UltraPlus",
-    "key": "ultraplus",
-    "dir": [
-      "UltraPlus"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 358964,
     "name": "UltraSquirt",
     "key": "ultrasquirt",
@@ -81547,6 +81566,16 @@
     "key": "vanaskos-tbc-update",
     "dir": [
       "VanasKoS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 507184,
+    "name": "Vanish Counter",
+    "key": "vanish-counter",
+    "dir": [
+      "vanishcounter"
     ],
     "source": "curse",
     "mode": 1
