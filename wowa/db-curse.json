@@ -4085,6 +4085,16 @@
     "mode": 1
   },
   {
+    "id": 507197,
+    "name": "ArenaMarker",
+    "key": "arenamarker",
+    "dir": [
+      "ArenaMarker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 413388,
     "name": "ArenaMaster PvP Inspect",
     "key": "arenamaster",
@@ -7994,16 +8004,6 @@
     "key": "bagger",
     "dir": [
       "Bagger"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 339873,
-    "name": "BaggerTagger",
-    "key": "baggertagger",
-    "dir": [
-      "BaggerTagger"
     ],
     "source": "curse",
     "mode": 1
@@ -39159,6 +39159,16 @@
     "key": "highlighter2-tbc-classic",
     "dir": [
       "Highlighter2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 497148,
+    "name": "HintMeRank",
+    "key": "hintmerank",
+    "dir": [
+      "HintMeRank"
     ],
     "source": "curse",
     "mode": 1
@@ -72238,16 +72248,6 @@
     "mode": 1
   },
   {
-    "id": 352565,
-    "name": "Soundscape",
-    "key": "soundscape",
-    "dir": [
-      "Soundscape"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 1759,
     "name": "Soundtrack",
     "key": "soundtrack",
@@ -90143,7 +90143,7 @@
       "tdInspect"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340110,
