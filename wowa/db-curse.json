@@ -23284,7 +23284,7 @@
   },
   {
     "id": 100658,
-    "name": "DiabolicUI for BfA",
+    "name": "DiabolicUI (returning soon)",
     "key": "diabolicui",
     "dir": [
       "DiabolicUI"
@@ -24489,8 +24489,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_US",
-      "Drustvar_DB_EU"
+      "Drustvar_DB_EU",
+      "Drustvar_DB_US"
     ],
     "source": "curse",
     "mode": 1
