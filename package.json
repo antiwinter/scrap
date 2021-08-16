@@ -4,7 +4,7 @@
   "description": "",
   "main": "fp.js",
   "scripts": {
-    "test": "nyc ava --verbose"
+    "test": "nyc ava --verbose && ./local_push.sh"
   },
   "repository": {
     "type": "git",
