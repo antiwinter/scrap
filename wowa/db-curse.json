@@ -563,17 +563,6 @@
     "mode": 1
   },
   {
-    "id": 267285,
-    "name": "ALL THE THINGS",
-    "key": "all-the-things",
-    "dir": [
-      "ATT-Classic",
-      "AllTheThings"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 302372,
     "name": "AO BDLC",
     "key": "aobdlc",
@@ -4352,16 +4341,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 500038,
-    "name": "Armory Hub",
-    "key": "armory-hub",
-    "dir": [
-      "ArmoryHub"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 311977,
@@ -31601,6 +31580,16 @@
     "mode": 1
   },
   {
+    "id": 515807,
+    "name": "GSE - Elfyau's Druid Macros",
+    "key": "gse-elfyaus-druid-macros",
+    "dir": [
+      "GSE3-Elfyau_Druid"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 508935,
     "name": "GSE - Elfyau's Hunter Macros",
     "key": "gse-elfyaus-hunter-macros",
@@ -31682,16 +31671,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 20697,
-    "name": "GTFO",
-    "key": "gtfo",
-    "dir": [
-      "GTFO"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 282440,
@@ -40906,6 +40885,16 @@
     "mode": 1
   },
   {
+    "id": 515814,
+    "name": "ImprovedAddonList",
+    "key": "improvedaddonlist",
+    "dir": [
+      "ImprovedAddonList"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 360127,
     "name": "In Memory DKP Prices",
     "key": "in-memory-dkp-prices",
@@ -48701,6 +48690,16 @@
     "key": "project-3807",
     "dir": [
       "loudmouth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 515590,
+    "name": "Lovely Rolls",
+    "key": "lovely-rolls",
+    "dir": [
+      "Lovely_Rolls"
     ],
     "source": "curse",
     "mode": 1
@@ -61127,16 +61126,6 @@
     "key": "professions-complete",
     "dir": [
       "ProfessionsComplete"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 492743,
-    "name": "Professions exporter",
-    "key": "professions-exporter",
-    "dir": [
-      "ProfessionsExporter"
     ],
     "source": "curse",
     "mode": 1
