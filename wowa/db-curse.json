@@ -563,6 +563,17 @@
     "mode": 1
   },
   {
+    "id": 267285,
+    "name": "ALL THE THINGS",
+    "key": "all-the-things",
+    "dir": [
+      "ATT-Classic",
+      "AllTheThings"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 302372,
     "name": "AO BDLC",
     "key": "aobdlc",
@@ -3591,6 +3602,16 @@
     "mode": 1
   },
   {
+    "id": 498002,
+    "name": "Aoooba Loot Priority",
+    "key": "aoooba-loot-priority",
+    "dir": [
+      "Aoooba_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 264471,
     "name": "Appearance Sets Helm Hider",
     "key": "appearance-sets-helm-hider",
@@ -4341,6 +4362,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 500038,
+    "name": "Armory Hub",
+    "key": "armory-hub",
+    "dir": [
+      "ArmoryHub"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 311977,
@@ -13194,6 +13225,16 @@
     "mode": 1
   },
   {
+    "id": 515611,
+    "name": "BtWTodo",
+    "key": "btwtodo",
+    "dir": [
+      "BtWTodo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 352555,
     "name": "Bubble-Collector",
     "key": "bubble-collector",
@@ -15686,16 +15727,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 82362,
-    "name": "ChatMod2",
-    "key": "chatmod2",
-    "dir": [
-      "ChatMod2"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 28353,
@@ -31673,6 +31704,16 @@
     "mode": 1
   },
   {
+    "id": 20697,
+    "name": "GTFO",
+    "key": "gtfo",
+    "dir": [
+      "GTFO"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 282440,
     "name": "GW-Loot",
     "key": "gw-loot",
@@ -43862,16 +43903,6 @@
     "mode": 1
   },
   {
-    "id": 66244,
-    "name": "Killing Streaks",
-    "key": "killing_streaks",
-    "dir": [
-      "KillingStreaks"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 62232,
     "name": "KillingBlow_Enhanced",
     "key": "killingblow_enhanced",
@@ -49046,16 +49077,6 @@
     "key": "mdreport",
     "dir": [
       "MDReport"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 498002,
-    "name": "MDS Loot Priority",
-    "key": "mds-loot-priority",
-    "dir": [
-      "MDS_Loot_Priority"
     ],
     "source": "curse",
     "mode": 1
@@ -61126,6 +61147,16 @@
     "key": "professions-complete",
     "dir": [
       "ProfessionsComplete"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 492743,
+    "name": "Professions exporter",
+    "key": "professions-exporter",
+    "dir": [
+      "ProfessionsExporter"
     ],
     "source": "curse",
     "mode": 1
@@ -77094,6 +77125,16 @@
     "key": "tmt_languagepack_en",
     "dir": [
       "TMT_LanguagePack_en"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 516993,
+    "name": "TheMotherTongue_LanguagePack_fr",
+    "key": "themothertongue_languagepack_fr",
+    "dir": [
+      "TheMotherTongue_LanguagePack_fr"
     ],
     "source": "curse",
     "mode": 1
