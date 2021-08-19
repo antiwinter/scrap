@@ -9854,6 +9854,16 @@
     "mode": 1
   },
   {
+    "id": 517251,
+    "name": "BetterTab",
+    "key": "bettertab",
+    "dir": [
+      "BetterTab"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44177,
     "name": "BetterTooltips",
     "key": "bettertooltips",
@@ -21990,10 +22000,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
       "DBM-Party-Classic",
       "DBM-AQ20",
       "DBM-AQ40",
@@ -22011,7 +22017,11 @@
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-ZulAman",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination"
     ],
     "source": "curse",
     "mode": 3
@@ -49634,6 +49644,16 @@
     "mode": 1
   },
   {
+    "id": 517277,
+    "name": "Magtheridon Planner",
+    "key": "magtheridon-planner",
+    "dir": [
+      "MagtheridonPlanner"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 383400,
     "name": "Mail Bookkeeper",
     "key": "mbk",
@@ -71129,6 +71149,16 @@
     "mode": 2
   },
   {
+    "id": 37088,
+    "name": "SimplestAntispam",
+    "key": "simplestantispam",
+    "dir": [
+      "SimplestAntispam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 359894,
     "name": "Simplified UI",
     "key": "simplifiedui",
@@ -72885,7 +72915,7 @@
       "Spassball"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 267457,
@@ -91211,6 +91241,16 @@
     "id": 335228,
     "name": "xToMax",
     "key": "xtomax",
+    "dir": [
+      "xToMax"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 517356,
+    "name": "xToMax for Shadowlands",
+    "key": "xtomax-for-shadowlands",
     "dir": [
       "xToMax"
     ],
