@@ -31651,11 +31651,31 @@
     "mode": 1
   },
   {
+    "id": 517659,
+    "name": "GSE - Elfyau's Paladin Macros",
+    "key": "gse-elfyaus-paladin-macros",
+    "dir": [
+      "GSE3-Elfyau_Paladin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 511814,
     "name": "GSE - Elfyau's Rogue Macros",
     "key": "gse-elfyaus-rogue-macros",
     "dir": [
       "GSE3-Elfyau_Rogue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 517654,
+    "name": "GSE - Elfyau's Warrior Macros",
+    "key": "gse-elfyaus-warrior-macros",
+    "dir": [
+      "GSE3-Elfyau_Warrior"
     ],
     "source": "curse",
     "mode": 1
@@ -45215,7 +45235,8 @@
       "LazyCurve",
       "LazyCurve_Legion",
       "LazyCurve_BFA",
-      "LazyCurve_Shadowlands"
+      "LazyCurve_Shadowlands",
+      "LazyCurve_Tazavesh"
     ],
     "source": "curse",
     "mode": 1
@@ -64187,6 +64208,16 @@
     "mode": 1
   },
   {
+    "id": 517430,
+    "name": "RaidSlackTBC",
+    "key": "raidslack-tbc",
+    "dir": [
+      "RaidSlackTBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348974,
     "name": "RaidSummon",
     "key": "raidsummon",
@@ -66304,8 +66335,8 @@
     "name": "Restocker Classic",
     "key": "restocker-classic",
     "dir": [
-      "RestockerClassic",
-      "RestockerTBC"
+      "RestockerTBC",
+      "RestockerClassic"
     ],
     "source": "curse",
     "mode": 3
