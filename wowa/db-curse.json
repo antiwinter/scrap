@@ -38967,16 +38967,6 @@
     "mode": 1
   },
   {
-    "id": 383541,
-    "name": "Hide Stance Bar (Classic)",
-    "key": "hide-stance-bar-classic",
-    "dir": [
-      "HideStanceBar"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 21355,
     "name": "Hide UI Original",
     "key": "hide-ui-original",
