@@ -24779,16 +24779,6 @@
     "mode": 1
   },
   {
-    "id": 471101,
-    "name": "Dungeon Assist",
-    "key": "dungeon-assist",
-    "dir": [
-      "DungeonAssist"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 354981,
     "name": "Dungeon Entrances",
     "key": "dungeon-entrances",
@@ -46378,7 +46368,7 @@
       "LibDogTag-Stats-3.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14282,
@@ -48412,16 +48402,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 390790,
-    "name": "LootReserve",
-    "key": "lootreserve",
-    "dir": [
-      "LootReserve"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 402978,
@@ -57440,19 +57420,6 @@
     "mode": 1
   },
   {
-    "id": 15809,
-    "name": "Overachiever - achievement tools and tweaks",
-    "key": "overachiever",
-    "dir": [
-      "Overachiever_Cache",
-      "Overachiever_Tabs",
-      "Overachiever_Trade",
-      "Overachiever"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 407138,
     "name": "Overbound",
     "key": "overbound",
@@ -66325,8 +66292,8 @@
     "name": "Restocker Classic",
     "key": "restocker-classic",
     "dir": [
-      "RestockerTBC",
-      "RestockerClassic"
+      "RestockerClassic",
+      "RestockerTBC"
     ],
     "source": "curse",
     "mode": 3
