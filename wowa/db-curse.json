@@ -2924,42 +2924,6 @@
     "mode": 1
   },
   {
-    "id": 13402,
-    "name": "Altoholic",
-    "key": "altoholic",
-    "dir": [
-      "DataStore_Containers",
-      "DataStore_Crafts",
-      "DataStore_Inventory",
-      "DataStore_Mails",
-      "DataStore_Quests",
-      "DataStore_Reputations",
-      "DataStore_Spells",
-      "DataStore_Talents",
-      "Altoholic",
-      "Altoholic_Agenda",
-      "Altoholic_Characters",
-      "Altoholic_Grids",
-      "Altoholic_Guild",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Agenda",
-      "DataStore_Auctions",
-      "DataStore_Characters",
-      "DataStore",
-      "DataStore_Pets",
-      "DataStore_Stats",
-      "Altoholic_Achievements",
-      "Altoholic_Options",
-      "DataStore_Achievements",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
-      "AddonFactory"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 99157,
     "name": "Altoholic Count Hider",
     "key": "altoholic-count-hider",
@@ -5090,23 +5054,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 326516,
-    "name": "AtlasLootClassic",
-    "key": "atlaslootclassic",
-    "dir": [
-      "AtlasLootClassic_Crafting",
-      "AtlasLootClassic_DungeonsAndRaids",
-      "AtlasLootClassic_PvP",
-      "AtlasLootClassic_Collections",
-      "AtlasLootClassic_Factions",
-      "AtlasLootClassic_Options",
-      "AtlasLootClassic_Data",
-      "AtlasLootClassic"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 340018,
@@ -9673,16 +9620,6 @@
     "mode": 3
   },
   {
-    "id": 401253,
-    "name": "Better Wardrobe and Transmog",
-    "key": "better-wardrobe-and-transmog",
-    "dir": [
-      "BetterWardrobe"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 302035,
     "name": "Better World Quests",
     "key": "better-world-quests",
@@ -12429,6 +12366,16 @@
     "key": "broker_battleres",
     "dir": [
       "Broker_BattleRes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 509058,
+    "name": "Broker_Calendar Reborn",
+    "key": "broker-calendar-reborn",
+    "dir": [
+      "Broker_Calendar"
     ],
     "source": "curse",
     "mode": 1
@@ -23969,16 +23916,6 @@
     "mode": 1
   },
   {
-    "id": 507074,
-    "name": "Domination Socket Helper",
-    "key": "domination-socket-helper",
-    "dir": [
-      "DominationSocketHelper"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 6650,
     "name": "Dominos",
     "key": "dominos",
@@ -25205,6 +25142,16 @@
     "key": "eli5-achievements-explain-like-im-five",
     "dir": [
       "Eli5Achievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 518350,
+    "name": "EMA",
+    "key": "ema",
+    "dir": [
+      "EMA"
     ],
     "source": "curse",
     "mode": 1
@@ -43228,6 +43175,16 @@
     "mode": 1
   },
   {
+    "id": 518531,
+    "name": "KarmaLoot",
+    "key": "karmaloot",
+    "dir": [
+      "KarmaLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 352007,
     "name": "Karmarang",
     "key": "karmarang",
@@ -45206,6 +45163,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 517721,
+    "name": "LazyCurve - Tazavesh",
+    "key": "lazycurve-tazavesh",
+    "dir": [
+      "LazyCurve_Tazavesh"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 290074,
@@ -51814,16 +51781,6 @@
     "mode": 1
   },
   {
-    "id": 43440,
-    "name": "MiniLoot",
-    "key": "miniloot",
-    "dir": [
-      "MiniLoot"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 24636,
     "name": "MiniMainBar",
     "key": "minimainbar",
@@ -56263,16 +56220,6 @@
     "mode": 3
   },
   {
-    "id": 366310,
-    "name": "Nova World Buffs",
-    "key": "nova-world-buffs",
-    "dir": [
-      "NovaWorldBuffs"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 270891,
     "name": "Now they always say Congratulations",
     "key": "congratulations",
@@ -57415,6 +57362,19 @@
     "key": "oversimplified",
     "dir": [
       "OverSimplified"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 15809,
+    "name": "Overachiever - achievement tools and tweaks",
+    "key": "overachiever",
+    "dir": [
+      "Overachiever_Cache",
+      "Overachiever_Tabs",
+      "Overachiever_Trade",
+      "Overachiever"
     ],
     "source": "curse",
     "mode": 1
@@ -60458,7 +60418,7 @@
       "Postal"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86973,
@@ -65674,16 +65634,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 66047,
-    "name": "Rematch",
-    "key": "rematch",
-    "dir": [
-      "Rematch"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 101980,
@@ -71205,16 +71155,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 389802,
-    "name": "SinStats Live Character Stats ",
-    "key": "sinstats",
-    "dir": [
-      "SinStats"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 300386,
@@ -80029,16 +79969,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 339602,
-    "name": "TotemTimers Classic",
-    "key": "totemtimers-classic",
-    "dir": [
-      "TotemTimers"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 462175,
