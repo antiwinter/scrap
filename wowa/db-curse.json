@@ -814,6 +814,16 @@
     "mode": 3
   },
   {
+    "id": 509474,
+    "name": "Abomi-NATION",
+    "key": "abomination",
+    "dir": [
+      "abomiNATION"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 42289,
     "name": "Aboutis",
     "key": "aboutis",
@@ -2922,6 +2932,42 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 13402,
+    "name": "Altoholic",
+    "key": "altoholic",
+    "dir": [
+      "DataStore_Containers",
+      "DataStore_Crafts",
+      "DataStore_Inventory",
+      "DataStore_Mails",
+      "DataStore_Quests",
+      "DataStore_Reputations",
+      "DataStore_Spells",
+      "DataStore_Talents",
+      "Altoholic",
+      "Altoholic_Agenda",
+      "Altoholic_Characters",
+      "Altoholic_Grids",
+      "Altoholic_Guild",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Agenda",
+      "DataStore_Auctions",
+      "DataStore_Characters",
+      "DataStore",
+      "Altoholic_Achievements",
+      "Altoholic_Options",
+      "DataStore_Achievements",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
+      "DataStore_Pets",
+      "DataStore_Stats",
+      "AddonFactory"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 99157,
@@ -5054,6 +5100,23 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 326516,
+    "name": "AtlasLootClassic",
+    "key": "atlaslootclassic",
+    "dir": [
+      "AtlasLootClassic_Crafting",
+      "AtlasLootClassic_DungeonsAndRaids",
+      "AtlasLootClassic_PvP",
+      "AtlasLootClassic_Collections",
+      "AtlasLootClassic_Factions",
+      "AtlasLootClassic_Options",
+      "AtlasLootClassic_Data",
+      "AtlasLootClassic"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 340018,
@@ -9618,6 +9681,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 401253,
+    "name": "Better Wardrobe and Transmog",
+    "key": "better-wardrobe-and-transmog",
+    "dir": [
+      "BetterWardrobe"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 302035,
@@ -23916,6 +23989,16 @@
     "mode": 1
   },
   {
+    "id": 507074,
+    "name": "Domination Socket Helper",
+    "key": "domination-socket-helper",
+    "dir": [
+      "DominationSocketHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 6650,
     "name": "Dominos",
     "key": "dominos",
@@ -31603,6 +31686,16 @@
     "key": "gse-elfyaus-rogue-macros",
     "dir": [
       "GSE3-Elfyau_Rogue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 519771,
+    "name": "GSE - Elfyau's Warlock Macros",
+    "key": "gse-elfyaus-warlock-macros",
+    "dir": [
+      "GSE3-Elfyau_Warlock"
     ],
     "source": "curse",
     "mode": 1
@@ -42975,6 +43068,16 @@
     "mode": 1
   },
   {
+    "id": 518054,
+    "name": "KRIT TBC Classic (Shao Kahn FTW)",
+    "key": "krit-tbc-classic-shao-kahn-ftw",
+    "dir": [
+      "Krit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 421389,
     "name": "KSK for Retail",
     "key": "ksk-for-retail",
@@ -48369,6 +48472,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 390790,
+    "name": "LootReserve",
+    "key": "lootreserve",
+    "dir": [
+      "LootReserve"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 402978,
@@ -56220,6 +56333,26 @@
     "mode": 3
   },
   {
+    "id": 519838,
+    "name": "Nova Raid Companion",
+    "key": "nova-raid-companion",
+    "dir": [
+      "NovaRaidCompanion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 366310,
+    "name": "Nova World Buffs",
+    "key": "nova-world-buffs",
+    "dir": [
+      "NovaWorldBuffs"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 270891,
     "name": "Now they always say Congratulations",
     "key": "congratulations",
@@ -60418,7 +60551,7 @@
       "Postal"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86973,
@@ -65634,6 +65767,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 66047,
+    "name": "Rematch",
+    "key": "rematch",
+    "dir": [
+      "Rematch"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 101980,
@@ -71155,6 +71298,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 389802,
+    "name": "SinStats Live Character Stats ",
+    "key": "sinstats",
+    "dir": [
+      "SinStats"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 300386,
@@ -79971,6 +80124,16 @@
     "mode": 1
   },
   {
+    "id": 339602,
+    "name": "TotemTimers Classic",
+    "key": "totemtimers-classic",
+    "dir": [
+      "TotemTimers"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 462175,
     "name": "TotemTracker",
     "key": "totemtracker",
@@ -84275,7 +84438,8 @@
     "name": "Whoa ThickFrames (for Wow Classic)",
     "key": "whoa-thickframes-for-wow-classic",
     "dir": [
-      "whoaThickFrames_Classic"
+      "whoaThickFrames_Classic",
+      "whoaThickFrames_BCC"
     ],
     "source": "curse",
     "mode": 3
@@ -88924,6 +89088,16 @@
     "mode": 1
   },
   {
+    "id": 458156,
+    "name": "iStableMaster",
+    "key": "istablemaster",
+    "dir": [
+      "iStableMaster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100085,
     "name": "iTargetingFrames",
     "key": "itargetingframes",
@@ -91066,7 +91240,8 @@
     "name": "whoa UnitFrames (for WoW Classic)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_Classic"
+      "whoaUnitFrames_Classic",
+      "whoaUnitFrames_BCC"
     ],
     "source": "curse",
     "mode": 3
