@@ -30971,6 +30971,16 @@
     "mode": 1
   },
   {
+    "id": 520417,
+    "name": "Freeze The Bleed",
+    "key": "freeze-the-bleed",
+    "dir": [
+      "FreezeTheBleed"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19791,
     "name": "FreezeFrame",
     "key": "freezeframe",
@@ -48908,7 +48918,7 @@
   },
   {
     "id": 471150,
-    "name": "LuaDKP",
+    "name": "Lua DKP",
     "key": "luadkp",
     "dir": [
       "LuaDKP-Core"
@@ -52768,6 +52778,16 @@
     "key": "mogpartialsets",
     "dir": [
       "MogPartialSets"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 478399,
+    "name": "Moggers",
+    "key": "moggers",
+    "dir": [
+      "Moggers"
     ],
     "source": "curse",
     "mode": 1
@@ -69902,6 +69922,16 @@
     "mode": 1
   },
   {
+    "id": 518466,
+    "name": "ShopKeep",
+    "key": "shopkeep",
+    "dir": [
+      "ShopKeep"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19975,
     "name": "Short term memory",
     "key": "short-term-memory",
@@ -71757,6 +71787,16 @@
     "key": "slashchat",
     "dir": [
       "SlashChat"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 520477,
+    "name": "SlashFist",
+    "key": "slashfist",
+    "dir": [
+      "SlashFist"
     ],
     "source": "curse",
     "mode": 1
@@ -77296,6 +77336,16 @@
     "key": "themothertongue_languagepack_fr",
     "dir": [
       "TheMotherTongue_LanguagePack_fr"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 520332,
+    "name": "TheMotherTongue_LanguagePack_ru",
+    "key": "themothertongue_languagepack_ru",
+    "dir": [
+      "TheMotherTongue_LanguagePack_ru"
     ],
     "source": "curse",
     "mode": 1
@@ -84298,6 +84348,16 @@
     "key": "who-knows",
     "dir": [
       "WhoKnows"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 520413,
+    "name": "Who Needs a Summon?",
+    "key": "who-needs-a-summon",
+    "dir": [
+      "WhoNeedsASummon"
     ],
     "source": "curse",
     "mode": 1
