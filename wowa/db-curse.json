@@ -31701,6 +31701,16 @@
     "mode": 1
   },
   {
+    "id": 520703,
+    "name": "GSE - Elfyau's Mage Macros",
+    "key": "gse-elfyaus-mage-macros",
+    "dir": [
+      "GSE3-Elfyau_Mage"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 507829,
     "name": "GSE - Elfyau's Monk Macros",
     "key": "gse-elfyaus-monk-macros",
@@ -35365,7 +35375,7 @@
       "GuideLime_TUGs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 30184,
@@ -40904,6 +40914,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 520749,
+    "name": "ImportantStats",
+    "key": "importantstats",
+    "dir": [
+      "ImportantStats"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 103336,
@@ -50903,6 +50923,16 @@
     "key": "master-loot-remix-2-0",
     "dir": [
       "MasterLootManagerRemix2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 520293,
+    "name": "Master Loot Unstick",
+    "key": "master-loot-unstick",
+    "dir": [
+      "MasterLootUnstick"
     ],
     "source": "curse",
     "mode": 1
