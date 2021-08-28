@@ -48938,7 +48938,7 @@
   },
   {
     "id": 471150,
-    "name": "Lua DKP",
+    "name": "LuaDKP",
     "key": "luadkp",
     "dir": [
       "LuaDKP-Core"
@@ -63926,6 +63926,16 @@
     "mode": 1
   },
   {
+    "id": 520345,
+    "name": "Raid Skipper",
+    "key": "raid-skipper",
+    "dir": [
+      "RaidSkipper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357515,
     "name": "Raid Sub Manager",
     "key": "xckraidsubmanager",
@@ -64022,8 +64032,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionHeroics",
-      "RaidAchievement_LegionRaids"
+      "RaidAchievement_LegionRaids",
+      "RaidAchievement_LegionHeroics"
     ],
     "source": "curse",
     "mode": 1
