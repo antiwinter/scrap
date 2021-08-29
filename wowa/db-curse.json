@@ -26923,6 +26923,16 @@
     "mode": 3
   },
   {
+    "id": 289502,
+    "name": "ElvUI mMediaTag",
+    "key": "elvui_mmediatag",
+    "dir": [
+      "ElvUI_mMediaTag"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 94763,
     "name": "ElvUI: TukUI style",
     "key": "elvui-tukuistyle",
@@ -27142,16 +27152,6 @@
     "key": "elvui_tooltip2bag",
     "dir": [
       "ElvUI_Tooltip2Bag"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 289502,
-    "name": "ElvUI_mMediaTag",
-    "key": "elvui_mmediatag",
-    "dir": [
-      "ElvUI_mMediaTag"
     ],
     "source": "curse",
     "mode": 1
@@ -54284,9 +54284,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic",
+      "MyBuddies_Classic_TBC",
       "MyBuddies",
-      "MyBuddies_Classic_TBC"
+      "MyBuddies_Classic"
     ],
     "source": "curse",
     "mode": 3
