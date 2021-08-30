@@ -2977,13 +2977,13 @@
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore",
-      "Altoholic_Achievements",
-      "Altoholic_Options",
-      "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
       "DataStore_Pets",
       "DataStore_Stats",
+      "Altoholic_Achievements",
+      "Altoholic_Options",
+      "DataStore_Achievements",
       "AddonFactory"
     ],
     "source": "curse",
@@ -7460,6 +7460,17 @@
     "mode": 1
   },
   {
+    "id": 2813,
+    "name": "BCT+",
+    "key": "project-2813",
+    "dir": [
+      "BCT+",
+      "BCTPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 326305,
     "name": "BCleaner - Auto seller",
     "key": "bcleaner-auto-seller",
@@ -10020,6 +10031,16 @@
     "key": "big-dick-club",
     "dir": [
       "BigDickClub"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 521057,
+    "name": "Big Game Menu",
+    "key": "biggamemenu",
+    "dir": [
+      "BigGameMenu"
     ],
     "source": "curse",
     "mode": 1
@@ -38419,6 +38440,16 @@
     "mode": 1
   },
   {
+    "id": 521304,
+    "name": "HelpMePlay",
+    "key": "helpmeplay",
+    "dir": [
+      "HelpMePlay"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 257839,
     "name": "HelyaAssist",
     "key": "helyaassist",
@@ -44224,6 +44255,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 521325,
+    "name": "KiwiMBC",
+    "key": "kiwimbc",
+    "dir": [
+      "KiwiMBC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 95612,
@@ -71375,6 +71416,16 @@
     "key": "simplify",
     "dir": [
       "Simplify"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 521629,
+    "name": "Simply Guild Invite Continued",
+    "key": "simply-guild-invite-continued",
+    "dir": [
+      "SimplyGInv"
     ],
     "source": "curse",
     "mode": 1
