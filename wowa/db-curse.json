@@ -10043,7 +10043,7 @@
       "BigGameMenu"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 471001,
@@ -12704,6 +12704,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 521767,
+    "name": "Broker_Group Reborn",
+    "key": "broker-group-reborn",
+    "dir": [
+      "Broker_Group"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 431667,
@@ -28169,6 +28179,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 521632,
+    "name": "EveryQuestClassicEra",
+    "key": "everyquestclassicera",
+    "dir": [
+      "Everyquest"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 345706,
@@ -61214,7 +61234,7 @@
   {
     "id": 404859,
     "name": "ProUltraGraphics",
-    "key": "ultragraphics",
+    "key": "proultragraphics",
     "dir": [
       "ProUltraGraphics"
     ],
@@ -70322,14 +70342,14 @@
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
     "dir": [
-      "SigmaProfessionFilterEnchanting",
-      "SigmaProfessionFilterFirstAid",
-      "SigmaProfessionFilterMining",
-      "SigmaProfessionFilterPoisons",
       "SigmaProfessionFilter_RecipeInfo",
       "SigmaProfessionFilterAlchemy",
       "SigmaProfessionFilterBeastTraining",
       "SigmaProfessionFilterCooking",
+      "SigmaProfessionFilterEnchanting",
+      "SigmaProfessionFilterFirstAid",
+      "SigmaProfessionFilterMining",
+      "SigmaProfessionFilterPoisons",
       "SigmaProfessionFilter"
     ],
     "source": "curse",
