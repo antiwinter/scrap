@@ -1559,6 +1559,17 @@
     "mode": 3
   },
   {
+    "id": 521502,
+    "name": "Addiction TBC Loot Priority",
+    "key": "addiction-tbc-loot-priority",
+    "dir": [
+      "addiction_loot_priority",
+      "addiction_loot_priority_2_5_1"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 7529,
     "name": "Addon Control Panel",
     "key": "acp",
@@ -22072,22 +22083,22 @@
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
       "DBM-Party-Classic",
+      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
       "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Party-BC",
       "DBM-BlackTemple",
+      "DBM-BWL",
       "DBM-Hyjal",
       "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
       "DBM-Outlands",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
+      "DBM-ZG",
       "DBM-ZulAman",
       "DBM-Party-Shadowlands",
       "DBM-Shadowlands",
@@ -45990,6 +46001,16 @@
     "mode": 1
   },
   {
+    "id": 522201,
+    "name": "LevelTimingsGold",
+    "key": "leveltimingsgold",
+    "dir": [
+      "LevelTimingsGold"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20033,
     "name": "Levelland",
     "key": "levelland",
@@ -54979,9 +55000,9 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossipClassic",
       "NPCRPGossipClassicEra",
-      "NPCRPGossip"
+      "NPCRPGossip",
+      "NPCRPGossipClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -67900,7 +67921,7 @@
       "SansGatherNotify"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 261745,
