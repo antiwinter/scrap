@@ -8,7 +8,7 @@
       "QoL_Core-TBC"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 477662,
@@ -17432,6 +17432,16 @@
     "mode": 1
   },
   {
+    "id": 469972,
+    "name": "Cleaner World Map",
+    "key": "world-map-shrinker",
+    "dir": [
+      "MapShrinker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 339256,
     "name": "Cleanup",
     "key": "cleanup",
@@ -31778,6 +31788,16 @@
     "key": "gse-elfyaus-paladin-macros",
     "dir": [
       "GSE3-Elfyau_Paladin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 522593,
+    "name": "GSE - Elfyau's Priest Macros",
+    "key": "gse-elfyaus-priest-macros",
+    "dir": [
+      "GSE3-Elfyau_Priest"
     ],
     "source": "curse",
     "mode": 1
@@ -54366,9 +54386,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic_TBC",
       "MyBuddies",
-      "MyBuddies_Classic"
+      "MyBuddies_Classic",
+      "MyBuddies_Classic_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -56372,7 +56392,7 @@
       "NoseBag"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102601,
@@ -57353,8 +57373,8 @@
   },
   {
     "id": 36887,
-    "name": "OpenRaid",
-    "key": "openraid",
+    "name": "OpenRaid1",
+    "key": "openraid1",
     "dir": [
       "OpenRaid"
     ],
@@ -61297,9 +61317,9 @@
     "name": "Profession Assistance",
     "key": "profession_assistance",
     "dir": [
-      "Profession_Assistance",
       "Profession_Assistance_Classic",
-      "Profession_Assistance_TBC"
+      "Profession_Assistance_TBC",
+      "Profession_Assistance"
     ],
     "source": "curse",
     "mode": 3
@@ -64114,8 +64134,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionRaids",
-      "RaidAchievement_LegionHeroics"
+      "RaidAchievement_LegionHeroics",
+      "RaidAchievement_LegionRaids"
     ],
     "source": "curse",
     "mode": 1
@@ -67901,7 +67921,7 @@
       "FloAspectBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 496356,
@@ -67911,7 +67931,7 @@
       "FloTotemBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 490001,
@@ -70084,6 +70104,16 @@
     "mode": 1
   },
   {
+    "id": 522491,
+    "name": "ShotAssist",
+    "key": "shotassist",
+    "dir": [
+      "ShotAssist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26552,
     "name": "ShotGlass Raid Frames",
     "key": "shotglass-raid-frames",
@@ -70193,6 +70223,16 @@
     "key": "showgcd",
     "dir": [
       "ShowGCD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 522137,
+    "name": "ShowGreatVault",
+    "key": "showgreatvault",
+    "dir": [
+      "ShowGreatVault"
     ],
     "source": "curse",
     "mode": 1
@@ -85565,16 +85605,6 @@
     "key": "world-map-ping-hider",
     "dir": [
       "WorldMapPingHider"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 469972,
-    "name": "World Map Shrinker",
-    "key": "world-map-shrinker",
-    "dir": [
-      "MapShrinker"
     ],
     "source": "curse",
     "mode": 1
