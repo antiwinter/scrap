@@ -4696,6 +4696,16 @@
     "mode": 3
   },
   {
+    "id": 522904,
+    "name": "AshToAsh_BlizzardSkin",
+    "key": "ashtoash_blizzardskin",
+    "dir": [
+      "AshToAsh_BlizzardSkin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87887,
     "name": "Ashran Invite Alert",
     "key": "ashraninvitealert",
@@ -10593,6 +10603,16 @@
     "key": "bigwigs-voice-japanese",
     "dir": [
       "BigWigs_Japanese_Voice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 522719,
+    "name": "Bigwigs Voicepack Hipham (힙햄) Korean",
+    "key": "bigwigs-voicepack-hipham-korean",
+    "dir": [
+      "BigWigs_Voice"
     ],
     "source": "curse",
     "mode": 1
@@ -19962,6 +19982,16 @@
     "key": "current-realm",
     "dir": [
       "CurrentRealm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 522972,
+    "name": "CurseSailor",
+    "key": "cursesailor",
+    "dir": [
+      "CurseSailor"
     ],
     "source": "curse",
     "mode": 1
@@ -30182,10 +30212,10 @@
   },
   {
     "id": 481640,
-    "name": "Flappy Syrac",
-    "key": "flappy-syrac",
+    "name": "Flappy Lorgok",
+    "key": "flappy-lorgok",
     "dir": [
-      "FlappySyrac"
+      "FlappyLorgok"
     ],
     "source": "curse",
     "mode": 1
@@ -35687,7 +35717,7 @@
       "Guidelime_Summersisle-1-70-leveling"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 390458,
@@ -48155,6 +48185,17 @@
     "mode": 3
   },
   {
+    "id": 92138,
+    "name": "LockboxHelper",
+    "key": "lockboxhelper",
+    "dir": [
+      "LockboxHelper",
+      "LockboxHelper_Classic"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 274882,
     "name": "LockedOut",
     "key": "lockedout",
@@ -49451,8 +49492,8 @@
     "name": "MUI Core (Classic)",
     "key": "mui-core-classic",
     "dir": [
-      "MUI_Config",
       "MUI_Setup",
+      "MUI_Config",
       "MUI_Core"
     ],
     "source": "curse",
