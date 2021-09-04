@@ -1563,8 +1563,8 @@
     "name": "Addiction TBC Loot Priority",
     "key": "addiction-tbc-loot-priority",
     "dir": [
-      "addiction_loot_priority",
-      "addiction_loot_priority_2_5_1"
+      "addiction_loot_priority_2_5_1",
+      "addiction_loot_priority_2_5_2"
     ],
     "source": "curse",
     "mode": 1
@@ -35720,16 +35720,6 @@
     "mode": 3
   },
   {
-    "id": 390458,
-    "name": "Guidelime_Zarant",
-    "key": "guidelime_zarant",
-    "dir": [
-      "Guidelime_Zarant"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 336585,
     "name": "Guidelime_ahmp",
     "key": "guidelime_ahmp",
@@ -48187,7 +48177,7 @@
   {
     "id": 92138,
     "name": "LockboxHelper",
-    "key": "lockboxhelper",
+    "key": "unlockhelper",
     "dir": [
       "LockboxHelper",
       "LockboxHelper_Classic"
