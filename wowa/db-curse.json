@@ -38218,7 +38218,7 @@
       "HealingAssignments"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 282244,
@@ -41145,7 +41145,7 @@
       "ImprovedAddonList"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 360127,
@@ -80885,7 +80885,7 @@
       "TradeSkillExporter"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 14834,
