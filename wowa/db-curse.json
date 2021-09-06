@@ -4200,6 +4200,16 @@
     "mode": 1
   },
   {
+    "id": 523399,
+    "name": "ArenaStats - TBC",
+    "key": "arenastats-tbc",
+    "dir": [
+      "ArenaStatsTBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 30253,
     "name": "ArenaStyle",
     "key": "arenastyle",
@@ -5399,6 +5409,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 523554,
+    "name": "AuctionHouseConfirmQuantity",
+    "key": "auctionhouseconfirmquantity",
+    "dir": [
+      "AuctionHouseConfirmQuantity"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 16483,
@@ -12887,6 +12907,16 @@
     "mode": 1
   },
   {
+    "id": 523827,
+    "name": "Broker_Portals_Tacblades",
+    "key": "broker_portals_tacblades",
+    "dir": [
+      "Broker_Portals_Tacblades"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 263878,
     "name": "Broker_ProfessionMats",
     "key": "broker_professionmats",
@@ -18949,6 +18979,16 @@
     "mode": 1
   },
   {
+    "id": 523671,
+    "name": "Consumable Tracker",
+    "key": "consumable-tracker",
+    "dir": [
+      "ConsumableTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 264080,
     "name": "Consumption Counter Skada Plugin",
     "key": "consumption-counter-skada-plugin",
@@ -20389,6 +20429,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 523139,
+    "name": "DBM TU:RUL MusicPack",
+    "key": "dbm-tu-rul-musicpack",
+    "dir": [
+      "DBM-TURUL-MusicPack"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 306880,
@@ -27449,6 +27499,16 @@
     "mode": 1
   },
   {
+    "id": 523447,
+    "name": "EmpoweredDetector",
+    "key": "empowereddetector",
+    "dir": [
+      "EmpoweredDetector"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 51777,
     "name": "Enchant Check",
     "key": "enchantcheck",
@@ -27494,6 +27554,16 @@
     "key": "enchanting-sell",
     "dir": [
       "EnchantingSell"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 522176,
+    "name": "Enchantmate",
+    "key": "enchantmate",
+    "dir": [
+      "Enchantmate"
     ],
     "source": "curse",
     "mode": 1
@@ -31843,6 +31913,16 @@
     "mode": 1
   },
   {
+    "id": 523152,
+    "name": "GSE - Elfyau's Shaman Macros",
+    "key": "gse-elfyaus-shaman-macros",
+    "dir": [
+      "GSE3-Elfyau_Shaman"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 519771,
     "name": "GSE - Elfyau's Warlock Macros",
     "key": "gse-elfyaus-warlock-macros",
@@ -33641,6 +33721,16 @@
     "key": "glyphkeeper",
     "dir": [
       "GlyphKeeper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 523236,
+    "name": "GlyphList",
+    "key": "glyphlist",
+    "dir": [
+      "GlyphList"
     ],
     "source": "curse",
     "mode": 1
@@ -35510,6 +35600,16 @@
     "mode": 1
   },
   {
+    "id": 523656,
+    "name": "Guidelime - Psytor's Leveling Guides",
+    "key": "guidelime-psytors-guides",
+    "dir": [
+      "guidelime_psytor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 483382,
     "name": "Guidelime KaraAtta",
     "key": "guidelime_karaatta",
@@ -35708,6 +35808,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 523767,
+    "name": "Guidelime_Star",
+    "key": "guidelime_star",
+    "dir": [
+      "Guidelime_Star"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 485412,
