@@ -66501,7 +66501,7 @@
       "Reported"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 282774,
@@ -86806,7 +86806,7 @@
   },
   {
     "id": 102375,
-    "name": "Yarrr",
+    "name": "Yarrr - Talk Like a Pirate",
     "key": "yarrr",
     "dir": [
       "Yarrr"
