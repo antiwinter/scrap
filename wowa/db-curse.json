@@ -8121,7 +8121,7 @@
       "BagView"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 302427,
@@ -9401,8 +9401,8 @@
     "key": "benikui",
     "dir": [
       "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI_TBC",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -22818,8 +22818,8 @@
     "key": "defs-toolbox",
     "dir": [
       "Defs-Toolbox-Classic",
-      "Defs-Toolbox-TBC",
-      "Defs-Toolbox"
+      "Defs-Toolbox",
+      "Defs-Toolbox-TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -24122,7 +24122,7 @@
   },
   {
     "id": 509953,
-    "name": "DomiRank",
+    "name": "Domination Rank",
     "key": "domirank",
     "dir": [
       "DomiRank"
@@ -68430,11 +68430,7 @@
     "name": "Scorpio",
     "key": "scorpio",
     "dir": [
-      "Scorpio.Action",
-      "Scorpio.Secure",
-      "Scorpio.UI",
-      "Scorpio.Unit",
-      "Scorpio.Widget",
+      "Aim",
       "Scorpio"
     ],
     "source": "curse",
@@ -69398,7 +69394,7 @@
       "ShadowDancer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 15317,
@@ -87903,7 +87899,8 @@
     "name": "alaChat_Classic",
     "key": "alachat_classic",
     "dir": [
-      "alaChat"
+      "alaChat",
+      "alaChat_Classic"
     ],
     "source": "curse",
     "mode": 3
