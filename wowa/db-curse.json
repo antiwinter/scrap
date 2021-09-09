@@ -21031,16 +21031,6 @@
     "mode": 2
   },
   {
-    "id": 461663,
-    "name": "DFT Fight Club",
-    "key": "dft-fight-club",
-    "dir": [
-      "DFT"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 101606,
     "name": "DHTimers",
     "key": "dhtimers",
