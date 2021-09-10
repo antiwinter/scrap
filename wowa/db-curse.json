@@ -31,6 +31,17 @@
     "mode": 3
   },
   {
+    "id": 525686,
+    "name": "!Pig",
+    "key": "pig",
+    "dir": [
+      "!Pig_classic_era",
+      "!Pig_classic_tbc"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 86146,
     "name": "!QuestItemButtonFix",
     "key": "questitembuttonfix",
@@ -3643,16 +3654,6 @@
     "mode": 1
   },
   {
-    "id": 498002,
-    "name": "Aoooba Loot Priority",
-    "key": "aoooba-loot-priority",
-    "dir": [
-      "Aoooba_Loot_Priority"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 264471,
     "name": "Appearance Sets Helm Hider",
     "key": "appearance-sets-helm-hider",
@@ -5564,6 +5565,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 525068,
+    "name": "Auctipus",
+    "key": "auctipus",
+    "dir": [
+      "Auctipus"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 433337,
@@ -19401,6 +19412,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 498002,
+    "name": "Corote Loot Priority",
+    "key": "corote-loot-priority",
+    "dir": [
+      "Corote_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 44420,
@@ -34425,6 +34446,16 @@
     "mode": 3
   },
   {
+    "id": 525121,
+    "name": "Grand Goblin Casino Helper",
+    "key": "grand-goblin-casino-helper",
+    "dir": [
+      "GrandGoblinCasinoHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 409373,
     "name": "GrandMail",
     "key": "grandmail",
@@ -43993,6 +44024,16 @@
     "mode": 3
   },
   {
+    "id": 525649,
+    "name": "Khes'yc Battle Timer",
+    "key": "khesyc-battle-timer",
+    "dir": [
+      "Khesyc_Battle_Timer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 407692,
     "name": "Khes'yc Mount",
     "key": "khesyc-mount",
@@ -46831,6 +46872,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 523855,
+    "name": "LibFrameFade",
+    "key": "libframefade",
+    "dir": [
+      "LibFrameFade"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 14284,
@@ -62296,6 +62347,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 523854,
+    "name": "Quest Automation",
+    "key": "quest-automation",
+    "dir": [
+      "QuestAutomation"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 27328,
