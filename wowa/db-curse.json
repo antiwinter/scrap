@@ -10986,7 +10986,7 @@
       "BlessTheBlizzard"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 488494,
@@ -15098,7 +15098,7 @@
   },
   {
     "id": 301933,
-    "name": "Catch and Release",
+    "name": "Catch & Release",
     "key": "catch-and-release",
     "dir": [
       "CatchAndRelease"
@@ -24836,8 +24836,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_US",
-      "Drustvar_DB_EU"
+      "Drustvar_DB_EU",
+      "Drustvar_DB_US"
     ],
     "source": "curse",
     "mode": 1
@@ -74876,6 +74876,16 @@
     "key": "stickytargetcombat",
     "dir": [
       "StickyTargetCombat"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 525564,
+    "name": "StickyZoom",
+    "key": "stickyzoom",
+    "dir": [
+      "StickyZoom"
     ],
     "source": "curse",
     "mode": 1
