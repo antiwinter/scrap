@@ -1574,7 +1574,6 @@
     "name": "Addiction TBC Loot Priority",
     "key": "addiction-tbc-loot-priority",
     "dir": [
-      "addiction_loot_priority_2_5_1",
       "addiction_loot_priority_2_5_2"
     ],
     "source": "curse",
@@ -66789,8 +66788,8 @@
     "name": "Restocker Classic",
     "key": "restocker-classic",
     "dir": [
-      "RestockerClassic",
-      "RestockerTBC"
+      "RestockerTBC",
+      "RestockerClassic"
     ],
     "source": "curse",
     "mode": 3
