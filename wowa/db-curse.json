@@ -5769,6 +5769,16 @@
     "mode": 3
   },
   {
+    "id": 526340,
+    "name": "Auto Gossip Pet Trainer",
+    "key": "auto-gossip-pet-trainer",
+    "dir": [
+      "GossipPetTrainer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 447837,
     "name": "Auto Guild Note",
     "key": "auto-guild-note",
@@ -10668,6 +10678,16 @@
     "mode": 2
   },
   {
+    "id": 525940,
+    "name": "Bill's Time To DIe",
+    "key": "bills-time-to-die",
+    "dir": [
+      "BillsTimeToDie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29042,
     "name": "Bills Utils",
     "key": "bills-utils",
@@ -11288,6 +11308,16 @@
     "key": "bloodsplatter",
     "dir": [
       "Bloodsplatter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 526292,
+    "name": "BloodlustMusic",
+    "key": "bloodlustmusic",
+    "dir": [
+      "BloodlustMusic"
     ],
     "source": "curse",
     "mode": 1
@@ -14710,6 +14740,16 @@
     "key": "cancel-pet-fight",
     "dir": [
       "cancel-pet-fight"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 526667,
+    "name": "CancelAuras",
+    "key": "cancelauras",
+    "dir": [
+      "CancelAuras"
     ],
     "source": "curse",
     "mode": 1
@@ -34084,6 +34124,16 @@
     "mode": 3
   },
   {
+    "id": 526270,
+    "name": "GogoWatch",
+    "key": "gogowatch",
+    "dir": [
+      "GogoWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 47525,
     "name": "GoingPrice_EU",
     "key": "goingprice_eu",
@@ -48157,6 +48207,16 @@
     "mode": 1
   },
   {
+    "id": 526431,
+    "name": "LiteButtonAuras",
+    "key": "litebuttonauras",
+    "dir": [
+      "LiteButtonAuras"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 30359,
     "name": "LiteMount",
     "key": "litemount",
@@ -54365,6 +54425,16 @@
     "key": "multispectrinketswapper",
     "dir": [
       "multispectrinketswapper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 526016,
+    "name": "Murlocs TBC Loot Priority",
+    "key": "murlocs-tbc-loot-priority",
+    "dir": [
+      "murlocs_loot_priority_2_5_2"
     ],
     "source": "curse",
     "mode": 1
@@ -69518,6 +69588,16 @@
     "mode": 1
   },
   {
+    "id": 526652,
+    "name": "Shadowfiend",
+    "key": "shadowfiend",
+    "dir": [
+      "Shadowfiend"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 413413,
     "name": "Shadowlands API Compatibility Patch",
     "key": "shadowlands-api-compatibility-patch",
@@ -83445,6 +83525,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 526556,
+    "name": "VurseTweaks",
+    "key": "vursetweaks",
+    "dir": [
+      "VurseTweaks"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 88436,
