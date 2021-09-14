@@ -57389,7 +57389,7 @@
       "OmniCD"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 94524,
@@ -85007,8 +85007,8 @@
     "name": "Whoa ThickFrames (for Wow Classic)",
     "key": "whoa-thickframes-for-wow-classic",
     "dir": [
-      "whoaThickFrames_Classic",
-      "whoaThickFrames_BCC"
+      "whoaThickFrames_BCC",
+      "whoaThickFrames_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -91800,8 +91800,8 @@
     "name": "whoa UnitFrames (for WoW Classic)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_Classic",
-      "whoaUnitFrames_BCC"
+      "whoaUnitFrames_BCC",
+      "whoaUnitFrames_Classic"
     ],
     "source": "curse",
     "mode": 3
