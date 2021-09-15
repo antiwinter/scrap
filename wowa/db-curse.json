@@ -4696,6 +4696,16 @@
     "mode": 1
   },
   {
+    "id": 527304,
+    "name": "Ascu SharedMedia & BigWigs Countdown",
+    "key": "ascu-sharedmedia-bigwigs-countdown",
+    "dir": [
+      "SharedMedia_Ascu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 425642,
     "name": "AshToAsh",
     "key": "ashtoash",
@@ -19731,6 +19741,16 @@
     "mode": 1
   },
   {
+    "id": 20303,
+    "name": "Craftoholic",
+    "key": "craftoholic",
+    "dir": [
+      "Craftoholic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 261869,
     "name": "Crafty",
     "key": "crafty",
@@ -22223,22 +22243,22 @@
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
       "DBM-Party-Classic",
-      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
       "DBM-Azeroth",
-      "DBM-BlackTemple",
       "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-Party-BC",
+      "DBM-BlackTemple",
       "DBM-Hyjal",
       "DBM-Karazhan",
-      "DBM-MC",
-      "DBM-Naxx",
-      "DBM-Onyxia",
       "DBM-Outlands",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZG",
       "DBM-ZulAman",
       "DBM-Party-Shadowlands",
       "DBM-Shadowlands",
@@ -39417,6 +39437,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 526692,
+    "name": "HideBlizzardTalkingHead",
+    "key": "hideblizzardtalkinghead",
+    "dir": [
+      "HideBlizzardTalkingHead"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 28635,
@@ -67680,6 +67710,17 @@
     "mode": 1
   },
   {
+    "id": 527100,
+    "name": "Runic Affinity Assigner",
+    "key": "runic-affinity-assigner",
+    "dir": [
+      "Runic_Affinity_Assigner",
+      "Runic_Affinity_Assigner_v1.2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 508524,
     "name": "RuriWigs",
     "key": "ruriwigs",
@@ -74970,6 +75011,16 @@
     "mode": 1
   },
   {
+    "id": 526842,
+    "name": "StickyZoom Classic",
+    "key": "stickyzoom-classic",
+    "dir": [
+      "StickyZoomClassic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 45420,
     "name": "Still flying...",
     "key": "still-flying",
@@ -78020,6 +78071,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 521417,
+    "name": "Thurrakks Magtheridon Tracker",
+    "key": "thurraks-magtheridon-tracker",
+    "dir": [
+      "TMT"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 86934,
