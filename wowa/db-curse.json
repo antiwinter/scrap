@@ -10208,6 +10208,7 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
+      "BigWigs_SanctumOfDomination",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10221,8 +10222,7 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple",
-      "BigWigs_SanctumOfDomination"
+      "BigWigs_BlackTemple"
     ],
     "source": "curse",
     "mode": 3
@@ -22251,6 +22251,10 @@
       "DBM-Onyxia",
       "DBM-Naxx",
       "DBM-ZG",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
       "DBM-Party-BC",
       "DBM-BlackTemple",
       "DBM-Hyjal",
@@ -22259,11 +22263,7 @@
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination"
+      "DBM-ZulAman"
     ],
     "source": "curse",
     "mode": 3
@@ -54667,9 +54667,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
+      "MyBuddies_Classic_TBC",
       "MyBuddies",
-      "MyBuddies_Classic",
-      "MyBuddies_Classic_TBC"
+      "MyBuddies_Classic"
     ],
     "source": "curse",
     "mode": 3
