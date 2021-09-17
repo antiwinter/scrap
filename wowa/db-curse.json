@@ -70711,7 +70711,6 @@
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
     "dir": [
-      "SigmaProfessionFilter_RecipeInfo",
       "SigmaProfessionFilterAlchemy",
       "SigmaProfessionFilterBeastTraining",
       "SigmaProfessionFilterCooking",
@@ -70719,6 +70718,7 @@
       "SigmaProfessionFilterFirstAid",
       "SigmaProfessionFilterMining",
       "SigmaProfessionFilterPoisons",
+      "SigmaProfessionFilter_RecipeInfo",
       "SigmaProfessionFilter"
     ],
     "source": "curse",
