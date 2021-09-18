@@ -22251,10 +22251,6 @@
       "DBM-Onyxia",
       "DBM-Naxx",
       "DBM-ZG",
-      "DBM-Party-Shadowlands",
-      "DBM-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
       "DBM-Party-BC",
       "DBM-BlackTemple",
       "DBM-Hyjal",
@@ -22263,7 +22259,11 @@
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-ZulAman",
+      "DBM-Party-Shadowlands",
+      "DBM-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination"
     ],
     "source": "curse",
     "mode": 3
