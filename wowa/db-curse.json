@@ -142,6 +142,76 @@
     "mode": 1
   },
   {
+    "id": 527672,
+    "name": "(D) Currencies BC",
+    "key": "d-currencies-bc",
+    "dir": [
+      "(D) Currencies BC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527661,
+    "name": "(D) Currencies BFA",
+    "key": "d-currencies-bfa",
+    "dir": [
+      "(D) Currencies BFA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527669,
+    "name": "(D) Currencies Cataclysm",
+    "key": "d-currencies-cataclysm",
+    "dir": [
+      "(D) Currencies Cataclysm"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527631,
+    "name": "(D) Currencies Draenor",
+    "key": "d-currencies-draenor-9-1-5",
+    "dir": [
+      "(D) Currencies Draenor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527663,
+    "name": "(D) Currencies Legion",
+    "key": "d-currencies-legion",
+    "dir": [
+      "(D) Currencies Legion"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527667,
+    "name": "(D) Currencies MOP",
+    "key": "d-currencies-mop",
+    "dir": [
+      "(D) Currencies MOP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527637,
+    "name": "(D) Currencies Shadowlands",
+    "key": "d-currencies-shadowlands",
+    "dir": [
+      "(D) Currencies Shadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 350323,
     "name": "(D) Hide Gryphons",
     "key": "d-hide-gryphons",
@@ -2998,13 +3068,13 @@
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore",
+      "Altoholic_Options",
+      "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
       "DataStore_Pets",
       "DataStore_Stats",
       "Altoholic_Achievements",
-      "Altoholic_Options",
-      "DataStore_Achievements",
       "AddonFactory"
     ],
     "source": "curse",
@@ -13587,6 +13657,16 @@
     "mode": 2
   },
   {
+    "id": 487594,
+    "name": "BuffSizer",
+    "key": "buffsizer",
+    "dir": [
+      "BuffSizer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 17985,
     "name": "Buffed!",
     "key": "buffed",
@@ -22603,6 +22683,16 @@
     "mode": 1
   },
   {
+    "id": 529512,
+    "name": "Death Rolling",
+    "key": "death-rolling",
+    "dir": [
+      "DeathRolling"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 375014,
     "name": "Death Sound",
     "key": "death-sound",
@@ -24895,8 +24985,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_EU",
-      "Drustvar_DB_US"
+      "Drustvar_DB_US",
+      "Drustvar_DB_EU"
     ],
     "source": "curse",
     "mode": 1
@@ -27614,6 +27704,16 @@
     "key": "enchant-vellum",
     "dir": [
       "EnchantVellum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 528176,
+    "name": "Enchanter",
+    "key": "enchanter",
+    "dir": [
+      "Enchanter"
     ],
     "source": "curse",
     "mode": 1
@@ -32972,6 +33072,16 @@
     "key": "gemsay",
     "dir": [
       "GemSay"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527620,
+    "name": "GemSearch",
+    "key": "gemsearch",
+    "dir": [
+      "GemSearch"
     ],
     "source": "curse",
     "mode": 1
@@ -41406,7 +41516,7 @@
       "InRange"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 269853,
@@ -64847,6 +64957,16 @@
     "mode": 2
   },
   {
+    "id": 527284,
+    "name": "Raidtool Client Export",
+    "key": "raidtool-export",
+    "dir": [
+      "Raidtool Export"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 338637,
     "name": "RainingBlood",
     "key": "rainingblood",
@@ -82862,6 +82982,16 @@
     "mode": 1
   },
   {
+    "id": 527813,
+    "name": "Vashj Planner",
+    "key": "vashj-planner",
+    "dir": [
+      "VashPlanner"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 431427,
     "name": "Vault Anywhere",
     "key": "vault-anywhere",
@@ -84848,6 +84978,16 @@
     "key": "whistle-master",
     "dir": [
       "WhistleMaster"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527506,
+    "name": "WhitePaws",
+    "key": "whitepaws",
+    "dir": [
+      "WhitePaws"
     ],
     "source": "curse",
     "mode": 1
