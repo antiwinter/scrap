@@ -17572,6 +17572,16 @@
     "mode": 1
   },
   {
+    "id": 469972,
+    "name": "Clean World Map",
+    "key": "world-map-shrinker",
+    "dir": [
+      "MapShrinker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 420121,
     "name": "Clean-Mini-Map",
     "key": "clean-mini-map",
@@ -17617,16 +17627,6 @@
     "key": "cleanui-redux",
     "dir": [
       "CleanUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 469972,
-    "name": "Cleaner World Map",
-    "key": "world-map-shrinker",
-    "dir": [
-      "MapShrinker"
     ],
     "source": "curse",
     "mode": 1
@@ -32926,7 +32926,7 @@
   },
   {
     "id": 353762,
-    "name": "GearQuipper (Classic + TBC Classic)",
+    "name": "GearQuipper",
     "key": "gearquipper",
     "dir": [
       "GearQuipper",
@@ -54023,7 +54023,7 @@
       "MouseSensitivity"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 318962,
