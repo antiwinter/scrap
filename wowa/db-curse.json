@@ -143,7 +143,7 @@
   },
   {
     "id": 527672,
-    "name": "(D) Currencies BC",
+    "name": "(D) Broker Currencies Burning Crusade",
     "key": "d-currencies-bc",
     "dir": [
       "(D) Currencies BC"
@@ -1742,10 +1742,10 @@
   },
   {
     "id": 429208,
-    "name": "AdiBags - Anima & Conduits",
+    "name": "AdiBags - Anima & Conduits & Korthian Relics",
     "key": "adibags-anima-conduits",
     "dir": [
-      "AdiBags_Anima_Conduits"
+      "AdiBags_Anima_Conduits_KorthianRelics"
     ],
     "source": "curse",
     "mode": 1
@@ -22322,6 +22322,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
       "DBM-Outlands",
       "DBM-Party-Classic",
       "DBM-Party-BC",
@@ -22339,11 +22343,7 @@
       "DBM-Sunwell",
       "DBM-TheEye",
       "DBM-ZG",
-      "DBM-ZulAman",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination"
+      "DBM-ZulAman"
     ],
     "source": "curse",
     "mode": 3
@@ -28673,6 +28673,16 @@
     "mode": 1
   },
   {
+    "id": 526216,
+    "name": "Explorer quest",
+    "key": "explorer-quest",
+    "dir": [
+      "ExploreQuest"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 79479,
     "name": "Explorer!",
     "key": "explorer-markers",
@@ -29202,6 +29212,16 @@
     "id": 93633,
     "name": "Fake Item Links",
     "key": "fake-item-links",
+    "dir": [
+      "FakeItemLinks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 529695,
+    "name": "Fake Item Links [RESURRECTED]",
+    "key": "fake-item-links-resurrected",
     "dir": [
       "FakeItemLinks"
     ],
@@ -34989,6 +35009,16 @@
     "mode": 3
   },
   {
+    "id": 530074,
+    "name": "Grid2StatusSpellCast",
+    "key": "grid2statusspellcast",
+    "dir": [
+      "Grid2StatusSpellCast"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101865,
     "name": "Grid2TrailOfLight",
     "key": "grid2trailoflight",
@@ -37243,17 +37273,6 @@
     "key": "handynotes-suramar-and-shalaran-telemancy",
     "dir": [
       "HandyNotes_SuramarShalAranTelemancy"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 318436,
-    "name": "HandyNotes - Tools of the Trade",
-    "key": "handynotes-toolsofthetrade",
-    "dir": [
-      "HandyNotes_Cauldrons",
-      "HandyNotes_ToolsOfTheTrade"
     ],
     "source": "curse",
     "mode": 1
@@ -44635,7 +44654,7 @@
       "KiwiItemInfo"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 345127,
@@ -44645,7 +44664,7 @@
       "KiwiQuickPick"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 350500,
@@ -56340,6 +56359,16 @@
     "key": "no-boralus-map",
     "dir": [
       "NoBoralusMap"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 529664,
+    "name": "No Chilling Summons",
+    "key": "no-chilling-summons",
+    "dir": [
+      "NCS_NoChillingSummons"
     ],
     "source": "curse",
     "mode": 1
