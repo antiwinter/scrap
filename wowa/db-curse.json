@@ -142,71 +142,81 @@
     "mode": 1
   },
   {
-    "id": 527672,
-    "name": "(D) Broker Currencies Burning Crusade",
-    "key": "d-currencies-bc",
+    "id": 527661,
+    "name": "(D) Broker Currencies Battle of Azeroth",
+    "key": "d-currencies-bfa",
     "dir": [
-      "(D) Currencies BC"
+      "(D)BrokerCurrenciesBFA"
     ],
     "source": "curse",
     "mode": 1
   },
   {
-    "id": 527661,
-    "name": "(D) Currencies BFA",
-    "key": "d-currencies-bfa",
+    "id": 527672,
+    "name": "(D) Broker Currencies Burning Crusade",
+    "key": "d-currencies-bc",
     "dir": [
-      "(D) Currencies BFA"
+      "(D)BrokerCurrenciesBC"
     ],
     "source": "curse",
     "mode": 1
   },
   {
     "id": 527669,
-    "name": "(D) Currencies Cataclysm",
+    "name": "(D) Broker Currencies Cataclysm",
     "key": "d-currencies-cataclysm",
     "dir": [
-      "(D) Currencies Cataclysm"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 527631,
-    "name": "(D) Currencies Draenor",
-    "key": "d-currencies-draenor-9-1-5",
-    "dir": [
-      "(D) Currencies Draenor"
+      "(D)BrokerCurrenciesCataclysm"
     ],
     "source": "curse",
     "mode": 1
   },
   {
     "id": 527663,
-    "name": "(D) Currencies Legion",
+    "name": "(D) Broker Currencies Legion",
     "key": "d-currencies-legion",
     "dir": [
-      "(D) Currencies Legion"
+      "(D)BrokerCurrenciesLegion"
     ],
     "source": "curse",
     "mode": 1
   },
   {
     "id": 527667,
-    "name": "(D) Currencies MOP",
+    "name": "(D) Broker Currencies Mists of Pandaria",
     "key": "d-currencies-mop",
     "dir": [
-      "(D) Currencies MOP"
+      "(D)BrokerCurrenciesMOP"
     ],
     "source": "curse",
     "mode": 1
   },
   {
     "id": 527637,
-    "name": "(D) Currencies Shadowlands",
+    "name": "(D) Broker Currencies Shadowlands",
     "key": "d-currencies-shadowlands",
     "dir": [
-      "(D) Currencies Shadowlands"
+      "(D)BrokerCurrenciesShadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 527631,
+    "name": "(D) Broker Currencies Warlords of Draenor",
+    "key": "d-currencies-draenor-9-1-5",
+    "dir": [
+      "(D)BrokerCurrenciesDraenor"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 530468,
+    "name": "(D) Broker Volume ",
+    "key": "d-broker-volume",
+    "dir": [
+      "(D)BrokerVolume"
     ],
     "source": "curse",
     "mode": 1
@@ -220,86 +230,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 350553,
-    "name": "(D) LDB - Currencies BC",
-    "key": "d-ldb-currencies-bc",
-    "dir": [
-      "(D) LDB BC"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350430,
-    "name": "(D) LDB - Currencies BFA",
-    "key": "d-currencies-data-broker-display-for-battle-for",
-    "dir": [
-      "(D) LDB BFA"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350552,
-    "name": "(D) LDB - Currencies Cataclysm",
-    "key": "d-ldb-currencies-cataclysm",
-    "dir": [
-      "(D) LDB Cataclysm"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350431,
-    "name": "(D) LDB - Currencies Legion",
-    "key": "d-ldb-currencies-legion",
-    "dir": [
-      "(D) LDB Legion"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350554,
-    "name": "(D) LDB - Currencies Lich King",
-    "key": "d-ldb-currencies-lich-king",
-    "dir": [
-      "(D) LDB Lich King"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350434,
-    "name": "(D) LDB - Currencies MOP",
-    "key": "d-ldb-currencies-mop",
-    "dir": [
-      "(D) LDB MOP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 350433,
-    "name": "(D) LDB - Currencies WOD",
-    "key": "d-ldb-currencies-wod",
-    "dir": [
-      "(D) LDB WOD"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 349763,
-    "name": "(D) LDB - Professions",
-    "key": "devil-ldb-professions",
-    "dir": [
-      "(D) LDB Professions"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 427,
@@ -19891,6 +19821,16 @@
     "mode": 1
   },
   {
+    "id": 530413,
+    "name": "Crit Tracker",
+    "key": "crit-tracker",
+    "dir": [
+      "CritTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 368578,
     "name": "CritChain CLASSIC",
     "key": "critchain-classic",
@@ -36771,6 +36711,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 530671,
+    "name": "Guildbook_TSDB",
+    "key": "guildbook_tsdb",
+    "dir": [
+      "Guildbook_TSDB"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 301230,
@@ -66888,6 +66838,16 @@
     "key": "reputationsorter",
     "dir": [
       "ReputationSorter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 530665,
+    "name": "Reputations",
+    "key": "reputations",
+    "dir": [
+      "Reputations"
     ],
     "source": "curse",
     "mode": 1
