@@ -14130,6 +14130,16 @@
     "mode": 2
   },
   {
+    "id": 527748,
+    "name": "CEPGP Lore",
+    "key": "cepgp-lore",
+    "dir": [
+      "CEPGP_Lore"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 406332,
     "name": "CEPGP No Officer Note",
     "key": "cepgp-no-officer-note",
@@ -27020,7 +27030,7 @@
       "ElvUI_PDBC"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 68948,
@@ -57355,16 +57365,6 @@
     "key": "ogri-lazy",
     "dir": [
       "Ogri'Lazy"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 488179,
-    "name": "Ogri'lazy Classic",
-    "key": "ogrilazy-classic",
-    "dir": [
-      "Ogri'Lazy Classic"
     ],
     "source": "curse",
     "mode": 1
