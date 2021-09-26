@@ -69758,26 +69758,6 @@
     "mode": 1
   },
   {
-    "id": 419751,
-    "name": "Shadowlands Pre Patch Boss EU",
-    "key": "shadowlands-pre-patch-boss",
-    "dir": [
-      "Shadowlands Pre Patch Boss EU"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 420644,
-    "name": "Shadowlands Pre Patch Boss NA",
-    "key": "shadowlands-pre-patch-boss-na",
-    "dir": [
-      "Shadowlands Pre Patch Boss NA"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 488574,
     "name": "Shadowstep Trainer",
     "key": "shadowstep-trainer",
