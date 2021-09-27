@@ -212,6 +212,26 @@
     "mode": 1
   },
   {
+    "id": 530766,
+    "name": "(D) Broker Currency Plus",
+    "key": "d-broker-currency-plus",
+    "dir": [
+      "(D)BrokerCurrencyPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 530777,
+    "name": "(D) Broker Durability Plus",
+    "key": "d-broker-durability-plus",
+    "dir": [
+      "(D)BrokerDurabilityPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 530468,
     "name": "(D) Broker Volume ",
     "key": "d-broker-volume",
@@ -15566,6 +15586,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 531109,
+    "name": "Chat Cleaner",
+    "key": "chat-cleaner",
+    "dir": [
+      "ChatCleaner"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 347753,
@@ -32792,6 +32822,16 @@
     "mode": 1
   },
   {
+    "id": 530769,
+    "name": "Gathermate2 Gas Clouds",
+    "key": "gathermate2-gas-clouds",
+    "dir": [
+      "GatherMate2_GasClouds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 31618,
     "name": "Gear Grinder",
     "key": "titan-panel-vp-cap-progress",
@@ -45187,6 +45227,16 @@
     "mode": 1
   },
   {
+    "id": 531221,
+    "name": "LFGChatFilter",
+    "key": "lfgchatfilter",
+    "dir": [
+      "LFGChatFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 492235,
     "name": "LFGFilter",
     "key": "lfgfilter",
@@ -53699,6 +53749,16 @@
     "key": "motivateui",
     "dir": [
       "MotivateUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 531219,
+    "name": "Mount Collection Log | MCL",
+    "key": "mount-collection-log-mcl",
+    "dir": [
+      "MCL"
     ],
     "source": "curse",
     "mode": 1
@@ -68275,6 +68335,16 @@
     "mode": 3
   },
   {
+    "id": 531190,
+    "name": "Saksun",
+    "key": "saksun",
+    "dir": [
+      "saksun"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 398379,
     "name": "Salad_Cthun",
     "key": "salad_cthun",
@@ -81281,7 +81351,7 @@
       "TradeSkillExporter"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14834,
@@ -84665,6 +84735,16 @@
     "mode": 1
   },
   {
+    "id": 530732,
+    "name": "What To Expect",
+    "key": "what-to-expect",
+    "dir": [
+      "WTE"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44419,
     "name": "What's Next?",
     "key": "whatsnext",
@@ -85174,7 +85254,7 @@
   },
   {
     "id": 338843,
-    "name": "Whoa ThickFrames (for Wow Classic)",
+    "name": "Whoa ThickFrames (Classic / BCC)",
     "key": "whoa-thickframes-for-wow-classic",
     "dir": [
       "whoaThickFrames_BCC",
@@ -86527,7 +86607,8 @@
     "name": "Wyr3d's Icy Veins Stats Priorities",
     "key": "wyr3ds-icy-veins-statistic-prior",
     "dir": [
-      "Wyr3d_IcyVeins_Stats"
+      "Wyr3d_IcyVeins_Stats",
+      "IcyVeins_Stats"
     ],
     "source": "curse",
     "mode": 1
@@ -91146,6 +91227,16 @@
     "mode": 1
   },
   {
+    "id": 530905,
+    "name": "rBottomBarStyler - for TBC",
+    "key": "rbottombarstyler-for-tbc",
+    "dir": [
+      "rBottomBarStyler"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101171,
     "name": "rButtonTemplate_Gm",
     "key": "rbuttontemplate_gm",
@@ -91967,7 +92058,7 @@
   },
   {
     "id": 338841,
-    "name": "whoa UnitFrames (for WoW Classic)",
+    "name": "whoa UnitFrames (Classic / BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
       "whoaUnitFrames_BCC",
