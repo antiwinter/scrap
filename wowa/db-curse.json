@@ -4172,7 +4172,8 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarker"
+      "ArenaMarker",
+      "ArenaMarkerRetail"
     ],
     "source": "curse",
     "mode": 1
