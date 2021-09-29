@@ -22307,23 +22307,23 @@
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Outlands",
+      "DBM-Azeroth",
       "DBM-Party-Classic",
-      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BlackTemple",
       "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-Outlands",
+      "DBM-Party-BC",
+      "DBM-BlackTemple",
       "DBM-Hyjal",
       "DBM-Karazhan",
-      "DBM-MC",
-      "DBM-Naxx",
-      "DBM-Onyxia",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZG",
       "DBM-ZulAman"
     ],
     "source": "curse",
@@ -60439,7 +60439,7 @@
   },
   {
     "id": 307518,
-    "name": "Platecolor",
+    "name": "PlateColor",
     "key": "platecolor",
     "dir": [
       "PlateColor"
@@ -83475,8 +83475,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
-      "Viks_ConfigUI"
+      "Viks_ConfigUI",
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
