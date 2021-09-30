@@ -6924,6 +6924,16 @@
     "mode": 1
   },
   {
+    "id": 531745,
+    "name": "Autosell Azerite Armor",
+    "key": "autosell-azerite-armor",
+    "dir": [
+      "autosell_azerite"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88621,
     "name": "Auz's GoldTracker",
     "key": "auzs-goldtracker",
@@ -9810,7 +9820,8 @@
     "name": "Better Wardrobe and Transmog",
     "key": "better-wardrobe-and-transmog",
     "dir": [
-      "BetterWardrobe"
+      "BetterWardrobe",
+      "BetterWardrobe_SourceData"
     ],
     "source": "curse",
     "mode": 1
@@ -22958,9 +22969,9 @@
     "name": "Def's Toolbox",
     "key": "defs-toolbox",
     "dir": [
-      "Defs-Toolbox-Classic",
       "Defs-Toolbox",
-      "Defs-Toolbox-TBC"
+      "Defs-Toolbox-TBC",
+      "Defs-Toolbox-Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -37409,6 +37420,16 @@
     "mode": 1
   },
   {
+    "id": 530625,
+    "name": "HandyNotes: Collection",
+    "key": "handynotes-collection",
+    "dir": [
+      "HandyNotes_Collection"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 419032,
     "name": "HandyNotes: Covenant Sanctum",
     "key": "handynotes-covenant-sanctum",
@@ -51514,11 +51535,11 @@
     "mode": 1
   },
   {
-    "id": 494037,
-    "name": "MasterCore",
-    "key": "mastercore",
+    "id": 532223,
+    "name": "MasterPrepare",
+    "key": "masterprepare",
     "dir": [
-      "MasterCore"
+      "MasterPrepare"
     ],
     "source": "curse",
     "mode": 2
@@ -55451,9 +55472,9 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossipClassicEra",
       "NPCRPGossip",
-      "NPCRPGossipClassic"
+      "NPCRPGossipClassic",
+      "NPCRPGossipClassicEra"
     ],
     "source": "curse",
     "mode": 3
@@ -92117,6 +92138,16 @@
     "key": "wowrep-io",
     "dir": [
       "wowrepio"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 532076,
+    "name": "xBag",
+    "key": "xbag",
+    "dir": [
+      "xBag"
     ],
     "source": "curse",
     "mode": 1
