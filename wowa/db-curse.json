@@ -4744,7 +4744,7 @@
       "AshToAsh_BlizzardSkin"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 87887,
@@ -19783,6 +19783,16 @@
     "mode": 3
   },
   {
+    "id": 532003,
+    "name": "CraftTree",
+    "key": "crafttree",
+    "dir": [
+      "CraftTree"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20253,
     "name": "Crafthelper",
     "key": "crafthelper",
@@ -22318,23 +22328,23 @@
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Azeroth",
+      "DBM-Outlands",
       "DBM-Party-Classic",
+      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Outlands",
-      "DBM-Party-BC",
+      "DBM-Azeroth",
       "DBM-BlackTemple",
+      "DBM-BWL",
       "DBM-Hyjal",
       "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
+      "DBM-ZG",
       "DBM-ZulAman"
     ],
     "source": "curse",
@@ -39550,6 +39560,16 @@
     "mode": 1
   },
   {
+    "id": 532455,
+    "name": "HideAchievements",
+    "key": "hideachievements",
+    "dir": [
+      "HideAchievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 376500,
     "name": "HideActionBarArt",
     "key": "hideactionbarart",
@@ -44706,7 +44726,7 @@
       "KiwiMBC"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 95612,
