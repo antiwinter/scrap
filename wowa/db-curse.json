@@ -19655,24 +19655,6 @@
     "mode": 1
   },
   {
-    "id": 436144,
-    "name": "CovDB",
-    "key": "covdb",
-    "dir": [
-      "CovDB_EU_A",
-      "CovDB_EU_H",
-      "CovDB_KR_A",
-      "CovDB_KR_H",
-      "CovDB_TW_A",
-      "CovDB_TW_H",
-      "CovDB_US_A",
-      "CovDB_US_H",
-      "CovDB"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 425983,
     "name": "Covenant Mission Success Estimates",
     "key": "simple-covenant-mission-success-estimates",
@@ -22291,8 +22273,8 @@
     "name": "Dead Pool Gambling",
     "key": "deadpool",
     "dir": [
-      "Deadpool",
-      "CustomAchiever"
+      "CustomAchiever",
+      "Deadpool"
     ],
     "source": "curse",
     "mode": 3
@@ -55801,10 +55783,11 @@
     "name": "Narcissus",
     "key": "narcissus",
     "dir": [
-      "Narcissus",
       "Narcissus_Database_NPC",
       "Narcissus_Barbershop",
-      "Narcissus_Database_Item"
+      "Narcissus_Database_Item",
+      "Narcissus",
+      "Narcissus_Achievements"
     ],
     "source": "curse",
     "mode": 1
@@ -68395,6 +68378,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 527246,
+    "name": "Salen's Little Helper",
+    "key": "salens-little-helper",
+    "dir": [
+      "SalensLittleHelper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 408862,
