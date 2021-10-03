@@ -19108,7 +19108,7 @@
       "ConsumableTracker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 264080,
@@ -38212,6 +38212,13 @@
       "HealBot_it",
       "HealBot_kr",
       "HealBot_Options",
+      "HealBot_Plugin_CombatProt",
+      "HealBot_Plugin_ExtraButtons",
+      "HealBot_Plugin_Performance",
+      "HealBot_Plugin_QuickSet",
+      "HealBot_Plugin_Threat",
+      "HealBot_Plugin_TimeToDie",
+      "HealBot_Plugin_TimeToLive",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw",
@@ -38298,6 +38305,13 @@
       "HealBot_it",
       "HealBot_kr",
       "HealBot_Options",
+      "HealBot_Plugin_CombatProt",
+      "HealBot_Plugin_ExtraButtons",
+      "HealBot_Plugin_Performance",
+      "HealBot_Plugin_QuickSet",
+      "HealBot_Plugin_Threat",
+      "HealBot_Plugin_TimeToDie",
+      "HealBot_Plugin_TimeToLive",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw",
@@ -52969,6 +52983,16 @@
     "key": "missionhush",
     "dir": [
       "MissionHush"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 461804,
+    "name": "Mission Report Button Plus",
+    "key": "mission-report-button-plus",
+    "dir": [
+      "MissionReportButtonPlus"
     ],
     "source": "curse",
     "mode": 1
@@ -92096,8 +92120,8 @@
     "name": "whoa UnitFrames (Classic / BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_BCC",
-      "whoaUnitFrames_Classic"
+      "whoaUnitFrames_Classic",
+      "whoaUnitFrames_BCC"
     ],
     "source": "curse",
     "mode": 3
