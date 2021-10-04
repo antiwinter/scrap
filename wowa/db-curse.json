@@ -2999,32 +2999,32 @@
     "name": "Altoholic",
     "key": "altoholic",
     "dir": [
+      "Altoholic_Options",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Achievements",
+      "DataStore_Agenda",
+      "DataStore_Auctions",
+      "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
       "DataStore_Inventory",
       "DataStore_Mails",
+      "DataStore_Pets",
       "DataStore_Quests",
       "DataStore_Reputations",
       "DataStore_Spells",
+      "DataStore_Stats",
       "DataStore_Talents",
       "Altoholic",
+      "Altoholic_Achievements",
       "Altoholic_Agenda",
       "Altoholic_Characters",
       "Altoholic_Grids",
       "Altoholic_Guild",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Agenda",
-      "DataStore_Auctions",
-      "DataStore_Characters",
       "DataStore",
-      "Altoholic_Options",
-      "DataStore_Achievements",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
-      "DataStore_Pets",
-      "DataStore_Stats",
-      "Altoholic_Achievements",
       "AddonFactory"
     ],
     "source": "curse",
@@ -38212,13 +38212,6 @@
       "HealBot_it",
       "HealBot_kr",
       "HealBot_Options",
-      "HealBot_Plugin_CombatProt",
-      "HealBot_Plugin_ExtraButtons",
-      "HealBot_Plugin_Performance",
-      "HealBot_Plugin_QuickSet",
-      "HealBot_Plugin_Threat",
-      "HealBot_Plugin_TimeToDie",
-      "HealBot_Plugin_TimeToLive",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw",
@@ -38305,13 +38298,6 @@
       "HealBot_it",
       "HealBot_kr",
       "HealBot_Options",
-      "HealBot_Plugin_CombatProt",
-      "HealBot_Plugin_ExtraButtons",
-      "HealBot_Plugin_Performance",
-      "HealBot_Plugin_QuickSet",
-      "HealBot_Plugin_Threat",
-      "HealBot_Plugin_TimeToDie",
-      "HealBot_Plugin_TimeToLive",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw",
@@ -39937,6 +39923,16 @@
     "mode": 1
   },
   {
+    "id": 532921,
+    "name": "HideRetail",
+    "key": "hideretail",
+    "dir": [
+      "HideRetail"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101110,
     "name": "HideTalentAlert",
     "key": "hidetalentalert",
@@ -40988,6 +40984,16 @@
     "key": "ikicked",
     "dir": [
       "IKicked"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 531530,
+    "name": "IMC - Invoke Missing Consumables",
+    "key": "imc-invoke-missing-consumables",
+    "dir": [
+      "Invoke Missing Consumables"
     ],
     "source": "curse",
     "mode": 1
@@ -43075,6 +43081,16 @@
     "key": "jphf",
     "dir": [
       "JPHF"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 533162,
+    "name": "JRK Emotes",
+    "key": "jrk-emotes",
+    "dir": [
+      "JRKEmotes"
     ],
     "source": "curse",
     "mode": 1
@@ -45375,6 +45391,16 @@
     "mode": 1
   },
   {
+    "id": 532787,
+    "name": "LFM+",
+    "key": "lfm",
+    "dir": [
+      "LFM+"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 263145,
     "name": "LFR Call to arms CTA",
     "key": "lfr-call-to-arms-cta",
@@ -46256,6 +46282,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 533260,
+    "name": "Lemmo's BookStore Reborn",
+    "key": "lemmos-bookstore-reborn",
+    "dir": [
+      "Lemmos_BookStore_reborn"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 422999,
@@ -49798,6 +49834,16 @@
     "key": "mfclip",
     "dir": [
       "MFClip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 532969,
+    "name": "MHC Lady Vashj",
+    "key": "mhc-lady-vashj",
+    "dir": [
+      "MHC-Lady-Vashj"
     ],
     "source": "curse",
     "mode": 1
@@ -76963,6 +77009,16 @@
     "mode": 1
   },
   {
+    "id": 532972,
+    "name": "TaintedCore -- a Serpentshrine Cavern (SSC): Lady Vashj Tainted Core Announcer",
+    "key": "taintedcore-a-serpentshrine-cavern-ssc-lady-vashj",
+    "dir": [
+      "TaintedCore"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88189,
     "name": "Take Ashran Portal",
     "key": "take-ashran-portal",
@@ -87672,6 +87728,16 @@
     "key": "zentracker",
     "dir": [
       "ZenTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 533049,
+    "name": "ZeraTooltip",
+    "key": "zeratooltip",
+    "dir": [
+      "ZeraTooltip"
     ],
     "source": "curse",
     "mode": 1
