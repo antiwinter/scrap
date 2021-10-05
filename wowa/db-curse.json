@@ -44866,7 +44866,7 @@
   },
   {
     "id": 347330,
-    "name": "Konfer Suicide Kings (KSK) for Classic WoW",
+    "name": "Konfer Suicide Kings (KSK) for Classic TBC",
     "key": "ksk-classic",
     "dir": [
       "KKonferSK"
@@ -56474,16 +56474,6 @@
     "key": "no-boralus-map",
     "dir": [
       "NoBoralusMap"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 529664,
-    "name": "No Chilling Summons",
-    "key": "no-chilling-summons",
-    "dir": [
-      "NCS_NoChillingSummons"
     ],
     "source": "curse",
     "mode": 1
@@ -72394,6 +72384,16 @@
     "mode": 3
   },
   {
+    "id": 529664,
+    "name": "Skip Shadowlands (No Chilling Summons)",
+    "key": "no-chilling-summons",
+    "dir": [
+      "NCS_NoChillingSummons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87520,
     "name": "Skip all the Things!",
     "key": "skipallthethings",
@@ -83137,7 +83137,7 @@
   },
   {
     "id": 527813,
-    "name": "Vashj Planner",
+    "name": "Vashj Planner [not working properly, read desc]",
     "key": "vashj-planner",
     "dir": [
       "VashPlanner"
