@@ -8936,12 +8936,11 @@
     "name": "BastionLoot",
     "key": "bastionloot",
     "dir": [
-      "BastionEPGP",
       "BastionLoot_Gearpoints-1.2",
       "BastionLoot"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 79863,
@@ -40721,6 +40720,16 @@
     "key": "hyperframe",
     "dir": [
       "Hyperframe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 533840,
+    "name": "Hyperlegible",
+    "key": "hyperlegible",
+    "dir": [
+      "Hyperlegible"
     ],
     "source": "curse",
     "mode": 1
