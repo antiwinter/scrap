@@ -2220,6 +2220,16 @@
     "mode": 1
   },
   {
+    "id": 534627,
+    "name": "AdiBags_Domination",
+    "key": "adibags_domination",
+    "dir": [
+      "AdiBags_Domination"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89334,
     "name": "AdiBags_Garrison",
     "key": "adibags_garrison",
@@ -11641,6 +11651,16 @@
     "key": "bonusrollpreview",
     "dir": [
       "BonusRollPreview"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 534241,
+    "name": "Booger",
+    "key": "booger",
+    "dir": [
+      "Booger"
     ],
     "source": "curse",
     "mode": 1
@@ -22315,10 +22335,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
       "DBM-Azeroth",
       "DBM-Party-Classic",
       "DBM-AQ20",
@@ -22336,7 +22352,11 @@
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-ZulAman",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination"
     ],
     "source": "curse",
     "mode": 3
@@ -27266,6 +27286,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 534316,
+    "name": "ElvUI_FriendlyCastTimes",
+    "key": "elvui_friendlycasttimes",
+    "dir": [
+      "ElvUI_FriendlyCastTimes"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 409762,
@@ -36053,6 +36083,16 @@
     "mode": 1
   },
   {
+    "id": 534294,
+    "name": "Guidelime_StarHorde",
+    "key": "guidelime_starhorde",
+    "dir": [
+      "Guidelime_StarHorde"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 485412,
     "name": "Guidelime_Summersisle | Horde | 1-70 |",
     "key": "guidelime_summersisle-horde-1-70",
@@ -40020,7 +40060,7 @@
       "HighlightTradeItems"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 382753,
@@ -46328,6 +46368,16 @@
     "key": "lemmos-refillammo",
     "dir": [
       "Lemmos_RefillAmmo"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 534490,
+    "name": "Lemmo's Sell Greys",
+    "key": "lemmos-sell-greys",
+    "dir": [
+      "Lemmos_Sell_Greys"
     ],
     "source": "curse",
     "mode": 3
@@ -60726,6 +60776,16 @@
     "key": "playtime-total-playtime-tracker",
     "dir": [
       "Playtime"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 534497,
+    "name": "Playtime Command",
+    "key": "playtime-command",
+    "dir": [
+      "TotalPlaytime"
     ],
     "source": "curse",
     "mode": 1
@@ -82959,10 +83019,10 @@
     "name": "Upload Test QA",
     "key": "upload-test-qa",
     "dir": [
-      "testprojekt"
+      "multi"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 34474,
