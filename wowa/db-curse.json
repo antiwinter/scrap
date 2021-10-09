@@ -13683,8 +13683,8 @@
     "name": "Buffomat Classic",
     "key": "buffomat-classic",
     "dir": [
-      "BuffomatClassicTBC",
-      "BuffomatClassic"
+      "BuffomatClassic",
+      "BuffomatClassicTBC"
     ],
     "source": "curse",
     "mode": 3
@@ -83976,6 +83976,16 @@
     "key": "wcccaddon",
     "dir": [
       "WCCCAddOn"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 534360,
+    "name": "WCLRanks",
+    "key": "wclranks",
+    "dir": [
+      "WCLRanks"
     ],
     "source": "curse",
     "mode": 1
