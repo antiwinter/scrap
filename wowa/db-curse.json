@@ -36,7 +36,8 @@
     "key": "pig",
     "dir": [
       "!Pig_classic_era",
-      "!Pig_classic_tbc"
+      "!Pig_classic_tbc",
+      "!Pig"
     ],
     "source": "curse",
     "mode": 3
@@ -2880,6 +2881,16 @@
     "key": "alt-paragon-tracker",
     "dir": [
       "ParagonRepTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 525642,
+    "name": "Alt Tracker",
+    "key": "alt-tracker",
+    "dir": [
+      "AltTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -26750,11 +26761,41 @@
     "mode": 3
   },
   {
+    "id": 535517,
+    "name": "ElvUI DataText Expertise",
+    "key": "elvui-datatext-expertise",
+    "dir": [
+      "ElvUI_ExpertiseDT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 535530,
+    "name": "ElvUI DataText Resilience",
+    "key": "elvui-datatext-resilience",
+    "dir": [
+      "ElvUI_ResilienceDT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 93977,
     "name": "ElvUI Datatext Bars 2",
     "key": "elvui-datatext-bars-2",
     "dir": [
       "ElvUI_DTBars2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 535533,
+    "name": "ElvUI Datatext Hit Melee (correction)",
+    "key": "elvui-datatext-hit-melee-correction",
+    "dir": [
+      "ElvUI_HitCorrectedDT"
     ],
     "source": "curse",
     "mode": 1
@@ -40083,6 +40124,16 @@
     "mode": 1
   },
   {
+    "id": 534949,
+    "name": "Hildi Sim Gear Export (200IQ)",
+    "key": "hildi-sim-gear-export-200iq",
+    "dir": [
+      "200IQ"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 497148,
     "name": "HintMeRank",
     "key": "hintmerank",
@@ -49798,6 +49849,16 @@
     "mode": 1
   },
   {
+    "id": 535157,
+    "name": "M+ Rating Gain",
+    "key": "mythic-plus-rating-gain",
+    "dir": [
+      "MythicPlusRatingGain"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 61326,
     "name": "M4A1 Carbine Silencer/Suppressor/Crossbow/Bow Sound Pack",
     "key": "m4a1-carbine-silencersuppressor",
@@ -58489,6 +58550,16 @@
     "mode": 1
   },
   {
+    "id": 535401,
+    "name": "PTR Issue Hide",
+    "key": "ptr-issue-hide",
+    "dir": [
+      "PTRIssueHide"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 380267,
     "name": "PUG Hero",
     "key": "pug-hero",
@@ -66795,6 +66866,16 @@
     "mode": 1
   },
   {
+    "id": 534176,
+    "name": "RenRaidExport",
+    "key": "renraidexport",
+    "dir": [
+      "RenRaidExport"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 49719,
     "name": "Renewing Mist Tracker",
     "key": "renewing-mist-tracker",
@@ -68487,6 +68568,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 534905,
+    "name": "Safe Powershift",
+    "key": "safe-powershift",
+    "dir": [
+      "SafePowershift"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 29171,
@@ -77862,6 +77953,16 @@
     "mode": 1
   },
   {
+    "id": 452497,
+    "name": "Test-Test-Test",
+    "key": "test-test-test",
+    "dir": [
+      "testprojekt"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 19829,
     "name": "Tetra",
     "key": "tetra",
@@ -83003,16 +83104,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 452497,
-    "name": "Upload QA Stuff",
-    "key": "upload-qa-stuff",
-    "dir": [
-      "testprojekt"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 450588,
