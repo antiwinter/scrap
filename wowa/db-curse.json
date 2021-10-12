@@ -7865,6 +7865,26 @@
     "mode": 1
   },
   {
+    "id": 535838,
+    "name": "BabbiWatch Korean Voice Pack Lanna-FX",
+    "key": "babbiwatch-voice-pack-lanna-fx",
+    "dir": [
+      "BabbiWatch_VPKR_Lanna_FX"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 535837,
+    "name": "BabbiWatch Korean Voice Pack Lanna-NOFX",
+    "key": "babbiwatch-voice-pack-lanna-nofx",
+    "dir": [
+      "BabbiWatch_VPKR_Lanna_NOFX"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 457155,
     "name": "BabbiWatch Voice Pack Dani",
     "key": "babbiwatch-voice-pack-dani",
@@ -23146,7 +23166,7 @@
       "DejaDeBuffTracker"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 44708,
@@ -23246,7 +23266,7 @@
       "DejaUFClassic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 85472,
@@ -80954,6 +80974,16 @@
     "mode": 1
   },
   {
+    "id": 535575,
+    "name": "TopTarget",
+    "key": "toptarget",
+    "dir": [
+      "TopTarget"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102696,
     "name": "ToraRange",
     "key": "torarange",
@@ -87730,6 +87760,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 535721,
+    "name": "ZPownage",
+    "key": "zpownage",
+    "dir": [
+      "ZPownage"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 319677,
