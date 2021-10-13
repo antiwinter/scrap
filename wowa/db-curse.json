@@ -7855,6 +7855,16 @@
     "mode": 1
   },
   {
+    "id": 535859,
+    "name": "BabbiWatch English Voice Pack Lanna-NOFX",
+    "key": "babbiwatch-english-voice-pack-lanna-nofx",
+    "dir": [
+      "BabbiWatch_VPUS_Lanna_NOFX"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 495992,
     "name": "BabbiWatch Expension Heroes of the Battleground",
     "key": "babbiwatch-expension-heroes-of-the-battleground",
@@ -10073,6 +10083,17 @@
     "key": "wowraretracker",
     "dir": [
       "WoWRareTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 536009,
+    "name": "BiS Best In Slot Items Tooltip TBC Phase 2",
+    "key": "bis-best-in-slot-items-tooltip-tbc-phase-2",
+    "dir": [
+      "FatExoLink_BIS",
+      "FatExoLink"
     ],
     "source": "curse",
     "mode": 1
@@ -26911,6 +26932,16 @@
     "mode": 1
   },
   {
+    "id": 534316,
+    "name": "ElvUI Friendly Cast Times",
+    "key": "elvui_friendlycasttimes",
+    "dir": [
+      "ElvUI_FriendlyCastTimes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 87690,
     "name": "ElvUI Garrison Resources DataText",
     "key": "elvui_garrisonres",
@@ -27347,16 +27378,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 534316,
-    "name": "ElvUI_FriendlyCastTimes",
-    "key": "elvui_friendlycasttimes",
-    "dir": [
-      "ElvUI_FriendlyCastTimes"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 409762,
@@ -43364,6 +43385,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 536126,
+    "name": "Jarspeedo",
+    "key": "jarspeedo",
+    "dir": [
+      "Jarspeedo"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 261267,
