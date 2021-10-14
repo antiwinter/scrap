@@ -35,12 +35,10 @@
     "name": "!Pig",
     "key": "pig",
     "dir": [
-      "!Pig_classic_era",
-      "!Pig_classic_tbc",
       "!Pig"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86146,
@@ -7850,6 +7848,16 @@
     "key": "babbiwatch",
     "dir": [
       "BabbiWatch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 535860,
+    "name": "BabbiWatch English Voice Pack Lanna-FX",
+    "key": "babbiwatch-english-voice-pack-lanna-fx",
+    "dir": [
+      "BabbiWatch_VPUS_Lanna_FX"
     ],
     "source": "curse",
     "mode": 1
@@ -45056,6 +45064,16 @@
     "mode": 1
   },
   {
+    "id": 536187,
+    "name": "KorthiaRelics",
+    "key": "korthiarelics",
+    "dir": [
+      "KorthiaRelics"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 353676,
     "name": "KreicUI",
     "key": "kreicui",
@@ -49895,16 +49913,6 @@
     "key": "lynstats-tbc-classic",
     "dir": [
       "LynStats"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 535157,
-    "name": "M+ Rating Gain",
-    "key": "mythic-plus-rating-gain",
-    "dir": [
-      "MythicPlusRatingGain"
     ],
     "source": "curse",
     "mode": 1
@@ -55495,6 +55503,16 @@
     "key": "mythic-plus-loot",
     "dir": [
       "MythicPlusLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 535157,
+    "name": "Mythic Plus Rating Gain",
+    "key": "mythic-plus-rating-gain",
+    "dir": [
+      "MythicPlusRatingGain"
     ],
     "source": "curse",
     "mode": 1
@@ -92427,8 +92445,8 @@
     "name": "whoa UnitFrames (Classic / BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_BCC",
-      "whoaUnitFrames_Classic"
+      "whoaUnitFrames_Classic",
+      "whoaUnitFrames_BCC"
     ],
     "source": "curse",
     "mode": 3
