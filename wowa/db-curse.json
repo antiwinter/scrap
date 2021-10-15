@@ -1074,6 +1074,16 @@
     "mode": 1
   },
   {
+    "id": 536115,
+    "name": "AceBIS",
+    "key": "acebis",
+    "dir": [
+      "AceBIS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 22821,
     "name": "AceGUI-3.0-ActionSlotWidgets",
     "key": "ace-gui-3-0-action-slot-widgets",
@@ -71337,7 +71347,7 @@
       "SilentRotate"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 413697,
@@ -81607,6 +81617,16 @@
     "mode": 1
   },
   {
+    "id": 536508,
+    "name": "Trade Skill Whisper",
+    "key": "trade-skill-whisper",
+    "dir": [
+      "TradeSkillWhisper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101320,
     "name": "Trade Skills Read Easier",
     "key": "tradeskillsreadeasier",
@@ -88684,8 +88704,7 @@
     "name": "alaChat_Classic",
     "key": "alachat_classic",
     "dir": [
-      "alaChat",
-      "alaChat_Classic"
+      "alaChat"
     ],
     "source": "curse",
     "mode": 3
