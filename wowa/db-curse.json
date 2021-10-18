@@ -32503,7 +32503,6 @@
     "name": "Gargul",
     "key": "gargul",
     "dir": [
-      "EssentialDKP",
       "Gargul"
     ],
     "source": "curse",
@@ -34452,6 +34451,16 @@
     "key": "gold-tracker-plus",
     "dir": [
       "GoldTrackerPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 525134,
+    "name": "GoldBankerNew",
+    "key": "goldbankernew",
+    "dir": [
+      "GoldBanker"
     ],
     "source": "curse",
     "mode": 1
@@ -50053,6 +50062,16 @@
     "key": "micromenubagsandtooltipmodifier",
     "dir": [
       "MMBT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 537583,
+    "name": "MMR (Match Making Rating) Recorder",
+    "key": "mmr-recorder",
+    "dir": [
+      "!mmr"
     ],
     "source": "curse",
     "mode": 1
@@ -78873,6 +78892,16 @@
     "mode": 1
   },
   {
+    "id": 537010,
+    "name": "Timelines",
+    "key": "timelines",
+    "dir": [
+      "Timelines"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 337415,
     "name": "TimerBars",
     "key": "timerbars",
@@ -85208,6 +85237,16 @@
     "key": "whatchasay",
     "dir": [
       "WhatchaSay"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 537000,
+    "name": "Whats The Price",
+    "key": "whats-the-price",
+    "dir": [
+      "WhatsThePrice"
     ],
     "source": "curse",
     "mode": 1
