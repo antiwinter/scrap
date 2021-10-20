@@ -48258,13 +48258,23 @@
   },
   {
     "id": 336268,
-    "name": "LibTourist Classic",
+    "name": "LibTourist Classic (TBC)",
     "key": "libtourist-classic",
     "dir": [
       "LibTouristClassic-1.0"
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 538212,
+    "name": "LibTourist Classic Era",
+    "key": "libtourist-classic-era",
+    "dir": [
+      "LibTouristClassicEra"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 14330,
@@ -71966,6 +71976,16 @@
     "mode": 1
   },
   {
+    "id": 538192,
+    "name": "SimpleAchievements",
+    "key": "simpleachievements",
+    "dir": [
+      "SimpleAchievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 396422,
     "name": "SimpleActionBars",
     "key": "simpleactionbars",
@@ -88242,7 +88262,7 @@
   },
   {
     "id": 345031,
-    "name": "ZoneInfo Classic",
+    "name": "ZoneInfo Classic (TBC)",
     "key": "zoneinfo-classic",
     "dir": [
       "ZoneInfoClassic"
