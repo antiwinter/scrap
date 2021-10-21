@@ -391,6 +391,16 @@
     "mode": 1
   },
   {
+    "id": 22862,
+    "name": "AAV - atrox Arena Viewer",
+    "key": "aav-atrox-arena-viewer",
+    "dir": [
+      "aav"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361413,
     "name": "ABGP",
     "key": "abgp",
@@ -5469,6 +5479,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 97053,
+    "name": "AuctionHouse Mount Preview",
+    "key": "auctionhouse-mount-preview",
+    "dir": [
+      "AuctionHouseMountPreview"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 523554,
@@ -10704,6 +10724,16 @@
     "key": "bigger-combo-points",
     "dir": [
       "BiggerComboPoints"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 86064,
+    "name": "BiggerTradeskillUI",
+    "key": "biggertradeskillui",
+    "dir": [
+      "BiggerTradeskillUI"
     ],
     "source": "curse",
     "mode": 1
@@ -16454,6 +16484,16 @@
     "mode": 1
   },
   {
+    "id": 280186,
+    "name": "Chris Perry",
+    "key": "removeannoyances",
+    "dir": [
+      "RemoveAnnoyances"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 444978,
     "name": "Chrispy-Chicken's Minimalist Addon",
     "key": "chrispy-chickens-minimalist-addon",
@@ -21932,6 +21972,16 @@
     "mode": 1
   },
   {
+    "id": 5492,
+    "name": "Dance Music",
+    "key": "dance-music",
+    "dir": [
+      "DanceMusic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 447568,
     "name": "DancinTime",
     "key": "dancintime",
@@ -27288,6 +27338,16 @@
     "mode": 1
   },
   {
+    "id": 101861,
+    "name": "ElvUI TankHealth",
+    "key": "elvui_tankhealth",
+    "dir": [
+      "ElvUI_TankHealth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 40518,
     "name": "ElvUI Titles Datatext",
     "key": "elvui_titlesdatatext",
@@ -30894,6 +30954,16 @@
     "mode": 2
   },
   {
+    "id": 90861,
+    "name": "FloodyDump",
+    "key": "floody-dump",
+    "dir": [
+      "FloodyDump"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 25188,
     "name": "Flourish",
     "key": "flourish",
@@ -33617,6 +33687,16 @@
     "mode": 1
   },
   {
+    "id": 101365,
+    "name": "GladiatorVoiceAlerter",
+    "key": "gladiatorvoicealerter",
+    "dir": [
+      "GladiatorVoiceAlerter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101527,
     "name": "GladiatorVoiceAlerter_JulieHP",
     "key": "gladiatorvoicealerter_juliehp",
@@ -33747,6 +33827,26 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 89803,
+    "name": "GladiatorlosSA_enUS_Male",
+    "key": "gladiatorlossa_enus_male",
+    "dir": [
+      "GladiatorlosSA_enUS_Male"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 30821,
+    "name": "GladiatorlosSA_frFR",
+    "key": "gladiatorlossa_frfr",
+    "dir": [
+      "GladiatorlosSA_frFR"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 87637,
@@ -34942,6 +35042,16 @@
     "key": "greatvaultanywhere",
     "dir": [
       "GreatVaultAnywhere"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 537595,
+    "name": "Greater Rune of Warding Tracker",
+    "key": "greater-rune-of-warding-tracker",
+    "dir": [
+      "grow_tracker"
     ],
     "source": "curse",
     "mode": 1
@@ -37981,6 +38091,16 @@
     "mode": 1
   },
   {
+    "id": 86352,
+    "name": "HandyNotes_DraenorTreasures",
+    "key": "handynotes_draenortreasures",
+    "dir": [
+      "HandyNotes_DraenorTreasures"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102768,
     "name": "HandyNotes_DungeonLocations",
     "key": "handynotes_dungeonlocations",
@@ -38167,6 +38287,16 @@
     "key": "handynotes_jetpacks",
     "dir": [
       "HandyNotes_Jetpacks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 100250,
+    "name": "Handynotes_LegionRares&Treasures",
+    "key": "handynotes_legionrarestreasures",
+    "dir": [
+      "HandyNotes_LegionRaresTreasures"
     ],
     "source": "curse",
     "mode": 1
@@ -40605,6 +40735,16 @@
     "key": "hotcorners",
     "dir": [
       "HotCorners"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 68408,
+    "name": "HotKeySwitcher",
+    "key": "hotkeyswitcher",
+    "dir": [
+      "HotKeySwitcher"
     ],
     "source": "curse",
     "mode": 1
@@ -47794,6 +47934,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 257942,
+    "name": "LibNotify-1.0",
+    "key": "libnotify-1-0",
+    "dir": [
+      "LibNotify-1.0"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 70930,
@@ -56752,6 +56902,16 @@
     "key": "no-map-emote",
     "dir": [
       "NoMapEmote"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 538508,
+    "name": "No More Errors",
+    "key": "no-more-errors",
+    "dir": [
+      "NoMoreErrors"
     ],
     "source": "curse",
     "mode": 1
@@ -72462,6 +72622,16 @@
     "mode": 1
   },
   {
+    "id": 30878,
+    "name": "Skada Graphs",
+    "key": "skada-graphs",
+    "dir": [
+      "SkadaGraph"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 79627,
     "name": "Skada Healthstones",
     "key": "skada-healthstones",
@@ -72507,6 +72677,16 @@
     "key": "skadastagger",
     "dir": [
       "SkadaStagger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 39957,
+    "name": "Skada for Tanks",
+    "key": "skada-for-tanks",
+    "dir": [
+      "SkadaForTanks"
     ],
     "source": "curse",
     "mode": 1
@@ -77302,6 +77482,16 @@
     "key": "take-ashran-portal",
     "dir": [
       "Take_Ashran_Portal"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 293439,
+    "name": "Taku's Morph Catalog",
+    "key": "takus-morph-catalog",
+    "dir": [
+      "TakusMorphCatalog"
     ],
     "source": "curse",
     "mode": 1
@@ -83741,6 +83931,16 @@
     "mode": 1
   },
   {
+    "id": 538576,
+    "name": "Venture Plan More Followers",
+    "key": "venture-plan-more-followers",
+    "dir": [
+      "VenturePlanMoreFollowers"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 382502,
     "name": "Verbose",
     "key": "verbose",
@@ -87575,6 +87775,16 @@
     "mode": 1
   },
   {
+    "id": 335479,
+    "name": "XpTracker",
+    "key": "xptracker",
+    "dir": [
+      "XpTracker"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 14931,
     "name": "Xparky",
     "key": "xparky",
@@ -88269,6 +88479,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 538401,
+    "name": "ZoneInfo Classic Era",
+    "key": "zoneinfo-classic-era",
+    "dir": [
+      "ZoneInfoClassicEra"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 312669,
