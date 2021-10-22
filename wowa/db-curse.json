@@ -49751,6 +49751,16 @@
     "mode": 1
   },
   {
+    "id": 538835,
+    "name": "Loss of Control Announcer",
+    "key": "loss-of-control-announcer",
+    "dir": [
+      "LossOfControlAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 265544,
     "name": "LossControlTip",
     "key": "losscontroltip",
@@ -77482,6 +77492,16 @@
     "key": "take-ashran-portal",
     "dir": [
       "Take_Ashran_Portal"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 537238,
+    "name": "Taku Guild Sync",
+    "key": "taku-guild-sync",
+    "dir": [
+      "TakuGuildSync"
     ],
     "source": "curse",
     "mode": 1
