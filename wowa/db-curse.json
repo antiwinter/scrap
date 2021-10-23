@@ -5598,7 +5598,7 @@
       "Auctionator"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 366826,
@@ -32156,6 +32156,16 @@
     "mode": 1
   },
   {
+    "id": 26208,
+    "name": "GHT - GCD Hack Tracker",
+    "key": "ght-gcd-hack-tracker",
+    "dir": [
+      "GcdHackTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 340983,
     "name": "GINV (Guild Invite)",
     "key": "ginv",
@@ -42702,6 +42712,16 @@
     "mode": 1
   },
   {
+    "id": 26708,
+    "name": "Inventorium",
+    "key": "inventory",
+    "dir": [
+      "Inventorium"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14206,
     "name": "InventoryLib",
     "key": "project-14206",
@@ -43032,6 +43052,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 26395,
+    "name": "ItemCount",
+    "key": "itemcount",
+    "dir": [
+      "ItemCount"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 359645,
@@ -89003,7 +89033,8 @@
     "name": "alaChat_Classic",
     "key": "alachat_classic",
     "dir": [
-      "alaChat"
+      "alaChat",
+      "alaChat_Classic"
     ],
     "source": "curse",
     "mode": 3
