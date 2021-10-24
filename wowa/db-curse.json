@@ -16272,6 +16272,16 @@
     "mode": 1
   },
   {
+    "id": 5901,
+    "name": "Cheaptard",
+    "key": "project-5901",
+    "dir": [
+      "Cheaptard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 253898,
     "name": "Cheatsheet",
     "key": "cheatsheet",
@@ -32549,6 +32559,16 @@
     "mode": 2
   },
   {
+    "id": 537075,
+    "name": "Gankstars",
+    "key": "gankstars",
+    "dir": [
+      "Gankstars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 46227,
     "name": "Gara'jalAnnounce",
     "key": "garajalannounce",
@@ -39429,6 +39449,16 @@
     "mode": 1
   },
   {
+    "id": 532455,
+    "name": "Hide Achievements",
+    "key": "hideachievements",
+    "dir": [
+      "HideAchievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 463847,
     "name": "Hide Arena Rating",
     "key": "hide-arena-rating",
@@ -39770,6 +39800,16 @@
     "mode": 1
   },
   {
+    "id": 532921,
+    "name": "Hide Retail",
+    "key": "hideretail",
+    "dir": [
+      "HideRetail"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 298548,
     "name": "Hide Social Button",
     "key": "hide-social-button",
@@ -39835,16 +39875,6 @@
     "key": "remove-default-actionbar",
     "dir": [
       "HideBlizzardDefaultBar"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 532455,
-    "name": "HideAchievements",
-    "key": "hideachievements",
-    "dir": [
-      "HideAchievements"
     ],
     "source": "curse",
     "mode": 1
@@ -40216,16 +40246,6 @@
     "key": "hideraidframespartynames",
     "dir": [
       "HideRaidframesPartyNames"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 532921,
-    "name": "HideRetail",
-    "key": "hideretail",
-    "dir": [
-      "HideRetail"
     ],
     "source": "curse",
     "mode": 1
@@ -58225,6 +58245,16 @@
     "mode": 3
   },
   {
+    "id": 23946,
+    "name": "OnlySkillups",
+    "key": "onlyskillups",
+    "dir": [
+      "OnlySkillups"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361219,
     "name": "Ony Bag Mate",
     "key": "ony-bag-mate",
@@ -62264,6 +62294,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 6354,
+    "name": "Procodile",
+    "key": "procodile",
+    "dir": [
+      "Procodile"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 15574,
@@ -71741,6 +71781,16 @@
     "mode": 1
   },
   {
+    "id": 538192,
+    "name": "Simple Achievements",
+    "key": "simpleachievements",
+    "dir": [
+      "SimpleAchievements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 1740,
     "name": "Simple Action Sets",
     "key": "simple-action-sets",
@@ -72171,16 +72221,6 @@
     "key": "simple-ilevel-avoidance",
     "dir": [
       "SimpleILevel_Avoidance"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 538192,
-    "name": "SimpleAchievements",
-    "key": "simpleachievements",
-    "dir": [
-      "SimpleAchievements"
     ],
     "source": "curse",
     "mode": 1
