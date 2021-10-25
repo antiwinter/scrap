@@ -5440,6 +5440,16 @@
     "mode": 2
   },
   {
+    "id": 539291,
+    "name": "Auction House Scan",
+    "key": "auction-house-scan",
+    "dir": [
+      "AuctionHouseScan"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 7644,
     "name": "Auction Snatch",
     "key": "auctionsnatch",
@@ -14356,6 +14366,16 @@
     "key": "ceplayer-bar",
     "dir": [
       "CEPlayerBar"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 539712,
+    "name": "CJ's Media",
+    "key": "cjs-media",
+    "dir": [
+      "CJMedia"
     ],
     "source": "curse",
     "mode": 1
@@ -38382,6 +38402,16 @@
     "mode": 2
   },
   {
+    "id": 539163,
+    "name": "Hardcore - Fixed",
+    "key": "hardcore-fixed",
+    "dir": [
+      "Hardcore"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 491317,
     "name": "Harmless Quest Rep Reward",
     "key": "harmless-quest-rep-reward",
@@ -47524,6 +47554,16 @@
     "mode": 3
   },
   {
+    "id": 457141,
+    "name": "LibEventSourcing",
+    "key": "libeventsourcing",
+    "dir": [
+      "LibEventSourcing"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 340714,
     "name": "LibExtendedType",
     "key": "libextendedtype",
@@ -53922,6 +53962,16 @@
     "key": "moncaiqt",
     "dir": [
       "MoncaiQuestTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 539283,
+    "name": "Money Toast",
+    "key": "money-toast",
+    "dir": [
+      "MoneyToast"
     ],
     "source": "curse",
     "mode": 1
@@ -63405,6 +63455,16 @@
     "key": "questcheck",
     "dir": [
       "QuestCheck"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 539357,
+    "name": "QuestChecker",
+    "key": "questchecker",
+    "dir": [
+      "QuestChecker"
     ],
     "source": "curse",
     "mode": 1
