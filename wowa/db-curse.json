@@ -2120,10 +2120,10 @@
   },
   {
     "id": 446518,
-    "name": "AdiBags Shadowlands Fish",
-    "key": "adibags-shadowlands-fish",
+    "name": "AdiBags Shadowlands Fishing",
+    "key": "adibags-shadowlands-fishing",
     "dir": [
-      "AdiBags_Shadowlands_Fish"
+      "AdiBags_Shadowlands_Fishing"
     ],
     "source": "curse",
     "mode": 1
