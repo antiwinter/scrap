@@ -5602,7 +5602,7 @@
   },
   {
     "id": 6124,
-    "name": "Auctionator",
+    "name": "Auctionator (Retail and Classic)",
     "key": "auctionator",
     "dir": [
       "Auctionator"
@@ -69513,6 +69513,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 541350,
+    "name": "Scrap Import",
+    "key": "scrap-import",
+    "dir": [
+      "Scrap_Import"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 292949,
