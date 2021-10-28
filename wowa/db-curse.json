@@ -394,11 +394,9 @@
     "id": 22862,
     "name": "AAV - atrox Arena Viewer",
     "key": "aav-atrox-arena-viewer",
-    "dir": [
-      "aav"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 361413,
@@ -486,11 +484,10 @@
     "name": "AFK Master",
     "key": "afktimer",
     "dir": [
-      "AFKTimer",
       "AFKMaster"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24805,
@@ -1097,11 +1094,9 @@
     "id": 22821,
     "name": "AceGUI-3.0-ActionSlotWidgets",
     "key": "ace-gui-3-0-action-slot-widgets",
-    "dir": [
-      "AceGUI-3.0-ActionSlotWidgets"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 27229,
@@ -1167,11 +1162,9 @@
     "id": 20182,
     "name": "AceGUI-3.0-Spell-EditBox",
     "key": "ace-gui-3-0-spell-editbox",
-    "dir": [
-      "AceGUI-3.0-Spell-EditBox"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 340803,
@@ -1499,7 +1492,6 @@
     "name": "ActionPad",
     "key": "actionpad",
     "dir": [
-      "ShadowPad",
       "ActionPad"
     ],
     "source": "curse",
@@ -1540,11 +1532,10 @@
     "name": "AdaptiveRes",
     "key": "adaptiveres",
     "dir": [
-      "Async",
       "AdaptiveRes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 399222,
@@ -1787,7 +1778,7 @@
       "AdiBags-BetterCategories"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 294318,
@@ -1862,11 +1853,9 @@
     "id": 499159,
     "name": "AdiBags - ItemRackSets - TBC",
     "key": "adibags-itemracksets-tbc",
-    "dir": [
-      "AdiBags-ItemRackSets"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 447404,
@@ -1882,11 +1871,9 @@
     "id": 499574,
     "name": "AdiBags - Korthian Relics",
     "key": "adibags-korthian-relics",
-    "dir": [
-      "AdiBags_KorthianRelics"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 366993,
@@ -1922,11 +1909,9 @@
     "id": 504566,
     "name": "AdiBags - Nilganihmaht",
     "key": "adibags-nilganihmaht",
-    "dir": [
-      "AdiBags_Nilganihmaht"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 390065,
@@ -1982,11 +1967,9 @@
     "id": 501758,
     "name": "AdiBags - Shards of Domination",
     "key": "adibags-shards-of-domination",
-    "dir": [
-      "AdiBags_ShardsofDomination"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 445759,
@@ -2242,11 +2225,9 @@
     "id": 534627,
     "name": "AdiBags_Domination",
     "key": "adibags_domination",
-    "dir": [
-      "AdiBags_Domination"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 89334,
@@ -2546,6 +2527,7 @@
     "name": "AdvancedCastBar",
     "key": "advancedcastbar",
     "dir": [
+      "AdvancedCastBar",
       "AdvancedCastBar-v3.3",
       "AdvancedCastBar-3.3"
     ],
@@ -10474,6 +10456,16 @@
     "key": "bigwigs_voice_ru",
     "dir": [
       "BigWigs_Voice_RU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 541509,
+    "name": "BigWigs Voice Natural",
+    "key": "bigwigs-voice-natural",
+    "dir": [
+      "BigWigs_Voice_Natural"
     ],
     "source": "curse",
     "mode": 1
@@ -20824,6 +20816,16 @@
     "mode": 1
   },
   {
+    "id": 541513,
+    "name": "DBM Voice Pack Natural",
+    "key": "dbm-voice-pack-natural",
+    "dir": [
+      "DBM-VPNatural"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90679,
     "name": "DBM Voice pack - Elarinti VEM",
     "key": "dbm-voice-pack-elarinti-vem",
@@ -22485,6 +22487,10 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
       "DBM-Azeroth",
       "DBM-Party-Classic",
       "DBM-AQ20",
@@ -22502,11 +22508,7 @@
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination"
+      "DBM-ZulAman"
     ],
     "source": "curse",
     "mode": 3
@@ -78428,7 +78430,7 @@
       "testprojekt"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 19829,
@@ -83611,7 +83613,7 @@
       "multi"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 34474,
@@ -89111,8 +89113,6 @@
     "name": "ag_UnitFrames",
     "key": "ag_unitframes",
     "dir": [
-      "ag_Options",
-      "ag_Extras",
       "ag_UnitFrames"
     ],
     "source": "curse",
