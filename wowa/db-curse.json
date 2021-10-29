@@ -7193,7 +7193,7 @@
     "name": "AzerPUG's Core",
     "key": "azerpugs-core",
     "dir": [
-      "AzerPUGsCore"
+      "AzerPUG-InstanceUtility-Core"
     ],
     "source": "curse",
     "mode": 1
@@ -7313,7 +7313,7 @@
     "name": "AzerPUG's ReadyCheck Enhanced",
     "key": "azerpugs-readycheck-enhanced",
     "dir": [
-      "AzerPUGsReadyCheckEnhanced"
+      "AzerPUG-InstanceUtility-ReadyCheck"
     ],
     "source": "curse",
     "mode": 1
@@ -10197,7 +10197,7 @@
       "BigBattleShout"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 472413,
@@ -39523,7 +39523,7 @@
   },
   {
     "id": 298514,
-    "name": "Hide Battle.net Friends",
+    "name": "Hide Battle.net Friends, BTag, and Quick Join",
     "key": "hide-battle-net-friends",
     "dir": [
       "HideBattleNetFriends"
@@ -40817,16 +40817,6 @@
     "key": "hotloot",
     "dir": [
       "HotLoot"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 406911,
-    "name": "HoverBind",
-    "key": "hoverbind",
-    "dir": [
-      "HoverBind"
     ],
     "source": "curse",
     "mode": 1
@@ -46721,7 +46711,7 @@
       "Lemmos_CraftCooldown"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 481969,
@@ -46731,7 +46721,7 @@
       "Lemmos_RefillAmmo"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 534490,
@@ -46741,7 +46731,7 @@
       "Lemmos_Sell_Greys"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 476046,
@@ -48923,11 +48913,9 @@
     "id": 30359,
     "name": "LiteMount",
     "key": "litemount",
-    "dir": [
-      "LiteMount"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 14339,
@@ -62463,11 +62451,9 @@
     "id": 498475,
     "name": "Profession Shopping List",
     "key": "profession-shopping-list",
-    "dir": [
-      "ProfessionShoppingList"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 87984,
@@ -65219,8 +65205,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionHeroics",
-      "RaidAchievement_LegionRaids"
+      "RaidAchievement_LegionRaids",
+      "RaidAchievement_LegionHeroics"
     ],
     "source": "curse",
     "mode": 1
@@ -65241,8 +65227,6 @@
     "key": "raidachievement_oldmodules",
     "dir": [
       "RaidAchievement_WotlkHeroics",
-      "RaidAchievement_CataHeroics",
-      "RaidAchievement_CataRaids",
       "RaidAchievement_Icecrown",
       "RaidAchievement_Naxxramas",
       "RaidAchievement_Ulduar",
@@ -69257,7 +69241,7 @@
       "SavedClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 13998,
@@ -69915,7 +69899,7 @@
       "Select"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86288,
@@ -86307,16 +86291,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 353297,
-    "name": "WoW 1d String Repair Classic",
-    "key": "wow-1d-string-repair-classic",
-    "dir": [
-      "WoW_String_Repair"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 463115,
