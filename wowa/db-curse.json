@@ -1853,9 +1853,11 @@
     "id": 499159,
     "name": "AdiBags - ItemRackSets - TBC",
     "key": "adibags-itemracksets-tbc",
-    "dir": [],
+    "dir": [
+      "AdiBags-ItemRackSets"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 447404,
@@ -1871,9 +1873,11 @@
     "id": 499574,
     "name": "AdiBags - Korthian Relics",
     "key": "adibags-korthian-relics",
-    "dir": [],
+    "dir": [
+      "AdiBags_KorthianRelics"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 366993,
@@ -1909,9 +1913,11 @@
     "id": 504566,
     "name": "AdiBags - Nilganihmaht",
     "key": "adibags-nilganihmaht",
-    "dir": [],
+    "dir": [
+      "AdiBags_Nilganihmaht"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 390065,
@@ -7193,7 +7199,7 @@
     "name": "AzerPUG's Core",
     "key": "azerpugs-core",
     "dir": [
-      "AzerPUG-InstanceUtility-Core"
+      "AzerPUGsCore"
     ],
     "source": "curse",
     "mode": 1
@@ -7222,11 +7228,9 @@
     "id": 499683,
     "name": "AzerPUG's Gromit Finder",
     "key": "azerpugs-gromit-finder",
-    "dir": [
-      "AzerPUGsGromitFinder"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 404673,
@@ -7313,7 +7317,7 @@
     "name": "AzerPUG's ReadyCheck Enhanced",
     "key": "azerpugs-readycheck-enhanced",
     "dir": [
-      "AzerPUG-InstanceUtility-ReadyCheck"
+      "AzerPUGsReadyCheckEnhanced"
     ],
     "source": "curse",
     "mode": 1
@@ -8608,7 +8612,7 @@
       "BananaBar3"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 371996,
@@ -9378,12 +9382,10 @@
     "name": "Bayi's Extended Questlog",
     "key": "bayis-extended-questlog",
     "dir": [
-      "beql",
-      "FuBar_beqlFu",
-      "Titanbeql"
+      "beql"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 20695,
@@ -11164,11 +11166,9 @@
     "id": 488494,
     "name": "BlessingHelper",
     "key": "blessinghelper",
-    "dir": [
-      "BlessingHelper"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 311273,
@@ -11353,7 +11353,7 @@
       "!BlizzardRaidFramesFix"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 441130,
@@ -17482,7 +17482,7 @@
       "ClassicHunterPetInfo"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 358014,
@@ -19549,8 +19549,8 @@
     "name": "CooldownToGo",
     "key": "cooldown-to-go",
     "dir": [
-      "CooldownToGo",
-      "CooldownToGo_Options"
+      "CooldownToGo_Options",
+      "CooldownToGo"
     ],
     "source": "curse",
     "mode": 1
@@ -25421,15 +25421,15 @@
     "name": "DungeonSpeedRunner (DSR)",
     "key": "dungeonspeedrunner",
     "dir": [
+      "DungeonSpeedRunner_BurningCrusadeDungeons",
+      "DungeonSpeedRunner_BurningCrusadeRaids",
       "DungeonSpeedRunner_Level60Dungeons",
       "DungeonSpeedRunner_LowLevelDungeons",
       "DungeonSpeedRunner_VanillaRaids",
-      "DungeonSpeedRunner",
-      "DungeonSpeedRunner_BurningCrusadeDungeons",
-      "DungeonSpeedRunner_BurningCrusadeRaids"
+      "DungeonSpeedRunner"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 22210,
@@ -32428,7 +32428,7 @@
       "GTFO"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 282440,
@@ -36869,11 +36869,9 @@
     "id": 486006,
     "name": "GuildInspector",
     "key": "guildinspector",
-    "dir": [
-      "GuildInspector"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 3
+    "mode": 0
   },
   {
     "id": 300266,
@@ -39523,7 +39521,7 @@
   },
   {
     "id": 298514,
-    "name": "Hide Battle.net Friends, BTag, and Quick Join",
+    "name": "Hide Battle.net Friends, BTag ID, and Quick Join",
     "key": "hide-battle-net-friends",
     "dir": [
       "HideBattleNetFriends"
@@ -42797,11 +42795,9 @@
     "id": 499982,
     "name": "Invitation Alert",
     "key": "invitation-alert",
-    "dir": [
-      "InvitationAlert"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 28246,
@@ -45169,7 +45165,7 @@
       "Klappa"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 69462,
@@ -47543,7 +47539,7 @@
       "LibEncounters"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 457141,
@@ -48913,9 +48909,11 @@
     "id": 30359,
     "name": "LiteMount",
     "key": "litemount",
-    "dir": [],
+    "dir": [
+      "LiteMount"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 14339,
@@ -49154,7 +49152,7 @@
       "LoggerHeadLiteClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 36374,
@@ -52048,7 +52046,6 @@
     "name": "Master and Commander",
     "key": "master-commander",
     "dir": [
-      "MasterCommander",
       "MasterAndCommander"
     ],
     "source": "curse",
@@ -52653,7 +52650,7 @@
       "MessageQueue"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 97244,
@@ -56459,11 +56456,10 @@
     "name": "Necrosis Classic",
     "key": "necrosis-classic",
     "dir": [
-      "Necrosis",
-      "Necrosis-Classic"
+      "Necrosis"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 1669,
@@ -62451,9 +62447,11 @@
     "id": 498475,
     "name": "Profession Shopping List",
     "key": "profession-shopping-list",
-    "dir": [],
+    "dir": [
+      "ProfessionShoppingList"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 87984,
@@ -64359,7 +64357,7 @@
       "RCLootCouncil_EPGP_Classic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 257427,
@@ -65044,7 +65042,7 @@
       "RaidResetTracker"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 18255,
@@ -66245,7 +66243,7 @@
       "RatBG"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 472655,
@@ -68241,7 +68239,7 @@
       "RosterFilter"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 14598,
@@ -68679,7 +68677,7 @@
       "SKC"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 5095,
@@ -69061,7 +69059,7 @@
       "FloAspectBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 496356,
@@ -69081,7 +69079,7 @@
       "SansGatherNotify"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 261745,
@@ -69241,7 +69239,7 @@
       "SavedClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 13998,
@@ -70373,7 +70371,7 @@
       "Shacro"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 39618,
@@ -73085,7 +73083,7 @@
       "SlapMeBoiiiiii"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 90470,
@@ -75914,16 +75912,6 @@
     "key": "stop-request-button",
     "dir": [
       "StopRequest"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 423639,
-    "name": "Stop Talking",
-    "key": "stop-talking",
-    "dir": [
-      "StopTalking"
     ],
     "source": "curse",
     "mode": 1
@@ -92661,7 +92649,7 @@
       "upne"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 310944,
