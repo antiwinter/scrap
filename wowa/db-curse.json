@@ -128,7 +128,7 @@
       "Maekor-Overpower-Alert"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 350473,
@@ -248,7 +248,7 @@
       "(D) Hide Gryphons"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 427,
@@ -394,9 +394,11 @@
     "id": 22862,
     "name": "AAV - atrox Arena Viewer",
     "key": "aav-atrox-arena-viewer",
-    "dir": [],
+    "dir": [
+      "aav"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 361413,
@@ -646,16 +648,6 @@
     "key": "aobossmod-player",
     "dir": [
       "ao_bossmod"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 477307,
-    "name": "AOCOL - Auto Open Calendar On Login",
-    "key": "aocol-auto-open-calendar-on-login",
-    "dir": [
-      "AOCOL - Auto Open Calendar On Login"
     ],
     "source": "curse",
     "mode": 1
@@ -1094,9 +1086,11 @@
     "id": 22821,
     "name": "AceGUI-3.0-ActionSlotWidgets",
     "key": "ace-gui-3-0-action-slot-widgets",
-    "dir": [],
+    "dir": [
+      "AceGUI-3.0-ActionSlotWidgets"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 27229,
@@ -1778,7 +1772,7 @@
       "AdiBags-BetterCategories"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 294318,
@@ -1973,9 +1967,11 @@
     "id": 501758,
     "name": "AdiBags - Shards of Domination",
     "key": "adibags-shards-of-domination",
-    "dir": [],
+    "dir": [
+      "AdiBags_ShardsofDomination"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 445759,
@@ -2231,9 +2227,11 @@
     "id": 534627,
     "name": "AdiBags_Domination",
     "key": "adibags_domination",
-    "dir": [],
+    "dir": [
+      "AdiBags_Domination"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 89334,
@@ -3237,7 +3235,7 @@
       "AnS"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 30511,
@@ -5606,7 +5604,7 @@
       "Auctionator"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 89,
@@ -5844,7 +5842,7 @@
       "AutoGossip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 526340,
@@ -5885,6 +5883,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 477307,
+    "name": "Auto Open Calendar On Login (AOCOL)",
+    "key": "auto-open-calendar-on-login-aocol",
+    "dir": [
+      "AOCOL - Auto Open Calendar On Login"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 350454,
@@ -6073,11 +6081,10 @@
     "name": "AutoAcceptRes",
     "key": "autoacceptres",
     "dir": [
-      "AutoResClassic",
       "AutoAcceptRes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 377741,
@@ -6327,7 +6334,7 @@
       "AutoFlood"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 346102,
@@ -6844,11 +6851,9 @@
     "id": 1358,
     "name": "AutoTarget",
     "key": "project-1358",
-    "dir": [
-      "AutoTarget"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 366057,
@@ -7228,9 +7233,11 @@
     "id": 499683,
     "name": "AzerPUG's Gromit Finder",
     "key": "azerpugs-gromit-finder",
-    "dir": [],
+    "dir": [
+      "AzerPUGsGromitFinder"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 404673,
@@ -7611,7 +7618,6 @@
     "name": "BCT+",
     "key": "project-2813",
     "dir": [
-      "BCT+",
       "BCTPlus"
     ],
     "source": "curse",
@@ -7716,7 +7722,7 @@
       "BGCallouts"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 87757,
@@ -8989,8 +8995,8 @@
     "name": "BasicComboPoints",
     "key": "basic-combo-points",
     "dir": [
-      "BasicComboPoints",
-      "BasicComboPoints_Options"
+      "BasicComboPoints_Options",
+      "BasicComboPoints"
     ],
     "source": "curse",
     "mode": 3
@@ -9000,8 +9006,8 @@
     "name": "BasicMinimap",
     "key": "basic-minimap",
     "dir": [
-      "BasicMinimap",
-      "BasicMinimap_Options"
+      "BasicMinimap_Options",
+      "BasicMinimap"
     ],
     "source": "curse",
     "mode": 3
@@ -9382,10 +9388,12 @@
     "name": "Bayi's Extended Questlog",
     "key": "bayis-extended-questlog",
     "dir": [
-      "beql"
+      "beql",
+      "FuBar_beqlFu",
+      "Titanbeql"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 20695,
@@ -9946,7 +9954,7 @@
       "BetterBuffDuration"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 419433,
@@ -10067,7 +10075,7 @@
       "BetterShift"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 98142,
@@ -11166,9 +11174,11 @@
     "id": 488494,
     "name": "BlessingHelper",
     "key": "blessinghelper",
-    "dir": [],
+    "dir": [
+      "BlessingHelper"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 311273,
@@ -11413,7 +11423,7 @@
       "BlockSpam"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 257235,
@@ -12059,7 +12069,6 @@
     "name": "BottleCap",
     "key": "bottle-cap",
     "dir": [
-      "Prat-3.0_BottleCap",
       "BottleCap"
     ],
     "source": "curse",
@@ -12204,7 +12213,7 @@
       "Brohoof"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86812,
@@ -12324,7 +12333,7 @@
       "BrokerPack"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 93796,
@@ -12420,11 +12429,9 @@
     "id": 13563,
     "name": "Broker2FuBar",
     "key": "broker2fubar",
-    "dir": [
-      "Broker2FuBar"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 71981,
@@ -12606,7 +12613,7 @@
       "Broker_TimeToExecute"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 25302,
@@ -13677,7 +13684,7 @@
       "BuffOwner"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 352620,
@@ -13707,7 +13714,7 @@
       "BuffCheck3"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13578,
@@ -13778,15 +13785,15 @@
       "Bufflehead"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 450627,
     "name": "Buffomat Classic",
     "key": "buffomat-classic",
     "dir": [
-      "BuffomatClassic",
-      "BuffomatClassicTBC"
+      "BuffomatClassicTBC",
+      "BuffomatClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -14545,7 +14552,7 @@
       "Caats Emote Button Leiste"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 100863,
@@ -14575,7 +14582,7 @@
       "CaffDKP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 82663,
@@ -15991,7 +15998,7 @@
       "ChatAlphaZero"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 434156,
@@ -16031,7 +16038,7 @@
       "CCleanerClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 100345,
@@ -16057,11 +16064,9 @@
     "id": 2049,
     "name": "ChatCursors",
     "key": "project-2049",
-    "dir": [
-      "ChatCursors"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 30575,
@@ -16131,7 +16136,7 @@
       "ChatLinkIcons"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 28353,
@@ -16284,14 +16289,20 @@
     "mode": 1
   },
   {
+    "id": 13664,
+    "name": "Cheaptard",
+    "key": "wowace-cheaptard",
+    "dir": [],
+    "source": "curse",
+    "mode": 0
+  },
+  {
     "id": 5901,
     "name": "Cheaptard",
     "key": "project-5901",
-    "dir": [
-      "Cheaptard"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 253898,
@@ -16673,7 +16684,7 @@
       "ClamMaster"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18704,
@@ -17370,7 +17381,7 @@
       "ClassicChatFilter"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 341472,
@@ -17482,7 +17493,7 @@
       "ClassicHunterPetInfo"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 358014,
@@ -17702,7 +17713,7 @@
       "NeatMinimap"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 92331,
@@ -18767,7 +18778,7 @@
       "CompactActionBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 44085,
@@ -19461,7 +19472,7 @@
       "CooldownTimeline"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 415768,
@@ -19491,7 +19502,7 @@
       "CoolDownWatcher"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 37981,
@@ -19583,7 +19594,7 @@
       "Coords"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 341960,
@@ -20493,11 +20504,10 @@
     "name": "CustomTutorials-2.1",
     "key": "customtutorials",
     "dir": [
-      "CustomTutorials-2.0",
       "CustomTutorials-2.1"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 454166,
@@ -21193,7 +21203,7 @@
       "DBM-Interrupts"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 95210,
@@ -21401,11 +21411,9 @@
     "id": 20181,
     "name": "DKEmoter",
     "key": "dkemoter",
-    "dir": [
-      "DKEmoter"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 13338,
@@ -21436,7 +21444,7 @@
       "DKPLootMaster"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 22404,
@@ -21618,7 +21626,7 @@
       "DWMRepColoredBars"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 88991,
@@ -23217,7 +23225,7 @@
       "DejaAutoMark"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 44033,
@@ -23267,7 +23275,7 @@
       "DejaChatTabs"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 334987,
@@ -23578,7 +23586,7 @@
       "DetailedDurability"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 309125,
@@ -23881,7 +23889,7 @@
       "DiabloArtWork"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 100658,
@@ -24085,7 +24093,7 @@
       "DirectedByRobertBWeide"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 361422,
@@ -24336,7 +24344,7 @@
       "DoIt!"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 86294,
@@ -25007,7 +25015,6 @@
     "name": "DroodFocus",
     "key": "droodfocus",
     "dir": [
-      "droodfocus",
       "DroodFocus"
     ],
     "source": "curse",
@@ -25203,13 +25210,10 @@
     "dir": [
       "DuelResponse_Blacklist",
       "DuelResponse_Whisper",
-      "DuelResponse",
-      "DuelResponse_Blacklist_Classic",
-      "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic"
+      "DuelResponse"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101964,
@@ -25374,7 +25378,7 @@
       "DungeonHelper2"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 89722,
@@ -25421,15 +25425,15 @@
     "name": "DungeonSpeedRunner (DSR)",
     "key": "dungeonspeedrunner",
     "dir": [
-      "DungeonSpeedRunner_BurningCrusadeDungeons",
-      "DungeonSpeedRunner_BurningCrusadeRaids",
       "DungeonSpeedRunner_Level60Dungeons",
       "DungeonSpeedRunner_LowLevelDungeons",
       "DungeonSpeedRunner_VanillaRaids",
-      "DungeonSpeedRunner"
+      "DungeonSpeedRunner",
+      "DungeonSpeedRunner_BurningCrusadeDungeons",
+      "DungeonSpeedRunner_BurningCrusadeRaids"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 22210,
@@ -27811,7 +27815,7 @@
       "EmoteLib"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 261072,
@@ -28975,7 +28979,7 @@
       "XKeyBinding"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 322428,
@@ -29088,7 +29092,7 @@
       "DFontChatSizes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 29690,
@@ -29208,7 +29212,7 @@
       "FFLU"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 477065,
@@ -29245,6 +29249,7 @@
     "name": "FPS-MS-Tracker",
     "key": "fps-ms-tracker",
     "dir": [
+      "FPS-MS-Tracker",
       "FPS-MS-Tracker-v3.3",
       "FPS-MS-Tracker-3.3"
     ],
@@ -29922,7 +29927,7 @@
       "FavoriteContacts"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 267505,
@@ -30498,11 +30503,9 @@
     "id": 1306,
     "name": "FixGermanSpellCrits",
     "key": "project-1306",
-    "dir": [
-      "FixGermanSpellCrits"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 87417,
@@ -31134,7 +31137,7 @@
       "FollowMePls"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 47557,
@@ -31455,7 +31458,7 @@
       "FrameRangeFade"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 311935,
@@ -31495,7 +31498,7 @@
       "FreeBagSpaces"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 415572,
@@ -31635,7 +31638,7 @@
       "FriendBtn"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 103161,
@@ -31841,11 +31844,9 @@
     "id": 13879,
     "name": "FuBar_AnkhTimerFu",
     "key": "project-13879",
-    "dir": [
-      "FuBar_AnkhTimerFu"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 5643,
@@ -31891,11 +31892,9 @@
     "id": 13952,
     "name": "FuBar_ItemDBFu",
     "key": "project-13952",
-    "dir": [
-      "FuBar_ItemDBFu"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 13953,
@@ -31921,11 +31920,9 @@
     "id": 13969,
     "name": "FuBar_MicroMenuFu",
     "key": "project-13969",
-    "dir": [
-      "FuBar_MicroMenuFu"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 27161,
@@ -33203,7 +33200,6 @@
     "name": "GearQuipper",
     "key": "gearquipper",
     "dir": [
-      "GearQuipper",
       "GearQuipper-TBC"
     ],
     "source": "curse",
@@ -33298,7 +33294,7 @@
       "Geist"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 102311,
@@ -34097,7 +34093,7 @@
       "DGPS"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 411665,
@@ -34777,7 +34773,7 @@
       "GoodNightStarleaf"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 302792,
@@ -34860,56 +34856,6 @@
       "Grail-Reputations",
       "Grail-Rewards",
       "Grail",
-      "Grail-Reputations-_classic_",
-      "Grail-Reputations-_retail_",
-      "Grail-Quests-_classic_-deDE",
-      "Grail-Quests-_classic_-enUS",
-      "Grail-Quests-_classic_-esES",
-      "Grail-Quests-_classic_-esMX",
-      "Grail-Quests-_classic_-frFR",
-      "Grail-Quests-_classic_-itIT",
-      "Grail-Quests-_classic_-koKR",
-      "Grail-Quests-_classic_-ptBR",
-      "Grail-Quests-_classic_-ruRU",
-      "Grail-Quests-_classic_-zhCN",
-      "Grail-Quests-_classic_-zhTW",
-      "Grail-Quests-_classic_",
-      "Grail-Quests-_retail_-deDE",
-      "Grail-Quests-_retail_-enUS",
-      "Grail-Quests-_retail_-esES",
-      "Grail-Quests-_retail_-esMX",
-      "Grail-Quests-_retail_-frFR",
-      "Grail-Quests-_retail_-itIT",
-      "Grail-Quests-_retail_-koKR",
-      "Grail-Quests-_retail_-ptBR",
-      "Grail-Quests-_retail_-ruRU",
-      "Grail-Quests-_retail_-zhCN",
-      "Grail-Quests-_retail_-zhTW",
-      "Grail-Quests-_retail_",
-      "Grail-NPCs-_classic_-deDE",
-      "Grail-NPCs-_classic_-enUS",
-      "Grail-NPCs-_classic_-esES",
-      "Grail-NPCs-_classic_-esMX",
-      "Grail-NPCs-_classic_-frFR",
-      "Grail-NPCs-_classic_-itIT",
-      "Grail-NPCs-_classic_-koKR",
-      "Grail-NPCs-_classic_-ptBR",
-      "Grail-NPCs-_classic_-ruRU",
-      "Grail-NPCs-_classic_-zhCN",
-      "Grail-NPCs-_classic_-zhTW",
-      "Grail-NPCs-_classic_",
-      "Grail-NPCs-_retail_-deDE",
-      "Grail-NPCs-_retail_-enUS",
-      "Grail-NPCs-_retail_-esES",
-      "Grail-NPCs-_retail_-esMX",
-      "Grail-NPCs-_retail_-frFR",
-      "Grail-NPCs-_retail_-itIT",
-      "Grail-NPCs-_retail_-koKR",
-      "Grail-NPCs-_retail_-ptBR",
-      "Grail-NPCs-_retail_-ruRU",
-      "Grail-NPCs-_retail_-zhCN",
-      "Grail-NPCs-_retail_-zhTW",
-      "Grail-NPCs-_retail_",
       "Grail-Quests-deDE",
       "Grail-Quests-enUS",
       "Grail-Quests-esES",
@@ -34936,7 +34882,7 @@
       "Grail-NPCs"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 525121,
@@ -35116,7 +35062,7 @@
       "GreatestRogueOnTheServer"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 17796,
@@ -35795,7 +35741,7 @@
       "Grounded"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 351800,
@@ -36040,7 +35986,7 @@
       "GryphonsRemover"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 254103,
@@ -36311,7 +36257,7 @@
       "Guidelime_Sage"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 335948,
@@ -36712,7 +36658,7 @@
       "GuildTooltip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 43785,
@@ -36869,9 +36815,11 @@
     "id": 486006,
     "name": "GuildInspector",
     "key": "guildinspector",
-    "dir": [],
+    "dir": [
+      "GuildInspector"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 3
   },
   {
     "id": 300266,
@@ -38439,7 +38387,7 @@
       "HatCheckClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 4450,
@@ -40359,7 +40307,7 @@
       "HighlightTradeItems"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 382753,
@@ -40953,6 +40901,14 @@
     "mode": 1
   },
   {
+    "id": 7046,
+    "name": "Hunter's Mark",
+    "key": "project-7046",
+    "dir": [],
+    "source": "curse",
+    "mode": 0
+  },
+  {
     "id": 409468,
     "name": "HunterBuddy",
     "key": "hunterbuddy",
@@ -40978,6 +40934,16 @@
     "key": "huntertracker",
     "dir": [
       "HunterPetInfo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 14180,
+    "name": "HuntersMark",
+    "key": "project-14180",
+    "dir": [
+      "HuntersMark"
     ],
     "source": "curse",
     "mode": 1
@@ -41021,7 +40987,7 @@
       "HydraUI_InviteLinks"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 514624,
@@ -41041,7 +41007,7 @@
       "HydraUI_Memory"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 408768,
@@ -41051,7 +41017,7 @@
       "HydraUI_Button"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 411336,
@@ -41061,7 +41027,7 @@
       "HydraUI_MovementSpeed"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 431726,
@@ -41330,11 +41296,9 @@
     "id": 14183,
     "name": "IFrameManager",
     "key": "project-14183",
-    "dir": [
-      "IFrameManager"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 19300,
@@ -41786,7 +41750,7 @@
       "ImprovedBlizzardUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 355022,
@@ -41836,7 +41800,7 @@
       "ImprovedLootFrame"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 413567,
@@ -42765,11 +42729,9 @@
     "id": 14206,
     "name": "InventoryLib",
     "key": "project-14206",
-    "dir": [
-      "InventoryLib"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 365918,
@@ -42795,9 +42757,11 @@
     "id": 499982,
     "name": "Invitation Alert",
     "key": "invitation-alert",
-    "dir": [],
+    "dir": [
+      "InvitationAlert"
+    ],
     "source": "curse",
-    "mode": 0
+    "mode": 1
   },
   {
     "id": 28246,
@@ -43045,7 +43009,6 @@
     "name": "Item Notes",
     "key": "itemnotes",
     "dir": [
-      "ItemDataCache",
       "ItemNotes"
     ],
     "source": "curse",
@@ -43089,7 +43052,7 @@
       "ItemAutocomplete"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 26395,
@@ -43689,7 +43652,7 @@
       "JerkScript"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 426565,
@@ -43699,7 +43662,7 @@
       "JeypLoathebHealSorter"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 345010,
@@ -44326,7 +44289,7 @@
       "KazotskyKick"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 318132,
@@ -44961,7 +44924,7 @@
       "KillsRestedXP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 20819,
@@ -45114,7 +45077,7 @@
       "KiwiQuickPick"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 350500,
@@ -45165,7 +45128,7 @@
       "Klappa"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 69462,
@@ -46185,7 +46148,7 @@
       "LargerSelfAuras"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 22632,
@@ -46266,7 +46229,7 @@
       "LazyReadycheck"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 517721,
@@ -46697,7 +46660,7 @@
       "Lemmos_BookStore_reborn"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 422999,
@@ -46737,7 +46700,7 @@
       "Lemmos_ExpBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 95019,
@@ -47435,11 +47398,9 @@
     "id": 14279,
     "name": "LibDogTag-2.0",
     "key": "project-14279",
-    "dir": [
-      "LibDogTag-2.0"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 14280,
@@ -47455,11 +47416,9 @@
     "id": 14281,
     "name": "LibDogTag-Items-3.0",
     "key": "libdogtag-items-3-0",
-    "dir": [
-      "LibDogTag-Items-3.0"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 58908,
@@ -47539,7 +47498,7 @@
       "LibEncounters"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 457141,
@@ -47605,11 +47564,9 @@
     "id": 14284,
     "name": "LibFriends-1.0",
     "key": "libfriends-1-0",
-    "dir": [
-      "LibFriends-1.0"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 14286,
@@ -49152,7 +49109,7 @@
       "LoggerHeadLiteClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 36374,
@@ -50026,7 +49983,7 @@
       "LuckyCharmsClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 301803,
@@ -50152,7 +50109,7 @@
       "LunarSphere"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 302966,
@@ -50426,16 +50383,6 @@
       "MUI_Setup",
       "MUI_Config",
       "MUI_Core"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 477318,
-    "name": "MV3D - Model Viewer 3D",
-    "key": "mv3d-model-viewer-3d",
-    "dir": [
-      "MV3D - Model Viewer 3D"
     ],
     "source": "curse",
     "mode": 1
@@ -50931,7 +50878,6 @@
     "name": "MailNotifier",
     "key": "mailnotifier",
     "dir": [
-      "MailCounter",
       "MailNotifier"
     ],
     "source": "curse",
@@ -51036,7 +50982,7 @@
       "ManaCostPerc"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 360448,
@@ -51847,7 +51793,7 @@
       "Masque_Stylo"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 15349,
@@ -52350,7 +52296,7 @@
       "McConnell_REEEEE"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 349813,
@@ -52691,7 +52637,7 @@
       "MGSSounds"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 79879,
@@ -52752,7 +52698,7 @@
       "MicroDeclineDuel"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 53360,
@@ -53163,7 +53109,7 @@
       "Minimap_Alert"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 5292,
@@ -53405,7 +53351,7 @@
       "zz_MiscHelper"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 414479,
@@ -53609,7 +53555,7 @@
       "MistyEmotes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 427711,
@@ -53731,7 +53677,7 @@
       "ModelPique"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 102332,
@@ -53739,6 +53685,16 @@
     "key": "modelviewer",
     "dir": [
       "ModelViewer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 477318,
+    "name": "Model Viewer 3D (MV3D)",
+    "key": "mv3d-model-viewer-3d",
+    "dir": [
+      "MV3D - Model Viewer 3D"
     ],
     "source": "curse",
     "mode": 1
@@ -53771,7 +53727,7 @@
       "ModernTargetFrame"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 390879,
@@ -54691,7 +54647,7 @@
       "MouseoverPortrai"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 25935,
@@ -54871,7 +54827,7 @@
       "MoveToolTip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 415652,
@@ -55480,7 +55436,7 @@
       "MyVeryOwnDoomguy"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 312482,
@@ -56177,7 +56133,7 @@
       "NameCopy"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 56354,
@@ -56456,10 +56412,11 @@
     "name": "Necrosis Classic",
     "key": "necrosis-classic",
     "dir": [
-      "Necrosis"
+      "Necrosis",
+      "Necrosis-Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 1669,
@@ -56660,7 +56617,7 @@
       "NeverLocky"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 378847,
@@ -58655,6 +58612,7 @@
     "name": "OutofRange",
     "key": "outofrange",
     "dir": [
+      "OutofRange",
       "OutofRange-v3.3"
     ],
     "source": "curse",
@@ -58917,11 +58875,9 @@
     "id": 14469,
     "name": "PT3Browser",
     "key": "pt3browser",
-    "dir": [
-      "PT3Browser"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 535401,
@@ -59381,7 +59337,7 @@
       "PartyChangedNotifier"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 51645,
@@ -59968,6 +59924,16 @@
     "mode": 1
   },
   {
+    "id": 477436,
+    "name": "Pet Death Sound Alert (PDSA)",
+    "key": "pet-death-sound-alert-pdsa",
+    "dir": [
+      "SWPD - Sound When Pet Dies"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327425,
     "name": "Pet Dungeon Completed",
     "key": "pet-dungeon-completed",
@@ -60163,6 +60129,16 @@
     "key": "petfarmchallengehelper",
     "dir": [
       "PetFarmChallengeHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 84648,
+    "name": "PetFarmer",
+    "key": "petfarmer",
+    "dir": [
+      "PetFarmer"
     ],
     "source": "curse",
     "mode": 1
@@ -60429,7 +60405,7 @@
       "PhantomPlates"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 70476,
@@ -60677,7 +60653,7 @@
       "PingAnnouncer"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 102756,
@@ -61913,7 +61889,7 @@
       "Powered"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101712,
@@ -62136,6 +62112,16 @@
     "key": "prepared-loot-priority",
     "dir": [
       "Prepared_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 83670,
+    "name": "PreserveMyCompanion",
+    "key": "preserve-my-companion",
+    "dir": [
+      "PreserveMyCompanion"
     ],
     "source": "curse",
     "mode": 1
@@ -62391,7 +62377,7 @@
       "ProfessionCooldown"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 268301,
@@ -62581,7 +62567,7 @@
       "ProspectBarLives"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 82538,
@@ -63393,7 +63379,7 @@
       "QuestXP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 301691,
@@ -63907,7 +63893,7 @@
       "QuickHeal"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 7278,
@@ -64047,7 +64033,7 @@
       "QuickLeave"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101610,
@@ -64357,7 +64343,7 @@
       "RCLootCouncil_EPGP_Classic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 257427,
@@ -65042,7 +65028,7 @@
       "RaidResetTracker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 18255,
@@ -65161,7 +65147,6 @@
     "name": "Raid Tracker",
     "key": "ka_raid-tracker",
     "dir": [
-      "KA_RaidTracker",
       "RaidTracker"
     ],
     "source": "curse",
@@ -65514,7 +65499,7 @@
       "RaidRestore"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 90077,
@@ -66243,7 +66228,7 @@
       "RatBG"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 472655,
@@ -66294,7 +66279,7 @@
       "Raven"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101958,
@@ -67004,7 +66989,7 @@
       "Reload"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 101478,
@@ -67024,7 +67009,7 @@
       "ReloadUiButton"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 47460,
@@ -67825,11 +67810,9 @@
     "id": 14593,
     "name": "RicoMiniMap",
     "key": "project-14593",
-    "dir": [
-      "RicoMiniMap"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 321194,
@@ -68205,11 +68188,9 @@
     "id": 14596,
     "name": "RootsBidder",
     "key": "project-14596",
-    "dir": [
-      "RootsBidder"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 29099,
@@ -68239,7 +68220,7 @@
       "RosterFilter"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 14598,
@@ -68346,11 +68327,9 @@
     "id": 6207,
     "name": "Rouge",
     "key": "project-6207",
-    "dir": [
-      "Rouge"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 14599,
@@ -68499,7 +68478,6 @@
     "name": "RuneHero",
     "key": "runecc",
     "dir": [
-      "RuneCC",
       "RuneHero"
     ],
     "source": "curse",
@@ -68581,8 +68559,8 @@
     "name": "SCT - Damage",
     "key": "sct-damage",
     "dir": [
-      "sctd",
-      "sctd_options"
+      "sctd_options",
+      "sctd"
     ],
     "source": "curse",
     "mode": 1
@@ -68677,7 +68655,7 @@
       "SKC"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 5095,
@@ -68901,16 +68879,6 @@
     "mode": 1
   },
   {
-    "id": 477436,
-    "name": "SWPD - Sound When Pet Dies",
-    "key": "swpd-sound-when-pet-dies",
-    "dir": [
-      "SWPD - Sound When Pet Dies"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 2147,
     "name": "SacredBuff",
     "key": "project-2147",
@@ -69069,7 +69037,7 @@
       "FloTotemBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 490001,
@@ -69369,7 +69337,7 @@
       "ScalzBam"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 404516,
@@ -69606,7 +69574,7 @@
       "ScreenPlus"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 262167,
@@ -70201,7 +70169,7 @@
       "SessionTime"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 90532,
@@ -70311,7 +70279,7 @@
       "SexyLib-Core"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 435430,
@@ -70742,7 +70710,7 @@
       "SharedMedia_AlexaPlayCreed"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 427987,
@@ -71028,11 +70996,9 @@
     "id": 14643,
     "name": "Sheppard",
     "key": "project-14643",
-    "dir": [
-      "Sheppard"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 27854,
@@ -72113,7 +72079,7 @@
       "SimpleMouseToolTip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 501439,
@@ -72337,7 +72303,7 @@
       "SimpleCalc"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 488290,
@@ -73295,7 +73261,7 @@
       "SmackTalk3"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 446855,
@@ -73578,7 +73544,7 @@
       "SmexyGMO"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 339234,
@@ -73588,7 +73554,7 @@
       "SmexyMats"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 270824,
@@ -73608,7 +73574,7 @@
       "SmexyScaleUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 278749,
@@ -74211,7 +74177,7 @@
       "SoundManager"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 416252,
@@ -74272,7 +74238,7 @@
       "SpaceForceRaidTracker"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 36051,
@@ -74312,7 +74278,7 @@
       "STFU"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 488107,
@@ -74432,7 +74398,7 @@
       "Spassball"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 267457,
@@ -74986,11 +74952,9 @@
     "id": 15069,
     "name": "Spew",
     "key": "spew",
-    "dir": [
-      "spew"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 299271,
@@ -76209,7 +76173,7 @@
       "SunnArt"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 423628,
@@ -76229,7 +76193,7 @@
       "SunnArtDiablo"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 85968,
@@ -76259,7 +76223,7 @@
       "SunnArtPack1"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24666,
@@ -76269,7 +76233,7 @@
       "SunnArtPack10"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24667,
@@ -76279,7 +76243,7 @@
       "SunnArtPack11"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18682,
@@ -76289,7 +76253,7 @@
       "SunnArtPack2"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18683,
@@ -76299,7 +76263,7 @@
       "SunnArtPack3"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18684,
@@ -76309,7 +76273,7 @@
       "SunnArtPack4"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18685,
@@ -76319,7 +76283,7 @@
       "SunnArtPack5"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18686,
@@ -76329,7 +76293,7 @@
       "SunnArtPack6"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18687,
@@ -76339,7 +76303,7 @@
       "SunnArtPack7"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18688,
@@ -76349,7 +76313,7 @@
       "SunnArtPack8"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18689,
@@ -76359,7 +76323,7 @@
       "SunnArtPack9"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86024,
@@ -76399,7 +76363,7 @@
       "SunnArtPackCelorn"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 73761,
@@ -77027,7 +76991,7 @@
       "CustomAudio"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 362971,
@@ -77238,7 +77202,7 @@
       "Syndicate_Summoner"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 449324,
@@ -77256,16 +77220,6 @@
     "key": "syracs-rune-check",
     "dir": [
       "SyracsRuneCheck"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 477321,
-    "name": "TAB - Target Actions Button",
-    "key": "tab-target-actions-button",
-    "dir": [
-      "TAB - Target Actions Button"
     ],
     "source": "curse",
     "mode": 1
@@ -77468,7 +77422,7 @@
       "TTell"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 254341,
@@ -77568,7 +77522,7 @@
       "Tabu-Bars"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 498236,
@@ -77936,11 +77890,9 @@
     "id": 14803,
     "name": "Tankalyze",
     "key": "tankalyze",
-    "dir": [
-      "Tankalyze"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 381226,
@@ -78058,6 +78010,16 @@
     "key": "portrait-health",
     "dir": [
       "PortraitHealth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 477321,
+    "name": "Target Quick Actions Button (TQAB)",
+    "key": "target-quick-actions-button-tqab",
+    "dir": [
+      "TAB - Target Actions Button"
     ],
     "source": "curse",
     "mode": 1
@@ -79113,7 +79075,7 @@
       "TidyBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 90666,
@@ -79345,7 +79307,7 @@
       "TinyInspect"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 480555,
@@ -79375,7 +79337,7 @@
       "TinyPad"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 2403,
@@ -79500,7 +79462,7 @@
       "TipTacItemRef"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 53952,
@@ -79642,7 +79604,7 @@
       "TitanClassicDefense"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 339483,
@@ -79702,7 +79664,7 @@
       "TitanClassicRecount"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 339295,
@@ -80012,7 +79974,7 @@
       "TitanGathered2"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 7033,
@@ -80822,7 +80784,7 @@
       "ToggleNames"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 286886,
@@ -81223,7 +81185,7 @@
       "TooltipEnhanced"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 301978,
@@ -81857,7 +81819,7 @@
       "TrackResources"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 334661,
@@ -82762,7 +82724,7 @@
       "Triton"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 6061,
@@ -82848,11 +82810,9 @@
     "id": 14840,
     "name": "TuiRaidTracker",
     "key": "project-14840",
-    "dir": [
-      "TuiRaidTracker"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 410373,
@@ -82862,7 +82822,7 @@
       "Tukui_AmmoDT"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 47902,
@@ -82882,7 +82842,7 @@
       "Tukui_PVP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 344402,
@@ -83342,7 +83302,7 @@
       "Unfit-1.0"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 618,
@@ -83378,11 +83338,9 @@
     "id": 14858,
     "name": "UnitActionBars",
     "key": "project-14858",
-    "dir": [
-      "UnitActionBars"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 27038,
@@ -83902,16 +83860,16 @@
     "name": "Vendor",
     "key": "vendor",
     "dir": [
-      "Vendor_Ark",
       "Vendor_Pawn",
-      "Vendor_Titan",
-      "Vendor_TSM",
-      "Vendor",
+      "Vendor_Ark",
       "Vendor_AdiBags",
-      "Vendor_RulePack"
+      "Vendor_RulePack",
+      "Vendor_TSM",
+      "Vendor_Titan",
+      "Vendor"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 322091,
@@ -85724,7 +85682,7 @@
       "WhispList"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 411921,
@@ -85923,11 +85881,9 @@
     "id": 14895,
     "name": "WhoDrop",
     "key": "project-14895",
-    "dir": [
-      "WhoDrop"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 455615,
@@ -86048,7 +86004,7 @@
       "Wholly"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 368757,
@@ -86338,7 +86294,7 @@
       "WowDings"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 96949,
@@ -87574,7 +87530,7 @@
       "XPBarText"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 316724,
@@ -87695,7 +87651,7 @@
       "XPToLevel"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 337346,
@@ -87742,11 +87698,9 @@
     "id": 14929,
     "name": "XRS",
     "key": "xrs",
-    "dir": [
-      "XRS"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 101803,
@@ -88122,11 +88076,9 @@
     "id": 14939,
     "name": "YssGuildShop",
     "key": "project-14939",
-    "dir": [
-      "YssGuildShop"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 323858,
@@ -88221,7 +88173,7 @@
       "ZMobDB"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 535721,
@@ -88652,7 +88604,7 @@
       "ZoomerBegone"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 80630,
@@ -88968,7 +88920,7 @@
       "TrainAll"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 455490,
@@ -89075,7 +89027,9 @@
     "name": "ag_UnitFrames",
     "key": "ag_unitframes",
     "dir": [
-      "ag_UnitFrames"
+      "ag_UnitFrames",
+      "ag_Options",
+      "ag_Extras"
     ],
     "source": "curse",
     "mode": 1
@@ -89406,8 +89360,8 @@
     "name": "cKick",
     "key": "ckick",
     "dir": [
-      "cKick",
-      "cKick_Config"
+      "cKick_Config",
+      "cKick"
     ],
     "source": "curse",
     "mode": 1
@@ -90791,7 +90745,7 @@
       "idTip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 274419,
@@ -91592,7 +91546,7 @@
       "newChatBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 80525,
@@ -91945,21 +91899,17 @@
     "id": 16849,
     "name": "picoEXP",
     "key": "picoexp",
-    "dir": [
-      "picoEXP"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 16850,
     "name": "picoFPS",
     "key": "picofps",
-    "dir": [
-      "picoFPS"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 16538,
@@ -92649,7 +92599,7 @@
       "upne"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 310944,
@@ -93241,7 +93191,7 @@
       "zz_Bags"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 22760,
@@ -93251,7 +93201,7 @@
       "zz_Coords"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 39075,
@@ -93261,7 +93211,7 @@
       "zz_Friends"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 84059,
@@ -93281,7 +93231,7 @@
       "zz_Infoclock"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 39073,
@@ -93291,7 +93241,7 @@
       "zz_Mailbox"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 39054,
@@ -93301,7 +93251,7 @@
       "zz_Money"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 39023,
@@ -93311,7 +93261,7 @@
       "zz_Repair"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86409,
@@ -93341,7 +93291,7 @@
       "zz_itemsdb"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 357503,
