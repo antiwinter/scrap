@@ -5588,7 +5588,7 @@
   },
   {
     "id": 6124,
-    "name": "Auctionator (Retail and Classic)",
+    "name": "Auctionator",
     "key": "auctionator",
     "dir": [
       "Auctionator"
@@ -27675,7 +27675,7 @@
       "ElvUI_mMediaTag_Classic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 91797,
@@ -40768,6 +40768,16 @@
     "mode": 1
   },
   {
+    "id": 542147,
+    "name": "HoverBind",
+    "key": "hoverbind",
+    "dir": [
+      "HoverBind"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26440,
     "name": "HowMany",
     "key": "howmany",
@@ -45599,6 +45609,16 @@
     "mode": 1
   },
   {
+    "id": 542150,
+    "name": "LFG Silencer",
+    "key": "lfg-silencer",
+    "dir": [
+      "LFGSilencer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 67014,
     "name": "LFG StopWatch",
     "key": "lfg-stopwatch",
@@ -50423,6 +50443,16 @@
     "key": "macmenu",
     "dir": [
       "MacMenu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 542777,
+    "name": "Macro Blocks",
+    "key": "macro-blocks",
+    "dir": [
+      "MacroBlocks"
     ],
     "source": "curse",
     "mode": 1
@@ -59317,7 +59347,7 @@
       "PartyPetFrames"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 258666,
@@ -62764,11 +62794,9 @@
     "id": 17354,
     "name": "PvP Trinket Tracker",
     "key": "ptt",
-    "dir": [
-      "PvPTrinketTracker"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 68204,
@@ -65209,10 +65237,12 @@
     "name": "RaidAchievement_OldModules",
     "key": "raidachievement_oldmodules",
     "dir": [
-      "RaidAchievement_WotlkHeroics",
+      "RaidAchievement_CataRaids",
       "RaidAchievement_Icecrown",
       "RaidAchievement_Naxxramas",
       "RaidAchievement_Ulduar",
+      "RaidAchievement_WotlkHeroics",
+      "RaidAchievement_CataHeroics",
       "RaidAchievement_OldModules"
     ],
     "source": "curse",
@@ -68628,6 +68658,16 @@
     "mode": 1
   },
   {
+    "id": 542475,
+    "name": "SEquipment",
+    "key": "sequipment",
+    "dir": [
+      "SEquipment"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103271,
     "name": "SFLoot",
     "key": "sfloot",
@@ -68882,12 +68922,9 @@
     "id": 2147,
     "name": "SacredBuff",
     "key": "project-2147",
-    "dir": [
-      "SacredBuff_Mounts",
-      "SacredBuff"
-    ],
+    "dir": [],
     "source": "curse",
-    "mode": 1
+    "mode": 0
   },
   {
     "id": 44966,
@@ -70279,7 +70316,7 @@
       "SexyLib-Core"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 435430,
@@ -78374,7 +78411,7 @@
       "Tetra"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 27494,
@@ -83606,6 +83643,16 @@
     "mode": 1
   },
   {
+    "id": 542998,
+    "name": "Vaillants Bis",
+    "key": "vaillants-bis",
+    "dir": [
+      "Vaillants Priority Tooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 350996,
     "name": "ValhallaGuildTools",
     "key": "valhallaguildtools",
@@ -86563,7 +86610,7 @@
       "WoWQuote2"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 299090,
