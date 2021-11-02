@@ -14210,6 +14210,16 @@
     "mode": 3
   },
   {
+    "id": 543126,
+    "name": "CCGuard",
+    "key": "ccguard",
+    "dir": [
+      "CCGuard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 370700,
     "name": "CCRA Gnoblinboi",
     "key": "ccra-gnoblinboi",
@@ -52095,7 +52105,7 @@
       "MaxCam"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 349790,
@@ -63820,6 +63830,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 543040,
+    "name": "Questie ShutUp!",
+    "key": "questie-shutup",
+    "dir": [
+      "Questie_ShutUp"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 101633,
@@ -76168,6 +76188,16 @@
     "key": "suggestinvite",
     "dir": [
       "SuggestInvite"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 542457,
+    "name": "SummonNotifier",
+    "key": "summonnotifier",
+    "dir": [
+      "SummonNotifier"
     ],
     "source": "curse",
     "mode": 1
