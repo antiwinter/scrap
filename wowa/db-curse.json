@@ -10341,7 +10341,6 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
-      "BigWigs_SanctumOfDomination",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10355,7 +10354,8 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple"
+      "BigWigs_BlackTemple",
+      "BigWigs_SanctumOfDomination"
     ],
     "source": "curse",
     "mode": 3
@@ -22505,28 +22505,28 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
-      "DBM-Azeroth",
+      "DBM-Outlands",
       "DBM-Party-Classic",
+      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Outlands",
-      "DBM-Party-BC",
+      "DBM-Azeroth",
       "DBM-BlackTemple",
+      "DBM-BWL",
       "DBM-Hyjal",
       "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-ZG",
+      "DBM-ZulAman",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination"
     ],
     "source": "curse",
     "mode": 3
@@ -48951,6 +48951,16 @@
     "mode": 1
   },
   {
+    "id": 543097,
+    "name": "Live To Win",
+    "key": "live-to-win",
+    "dir": [
+      "LiveToWin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13340,
     "name": "Livestock",
     "key": "livestock",
@@ -49065,8 +49075,8 @@
     "name": "LockboxHelper",
     "key": "unlockhelper",
     "dir": [
-      "LockboxHelper",
-      "LockboxHelper_Classic"
+      "LockboxHelper_Classic",
+      "LockboxHelper"
     ],
     "source": "curse",
     "mode": 3
