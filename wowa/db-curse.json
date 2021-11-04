@@ -479,7 +479,7 @@
       "AFK_fullscreen"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 400249,
@@ -14210,16 +14210,6 @@
     "mode": 3
   },
   {
-    "id": 543126,
-    "name": "CCGuard",
-    "key": "ccguard",
-    "dir": [
-      "CCGuard"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 370700,
     "name": "CCRA Gnoblinboi",
     "key": "ccra-gnoblinboi",
@@ -23448,6 +23438,16 @@
     "mode": 1
   },
   {
+    "id": 543889,
+    "name": "Delete mana gem",
+    "key": "delete-mana-gem",
+    "dir": [
+      "DeleteManaGem"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 377586,
     "name": "DeleteConfirmer",
     "key": "deleteconfirmer",
@@ -23633,8 +23633,8 @@
     "name": "Details! Damage Meter (burning crusade)",
     "key": "details-damage-meter-burning-crusade",
     "dir": [
-      "Details_TinyThreat",
       "Details_Streamer",
+      "Details_TinyThreat",
       "Details"
     ],
     "source": "curse",
@@ -27281,16 +27281,6 @@
     "mode": 1
   },
   {
-    "id": 342089,
-    "name": "ElvUI Progressive Colored DataBars (Classic)",
-    "key": "elvui-progressive-colored-databars-classic",
-    "dir": [
-      "ElvUI_PDBC"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 280393,
     "name": "ElvUI Progressive DataBars Colors",
     "key": "elvui-progressive-databars-colors",
@@ -29429,16 +29419,6 @@
     "mode": 1
   },
   {
-    "id": 29820,
-    "name": "Fake Achievement",
-    "key": "fake-achievement",
-    "dir": [
-      "FakeAchievement"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 93633,
     "name": "Fake Item Links",
     "key": "fake-item-links",
@@ -29607,7 +29587,7 @@
       "FarmHud_QuestArrow"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 4316,
@@ -32435,7 +32415,7 @@
       "GTFO"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 282440,
@@ -38002,8 +37982,8 @@
     "name": "HandyNotes: TravelGuide (Classic & BCC)",
     "key": "handynotes-travelguide-classic",
     "dir": [
-      "HandyNotes_TravelGuide (Classic)",
-      "HandyNotes_TravelGuide (BCC)"
+      "HandyNotes_TravelGuide (BCC)",
+      "HandyNotes_TravelGuide (Classic)"
     ],
     "source": "curse",
     "mode": 3
@@ -51324,6 +51304,16 @@
     "mode": 1
   },
   {
+    "id": 543126,
+    "name": "Martin Noga",
+    "key": "ccguard",
+    "dir": [
+      "CCGuard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 13592,
     "name": "Masque",
     "key": "masque",
@@ -56035,9 +56025,9 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossip",
       "NPCRPGossipClassic",
-      "NPCRPGossipClassicEra"
+      "NPCRPGossipClassicEra",
+      "NPCRPGossip"
     ],
     "source": "curse",
     "mode": 3
@@ -66638,6 +66628,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 29820,
+    "name": "Real Achievement",
+    "key": "fake-achievement",
+    "dir": [
+      "FakeAchievement"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 38814,
