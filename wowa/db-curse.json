@@ -4276,6 +4276,16 @@
     "mode": 1
   },
   {
+    "id": 544083,
+    "name": "Argent Gruntling & Argent Squire Silencer",
+    "key": "argent-gruntling-and-argent-squire-silencer",
+    "dir": [
+      "Sound"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 56419,
     "name": "Argus",
     "key": "argus",
@@ -32415,7 +32425,7 @@
       "GTFO"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 282440,
@@ -55191,7 +55201,7 @@
       "Musician"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 384431,
@@ -55213,7 +55223,7 @@
       "MusicianList"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 386438,
@@ -55223,7 +55233,7 @@
       "MusicianMIDI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 385517,
@@ -55233,7 +55243,7 @@
       "Musician_Instrument_Piano"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 399115,
@@ -73433,6 +73443,16 @@
     "mode": 2
   },
   {
+    "id": 544171,
+    "name": "SmartBuff - Burning Crusade Classic",
+    "key": "smartbuff-burning-crusade-classic",
+    "dir": [
+      "SmartBuff"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 3623,
     "name": "SmartDebuff",
     "key": "smart-debuff",
@@ -74195,6 +74215,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 544053,
+    "name": "SoulwellNotifier",
+    "key": "soulwellnotifier",
+    "dir": [
+      "SoulwellNotifier"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 417900,
@@ -76015,7 +76045,7 @@
       "StoryTeller"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 39672,
@@ -85252,6 +85282,16 @@
     "mode": 2
   },
   {
+    "id": 544095,
+    "name": "WclPlayerScore-TBC-CN",
+    "key": "wclplayerscore-tbc-cn",
+    "dir": [
+      "WclPlayerScore-TBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 47376,
     "name": "We Don't Wipe",
     "key": "we-dont-wipe",
@@ -92070,8 +92110,8 @@
   },
   {
     "id": 530905,
-    "name": "rBottomBarStyler - for TBC",
-    "key": "rbottombarstyler-for-tbc",
+    "name": "rBottomBarStyler - for TBC and Classic",
+    "key": "rbottombarstyler-for-tbc-and-classic",
     "dir": [
       "rBottomBarStyler"
     ],
