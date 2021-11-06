@@ -4280,7 +4280,7 @@
     "name": "Argent Gruntling & Argent Squire Silencer",
     "key": "argent-gruntling-and-argent-squire-silencer",
     "dir": [
-      "Sound"
+      "Data"
     ],
     "source": "curse",
     "mode": 1
@@ -12763,7 +12763,7 @@
       "Broker_Calendar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 258463,
@@ -14218,6 +14218,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 543126,
+    "name": "CCGuard",
+    "key": "ccguard",
+    "dir": [
+      "CCGuard"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 370700,
@@ -16836,6 +16846,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 413517,
+    "name": "ClassHelper",
+    "key": "classhelper",
+    "dir": [
+      "ClassHelper"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 90451,
@@ -23013,7 +23033,7 @@
       "_DebugLog"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 93814,
@@ -32425,7 +32445,7 @@
       "GTFO"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 282440,
@@ -46366,6 +46386,16 @@
     "mode": 1
   },
   {
+    "id": 324034,
+    "name": "Leatrix Maps (Classic Era)",
+    "key": "leatrix-maps-classic",
+    "dir": [
+      "Leatrix_Maps"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 298842,
     "name": "Leatrix Maps (Shadowlands)",
     "key": "leatrix-maps",
@@ -46374,16 +46404,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 324034,
-    "name": "Leatrix Maps (World of Warcraft Classic)",
-    "key": "leatrix-maps-classic",
-    "dir": [
-      "Leatrix_Maps"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 463863,
@@ -46396,6 +46416,16 @@
     "mode": 1
   },
   {
+    "id": 322362,
+    "name": "Leatrix Plus (Classic Era)",
+    "key": "leatrix-plus-classic",
+    "dir": [
+      "Leatrix_Plus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 94855,
     "name": "Leatrix Plus (Shadowlands)",
     "key": "leatrix-plus",
@@ -46404,16 +46434,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 322362,
-    "name": "Leatrix Plus (World of Warcraft Classic)",
-    "key": "leatrix-plus-classic",
-    "dir": [
-      "Leatrix_Plus"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 463920,
@@ -46426,6 +46446,16 @@
     "mode": 1
   },
   {
+    "id": 323023,
+    "name": "Leatrix Sounds (Classic Era)",
+    "key": "leatrix-sounds-classic",
+    "dir": [
+      "Leatrix_Sounds"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 304659,
     "name": "Leatrix Sounds (Shadowlands)",
     "key": "leatrix-sounds",
@@ -46434,16 +46464,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 323023,
-    "name": "Leatrix Sounds (World of Warcraft Classic)",
-    "key": "leatrix-sounds-classic",
-    "dir": [
-      "Leatrix_Sounds"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 93662,
@@ -50938,8 +50958,8 @@
     "name": "MailTo Again",
     "key": "mailto",
     "dir": [
-      "CmdHelp",
-      "MailTo"
+      "MailTo",
+      "CmdHelp"
     ],
     "source": "curse",
     "mode": 1
@@ -51309,16 +51329,6 @@
     "key": "marking-bar-lives",
     "dir": [
       "MarkingBarLives"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 543126,
-    "name": "Martin Noga",
-    "key": "ccguard",
-    "dir": [
-      "CCGuard"
     ],
     "source": "curse",
     "mode": 1
