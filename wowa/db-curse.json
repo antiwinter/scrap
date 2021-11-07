@@ -2125,10 +2125,10 @@
   },
   {
     "id": 446521,
-    "name": "AdiBags Shadowlands Jewels",
+    "name": "AdiBags Shadowlands Jewelcrafting",
     "key": "adibags-shadowlands-jewels",
     "dir": [
-      "AdiBags_Shadowlands_Jewels"
+      "AdiBags_Shadowlands_Jewelcrafting"
     ],
     "source": "curse",
     "mode": 1
@@ -19624,7 +19624,7 @@
       "Coords"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 341960,
@@ -46387,7 +46387,7 @@
   },
   {
     "id": 324034,
-    "name": "Leatrix Maps (Classic Era)",
+    "name": "Leatrix Maps (Classic Era & Season of Mastery)",
     "key": "leatrix-maps-classic",
     "dir": [
       "Leatrix_Maps"
@@ -46417,7 +46417,7 @@
   },
   {
     "id": 322362,
-    "name": "Leatrix Plus (Classic Era)",
+    "name": "Leatrix Plus (Classic Era & Season of Mastery)",
     "key": "leatrix-plus-classic",
     "dir": [
       "Leatrix_Plus"
@@ -46447,7 +46447,7 @@
   },
   {
     "id": 323023,
-    "name": "Leatrix Sounds (Classic Era)",
+    "name": "Leatrix Sounds (Classic Era & Season of Mastery)",
     "key": "leatrix-sounds-classic",
     "dir": [
       "Leatrix_Sounds"
