@@ -3024,32 +3024,32 @@
     "name": "Altoholic",
     "key": "altoholic",
     "dir": [
-      "Altoholic_Options",
-      "Altoholic_Search",
-      "Altoholic_Summary",
-      "DataStore_Achievements",
-      "DataStore_Agenda",
       "DataStore_Auctions",
       "DataStore_Characters",
       "DataStore_Containers",
       "DataStore_Crafts",
-      "DataStore_Currencies",
-      "DataStore_Garrisons",
       "DataStore_Inventory",
       "DataStore_Mails",
-      "DataStore_Pets",
       "DataStore_Quests",
       "DataStore_Reputations",
       "DataStore_Spells",
-      "DataStore_Stats",
       "DataStore_Talents",
       "Altoholic",
-      "Altoholic_Achievements",
       "Altoholic_Agenda",
       "Altoholic_Characters",
       "Altoholic_Grids",
       "Altoholic_Guild",
+      "Altoholic_Search",
+      "Altoholic_Summary",
+      "DataStore_Agenda",
       "DataStore",
+      "DataStore_Currencies",
+      "DataStore_Garrisons",
+      "DataStore_Pets",
+      "DataStore_Stats",
+      "Altoholic_Achievements",
+      "Altoholic_Options",
+      "DataStore_Achievements",
       "AddonFactory"
     ],
     "source": "curse",
@@ -4279,6 +4279,16 @@
     "id": 544083,
     "name": "Argent Gruntling & Argent Squire Silencer",
     "key": "argent-gruntling-and-argent-squire-silencer",
+    "dir": [
+      "Data"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 544820,
+    "name": "Argent Gruntling(Squire) Silencer + Hunter Pet Call sound level lowered to 20%",
+    "key": "argent-gruntling-squire-silencer-hunter-pet-call",
     "dir": [
       "Data"
     ],
@@ -7335,6 +7345,16 @@
     "key": "azerpugs-readycheck-enhanced",
     "dir": [
       "AzerPUGsReadyCheckEnhanced"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 544431,
+    "name": "AzerPUG's Renown Checker",
+    "key": "azerpugs-renown-checker",
+    "dir": [
+      "AzerPUGsRenownChecker"
     ],
     "source": "curse",
     "mode": 1
@@ -11863,6 +11883,16 @@
     "key": "booster-shot",
     "dir": [
       "BoosterShot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 545028,
+    "name": "Boosting Tools",
+    "key": "boosting-tools",
+    "dir": [
+      "BoostingTools"
     ],
     "source": "curse",
     "mode": 1
@@ -18004,7 +18034,7 @@
       "ClosetGnome"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 45382,
@@ -25330,6 +25360,16 @@
     "mode": 1
   },
   {
+    "id": 544391,
+    "name": "Dung - TBC Classic",
+    "key": "dung",
+    "dir": [
+      "Dung"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 354981,
     "name": "Dungeon Entrances",
     "key": "dungeon-entrances",
@@ -27583,26 +27623,6 @@
     "key": "merathilis-ui",
     "dir": [
       "ElvUI_MerathilisUI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 340485,
-    "name": "ElvUI_MerathilisUI-Classic",
-    "key": "elvui_merathilisui-classic",
-    "dir": [
-      "ElvUI_MerathilisUI-Classic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 514731,
-    "name": "ElvUI_MerathilisUI-TBC",
-    "key": "elvui_merathilisui-tbc",
-    "dir": [
-      "ElvUI_MerathilisUI-TBC"
     ],
     "source": "curse",
     "mode": 1
@@ -41448,16 +41468,6 @@
     "key": "icecrown-boss-alert-audio-announcer",
     "dir": [
       "IcecrownBossAlert"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 499286,
-    "name": "Icecrown Community Toolkit (ICC Toolkit)",
-    "key": "icc-toolkit",
-    "dir": [
-      "ICCToolkit"
     ],
     "source": "curse",
     "mode": 1
@@ -56354,11 +56364,11 @@
     "name": "Narcissus",
     "key": "narcissus",
     "dir": [
-      "Narcissus_Database_NPC",
-      "Narcissus_Barbershop",
       "Narcissus_Database_Item",
-      "Narcissus",
-      "Narcissus_Achievements"
+      "Narcissus_Database_NPC",
+      "Narcissus_Achievements",
+      "Narcissus_Barbershop",
+      "Narcissus"
     ],
     "source": "curse",
     "mode": 1
@@ -78756,6 +78766,16 @@
     "mode": 2
   },
   {
+    "id": 544585,
+    "name": "TheAddon2 - GO edition",
+    "key": "theaddon2-go-edition",
+    "dir": [
+      "TheAddon2go"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4461,
     "name": "TheBurningTrade",
     "key": "the-burning-trade",
@@ -83558,6 +83578,16 @@
     "key": "unlucky-twitch-emotes",
     "dir": [
       "UnluckyTwitchEmotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 544432,
+    "name": "Unmasked",
+    "key": "unmasked",
+    "dir": [
+      "Unmasked"
     ],
     "source": "curse",
     "mode": 1
