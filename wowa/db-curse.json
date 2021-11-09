@@ -2134,6 +2134,16 @@
     "mode": 1
   },
   {
+    "id": 545215,
+    "name": "AdiBags Shadowlands Leatherworking",
+    "key": "adibags-shadowlands-leatherworking",
+    "dir": [
+      "AdiBags_Shadowlands_Leatherworking"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 446524,
     "name": "AdiBags Shadowlands Meat",
     "key": "adibags-shadowlands-meat",
@@ -2282,6 +2292,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 545326,
+    "name": "AdiBags_Shadowlands_Blacksmithing",
+    "key": "adibags_shadowlands_blacksmithing",
+    "dir": [
+      "AdiBags_Shadowlands_Blacksmithing"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 299152,
@@ -4197,8 +4217,8 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarker",
-      "ArenaMarkerRetail"
+      "ArenaMarkerRetail",
+      "ArenaMarker"
     ],
     "source": "curse",
     "mode": 1
@@ -4465,7 +4485,8 @@
     "name": "Armory (Burning Crusade Classic)",
     "key": "armory-bcc",
     "dir": [
-      "Armory"
+      "Armory",
+      "ArmoryGuildBank"
     ],
     "source": "curse",
     "mode": 1
@@ -14559,7 +14580,7 @@
       "CT_Library"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 293258,
@@ -20444,6 +20465,16 @@
     "mode": 1
   },
   {
+    "id": 545117,
+    "name": "CursorCoords",
+    "key": "cursorcoords",
+    "dir": [
+      "CursorCoords"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 356016,
     "name": "CursorMod",
     "key": "cursormod",
@@ -23285,7 +23316,7 @@
       "DejaAutoMark"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 44033,
@@ -23335,7 +23366,7 @@
       "DejaChatTabs"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 334987,
@@ -23415,7 +23446,7 @@
       "DejaPRFader"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 292609,
@@ -23435,7 +23466,7 @@
       "DejaStats"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 44035,
@@ -24255,6 +24286,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 544464,
+    "name": "Disenchanter",
+    "key": "disenchanter",
+    "dir": [
+      "Disenchanter"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 347995,
@@ -27625,7 +27666,7 @@
       "ElvUI_MerathilisUI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 67588,
@@ -49590,7 +49631,7 @@
       "LootReserve"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 402978,
@@ -82510,7 +82551,7 @@
       "TranqRotate"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 27295,
@@ -87551,7 +87592,7 @@
       "XandY"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 334697,
