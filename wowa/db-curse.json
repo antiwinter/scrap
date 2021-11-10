@@ -2849,16 +2849,6 @@
     "mode": 1
   },
   {
-    "id": 399152,
-    "name": "AlltheGold",
-    "key": "all-the-gold",
-    "dir": [
-      "AlltheGold"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 327019,
     "name": "AllyRoute",
     "key": "allyroute",
@@ -19903,6 +19893,26 @@
     "key": "court-of-stars-helper",
     "dir": [
       "CoS helper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 545436,
+    "name": "Covenant Ability Changer",
+    "key": "covenant-ability-changer",
+    "dir": [
+      "CovenantAbilityChanger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 545495,
+    "name": "Covenant Macro",
+    "key": "covenant-macro",
+    "dir": [
+      "CovenantMacro"
     ],
     "source": "curse",
     "mode": 1
@@ -38421,19 +38431,19 @@
     "mode": 1
   },
   {
-    "id": 399110,
+    "id": 539163,
     "name": "Hardcore",
     "key": "hardcore",
     "dir": [
       "Hardcore"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
-    "id": 539163,
-    "name": "Hardcore - Fixed",
-    "key": "hardcore-fixed",
+    "id": 399110,
+    "name": "Hardcore OLD (deprecated)",
+    "key": "hardcore-old",
     "dir": [
       "Hardcore"
     ],
@@ -53229,6 +53239,17 @@
     "dir": [
       "MinimapButtonFrame_SkinPack",
       "MinimapButtonFrame"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 545439,
+    "name": "Minimap Button Frame Redux",
+    "key": "minimapbuttonframe-redux",
+    "dir": [
+      "MinimapButtonFrameRedux_SkinPack",
+      "MinimapButtonFrameRedux"
     ],
     "source": "curse",
     "mode": 1
