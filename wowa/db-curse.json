@@ -388,7 +388,7 @@
       "AA-Faded"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 22862,
@@ -2094,6 +2094,16 @@
     "mode": 1
   },
   {
+    "id": 545326,
+    "name": "AdiBags Shadowlands Blacksmithing",
+    "key": "adibags_shadowlands_blacksmithing",
+    "dir": [
+      "AdiBags_Shadowlands_Blacksmithing"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 446515,
     "name": "AdiBags Shadowlands Enchanting",
     "key": "adibags-shadowlands-enchanting",
@@ -2168,7 +2178,7 @@
     "name": "AdiBags Shadowlands Skinning",
     "key": "adibags-shadowlands-skinning",
     "dir": [
-      "AdiBags_Shadowlands_Skinning"
+      "AdiBags_Shadowlands_Blacksmithing"
     ],
     "source": "curse",
     "mode": 1
@@ -2292,16 +2302,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 545326,
-    "name": "AdiBags_Shadowlands_Blacksmithing",
-    "key": "adibags_shadowlands_blacksmithing",
-    "dir": [
-      "AdiBags_Shadowlands_Blacksmithing"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 299152,
@@ -13351,7 +13351,7 @@
       "Broker_TSMProfile"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 20924,
@@ -21397,6 +21397,16 @@
     "mode": 1
   },
   {
+    "id": 545590,
+    "name": "DBM-VPMianyang",
+    "key": "dbm-vpmianyang",
+    "dir": [
+      "DBM-VPMianyang"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301866,
     "name": "DBM-VPTaotao",
     "key": "lunataotao",
@@ -21422,6 +21432,16 @@
     "key": "luoxiaobai",
     "dir": [
       "DBM-VPXiaobai"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 539139,
+    "name": "DBM-VPXiaotu",
+    "key": "dbm-vpxiaotu",
+    "dir": [
+      "DBM-VPXiaotu"
     ],
     "source": "curse",
     "mode": 1
@@ -67804,7 +67824,7 @@
       "RXPGuides"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 57326,
