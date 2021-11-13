@@ -9592,9 +9592,9 @@
     "name": "BenikUI - The ElvUI Edit",
     "key": "benikui",
     "dir": [
-      "ElvUI_BenikUI_Classic",
       "ElvUI_BenikUI",
-      "ElvUI_BenikUI_TBC"
+      "ElvUI_BenikUI_TBC",
+      "ElvUI_BenikUI_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -20138,16 +20138,6 @@
     "mode": 1
   },
   {
-    "id": 368578,
-    "name": "CritChain CLASSIC",
-    "key": "critchain-classic",
-    "dir": [
-      "CritChain"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 22241,
     "name": "CritEmote",
     "key": "critemote",
@@ -25213,6 +25203,16 @@
     "mode": 3
   },
   {
+    "id": 488065,
+    "name": "Druid Buffs",
+    "key": "druidbuffs",
+    "dir": [
+      "DruidBuffs"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 34831,
     "name": "Druid Friend",
     "key": "druidfriend",
@@ -25238,16 +25238,6 @@
     "key": "druid-flame",
     "dir": [
       "Druid_of_the_Flame"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 488065,
-    "name": "DruidBuffs",
-    "key": "druidbuffs",
-    "dir": [
-      "DruidBuffs"
     ],
     "source": "curse",
     "mode": 1
@@ -27314,8 +27304,8 @@
     "key": "elvui-location-plus",
     "dir": [
       "ElvUI_LocPlus",
-      "ElvUI_LocationPlus",
-      "ElvUI_LocPlus-TBC"
+      "ElvUI_LocPlus-TBC",
+      "ElvUI_LocationPlus"
     ],
     "source": "curse",
     "mode": 3
@@ -36241,6 +36231,16 @@
     "mode": 2
   },
   {
+    "id": 335803,
+    "name": "Guidelime Sage (Alliance 1-60 All Classes)",
+    "key": "guidelime_sage",
+    "dir": [
+      "Guidelime_Sage"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 494896,
     "name": "Guidelime Salem",
     "key": "guidelime-salem",
@@ -36359,16 +36359,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 335803,
-    "name": "Guidelime_Sage | Alliance 1-60 All Classes | Dungeons | Raids",
-    "key": "guidelime_sage",
-    "dir": [
-      "Guidelime_Sage"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 335948,
@@ -87354,6 +87344,16 @@
     "key": "worthit",
     "dir": [
       "WIT"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 539826,
+    "name": "WorthIt - Guides",
+    "key": "worthit-guides",
+    "dir": [
+      "WorthIt-Guides"
     ],
     "source": "curse",
     "mode": 1
