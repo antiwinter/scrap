@@ -4475,8 +4475,8 @@
     "name": "Armory (Burning Crusade Classic)",
     "key": "armory-bcc",
     "dir": [
-      "Armory",
-      "ArmoryGuildBank"
+      "ArmoryGuildBank",
+      "Armory"
     ],
     "source": "curse",
     "mode": 1
@@ -6895,6 +6895,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 39229,
+    "name": "AutoTrackerAchievement",
+    "key": "autotrackerachievement",
+    "dir": [
+      "AutoTrackerAchievement"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 35859,
@@ -9975,7 +9985,7 @@
       "BetterAddonList"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13508,
@@ -27365,8 +27375,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts_Classic",
-      "ElvUI_NutsAndBolts"
+      "ElvUI_NutsAndBolts",
+      "ElvUI_NutsAndBolts_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -30042,8 +30052,8 @@
   },
   {
     "id": 436660,
-    "name": "FazzTools",
-    "key": "fazztools",
+    "name": "FazzQoL",
+    "key": "fazzqol",
     "dir": [
       "FazzTools"
     ],
@@ -34264,7 +34274,7 @@
       "GlowFoSho"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 413699,
@@ -54659,7 +54669,7 @@
       "Mouse_Look_Lock"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 269722,
@@ -59089,7 +59099,7 @@
       "PVPWarn"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 33883,
@@ -73536,13 +73546,13 @@
   },
   {
     "id": 544171,
-    "name": "SmartBuff - Burning Crusade Classic",
+    "name": "SmartBuff - Burning Crusade Classic / Classic ERA",
     "key": "smartbuff-burning-crusade-classic",
     "dir": [
       "SmartBuff"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 3623,
@@ -84418,8 +84428,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "Viks_ConfigUI",
-      "ViksUI"
+      "ViksUI",
+      "Viks_ConfigUI"
     ],
     "source": "curse",
     "mode": 1
@@ -86264,26 +86274,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 340171,
-    "name": "Wide Quest Log",
-    "key": "widequestlog",
-    "dir": [
-      "WideQuestLog"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
-    "id": 340749,
-    "name": "Wide Quest Log Levels",
-    "key": "widequestloglevels",
-    "dir": [
-      "WideQuestLogLevels"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 85340,
