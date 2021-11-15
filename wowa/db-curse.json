@@ -953,6 +953,16 @@
     "mode": 1
   },
   {
+    "id": 546386,
+    "name": "AcceptPopups",
+    "key": "acceptpopups",
+    "dir": [
+      "AcceptPopups"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 311764,
     "name": "AccidentalCursorKeysInChat",
     "key": "accidentalcursorkeysinchat",
@@ -2114,6 +2124,16 @@
     "mode": 1
   },
   {
+    "id": 545962,
+    "name": "AdiBags Shadowlands Engineering",
+    "key": "adibags_shadowlands_engineering",
+    "dir": [
+      "AdiBags_Shadowlands_Engineering"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 446518,
     "name": "AdiBags Shadowlands Fishing",
     "key": "adibags-shadowlands-fishing",
@@ -2885,6 +2905,16 @@
     "key": "method-alt-manager",
     "dir": [
       "AltManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 546235,
+    "name": "Alt Manager 2",
+    "key": "alt-manager-2",
+    "dir": [
+      "AltManager2"
     ],
     "source": "curse",
     "mode": 1
@@ -5934,7 +5964,7 @@
       "AutoOpenItems"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 100864,
@@ -6904,7 +6934,7 @@
       "AutoTrackerAchievement"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 35859,
@@ -25438,7 +25468,7 @@
       "Dung"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 354981,
@@ -36248,7 +36278,7 @@
       "Guidelime_Sage"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 494896,
@@ -55388,6 +55418,16 @@
     "mode": 1
   },
   {
+    "id": 545932,
+    "name": "Mute Mailboxes",
+    "key": "mute-mailboxes",
+    "dir": [
+      "MuteMailboxes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 439354,
     "name": "Mute Mount Merchants",
     "key": "mute-mount-merchants",
@@ -59549,6 +59589,16 @@
     "key": "pass-loot",
     "dir": [
       "PassLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 546669,
+    "name": "PassLoot_AtlasLootClassic",
+    "key": "passloot_atlaslootclassic",
+    "dir": [
+      "PassLoot_AtlasLoot"
     ],
     "source": "curse",
     "mode": 1
@@ -77900,7 +77950,8 @@
     "key": "talented-classic",
     "dir": [
       "Talented_Data",
-      "Talented"
+      "Talented",
+      "Talented_Data_Export"
     ],
     "source": "curse",
     "mode": 3
@@ -86636,6 +86687,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 546085,
+    "name": "WoW gambling addon",
+    "key": "wow-gambling-addon",
+    "dir": [
+      "TradeLogUnlimited"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 25256,
