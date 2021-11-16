@@ -2154,6 +2154,16 @@
     "mode": 1
   },
   {
+    "id": 546354,
+    "name": "AdiBags Shadowlands Inscription",
+    "key": "adibags-shadowlands-inscription",
+    "dir": [
+      "AdiBags_Shadowlands_Inscription"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 446521,
     "name": "AdiBags Shadowlands Jewelcrafting",
     "key": "adibags-shadowlands-jewels",
@@ -11557,6 +11567,16 @@
     "mode": 1
   },
   {
+    "id": 546311,
+    "name": "Bloodlust Tools",
+    "key": "bloodlust-tools",
+    "dir": [
+      "BloodlustTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 526292,
     "name": "BloodlustMusic",
     "key": "bloodlustmusic",
@@ -17111,6 +17131,16 @@
     "mode": 3
   },
   {
+    "id": 426943,
+    "name": "Classic Era Raid Info",
+    "key": "classic-raid-info",
+    "dir": [
+      "ClassicRaidInfo"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 409913,
     "name": "Classic Floating Combat Text",
     "key": "classic-floating-combat-text",
@@ -17289,16 +17319,6 @@
     "key": "classic-raid-assist-ziggurat",
     "dir": [
       "ClassicRaidAssist"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 426943,
-    "name": "Classic Raid Info [CRI]",
-    "key": "classic-raid-info",
-    "dir": [
-      "ClassicRaidInfo"
     ],
     "source": "curse",
     "mode": 2
@@ -34847,6 +34867,16 @@
     "mode": 1
   },
   {
+    "id": 546215,
+    "name": "Golden Lotus Tools",
+    "key": "golden-lotus-tools",
+    "dir": [
+      "GoldenLotusTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 342156,
     "name": "Golden Mail",
     "key": "golden-mail",
@@ -50541,8 +50571,8 @@
     "name": "MUI Core (Shadowlands)",
     "key": "mui-core-shadowlands",
     "dir": [
-      "MUI_Setup",
       "MUI_Config",
+      "MUI_Setup",
       "MUI_Core"
     ],
     "source": "curse",
@@ -62293,6 +62323,16 @@
     "key": "premadequickjoin",
     "dir": [
       "PremadeQuickJoin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 546414,
+    "name": "Premake Groups Helper",
+    "key": "premake-groups-helper",
+    "dir": [
+      "PremakeGroupsHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -74947,6 +74987,16 @@
     "mode": 1
   },
   {
+    "id": 546555,
+    "name": "SpellActivationText",
+    "key": "spellactivationtext",
+    "dir": [
+      "SpellActivationText"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 82924,
     "name": "SpellAlert Timer",
     "key": "spellalert-timers",
@@ -75296,6 +75346,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 547225,
+    "name": "Split ActionBars (ElvUI Plugin)",
+    "key": "elvui-split-actionbars",
+    "dir": [
+      "ElvUI_SplitActionBars"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 91685,
