@@ -6944,7 +6944,7 @@
       "AutoTrackerAchievement"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 35859,
@@ -7638,11 +7638,10 @@
     "name": "BAMFTones",
     "key": "bamftones",
     "dir": [
-      "BAMFTones",
-      "BAMFTones Classic"
+      "BAMFTones TBC"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 340294,
@@ -22223,6 +22222,16 @@
     "mode": 1
   },
   {
+    "id": 547564,
+    "name": "Dark Mode UI (Classic WoW)",
+    "key": "dark-mode-ui-classic-wow",
+    "dir": [
+      "DarkModeUI"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 85801,
     "name": "Dark ShestakUI",
     "key": "darkshestakui",
@@ -30106,6 +30115,16 @@
     "key": "fazzqol",
     "dir": [
       "FazzTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 546843,
+    "name": "FazzTools Scraper",
+    "key": "fazztools-scraper",
+    "dir": [
+      "FazzToolsScraper"
     ],
     "source": "curse",
     "mode": 1
@@ -43932,6 +43951,16 @@
     "mode": 1
   },
   {
+    "id": 547558,
+    "name": "Journeyman",
+    "key": "journeyman",
+    "dir": [
+      "Journeyman"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 44910,
     "name": "Jughead",
     "key": "jughead",
@@ -50370,7 +50399,7 @@
       "Mama"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 14354,
@@ -55049,7 +55078,7 @@
       "MovementSpeed"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 2268,
@@ -67914,7 +67943,7 @@
       "RXPGuides"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 57326,
@@ -84721,6 +84750,16 @@
     "mode": 1
   },
   {
+    "id": 547573,
+    "name": "Void Reaver Alert",
+    "key": "void-reaver-alert",
+    "dir": [
+      "VoidReaverAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 54010,
     "name": "VoidTransmog",
     "key": "voidtransmog",
@@ -86747,16 +86786,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 546085,
-    "name": "WoW gambling addon",
-    "key": "wow-gambling-addon",
-    "dir": [
-      "TradeLogUnlimited"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 25256,
