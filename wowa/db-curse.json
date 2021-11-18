@@ -27848,16 +27848,6 @@
     "mode": 1
   },
   {
-    "id": 388783,
-    "name": "ElvUI_mMediaTag_Classic",
-    "key": "elvui_mmediatag_classic",
-    "dir": [
-      "ElvUI_mMediaTag_Classic"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 91797,
     "name": "Elveui_saveme",
     "key": "elveui_saveme",
@@ -50585,7 +50575,7 @@
   },
   {
     "id": 492030,
-    "name": "MUI Core (Classic)",
+    "name": "MUI Core (Classic & Season of Mastery)",
     "key": "mui-core-classic",
     "dir": [
       "MUI_Setup",
@@ -88694,6 +88684,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 547798,
+    "name": "Zdeyn's Guild Joinerator",
+    "key": "zdeyns-guild-joinerator",
+    "dir": [
+      "Zdeyns_Guild_Joinerator"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 384820,
