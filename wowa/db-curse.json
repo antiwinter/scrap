@@ -1178,7 +1178,7 @@
       "AceGUI-3.0_SFX-Widgets"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13383,
@@ -15276,6 +15276,16 @@
     "key": "card_flipping",
     "dir": [
       "Card_Flipping"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 547526,
+    "name": "Carrot",
+    "key": "carrot",
+    "dir": [
+      "Carrot"
     ],
     "source": "curse",
     "mode": 1
@@ -60766,9 +60776,9 @@
     "name": "PhoenixStyle - Cataclysm mod",
     "key": "phoenixstyle-cataclysm-mod",
     "dir": [
-      "PhoenixStyleMod_DragonSoul",
       "PhoenixStyleMod_Firelands",
       "PhoenixStyleMod_CataMiniRaids",
+      "PhoenixStyleMod_DragonSoul",
       "PhoenixStyle_Loader_Cata"
     ],
     "source": "curse",
@@ -65457,8 +65467,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionRaids",
-      "RaidAchievement_LegionHeroics"
+      "RaidAchievement_LegionHeroics",
+      "RaidAchievement_LegionRaids"
     ],
     "source": "curse",
     "mode": 1
@@ -65478,12 +65488,12 @@
     "name": "RaidAchievement_OldModules",
     "key": "raidachievement_oldmodules",
     "dir": [
-      "RaidAchievement_CataRaids",
+      "RaidAchievement_WotlkHeroics",
       "RaidAchievement_Icecrown",
       "RaidAchievement_Naxxramas",
       "RaidAchievement_Ulduar",
-      "RaidAchievement_WotlkHeroics",
       "RaidAchievement_CataHeroics",
+      "RaidAchievement_CataRaids",
       "RaidAchievement_OldModules"
     ],
     "source": "curse",
@@ -65506,8 +65516,8 @@
     "name": "RaidAchievement_WoD",
     "key": "raidachievement_wod",
     "dir": [
-      "RaidAchievement_WoDHeroics",
-      "RaidAchievement_WoDRaids"
+      "RaidAchievement_WoDRaids",
+      "RaidAchievement_WoDHeroics"
     ],
     "source": "curse",
     "mode": 1
@@ -78830,10 +78840,11 @@
     "name": "The Earth Mother",
     "key": "the-earth-mother",
     "dir": [
-      "TheEarthMother"
+      "TheEarthMother",
+      "TheEarthMother_Classic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 21344,
