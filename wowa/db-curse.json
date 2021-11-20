@@ -22706,7 +22706,8 @@
       "DBM-Shadowlands",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
-      "DBM-SanctumOfDomination"
+      "DBM-SanctumOfDomination",
+      "DBM-Sepulcher"
     ],
     "source": "curse",
     "mode": 3
@@ -51953,7 +51954,7 @@
       "Masque_Serenity"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 95314,
