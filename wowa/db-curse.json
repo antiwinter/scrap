@@ -9124,6 +9124,16 @@
     "mode": 1
   },
   {
+    "id": 547849,
+    "name": "Battle Map Resize",
+    "key": "battle-map-resize",
+    "dir": [
+      "BattleMapResize"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 92045,
     "name": "Battle Pet Battle Stats",
     "key": "battle-pet-battle-stats",
@@ -17483,6 +17493,16 @@
     "mode": 2
   },
   {
+    "id": 548394,
+    "name": "ClassicBestiary",
+    "key": "classicbestiary",
+    "dir": [
+      "ClassicBestiary"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 290257,
     "name": "ClassicCal",
     "key": "classiccal",
@@ -19376,17 +19396,11 @@
     "name": "ConsolePort",
     "key": "console-port",
     "dir": [
-      "ConsolePortHelp",
-      "ConsolePort",
-      "ConsolePortAdvanced",
-      "ConsolePortBar",
-      "ConsolePortLoader",
-      "ConsolePortUI_Loot",
-      "ConsolePortUI_Menu",
       "ConsolePort_Bar",
       "ConsolePort_Config",
       "ConsolePort_Menu",
       "ConsolePort_World",
+      "ConsolePort",
       "ConsolePort_Keyboard"
     ],
     "source": "curse",
@@ -20572,6 +20586,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 548012,
+    "name": "Custom Macro Helper",
+    "key": "custom-macro-helper",
+    "dir": [
+      "CustomMacroHelper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 100641,
@@ -24871,6 +24895,16 @@
     "mode": 1
   },
   {
+    "id": 547841,
+    "name": "Doomwalker Transmog Tracker",
+    "key": "doomwalker-transmog-tracker",
+    "dir": [
+      "DoomwalkerTransmogTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102146,
     "name": "DoorOpener",
     "key": "dooropener",
@@ -27703,6 +27737,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 336665,
+    "name": "ElvUI_GennUI",
+    "key": "elvui-gennui",
+    "dir": [
+      "ElvUI_GennUI"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 301940,
@@ -49463,6 +49507,16 @@
     "mode": 1
   },
   {
+    "id": 527789,
+    "name": "Loot Distribution Priority [Адепты Катаклизма]",
+    "key": "loot-distribution-priority",
+    "dir": [
+      "ACLDP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 277452,
     "name": "Loot History Fix",
     "key": "loot-history-fix",
@@ -58450,6 +58504,16 @@
     "mode": 1
   },
   {
+    "id": 548858,
+    "name": "OneMacro Covenants",
+    "key": "onemacro-covenants",
+    "dir": [
+      "OneMacroCovenants"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 325916,
     "name": "OneOfUs",
     "key": "one-of-us",
@@ -66369,7 +66433,7 @@
       "RareScanner"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 416852,
@@ -82143,6 +82207,16 @@
     "mode": 1
   },
   {
+    "id": 548750,
+    "name": "Track Covenant's Renown",
+    "key": "tcr",
+    "dir": [
+      "TCR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 399326,
     "name": "Track Everything",
     "key": "track-everything",
@@ -83634,6 +83708,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 548836,
+    "name": "Underdog",
+    "key": "underdog",
+    "dir": [
+      "Underdog"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 1828,
@@ -86413,6 +86497,16 @@
     "key": "autoloot-07000",
     "dir": [
       "AutoLoot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 547894,
+    "name": "Wide Quest Log",
+    "key": "widequestlog",
+    "dir": [
+      "WideQuestLog"
     ],
     "source": "curse",
     "mode": 1
