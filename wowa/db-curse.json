@@ -15597,16 +15597,6 @@
     "mode": 1
   },
   {
-    "id": 324878,
-    "name": "CensusPlusClassic",
-    "key": "censusplusclassic",
-    "dir": [
-      "CensusPlusClassic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 487957,
     "name": "CensusPlusTBC",
     "key": "censusplustbc",
@@ -59149,6 +59139,16 @@
     "mode": 1
   },
   {
+    "id": 548413,
+    "name": "PLM LootManager",
+    "key": "plaffs-lootmanager",
+    "dir": [
+      "Plaffs-LootManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 356943,
     "name": "PM WishList",
     "key": "pm-wishlist",
@@ -86512,6 +86512,16 @@
     "mode": 1
   },
   {
+    "id": 547898,
+    "name": "Wide Quest Log Levels",
+    "key": "widequestloglevels",
+    "dir": [
+      "WideQuestLogLevels"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 85340,
     "name": "Wide Target",
     "key": "wide-target",
@@ -89544,8 +89554,8 @@
     "name": "alaChat_Classic",
     "key": "alachat_classic",
     "dir": [
-      "alaChat",
-      "alaChat_Classic"
+      "alaChat_Classic",
+      "alaChat"
     ],
     "source": "curse",
     "mode": 3
