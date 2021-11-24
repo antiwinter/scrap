@@ -51546,7 +51546,7 @@
       "Masque"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 88599,
@@ -51637,7 +51637,7 @@
       "Masque_Apathy"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 300224,
@@ -51677,7 +51677,7 @@
       "Masque_Caith"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 21527,
@@ -51697,7 +51697,7 @@
       "Masque_Cirque"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 48336,
@@ -51767,7 +51767,7 @@
       "Masque_Entropy"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 302421,
@@ -51797,7 +51797,7 @@
       "Masque_Gears"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 86271,
@@ -51897,7 +51897,7 @@
       "Masque_LiteStep"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 313963,
@@ -74393,6 +74393,16 @@
     "mode": 2
   },
   {
+    "id": 549423,
+    "name": "Soul of Iron Nameplates",
+    "key": "soul-of-iron-nameplates",
+    "dir": [
+      "SoulofIronNameplates"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 435160,
     "name": "SoulEater",
     "key": "souleater",
@@ -75056,6 +75066,16 @@
     "key": "spell-book-search",
     "dir": [
       "SpellBookSearch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 549427,
+    "name": "Spell Chat",
+    "key": "spell-chat",
+    "dir": [
+      "SpellChat"
     ],
     "source": "curse",
     "mode": 1
