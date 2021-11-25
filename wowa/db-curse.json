@@ -7935,6 +7935,16 @@
     "mode": 2
   },
   {
+    "id": 549054,
+    "name": "BS_ActionsTracker",
+    "key": "bs_actionstracker",
+    "dir": [
+      "BS_ActionsTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 282539,
     "name": "BT MediaPack",
     "key": "bt-mediapack",
@@ -21490,6 +21500,16 @@
     "mode": 1
   },
   {
+    "id": 549485,
+    "name": "DBM-VPWeiwei",
+    "key": "dbm-vpweiwei",
+    "dir": [
+      "DBM-VPWeiwei"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 439677,
     "name": "DBM-VPXiaobai",
     "key": "luoxiaobai",
@@ -21738,7 +21758,7 @@
       "D4KiR DRF"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 404965,
@@ -25382,8 +25402,8 @@
     "key": "drustvar-com-pvp-ratings",
     "dir": [
       "Drustvar",
-      "Drustvar_DB_US",
-      "Drustvar_DB_EU"
+      "Drustvar_DB_EU",
+      "Drustvar_DB_US"
     ],
     "source": "curse",
     "mode": 1
@@ -27473,7 +27493,7 @@
       "ElvUI_PVPDT"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 308104,
@@ -36133,6 +36153,16 @@
     "mode": 1
   },
   {
+    "id": 548502,
+    "name": "Groupie",
+    "key": "groupie",
+    "dir": [
+      "Groupie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102599,
     "name": "Growler",
     "key": "growler",
@@ -36352,7 +36382,7 @@
       "Guidelime_Sage"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 494896,
@@ -54993,7 +55023,7 @@
       "D4KiR MoveAndImprove"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 342928,
@@ -73720,13 +73750,13 @@
   },
   {
     "id": 544171,
-    "name": "SmartBuff - Burning Crusade Classic / Classic ERA",
+    "name": "SmartBuff - Burning Crusade Classic / Classic ERA / Seasons of Mastery",
     "key": "smartbuff-burning-crusade-classic",
     "dir": [
       "SmartBuff"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 3623,
@@ -78218,7 +78248,7 @@
       "D4KiR Tank Helper"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 356625,
@@ -79162,6 +79192,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 549124,
+    "name": "TheoryCraftClassic2",
+    "key": "theorycraftclassic2",
+    "dir": [
+      "TheoryCraftClassic"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 16990,
