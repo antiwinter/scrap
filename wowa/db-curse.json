@@ -9652,8 +9652,8 @@
     "key": "benikui",
     "dir": [
       "ElvUI_BenikUI",
-      "ElvUI_BenikUI_TBC",
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI_Classic",
+      "ElvUI_BenikUI_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -20216,6 +20216,16 @@
     "key": "critemote",
     "dir": [
       "CritEmote"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 549852,
+    "name": "CritKing",
+    "key": "critking",
+    "dir": [
+      "CritKing"
     ],
     "source": "curse",
     "mode": 1
@@ -46303,16 +46313,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 85906,
-    "name": "LaLaLa",
-    "key": "lalala",
-    "dir": [
-      "LaLaLa"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 102858,
@@ -85525,16 +85525,6 @@
     "key": "warmup",
     "dir": [
       "!!Warmup"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 102492,
-    "name": "Warn Me About PvP",
-    "key": "warn-me-about-pvp",
-    "dir": [
-      "WarnMeAboutPvP"
     ],
     "source": "curse",
     "mode": 1
