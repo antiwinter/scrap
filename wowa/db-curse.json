@@ -89635,7 +89635,8 @@
     "name": "alaTalentEmu",
     "key": "alatalentemu",
     "dir": [
-      "alaTalentEmu"
+      "alaTalentEmu",
+      "TalentEmu"
     ],
     "source": "curse",
     "mode": 3
