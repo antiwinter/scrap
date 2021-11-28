@@ -11466,16 +11466,6 @@
     "mode": 1
   },
   {
-    "id": 441130,
-    "name": "Block Polish Chat",
-    "key": "begonepolish",
-    "dir": [
-      "BlockPolishSkull"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 425903,
     "name": "Block Quick Join",
     "key": "block-quick-join",
