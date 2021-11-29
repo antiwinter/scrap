@@ -1954,6 +1954,16 @@
     "mode": 1
   },
   {
+    "id": 550580,
+    "name": "AdiBags - Queen's Conservatory",
+    "key": "adibags-queensconservatory",
+    "dir": [
+      "AdiBags_QueensConservatory"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 423029,
     "name": "AdiBags - Shadowlands",
     "key": "adibags-shadowlands",
@@ -48917,6 +48927,16 @@
     "mode": 1
   },
   {
+    "id": 550060,
+    "name": "Lineup",
+    "key": "lineup",
+    "dir": [
+      "Lineup"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 20283,
     "name": "Linfo",
     "key": "linfo",
@@ -59346,6 +59366,16 @@
     "mode": 1
   },
   {
+    "id": 550807,
+    "name": "PajBlip",
+    "key": "pajblip",
+    "dir": [
+      "PajBlip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 373461,
     "name": "PajGuildHelper",
     "key": "pajguildhelper",
@@ -64240,6 +64270,16 @@
     "mode": 2
   },
   {
+    "id": 550603,
+    "name": "Quick Guild Invite",
+    "key": "quick-guild-invite",
+    "dir": [
+      "QuickGuildInvite"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 5130,
     "name": "Quick Heal",
     "key": "quick-heal",
@@ -65942,6 +65982,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 550709,
+    "name": "RaiderBuildReminder",
+    "key": "raiderbuildreminder",
+    "dir": [
+      "RaiderBuildReminder"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 392786,
@@ -68186,6 +68236,16 @@
     "key": "ride-by-zone",
     "dir": [
       "RideByZone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 550182,
+    "name": "Riftfarmhelper",
+    "key": "riftfarmhelper",
+    "dir": [
+      "Riftfarmhelper"
     ],
     "source": "curse",
     "mode": 1
@@ -74172,6 +74232,16 @@
     "mode": 3
   },
   {
+    "id": 550214,
+    "name": "Softkin Totem",
+    "key": "softkin-totem",
+    "dir": [
+      "Softskin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90729,
     "name": "Sol's Noxxic Stat Priorities",
     "key": "sols-noxxic-stat-priorities",
@@ -74498,6 +74568,16 @@
     "key": "soulbindstalents",
     "dir": [
       "SoulbindsTalents"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 550045,
+    "name": "Soulshape Journal",
+    "key": "soulshape-journal",
+    "dir": [
+      "SoulshapeJournal"
     ],
     "source": "curse",
     "mode": 1
@@ -84985,6 +85065,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 550294,
+    "name": "VurseStats",
+    "key": "vursestats",
+    "dir": [
+      "VurseStats"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 526556,
