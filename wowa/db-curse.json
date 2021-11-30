@@ -9916,6 +9916,16 @@
     "mode": 3
   },
   {
+    "id": 551010,
+    "name": "Better Item Preview",
+    "key": "better-item-preview",
+    "dir": [
+      "BetterItemPreview"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 303136,
     "name": "Better Loot Message",
     "key": "better-loot-message",
@@ -69363,6 +69373,16 @@
     "mode": 2
   },
   {
+    "id": 550817,
+    "name": "Safe Invite",
+    "key": "safe-invite",
+    "dir": [
+      "SafeInvite"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 534905,
     "name": "Safe Powershift",
     "key": "safe-powershift",
@@ -69470,7 +69490,7 @@
       "FloTotemBar"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 490001,
@@ -77763,6 +77783,16 @@
     "key": "tbc-classic-epgp-distributionfrombags",
     "dir": [
       "CEPGP_DistributionFromBags"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 551056,
+    "name": "TBC Combat Logging",
+    "key": "tbc-combat-logging",
+    "dir": [
+      "TBCCombatLogging"
     ],
     "source": "curse",
     "mode": 1
