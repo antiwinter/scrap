@@ -43317,7 +43317,17 @@
       "ItemAutocomplete"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
+  },
+  {
+    "id": 550801,
+    "name": "ItemCompare",
+    "key": "itemcompare",
+    "dir": [
+      "ItemCompare"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 26395,
@@ -56322,8 +56332,8 @@
     "key": "npc-rp-gossip",
     "dir": [
       "NPCRPGossipClassic",
-      "NPCRPGossipClassicEra",
-      "NPCRPGossip"
+      "NPCRPGossip",
+      "NPCRPGossipClassicEra"
     ],
     "source": "curse",
     "mode": 3
@@ -77079,6 +77089,16 @@
     "mode": 2
   },
   {
+    "id": 551078,
+    "name": "SuperBoomy",
+    "key": "superboomy",
+    "dir": [
+      "SuperBoomy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 30226,
     "name": "SuperGuildInvite",
     "key": "superguildinvite",
@@ -86622,7 +86642,7 @@
   },
   {
     "id": 338843,
-    "name": "Whoa ThickFrames (Classic / BCC)",
+    "name": "Whoa ThickFrames (Classic \\ BCC)",
     "key": "whoa-thickframes-for-wow-classic",
     "dir": [
       "whoaThickFrames_BCC",
@@ -93469,7 +93489,7 @@
   },
   {
     "id": 338841,
-    "name": "whoa UnitFrames (Classic / BCC)",
+    "name": "whoa UnitFrames (Classic \\ BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
       "whoaUnitFrames_Classic",
