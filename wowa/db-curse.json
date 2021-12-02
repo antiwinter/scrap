@@ -44910,6 +44910,16 @@
     "mode": 3
   },
   {
+    "id": 551434,
+    "name": "Khadgar's Junk Drawer - SOM Classic",
+    "key": "khadgars-junk-drawer-som-classic",
+    "dir": [
+      "SOM_KhadgarsJunkDrawer"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 488174,
     "name": "Khadgar's Junk Drawer - TBC Classic",
     "key": "khadgars-junk-drawer-tbc-classic",
@@ -68262,7 +68272,7 @@
   },
   {
     "id": 550182,
-    "name": "Riftfarmhelper",
+    "name": "Riftfarmhelper - Rift Farm Helper",
     "key": "riftfarmhelper",
     "dir": [
       "Riftfarmhelper"
@@ -88218,6 +88228,16 @@
     "mode": 3
   },
   {
+    "id": 551461,
+    "name": "XP Per Hour",
+    "key": "xp-per-hour",
+    "dir": [
+      "XP_Per_Hour"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 30448,
     "name": "XP Percent",
     "key": "xp_percent",
@@ -93492,8 +93512,8 @@
     "name": "whoa UnitFrames (Classic \\ BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_Classic",
-      "whoaUnitFrames_BCC"
+      "whoaUnitFrames_BCC",
+      "whoaUnitFrames_Classic"
     ],
     "source": "curse",
     "mode": 3
