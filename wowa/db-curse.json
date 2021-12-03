@@ -15908,6 +15908,36 @@
     "mode": 3
   },
   {
+    "id": 551565,
+    "name": "Chat Emotes",
+    "key": "chat-emotes",
+    "dir": [
+      "ChatEmotes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 551603,
+    "name": "Chat Emotes (Discord)",
+    "key": "chat-emotes-discord",
+    "dir": [
+      "ChatEmotesDiscord"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 551604,
+    "name": "Chat Emotes (Twitch)",
+    "key": "chat-emotes-twitch",
+    "dir": [
+      "ChatEmotesTwitch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 399035,
     "name": "Chat Filter Unknown",
     "key": "chat-filter-unknown",
@@ -36402,7 +36432,7 @@
       "Guidelime_Sage"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 494896,
@@ -62047,6 +62077,16 @@
     "mode": 1
   },
   {
+    "id": 551522,
+    "name": "Porous Stone Destroyer",
+    "key": "porous-stone-destroyer",
+    "dir": [
+      "PorousStoneDestroyer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 257343,
     "name": "PortGear",
     "key": "portgear",
@@ -82003,6 +82043,16 @@
     "mode": 1
   },
   {
+    "id": 551808,
+    "name": "TorghastAutoPicker",
+    "key": "torghastautopicker",
+    "dir": [
+      "TorghastAutoPicker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 428249,
     "name": "TorghastHelper",
     "key": "torghasthelper",
@@ -93315,7 +93365,7 @@
       "vGambler"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 97807,
