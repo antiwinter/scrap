@@ -5967,10 +5967,10 @@
   },
   {
     "id": 477307,
-    "name": "Auto Open Calendar On Login (AOCOL)",
-    "key": "auto-open-calendar-on-login-aocol",
+    "name": "Auto Open Calendar On Login",
+    "key": "auto-open-calendar-on-login",
     "dir": [
-      "AOCOL - Auto Open Calendar On Login"
+      "Auto Open Calendar On Login"
     ],
     "source": "curse",
     "mode": 1
@@ -10475,7 +10475,8 @@
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
       "BigWigs_BlackTemple",
-      "BigWigs_SanctumOfDomination"
+      "BigWigs_SanctumOfDomination",
+      "BigWigs_SepulcherOfTheFirstOnes"
     ],
     "source": "curse",
     "mode": 3
@@ -54067,10 +54068,10 @@
   },
   {
     "id": 477318,
-    "name": "Model Viewer 3D (MV3D)",
-    "key": "mv3d-model-viewer-3d",
+    "name": "Model Viewer 3D",
+    "key": "model-viewer-3d",
     "dir": [
-      "MV3D - Model Viewer 3D"
+      "Model Viewer 3D"
     ],
     "source": "curse",
     "mode": 1
@@ -60351,10 +60352,10 @@
   },
   {
     "id": 477436,
-    "name": "Pet Death Sound Alert (PDSA)",
-    "key": "pet-death-sound-alert-pdsa",
+    "name": "Pet Death Sound Alert",
+    "key": "pet-death-sound-alert",
     "dir": [
-      "SWPD - Sound When Pet Dies"
+      "Pet Death Sound Alert"
     ],
     "source": "curse",
     "mode": 1
@@ -78640,10 +78641,10 @@
   },
   {
     "id": 477321,
-    "name": "Target Quick Actions Button (TQAB)",
-    "key": "target-quick-actions-button-tqab",
+    "name": "Target Quick Actions Button",
+    "key": "target-quick-actions-button",
     "dir": [
-      "TAB - Target Actions Button"
+      "Target Quick Actions Button"
     ],
     "source": "curse",
     "mode": 1
