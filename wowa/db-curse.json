@@ -67429,16 +67429,6 @@
     "mode": 1
   },
   {
-    "id": 486969,
-    "name": "Relevance",
-    "key": "chatrelevance",
-    "dir": [
-      "Relevance"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102358,
     "name": "Relic Quest Reward",
     "key": "relicquestreward",
@@ -86750,7 +86740,7 @@
       "WideQuestLog"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 547898,
@@ -86760,7 +86750,7 @@
       "WideQuestLogLevels"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 85340,
