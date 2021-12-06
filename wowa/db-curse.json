@@ -20022,6 +20022,16 @@
     "mode": 1
   },
   {
+    "id": 552648,
+    "name": "Covenant Helper",
+    "key": "covenant-helper",
+    "dir": [
+      "CovenantHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 545495,
     "name": "Covenant Macro",
     "key": "covenant-macro",
@@ -20393,6 +20403,16 @@
     "key": "crucibleweight",
     "dir": [
       "CrucibleWeight"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 552232,
+    "name": "Cryolysis 3 TBC",
+    "key": "cryolysis-3-tbc",
+    "dir": [
+      "Cryolysis3"
     ],
     "source": "curse",
     "mode": 1
@@ -23692,6 +23712,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 552333,
+    "name": "Delay",
+    "key": "delay",
+    "dir": [
+      "Delay"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 392624,
@@ -66748,6 +66778,16 @@
     "mode": 1
   },
   {
+    "id": 552534,
+    "name": "Ratio Minimap Auras (ElvUI Plugin)",
+    "key": "elvui-ratiominimapauras",
+    "dir": [
+      "ElvUI_RatioMinimapAuras"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 25068,
     "name": "Raven",
     "key": "raven",
@@ -75498,6 +75538,16 @@
     "key": "spellbook-scroll",
     "dir": [
       "SpellbookScroll"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 552509,
+    "name": "Spellsnob",
+    "key": "spellsnob",
+    "dir": [
+      "SpellSnob"
     ],
     "source": "curse",
     "mode": 1
@@ -92578,6 +92628,16 @@
     "key": "ptrackerhider",
     "dir": [
       "pTrackerHider"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 552410,
+    "name": "pagleWclPlayerScore-TBC",
+    "key": "paglewclplayerscore-tbc",
+    "dir": [
+      "WclPlayerScore-TBC"
     ],
     "source": "curse",
     "mode": 1
