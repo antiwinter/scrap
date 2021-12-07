@@ -1085,7 +1085,7 @@
   {
     "id": 536115,
     "name": "AceBIS",
-    "key": "acebis",
+    "key": "acebis-bis-best-in-slot",
     "dir": [
       "AceBIS"
     ],
@@ -9670,7 +9670,7 @@
   },
   {
     "id": 360318,
-    "name": "Best In Slot - Classic - Discontinued",
+    "name": "Best In Slot - Classic",
     "key": "best-in-slot-classic",
     "dir": [
       "BestInSlotClassic"
@@ -11592,6 +11592,16 @@
     "key": "bloodlust-tools",
     "dir": [
       "BloodlustTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 551780,
+    "name": "Bloodlust Tools - Advertiser",
+    "key": "bloodlust-tools-advertiser",
+    "dir": [
+      "BloodlustTools_Advertiser"
     ],
     "source": "curse",
     "mode": 1
@@ -26793,6 +26803,16 @@
     "mode": 2
   },
   {
+    "id": 552793,
+    "name": "Eavesdrop (Classic Era Fix)",
+    "key": "eavesdrop-classic-era-fix",
+    "dir": [
+      "EavesDrop"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 444718,
     "name": "EclipseUI",
     "key": "eclipseui",
@@ -35017,6 +35037,16 @@
     "key": "golden-lotus-tools",
     "dir": [
       "GoldenLotusTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 551864,
+    "name": "Golden Lotus Tools - Advertiser",
+    "key": "golden-lotus-tools-advertiser",
+    "dir": [
+      "GoldenLotusTools_Advertiser"
     ],
     "source": "curse",
     "mode": 1
@@ -61727,6 +61757,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 552856,
+    "name": "PlexusLayoutByRoleDetailed",
+    "key": "plexuslayoutbyroledetailed",
+    "dir": [
+      "PlexusLayoutByRoleDetailed"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 416030,
