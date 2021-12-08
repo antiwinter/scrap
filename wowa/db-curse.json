@@ -20092,6 +20092,16 @@
     "mode": 1
   },
   {
+    "id": 554184,
+    "name": "Covenantie",
+    "key": "covenantie",
+    "dir": [
+      "Covenantie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 426287,
     "name": "CoyTooltip",
     "key": "coytooltip",
@@ -34969,7 +34979,7 @@
       "GoldGoblinLootArchive"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 30797,
@@ -52783,6 +52793,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 554126,
+    "name": "MedusaRaidLedger",
+    "key": "medusa-raid-ledger",
+    "dir": [
+      "MedusaRaidLedger"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 394339,
@@ -86395,6 +86415,16 @@
     "key": "where-do-we-go-now",
     "dir": [
       "WhereDoWeGoNow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 554161,
+    "name": "Where Is My Mouse",
+    "key": "where-is-my-mouse",
+    "dir": [
+      "WhereIsMyMouse"
     ],
     "source": "curse",
     "mode": 1
