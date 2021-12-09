@@ -22800,29 +22800,29 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Outlands",
+      "DBM-Party-Classic",
+      "DBM-Party-BC",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BlackTemple",
+      "DBM-BWL",
+      "DBM-Hyjal",
+      "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
+      "DBM-Serpentshrine",
+      "DBM-Sunwell",
+      "DBM-TheEye",
+      "DBM-ZG",
+      "DBM-ZulAman",
       "DBM-Shadowlands",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Sepulcher",
-      "DBM-Azeroth",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Outlands",
-      "DBM-Party-BC",
-      "DBM-BlackTemple",
-      "DBM-Hyjal",
-      "DBM-Karazhan",
-      "DBM-Serpentshrine",
-      "DBM-Sunwell",
-      "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-Sepulcher"
     ],
     "source": "curse",
     "mode": 3
@@ -43155,6 +43155,16 @@
     "key": "project-1836",
     "dir": [
       "InviteOMatic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 554311,
+    "name": "InviteMacro | Invite Macro",
+    "key": "invitemacro-invite-macro",
+    "dir": [
+      "InviteMacro"
     ],
     "source": "curse",
     "mode": 1
@@ -71197,6 +71207,16 @@
     "mode": 1
   },
   {
+    "id": 554302,
+    "name": "Shared Macro Functions",
+    "key": "sharedmacrofunctions",
+    "dir": [
+      "SharedMacroFunctions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 435201,
     "name": "Shared Media: Loud Noises!",
     "key": "shared-media-loud-noises",
@@ -77535,7 +77555,7 @@
       "SvensBamAddon"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 476537,
