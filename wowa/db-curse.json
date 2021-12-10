@@ -22903,7 +22903,7 @@
   },
   {
     "id": 61621,
-    "name": "Deadly Boss Mods (DBM) - Challenges (Visions/Torghast)",
+    "name": "Deadly Boss Mods (DBM) - Challenges (Mage Tower/Torghast)",
     "key": "dbm-challenges",
     "dir": [
       "DBM-Challenges"
@@ -24681,6 +24681,26 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 554554,
+    "name": "DoKeys",
+    "key": "dokeys",
+    "dir": [
+      "DoKeys"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 554551,
+    "name": "DoReady",
+    "key": "doready",
+    "dir": [
+      "DoReady"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 86294,
@@ -31210,6 +31230,16 @@
     "key": "flight-masters-classic",
     "dir": [
       "FlightMastersClassic"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 554379,
+    "name": "Flight Timer Classic",
+    "key": "flight-timer-classic",
+    "dir": [
+      "FlightTimerClassic"
     ],
     "source": "curse",
     "mode": 2
@@ -46180,7 +46210,7 @@
     "name": "LFM+",
     "key": "lfm",
     "dir": [
-      "LFM+"
+      "LFMPlus"
     ],
     "source": "curse",
     "mode": 1
@@ -71209,7 +71239,7 @@
   {
     "id": 554302,
     "name": "Shared Macro Functions",
-    "key": "sharedmacrofunctions",
+    "key": "shared-macro-functions",
     "dir": [
       "SharedMacroFunctions"
     ],
@@ -84416,7 +84446,8 @@
     "name": "Vaillants Bis",
     "key": "vaillants-bis",
     "dir": [
-      "Vaillants Priority Tooltips"
+      "Vaillants Priority Tooltips",
+      "ClassicLootManager"
     ],
     "source": "curse",
     "mode": 1
