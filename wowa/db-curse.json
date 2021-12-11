@@ -17491,7 +17491,7 @@
       "ClassicAggroHighlight"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 323806,
@@ -17664,7 +17664,7 @@
       "ClassicHealPrediction"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 376663,
@@ -23949,8 +23949,8 @@
     "name": "Details! Damage Meter (burning crusade)",
     "key": "details-damage-meter-burning-crusade",
     "dir": [
-      "Details_Streamer",
       "Details_TinyThreat",
+      "Details_Streamer",
       "Details"
     ],
     "source": "curse",
@@ -75399,7 +75399,7 @@
       "SpellChat"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 97065,
@@ -75648,16 +75648,6 @@
     "key": "spellbook-scroll",
     "dir": [
       "SpellbookScroll"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 552509,
-    "name": "Spellsnob",
-    "key": "spellsnob",
-    "dir": [
-      "SpellSnob"
     ],
     "source": "curse",
     "mode": 1
