@@ -87174,16 +87174,6 @@
     "mode": 1
   },
   {
-    "id": 509363,
-    "name": "WoW Glossary - Dictionary of Game Terms",
-    "key": "wow-glossary",
-    "dir": [
-      "WoWGlossary"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 91118,
     "name": "WoW Hates Aurorraa",
     "key": "whaurorraa",
@@ -93137,16 +93127,6 @@
     "key": "say-chat-hello",
     "dir": [
       "Hello"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 458176,
-    "name": "sellgreats",
-    "key": "sellgreats",
-    "dir": [
-      "sellgreats"
     ],
     "source": "curse",
     "mode": 1
