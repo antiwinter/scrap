@@ -57758,6 +57758,16 @@
     "mode": 1
   },
   {
+    "id": 556431,
+    "name": "NoTalk",
+    "key": "notalk",
+    "dir": [
+      "NoTalk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 86607,
     "name": "NoTitle",
     "key": "no-title",
@@ -71242,6 +71252,16 @@
     "key": "shared-macro-functions",
     "dir": [
       "SharedMacroFunctions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 554730,
+    "name": "Shared Macros",
+    "key": "shared-macros",
+    "dir": [
+      "SharedMacros"
     ],
     "source": "curse",
     "mode": 1
