@@ -8517,7 +8517,7 @@
       "Bagnon_ItemInfo"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 274607,
@@ -10277,6 +10277,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 556784,
+    "name": "BiS-Tooltip",
+    "key": "bis-tooltip",
+    "dir": [
+      "Bistooltip"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 94112,
@@ -71242,26 +71252,6 @@
     "key": "sharexp",
     "dir": [
       "ShareXP"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 554302,
-    "name": "Shared Macro Functions",
-    "key": "shared-macro-functions",
-    "dir": [
-      "SharedMacroFunctions"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 554730,
-    "name": "Shared Macros",
-    "key": "shared-macros",
-    "dir": [
-      "SharedMacros"
     ],
     "source": "curse",
     "mode": 1
