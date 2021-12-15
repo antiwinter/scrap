@@ -27292,16 +27292,6 @@
     "mode": 1
   },
   {
-    "id": 473233,
-    "name": "ElvUI CustomTags",
-    "key": "elvui-customtags",
-    "dir": [
-      "ElvUI_CustomTags"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 535517,
     "name": "ElvUI DataText Expertise",
     "key": "elvui-datatext-expertise",
@@ -27768,6 +27758,17 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 473233,
+    "name": "ElvUI TinkerToolbox",
+    "key": "elvui-tinkertoolbox",
+    "dir": [
+      "ElvUI_CustomTags",
+      "ElvUI_TinkerToolbox"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 40518,
@@ -30054,6 +30055,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 556969,
+    "name": "Farmlog Classic Era Fix",
+    "key": "farmlog-classic-era-fix",
+    "dir": [
+      "FarmLog"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 460339,
@@ -72087,6 +72098,16 @@
     "key": "shunkit",
     "dir": [
       "ShuckIt"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 557023,
+    "name": "Shut Yo Chat",
+    "key": "shut-yo-chat",
+    "dir": [
+      "ShutYoChat"
     ],
     "source": "curse",
     "mode": 1
