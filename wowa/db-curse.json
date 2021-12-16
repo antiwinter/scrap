@@ -22810,6 +22810,11 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
+      "DBM-Sepulcher",
       "DBM-Outlands",
       "DBM-Party-Classic",
       "DBM-Party-BC",
@@ -22827,12 +22832,7 @@
       "DBM-Sunwell",
       "DBM-TheEye",
       "DBM-ZG",
-      "DBM-ZulAman",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
-      "DBM-Sepulcher"
+      "DBM-ZulAman"
     ],
     "source": "curse",
     "mode": 3
@@ -44880,6 +44880,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 557231,
+    "name": "KeybindDisplay (ElvUI Plugin)",
+    "key": "keybinddisplay-elvui-plugin",
+    "dir": [
+      "ElvUI_KeybindDisplay"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 420725,
@@ -93735,8 +93745,8 @@
     "name": "whoa UnitFrames (Classic \\ BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_BCC",
-      "whoaUnitFrames_Classic"
+      "whoaUnitFrames_Classic",
+      "whoaUnitFrames_BCC"
     ],
     "source": "curse",
     "mode": 3
