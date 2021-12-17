@@ -25532,9 +25532,7 @@
     "name": "Drustvar.com PVP Ratings",
     "key": "drustvar-com-pvp-ratings",
     "dir": [
-      "Drustvar",
-      "Drustvar_DB_EU",
-      "Drustvar_DB_US"
+      "Drustvar"
     ],
     "source": "curse",
     "mode": 1
@@ -27764,7 +27762,6 @@
     "name": "ElvUI TinkerToolbox",
     "key": "elvui-tinkertoolbox",
     "dir": [
-      "ElvUI_CustomTags",
       "ElvUI_TinkerToolbox"
     ],
     "source": "curse",
@@ -28570,6 +28567,16 @@
     "key": "enhancedmenu",
     "dir": [
       "EnhancedMenu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 548993,
+    "name": "EnhancedModelScene",
+    "key": "enhancedmodelscene",
+    "dir": [
+      "EnhancedModelScene"
     ],
     "source": "curse",
     "mode": 1
@@ -65157,16 +65164,6 @@
     "mode": 2
   },
   {
-    "id": 439401,
-    "name": "RNG",
-    "key": "rng",
-    "dir": [
-      "rng"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 294515,
     "name": "RP Adjutant",
     "key": "rp-adjutant",
@@ -93745,8 +93742,8 @@
     "name": "whoa UnitFrames (Classic \\ BCC)",
     "key": "whoa-unitframes-for-wow-classic",
     "dir": [
-      "whoaUnitFrames_Classic",
-      "whoaUnitFrames_BCC"
+      "whoaUnitFrames_BCC",
+      "whoaUnitFrames_Classic"
     ],
     "source": "curse",
     "mode": 3
