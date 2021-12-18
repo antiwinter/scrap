@@ -20112,6 +20112,16 @@
     "mode": 1
   },
   {
+    "id": 423614,
+    "name": "Covenants_Tracking",
+    "key": "ds-covenants",
+    "dir": [
+      "DataStore_Covenants"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 426287,
     "name": "CoyTooltip",
     "key": "coytooltip",
@@ -25532,7 +25542,9 @@
     "name": "Drustvar.com PVP Ratings",
     "key": "drustvar-com-pvp-ratings",
     "dir": [
-      "Drustvar"
+      "Drustvar",
+      "Drustvar_DB_US",
+      "Drustvar_DB_EU"
     ],
     "source": "curse",
     "mode": 1
