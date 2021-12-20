@@ -6138,6 +6138,16 @@
     "mode": 1
   },
   {
+    "id": 558086,
+    "name": "Auto Weapon Sheath",
+    "key": "auto-weapon-sheath",
+    "dir": [
+      "AutoWeaponSheath"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 92297,
     "name": "Auto-Accept Invite",
     "key": "auto-accept-invite",
@@ -49437,6 +49447,16 @@
     "mode": 1
   },
   {
+    "id": 557952,
+    "name": "Living Christmas Bulb",
+    "key": "living-christmas-bulb",
+    "dir": [
+      "Xmas"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 344998,
     "name": "Livv",
     "key": "livv",
@@ -51065,6 +51085,16 @@
     "mode": 1
   },
   {
+    "id": 558332,
+    "name": "MacroNamesEdit",
+    "key": "macronamesedit",
+    "dir": [
+      "MacroNamesEdit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 96726,
     "name": "MacroTip",
     "key": "macrotip",
@@ -51404,6 +51434,7 @@
     "name": "MailNotifier",
     "key": "mailnotifier",
     "dir": [
+      "MailCounter",
       "MailNotifier"
     ],
     "source": "curse",
