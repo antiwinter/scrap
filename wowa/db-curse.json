@@ -3518,6 +3518,16 @@
     "mode": 1
   },
   {
+    "id": 344423,
+    "name": "Announce-iate",
+    "key": "announce-iate",
+    "dir": [
+      "Announce-iate"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 3201,
     "name": "AnnounceIt",
     "key": "announce-it",
@@ -18195,7 +18205,7 @@
       "ClosetGnome"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 45382,
@@ -58916,6 +58926,16 @@
     "mode": 1
   },
   {
+    "id": 555297,
+    "name": "Open Raid Library",
+    "key": "openraid",
+    "dir": [
+      "LibOpenRaid"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14464,
     "name": "OpenAll",
     "key": "openall",
@@ -65886,11 +65906,11 @@
     "key": "raidachievement_oldmodules",
     "dir": [
       "RaidAchievement_WotlkHeroics",
+      "RaidAchievement_CataHeroics",
+      "RaidAchievement_CataRaids",
       "RaidAchievement_Icecrown",
       "RaidAchievement_Naxxramas",
       "RaidAchievement_Ulduar",
-      "RaidAchievement_CataHeroics",
-      "RaidAchievement_CataRaids",
       "RaidAchievement_OldModules"
     ],
     "source": "curse",
@@ -76095,6 +76115,16 @@
     "mode": 1
   },
   {
+    "id": 558676,
+    "name": "Stash",
+    "key": "stash",
+    "dir": [
+      "Stash"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103122,
     "name": "Stat Priority",
     "key": "stat-priority",
@@ -84368,6 +84398,16 @@
     "key": "unregisterglobalmouse",
     "dir": [
       "UnregisterGlobalMouse"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 558478,
+    "name": "Unrestrained Chat",
+    "key": "unrestrained-chat",
+    "dir": [
+      "Unrestrainedchat"
     ],
     "source": "curse",
     "mode": 1
