@@ -4267,8 +4267,8 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarkerRetail",
-      "ArenaMarker"
+      "ArenaMarker",
+      "ArenaMarkerRetail"
     ],
     "source": "curse",
     "mode": 1
@@ -34980,16 +34980,6 @@
     "mode": 3
   },
   {
-    "id": 526270,
-    "name": "GogoWatch",
-    "key": "gogowatch",
-    "dir": [
-      "GogoWatch"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 47525,
     "name": "GoingPrice_EU",
     "key": "goingprice_eu",
@@ -53233,6 +53223,16 @@
     "key": "mezui",
     "dir": [
       "MezUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 558923,
+    "name": "Mezzonic Cache Helper",
+    "key": "mezzonic-cache-helper",
+    "dir": [
+      "MezzonicCacheHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -93779,16 +93779,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 390275,
-    "name": "watchchat",
-    "key": "watchchat",
-    "dir": [
-      "watchchat"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 300711,
