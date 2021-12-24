@@ -7965,16 +7965,6 @@
     "mode": 2
   },
   {
-    "id": 549054,
-    "name": "BS_ActionsTracker",
-    "key": "bs_actionstracker",
-    "dir": [
-      "BS_ActionsTracker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 282539,
     "name": "BT MediaPack",
     "key": "bt-mediapack",
@@ -29148,7 +29138,7 @@
   },
   {
     "id": 29614,
-    "name": "Excavatinator",
+    "name": "Excavatinator (v3)",
     "key": "excavatinator",
     "dir": [
       "Excavatinator"
@@ -49566,6 +49556,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 559453,
+    "name": "LockboxLVL",
+    "key": "lockboxlvl",
+    "dir": [
+      "LockboxLVL"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 274882,
@@ -74098,6 +74098,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 549054,
+    "name": "SmartBars (BS_ActionsTracker)",
+    "key": "bs_actionstracker",
+    "dir": [
+      "SmartBars"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 1577,
