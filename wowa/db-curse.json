@@ -74101,8 +74101,8 @@
   },
   {
     "id": 549054,
-    "name": "SmartBars (BS_ActionsTracker)",
-    "key": "bs_actionstracker",
+    "name": "SmartBars",
+    "key": "smartbars",
     "dir": [
       "SmartBars"
     ],
