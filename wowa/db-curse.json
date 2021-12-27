@@ -7385,7 +7385,7 @@
     "name": "AzerPUG's Korthia Quests",
     "key": "azerpugs-korthia-quests",
     "dir": [
-      "AzerPUGsKorthiaQuests"
+      "AzerPUGsZoneQuests"
     ],
     "source": "curse",
     "mode": 1
@@ -20465,7 +20465,7 @@
       "Cryolysis3"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 388485,
@@ -23149,6 +23149,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 559883,
+    "name": "Death Count Announcer",
+    "key": "death-count-announcer",
+    "dir": [
+      "DeathCountAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 340272,
@@ -48737,6 +48747,16 @@
     "mode": 1
   },
   {
+    "id": 560275,
+    "name": "LibSFDropDown",
+    "key": "libsfdropdown",
+    "dir": [
+      "LibSFDropDown"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348450,
     "name": "LibSHA1",
     "key": "libsha1",
@@ -58301,16 +58321,6 @@
     "mode": 1
   },
   {
-    "id": 495342,
-    "name": "Nurse Nancy",
-    "key": "nurse-nancy",
-    "dir": [
-      "NurseNancy"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 16083,
     "name": "NutCounter",
     "key": "nutcounter",
@@ -66646,6 +66656,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 560210,
+    "name": "RankSentinel",
+    "key": "ranksentinel",
+    "dir": [
+      "RankSentinel"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 87369,
