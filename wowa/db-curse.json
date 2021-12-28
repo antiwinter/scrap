@@ -26064,19 +26064,6 @@
     "mode": 3
   },
   {
-    "id": 484725,
-    "name": "Dyslectic Horserolls",
-    "key": "dyslectic-horserolls",
-    "dir": [
-      "Dyslectic_Horserolls_Bulk",
-      "Dyslectic_Horserolls_DFB",
-      "Dyslectic_Horserolls_TBC",
-      "Dyslectic_Horserolls"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 467000,
     "name": "Dyslectic Loot Priority",
     "key": "dyslectic-loot-priority",
@@ -26085,6 +26072,18 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 484725,
+    "name": "Dyslectic Lootdistribution",
+    "key": "dyslectic-lootdistribution",
+    "dir": [
+      "Dyslectic_Lootrolls_Bulk",
+      "Dyslectic_Lootrolls_DFB",
+      "Dyslectic_Lootrolls"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 308907,
@@ -57048,13 +57047,13 @@
   },
   {
     "id": 482612,
-    "name": "Necrosis TBC Classic",
+    "name": "Necrosis TBC, Classic , Mastery",
     "key": "necrosis-tbc-classic",
     "dir": [
       "Necrosis"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 277531,
@@ -66665,7 +66664,7 @@
       "RankSentinel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 87369,
