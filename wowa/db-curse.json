@@ -1539,7 +1539,7 @@
       "AdaptiveRes"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 399222,
@@ -4267,8 +4267,8 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarker",
-      "ArenaMarkerRetail"
+      "ArenaMarkerRetail",
+      "ArenaMarker"
     ],
     "source": "curse",
     "mode": 1
@@ -51521,6 +51521,16 @@
     "mode": 3
   },
   {
+    "id": 560966,
+    "name": "MalfUI: Beast Training Filter",
+    "key": "malfui-beast-training-filter",
+    "dir": [
+      "MalfUI_BeastTrainingFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89189,
     "name": "MaloWIncantersFlow",
     "key": "malowincantersflow",
@@ -77728,6 +77738,16 @@
     "mode": 3
   },
   {
+    "id": 560886,
+    "name": "Svenska Spel Loot Priority Tooltips",
+    "key": "svenska-spel-loot-priority-tooltips",
+    "dir": [
+      "SvenskaSpelLootPriority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 67914,
     "name": "Swag Swap Legendary",
     "key": "swag-swap",
@@ -80498,7 +80518,7 @@
       "TitanClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 476325,
@@ -82556,6 +82576,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 560935,
+    "name": "Totemplate",
+    "key": "totemplate",
+    "dir": [
+      "Totemplate"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 53447,
@@ -94125,6 +94155,16 @@
     "key": "xenutil",
     "dir": [
       "xenUtil"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 561049,
+    "name": "yanshufmod2",
+    "key": "yanshufmod2",
+    "dir": [
+      "yanshufmod2"
     ],
     "source": "curse",
     "mode": 1
