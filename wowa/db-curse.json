@@ -5740,7 +5740,7 @@
       "Auctipus"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 433337,
@@ -7376,6 +7376,16 @@
     "key": "azerpugs-interrupt-helper",
     "dir": [
       "AzerPUGsInterruptHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 560440,
+    "name": "AzerPUG's KeyStoneMaster",
+    "key": "azerpugs-keystonemaster",
+    "dir": [
+      "AzerPUGsKeyStoneMaster"
     ],
     "source": "curse",
     "mode": 1
