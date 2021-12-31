@@ -61373,6 +61373,16 @@
     "mode": 1
   },
   {
+    "id": 561654,
+    "name": "PinyinSearch",
+    "key": "pinyinsearch",
+    "dir": [
+      "PinyinSearch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4466,
     "name": "PitBull Unit Frames 3.0",
     "key": "pit-bull",
@@ -63069,12 +63079,10 @@
     "name": "Profession Assistance",
     "key": "profession_assistance",
     "dir": [
-      "Profession_Assistance_Classic",
-      "Profession_Assistance_TBC",
       "Profession_Assistance"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 500520,
@@ -78840,16 +78848,6 @@
     "mode": 1
   },
   {
-    "id": 412169,
-    "name": "Tankus Check ( Trinket Check )",
-    "key": "tankus-check-trinket-check",
-    "dir": [
-      "Tankus Check"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 394881,
     "name": "Target Assist",
     "key": "target-assist",
@@ -83671,6 +83669,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 412169,
+    "name": "Trinket Check",
+    "key": "trinket-check-ready-check",
+    "dir": [
+      "Tankus Check"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 534,
