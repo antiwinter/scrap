@@ -16728,16 +16728,6 @@
     "mode": 1
   },
   {
-    "id": 280186,
-    "name": "Chris Perry",
-    "key": "removeannoyances",
-    "dir": [
-      "RemoveAnnoyances"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 444978,
     "name": "Chrispy-Chicken's Minimalist Addon",
     "key": "chrispy-chickens-minimalist-addon",
@@ -25627,20 +25617,6 @@
       "DuelResponse_Blacklist",
       "DuelResponse_Whisper",
       "DuelResponse"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 101964,
-    "name": "DuffedUI",
-    "key": "duffedui",
-    "dir": [
-      "DuffedUI_ConfigUI",
-      "AddOnSkins",
-      "DuffedUI",
-      "ProjectAzilroka",
-      "Aurora"
     ],
     "source": "curse",
     "mode": 1
