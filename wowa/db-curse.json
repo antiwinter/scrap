@@ -27782,7 +27782,7 @@
       "ElvUI_TinkerToolbox"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 40518,
@@ -30376,6 +30376,16 @@
     "key": "feastdrop",
     "dir": [
       "FeastDrop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 283550,
+    "name": "FeastHog - Feast spam click monitor",
+    "key": "feasthog",
+    "dir": [
+      "FeastHog"
     ],
     "source": "curse",
     "mode": 1
@@ -64830,6 +64840,16 @@
     "key": "quickroutes",
     "dir": [
       "QuickRoutes"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 563366,
+    "name": "QuickSiteLink",
+    "key": "quicksitelink",
+    "dir": [
+      "QuickSiteLink"
     ],
     "source": "curse",
     "mode": 1
