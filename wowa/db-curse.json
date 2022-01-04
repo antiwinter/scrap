@@ -5754,7 +5754,7 @@
   },
   {
     "id": 314687,
-    "name": "AudioQs",
+    "name": "AudioQs - Blind Assist for Retail and Classic",
     "key": "audioqs",
     "dir": [
       "AudioQs"
@@ -44433,6 +44433,16 @@
     "mode": 1
   },
   {
+    "id": 563910,
+    "name": "KDO UI",
+    "key": "kdo-ui",
+    "dir": [
+      "KDO_UI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 341338,
     "name": "KEKW On Death",
     "key": "deathlul",
@@ -52886,6 +52896,16 @@
     "key": "mcr-greet",
     "dir": [
       "McR_Greet"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 562015,
+    "name": "Me So Hordie BiS",
+    "key": "me-so-hordie-bis",
+    "dir": [
+      "MeSoHordieBiS"
     ],
     "source": "curse",
     "mode": 1
