@@ -90064,6 +90064,16 @@
     "mode": 1
   },
   {
+    "id": 562326,
+    "name": "_MyPreference",
+    "key": "mypreference",
+    "dir": [
+      "_MyPreference"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 33395,
     "name": "_NPCScan.AutoAdd",
     "key": "npcscan_autoadd",
