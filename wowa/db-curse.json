@@ -4267,8 +4267,8 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarkerRetail",
-      "ArenaMarker"
+      "ArenaMarker",
+      "ArenaMarkerRetail"
     ],
     "source": "curse",
     "mode": 1
@@ -92161,16 +92161,6 @@
     "mode": 1
   },
   {
-    "id": 254439,
-    "name": "m4x-ConfigJunior",
-    "key": "m4x-configjunior",
-    "dir": [
-      "m4x-ConfigJunior"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 289300,
     "name": "m4x-EventReminder",
     "key": "m4x-eventreminder",
@@ -94199,16 +94189,6 @@
     "key": "xenutil",
     "dir": [
       "xenUtil"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 561049,
-    "name": "yanshufmod2",
-    "key": "yanshufmod2",
-    "dir": [
-      "yanshufmod2"
     ],
     "source": "curse",
     "mode": 1
