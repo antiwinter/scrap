@@ -29062,16 +29062,6 @@
     "mode": 1
   },
   {
-    "id": 439960,
-    "name": "Everezh Nameplates - No Filter Debuffs on default Nameplates",
-    "key": "everezh-nameplates-no-filter-debuffs-on-default",
-    "dir": [
-      "Nameplates_Everezh"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 37275,
     "name": "EveryGoldToBanker",
     "key": "everygoldtobanker",
