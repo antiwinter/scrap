@@ -18675,7 +18675,7 @@
       "CombatTimeTrackerClassic"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 26646,
@@ -26054,7 +26054,8 @@
     "name": "Dyslectic Loot Priority",
     "key": "dyslectic-loot-priority",
     "dir": [
-      "Dyslectic_Horse_Priority"
+      "Dyslectic_Horse_Priority",
+      "Dyslectic_Loot_Priority"
     ],
     "source": "curse",
     "mode": 3
