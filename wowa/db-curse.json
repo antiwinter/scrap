@@ -28710,6 +28710,16 @@
     "mode": 1
   },
   {
+    "id": 530461,
+    "name": "Equilibrium",
+    "key": "equilibrium",
+    "dir": [
+      "Equilibrium"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 19353,
     "name": "EquipChanger_Zone",
     "key": "equipchanger_zone",
@@ -33310,6 +33320,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 565501,
+    "name": "GatherMate 2 Marker",
+    "key": "gathermate-2-marker",
+    "dir": [
+      "GatherMate2Marker"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 26120,
@@ -38837,6 +38857,16 @@
     "key": "hattrick",
     "dir": [
       "HatTrick"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 565493,
+    "name": "Hatter",
+    "key": "hatter",
+    "dir": [
+      "Hatter"
     ],
     "source": "curse",
     "mode": 1
@@ -47210,6 +47240,16 @@
     "key": "let-minnow",
     "dir": [
       "LetMinnow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 565743,
+    "name": "Let's Get Critical",
+    "key": "lets-get-critical",
+    "dir": [
+      "LetsGetCritical"
     ],
     "source": "curse",
     "mode": 1
@@ -92895,7 +92935,7 @@
       "oUF_Nihlathak"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 19939,
