@@ -4267,8 +4267,8 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarker",
-      "ArenaMarkerRetail"
+      "ArenaMarkerRetail",
+      "ArenaMarker"
     ],
     "source": "curse",
     "mode": 1
@@ -6982,6 +6982,16 @@
     "key": "autoturnin",
     "dir": [
       "AutoTurnIn"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 565210,
+    "name": "AutoUnsheath",
+    "key": "autounsheath",
+    "dir": [
+      "AutoUnsheath"
     ],
     "source": "curse",
     "mode": 1
@@ -51867,6 +51877,16 @@
     "mode": 3
   },
   {
+    "id": 566177,
+    "name": "MarkMeHard",
+    "key": "markmehard",
+    "dir": [
+      "MarkMeHard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 18438,
     "name": "Market Watcher",
     "key": "market-watcher",
@@ -87384,6 +87404,16 @@
     "key": "wowchallenger",
     "dir": [
       "WoWChallenger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 565998,
+    "name": "WoW Challenger Creator",
+    "key": "wow-challenger-creator",
+    "dir": [
+      "WoWChallengerCreator"
     ],
     "source": "curse",
     "mode": 1
