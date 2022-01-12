@@ -17238,7 +17238,7 @@
       "ClassicFCT"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 345382,
@@ -47305,6 +47305,16 @@
     "mode": 1
   },
   {
+    "id": 566355,
+    "name": "LetMeTaxi",
+    "key": "letmetaxi",
+    "dir": [
+      "LetMeTaxi"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 385831,
     "name": "Letterkenny Quotes",
     "key": "letterkenny-quotes",
@@ -56371,7 +56381,7 @@
       "MythicDungeonTools"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 254989,
@@ -75330,6 +75340,16 @@
     "mode": 1
   },
   {
+    "id": 7909,
+    "name": "SpazureMod",
+    "key": "spazuremod",
+    "dir": [
+      "SpazureMod"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 267457,
     "name": "Speak Demonic",
     "key": "speak-demonic",
@@ -84823,16 +84843,6 @@
     "key": "vaseline-twinker",
     "dir": [
       "VaselineTwinker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 527813,
-    "name": "Vashj Planner [not working properly, read desc]",
-    "key": "vashj-planner",
-    "dir": [
-      "VashPlanner"
     ],
     "source": "curse",
     "mode": 1
