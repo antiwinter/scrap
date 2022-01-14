@@ -39909,6 +39909,16 @@
     "mode": 1
   },
   {
+    "id": 567042,
+    "name": "Hide Action Bar UI and Gryphons",
+    "key": "hide-action-bar-ui-and-gryphons",
+    "dir": [
+      "HideActionbarBackground"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 463847,
     "name": "Hide Arena Rating",
     "key": "hide-arena-rating",
@@ -44779,6 +44789,16 @@
     "key": "kazauctionvalue",
     "dir": [
       "KazAuctionValue"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 566573,
+    "name": "KazM",
+    "key": "kazm",
+    "dir": [
+      "KazM"
     ],
     "source": "curse",
     "mode": 1
@@ -55434,6 +55454,16 @@
     "mode": 1
   },
   {
+    "id": 566520,
+    "name": "Move Tooltip Lite",
+    "key": "movetooltiplite",
+    "dir": [
+      "MoveTooltipLite"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101884,
     "name": "Move Unit Frames",
     "key": "moveunitframes",
@@ -57803,16 +57833,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 86544,
-    "name": "NoChatFade",
-    "key": "nochatfade",
-    "dir": [
-      "NoChatFade"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 24377,
