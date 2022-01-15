@@ -2920,6 +2920,16 @@
     "mode": 3
   },
   {
+    "id": 566822,
+    "name": "Alt F Fear Raid Tools",
+    "key": "alt-f-fear-raid-tools",
+    "dir": [
+      "AFFRaidTools"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 265581,
     "name": "Alt Manager",
     "key": "method-alt-manager",
