@@ -50045,6 +50045,16 @@
     "mode": 1
   },
   {
+    "id": 545767,
+    "name": "LootArchive",
+    "key": "lootarchive",
+    "dir": [
+      "LootArchive"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 255491,
     "name": "LootAssist",
     "key": "lootassist",
