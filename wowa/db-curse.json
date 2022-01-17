@@ -10289,7 +10289,7 @@
   },
   {
     "id": 536009,
-    "name": "BiS Best In Slot Items Tooltip TBC Phase 2",
+    "name": "BiS Best In Slot Items Tooltip TBC Phase 3",
     "key": "bis-best-in-slot-items-tooltip-tbc-phase-2",
     "dir": [
       "FatExoLink_BIS",
@@ -10637,16 +10637,6 @@
     "key": "bigwigs_voice_ru",
     "dir": [
       "BigWigs_Voice_RU"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 541509,
-    "name": "BigWigs Voice Natural",
-    "key": "bigwigs-voice-natural",
-    "dir": [
-      "BigWigs_Voice_Natural"
     ],
     "source": "curse",
     "mode": 1
@@ -21141,16 +21131,6 @@
     "mode": 1
   },
   {
-    "id": 541513,
-    "name": "DBM Voice Pack Natural",
-    "key": "dbm-voice-pack-natural",
-    "dir": [
-      "DBM-VPNatural"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 90679,
     "name": "DBM Voice pack - Elarinti VEM",
     "key": "dbm-voice-pack-elarinti-vem",
@@ -23229,7 +23209,7 @@
       "DeathRolling"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 375014,
@@ -44731,7 +44711,7 @@
       "KarmaLoot"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 352007,
@@ -56464,6 +56444,16 @@
     "mode": 1
   },
   {
+    "id": 567252,
+    "name": "Mythic Plus Calculator",
+    "key": "mythic-plus-calculator",
+    "dir": [
+      "MPlusCalculator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 260666,
     "name": "Mythic Plus Helper",
     "key": "mythic-plus-helper",
@@ -57404,6 +57394,16 @@
     "mode": 1
   },
   {
+    "id": 567485,
+    "name": "NewMotD",
+    "key": "newmotd",
+    "dir": [
+      "NewMotD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 500461,
     "name": "Newb Dev Box",
     "key": "newb-dev-box",
@@ -58243,6 +58243,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 568227,
+    "name": "Nova Booking",
+    "key": "nova-booking",
+    "dir": [
+      "NovaBooking"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 393085,
@@ -79397,6 +79407,16 @@
     "mode": 1
   },
   {
+    "id": 567328,
+    "name": "Temporary Weapon Enchant Icon",
+    "key": "temporary-weapon-enchant-icon",
+    "dir": [
+      "TemporaryWeaponEnchant"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 254760,
     "name": "Ten and Three",
     "key": "ten-and-three",
@@ -86986,7 +87006,7 @@
       "WhoNeedsASummon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 6200,
