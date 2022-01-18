@@ -2889,6 +2889,16 @@
     "mode": 1
   },
   {
+    "id": 568553,
+    "name": "Allowance",
+    "key": "allowance",
+    "dir": [
+      "Allowance"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 327019,
     "name": "AllyRoute",
     "key": "allyroute",
@@ -9956,6 +9966,16 @@
     "mode": 3
   },
   {
+    "id": 568574,
+    "name": "Better Graphic",
+    "key": "better-graphic",
+    "dir": [
+      "BetterGraphics"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 551010,
     "name": "Better Item Preview",
     "key": "better-item-preview",
@@ -10955,6 +10975,16 @@
     "id": 305210,
     "name": "Bigwigs Voice - Chinese voicepack (VV)",
     "key": "bigwigs-voice-chinese-voicepack-vv",
+    "dir": [
+      "BigWigs_Voice"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 568519,
+    "name": "Bigwigs Voice - Chinese voicepack (WeiWei)",
+    "key": "bigwigs-voice-chinese-voicepack-weiwei",
     "dir": [
       "BigWigs_Voice"
     ],
@@ -54095,7 +54125,7 @@
       "D4KiR Missing Power"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 358106,
@@ -68832,6 +68862,16 @@
     "key": "robotofonts",
     "dir": [
       "RobotoFonts"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 568443,
+    "name": "Robotspeak",
+    "key": "robotspeak",
+    "dir": [
+      "Robotspeak"
     ],
     "source": "curse",
     "mode": 1
@@ -85654,6 +85694,16 @@
     "mode": 3
   },
   {
+    "id": 566380,
+    "name": "VurseBars",
+    "key": "vursebars",
+    "dir": [
+      "VurseBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 550294,
     "name": "VurseStats",
     "key": "vursestats",
@@ -89854,6 +89904,16 @@
     "key": "zotwee-garrison",
     "dir": [
       "Zotwee_Garrison"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 568570,
+    "name": "Zulgin SharedMedia",
+    "key": "zulgin-sharedmedia",
+    "dir": [
+      "SharedMedia_ZulginMedia"
     ],
     "source": "curse",
     "mode": 1
