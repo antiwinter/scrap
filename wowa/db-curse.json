@@ -29991,6 +29991,16 @@
     "mode": 1
   },
   {
+    "id": 567494,
+    "name": "Farm PvP",
+    "key": "farm-pvp",
+    "dir": [
+      "FarmPvP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 276718,
     "name": "FarmCount",
     "key": "farmcount",
@@ -43012,6 +43022,16 @@
     "key": "interface-usage",
     "dir": [
       "InterfaceUsage"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 569880,
+    "name": "InterfaceImprovements",
+    "key": "interfaceimprovements",
+    "dir": [
+      "InterfaceImprovements"
     ],
     "source": "curse",
     "mode": 1
@@ -67924,6 +67944,16 @@
     "mode": 1
   },
   {
+    "id": 569776,
+    "name": "ReloadReminder",
+    "key": "reloadreminder",
+    "dir": [
+      "ReloadReminder"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 324465,
     "name": "ReloadUI Button",
     "key": "reloadui-button",
@@ -70915,6 +70945,16 @@
     "key": "seller",
     "dir": [
       "Seller"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 569757,
+    "name": "SemVer",
+    "key": "semver",
+    "dir": [
+      "SemVer"
     ],
     "source": "curse",
     "mode": 1
