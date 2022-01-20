@@ -21971,7 +21971,7 @@
       "D4KiR DUnitFrames"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 45982,
@@ -27595,8 +27595,8 @@
     "key": "elvui-location-plus",
     "dir": [
       "ElvUI_LocPlus",
-      "ElvUI_LocPlus-TBC",
-      "ElvUI_LocationPlus"
+      "ElvUI_LocationPlus",
+      "ElvUI_LocPlus-TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -30423,7 +30423,7 @@
   },
   {
     "id": 283550,
-    "name": "FeastHog - Feast spam click monitor",
+    "name": "FeastHog - Feast spamclick monitor",
     "key": "feasthog",
     "dir": [
       "FeastHog"
@@ -43104,7 +43104,7 @@
       "InterruptBar"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 51290,
@@ -46479,7 +46479,7 @@
       "D4KiR LOC Messages"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 75173,
@@ -47262,7 +47262,7 @@
       "Lemmos_CraftCooldown"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 481969,
@@ -47272,7 +47272,7 @@
       "Lemmos_RefillAmmo"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 534490,
@@ -49600,7 +49600,7 @@
       "LoCA"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 305538,
@@ -68904,7 +68904,7 @@
       "Robotspeak"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 35131,
@@ -74250,7 +74250,7 @@
       "SlicerTNG"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 19261,
@@ -77260,6 +77260,16 @@
     "key": "summonnotifier",
     "dir": [
       "SummonNotifier"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 569795,
+    "name": "SummonStoneHelper",
+    "key": "summonstonehelper",
+    "dir": [
+      "SummonStoneHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -84861,8 +84871,7 @@
     "name": "Vaillants Bis",
     "key": "vaillants-bis",
     "dir": [
-      "Vaillants Priority Tooltips",
-      "ClassicLootManager"
+      "Vaillants Priority Tooltips"
     ],
     "source": "curse",
     "mode": 1
@@ -89686,7 +89695,7 @@
       "ZeraTooltip"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 417828,
