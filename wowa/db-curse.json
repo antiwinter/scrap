@@ -23239,7 +23239,7 @@
       "DeathRolling"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 375014,
@@ -27333,6 +27333,16 @@
     "key": "elvui-currency-datatext",
     "dir": [
       "ElvUI_CurrencyDatatext"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 570273,
+    "name": "ElvUI DataText Armor Pen",
+    "key": "elvui-datatext-armor-pen",
+    "dir": [
+      "ElvUI_ArmorPenDT"
     ],
     "source": "curse",
     "mode": 1
@@ -42015,6 +42025,16 @@
     "mode": 1
   },
   {
+    "id": 570281,
+    "name": "Icy Veins Talent Sequence",
+    "key": "icy-veins-talent-sequence",
+    "dir": [
+      "IcyVeinsTalentSequence"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4479,
     "name": "Identity-2",
     "key": "identity-2",
@@ -44761,7 +44781,7 @@
       "KarmaLoot"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 352007,
@@ -63482,6 +63502,16 @@
     "mode": 1
   },
   {
+    "id": 566692,
+    "name": "ProxyTalksie",
+    "key": "proxytalksie",
+    "dir": [
+      "ProxyTalksie"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 260723,
     "name": "Prydaz Saves",
     "key": "prydaz-saves",
@@ -74392,7 +74422,7 @@
       "SmartBuff"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 3623,
@@ -77272,7 +77302,7 @@
       "SummonStoneHelper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 361649,
@@ -87105,7 +87135,7 @@
       "WhoNeedsASummon"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 6200,
