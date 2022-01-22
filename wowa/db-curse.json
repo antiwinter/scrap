@@ -9181,7 +9181,7 @@
       "BastionLoot"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 79863,
@@ -15715,7 +15715,7 @@
       "D4KiR Centered"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 436848,
@@ -39329,7 +39329,7 @@
       "D4KiR Healer Protection"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 298088,
@@ -42020,16 +42020,6 @@
     "key": "icy-veins-stat-priority",
     "dir": [
       "IcyVeinsStatPriority"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 570281,
-    "name": "Icy Veins Talent Sequence",
-    "key": "icy-veins-talent-sequence",
-    "dir": [
-      "IcyVeinsTalentSequence"
     ],
     "source": "curse",
     "mode": 1
@@ -67200,7 +67190,7 @@
       "D4KiR RatePlayer"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 494844,
@@ -68634,7 +68624,7 @@
       "RXPGuides"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 57326,
@@ -78812,6 +78802,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 570281,
+    "name": "Talent Sequence 2",
+    "key": "talent-sequence-2",
+    "dir": [
+      "TalentSequence2"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 101554,
