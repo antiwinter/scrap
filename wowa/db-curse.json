@@ -6528,6 +6528,16 @@
     "mode": 1
   },
   {
+    "id": 570916,
+    "name": "AutoHideBinds",
+    "key": "autohidebinds",
+    "dir": [
+      "AutoHideBinds"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 423002,
     "name": "AutoHideObjectives",
     "key": "autohideobjectives",
@@ -9711,9 +9721,9 @@
     "name": "BenikUI - The ElvUI Edit",
     "key": "benikui",
     "dir": [
-      "ElvUI_BenikUI",
       "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI_TBC"
+      "ElvUI_BenikUI_TBC",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -57021,7 +57031,7 @@
       "NameplateAuras"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 341119,
@@ -68607,6 +68617,16 @@
     "mode": 1
   },
   {
+    "id": 571142,
+    "name": "RespecUI",
+    "key": "respecui",
+    "dir": [
+      "RespecUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 22884,
     "name": "Rested",
     "key": "rested",
@@ -71957,6 +71977,16 @@
     "key": "sharpecombopoints",
     "dir": [
       "SharpeComboHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 571091,
+    "name": "Sharraz Fatal Attraction Direction HUD tbc",
+    "key": "sharraz-fatal-attraction-direction-assist-tbc",
+    "dir": [
+      "SharrazFatalDirection_tbc"
     ],
     "source": "curse",
     "mode": 1
@@ -89404,6 +89434,16 @@
     "mode": 3
   },
   {
+    "id": 570519,
+    "name": "Your average Fatescribe pull",
+    "key": "your-average-fatescribe-pull",
+    "dir": [
+      "YAFSP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88563,
     "name": "YourFollowers",
     "key": "yourfollowers",
@@ -89602,6 +89642,16 @@
     "key": "zakuun-assist",
     "dir": [
       "ZakuunAssist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 571010,
+    "name": "Zandalari Money Pieces",
+    "key": "zmp",
+    "dir": [
+      "ZandalariMoneyPieces"
     ],
     "source": "curse",
     "mode": 1
@@ -93961,7 +94011,7 @@
       "unitscan"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 350107,
