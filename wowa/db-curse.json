@@ -2950,16 +2950,6 @@
     "mode": 1
   },
   {
-    "id": 546235,
-    "name": "Alt Manager 2",
-    "key": "alt-manager-2",
-    "dir": [
-      "AltManager2"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 298830,
     "name": "Alt Paragon Tracker",
     "key": "alt-paragon-tracker",
@@ -45047,6 +45037,16 @@
     "mode": 1
   },
   {
+    "id": 567380,
+    "name": "KeyboardUI",
+    "key": "keyboardui",
+    "dir": [
+      "KeyboardUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 103148,
     "name": "Keyed",
     "key": "keyed",
@@ -56514,16 +56514,6 @@
     "mode": 1
   },
   {
-    "id": 567252,
-    "name": "Mythic Plus Calculator",
-    "key": "mythic-plus-calculator",
-    "dir": [
-      "MPlusCalculator"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 260666,
     "name": "Mythic Plus Helper",
     "key": "mythic-plus-helper",
@@ -58130,6 +58120,16 @@
     "key": "nomobjectives",
     "dir": [
       "NomObjectives"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 572774,
+    "name": "Nomads-Pagle Loot Priority",
+    "key": "nomads-pagle-loot-priority",
+    "dir": [
+      "Nomads_Loot_Priority"
     ],
     "source": "curse",
     "mode": 1
@@ -61279,7 +61279,7 @@
       "PhantomPlates"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 70476,
