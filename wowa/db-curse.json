@@ -10349,6 +10349,16 @@
     "mode": 1
   },
   {
+    "id": 572842,
+    "name": "Bibock's Best Friend - Personal Achiever",
+    "key": "bibocks-best-friend-personal-achiever",
+    "dir": [
+      "BibockBestFriend"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 94112,
     "name": "Bich, the Spell Tracker",
     "key": "bich",
@@ -24289,10 +24299,11 @@
   },
   {
     "id": 100658,
-    "name": "DiabolicUI (returning soon)",
+    "name": "DiabolicUI 2.0 Alpha",
     "key": "diabolicui",
     "dir": [
-      "DiabolicUI"
+      "DiabolicUI",
+      "DiabolicUI2"
     ],
     "source": "curse",
     "mode": 1
@@ -43114,7 +43125,7 @@
       "InterruptBar"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 51290,
@@ -43192,16 +43203,6 @@
     "key": "intoxicated",
     "dir": [
       "Intoxicated"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 311898,
-    "name": "InvasionTimer",
-    "key": "invasiontimer",
-    "dir": [
-      "InvasionTimer"
     ],
     "source": "curse",
     "mode": 1
@@ -45910,7 +45911,8 @@
     "name": "Krowi's World Map Buttons",
     "key": "krowis-world-map-buttons",
     "dir": [
-      "Krowi_WorldMapButtons-1.0"
+      "Krowi_WorldMapButtons-1.0",
+      "Krowi_WorldMapButtons-1.1"
     ],
     "source": "curse",
     "mode": 1
@@ -82489,6 +82491,16 @@
     "mode": 1
   },
   {
+    "id": 408735,
+    "name": "Tooltip Upgrades",
+    "key": "tooltip-upgrades",
+    "dir": [
+      "TooltipUpgrades"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 14825,
     "name": "TooltipExchange",
     "key": "tooltip-exchange",
@@ -84624,16 +84636,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 408735,
-    "name": "Unit Tooltip Upgrade",
-    "key": "unit-tooltip-upgrade",
-    "dir": [
-      "UnitTooltipUpgrade"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 14858,
