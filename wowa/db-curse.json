@@ -5727,7 +5727,11 @@
       "Stubby",
       "!Swatter",
       "SlideBar",
-      "Auc-Util-FixAH"
+      "Auc-Util-FixAH",
+      "Auctioneer",
+      "Auctioneer_Stats_OverTime",
+      "Auctioneer_Util_DealFinder",
+      "Auctioneer_Util_Valuer"
     ],
     "source": "curse",
     "mode": 3
@@ -24337,6 +24341,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 573364,
+    "name": "DiceByCarlos",
+    "key": "dicebycarlos",
+    "dir": [
+      "Dice"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 261433,
@@ -56516,6 +56530,16 @@
     "mode": 1
   },
   {
+    "id": 567252,
+    "name": "Mythic Plus Calculator",
+    "key": "mythic-plus-calculator",
+    "dir": [
+      "MPlusCalculator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 260666,
     "name": "Mythic Plus Helper",
     "key": "mythic-plus-helper",
@@ -60554,16 +60578,6 @@
     "key": "persolootroll",
     "dir": [
       "PersoLootRoll"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 426442,
-    "name": "Personal BlackList for Shadowlands (Fan-Update)",
-    "key": "personal-blacklist-for-shadowlands-fan-update",
-    "dir": [
-      "PersonalBlacklist"
     ],
     "source": "curse",
     "mode": 1
@@ -92408,17 +92422,11 @@
     "key": "lookforgroup",
     "dir": [
       "LookingForGroup_Auto",
-      "LookingForGroup_AV",
-      "LookingForGroup_AV_Options",
       "LookingForGroup_Bindings",
-      "LookingForGroup_Blacklist_CN",
       "LookingForGroup_Broker",
       "LookingForGroup_CR",
       "LookingForGroup_CRE",
       "LookingForGroup_Event",
-      "LookingForGroup_Flags_EU",
-      "LookingForGroup_Flags_US",
-      "LookingForGroup_Ganking",
       "LookingForGroup_Hook",
       "LookingForGroup_Icon",
       "LookingForGroup_LFDLFR",
@@ -92427,26 +92435,9 @@
       "LookingForGroup_PVP",
       "LookingForGroup_Q",
       "LookingForGroup_QJ",
-      "LookingForGroup_RaiderIO",
-      "LookingForGroup_Settings",
       "LookingForGroup_SF",
+      "LookingForGroup_Settings",
       "LookingForGroup_Solo",
-      "RaiderIO_LOD_DB_EU_A",
-      "RaiderIO_LOD_DB_EU_A_R",
-      "RaiderIO_LOD_DB_EU_H",
-      "RaiderIO_LOD_DB_EU_H_R",
-      "RaiderIO_LOD_DB_KR_A",
-      "RaiderIO_LOD_DB_KR_A_R",
-      "RaiderIO_LOD_DB_KR_H",
-      "RaiderIO_LOD_DB_KR_H_R",
-      "RaiderIO_LOD_DB_TW_A",
-      "RaiderIO_LOD_DB_TW_A_R",
-      "RaiderIO_LOD_DB_TW_H",
-      "RaiderIO_LOD_DB_TW_H_R",
-      "RaiderIO_LOD_DB_US_A",
-      "RaiderIO_LOD_DB_US_A_R",
-      "RaiderIO_LOD_DB_US_H",
-      "RaiderIO_LOD_DB_US_H_R",
       "LookingForGroup"
     ],
     "source": "curse",
