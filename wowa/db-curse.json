@@ -22874,11 +22874,6 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
-      "DBM-Sepulcher",
       "DBM-Outlands",
       "DBM-Party-Classic",
       "DBM-Party-BC",
@@ -22896,7 +22891,13 @@
       "DBM-Sunwell",
       "DBM-TheEye",
       "DBM-ZG",
-      "DBM-ZulAman"
+      "DBM-ZulAman",
+      "DBM-VPVEM",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
+      "DBM-Sepulcher"
     ],
     "source": "curse",
     "mode": 3
@@ -29406,7 +29407,7 @@
       "ExtendedCharacterStats"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 53325,
@@ -49930,6 +49931,16 @@
     "mode": 1
   },
   {
+    "id": 570934,
+    "name": "Loon Best In Slot",
+    "key": "loon-best-in-slot",
+    "dir": [
+      "LoonBestInSlot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 431656,
     "name": "Loot Angel",
     "key": "lootangel",
@@ -64727,7 +64738,7 @@
       "Questie"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 543040,
@@ -77181,6 +77192,16 @@
     "key": "streambuddy",
     "dir": [
       "StreamBuddy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 573691,
+    "name": "Streamer Mode",
+    "key": "streamer-mode",
+    "dir": [
+      "D4KiR StreamerMode"
     ],
     "source": "curse",
     "mode": 1
