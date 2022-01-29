@@ -21226,7 +21226,7 @@
   },
   {
     "id": 339162,
-    "name": "DBM Voicepack - VV (for WoW classic)",
+    "name": "DBM Voicepack - VV (for WoW Classic or TBC)",
     "key": "dbm-voicepack-vv-for-wow-classic",
     "dir": [
       "DBM-VPVV"
@@ -21252,7 +21252,7 @@
       "DBM-VPDemo"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 261300,
@@ -49916,6 +49916,32 @@
     "key": "looking-satchels",
     "dir": [
       "LookingForSatchels"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 573623,
+    "name": "LookingForGroup RIO",
+    "key": "lookingforgroup-rio",
+    "dir": [
+      "LookingForGroup_RIO",
+      "RaiderIO_LOD_DB_EU_A",
+      "RaiderIO_LOD_DB_EU_A_R",
+      "RaiderIO_LOD_DB_EU_H",
+      "RaiderIO_LOD_DB_EU_H_R",
+      "RaiderIO_LOD_DB_KR_A",
+      "RaiderIO_LOD_DB_KR_A_R",
+      "RaiderIO_LOD_DB_KR_H",
+      "RaiderIO_LOD_DB_KR_H_R",
+      "RaiderIO_LOD_DB_TW_A",
+      "RaiderIO_LOD_DB_TW_A_R",
+      "RaiderIO_LOD_DB_TW_H",
+      "RaiderIO_LOD_DB_TW_H_R",
+      "RaiderIO_LOD_DB_US_A",
+      "RaiderIO_LOD_DB_US_A_R",
+      "RaiderIO_LOD_DB_US_H",
+      "RaiderIO_LOD_DB_US_H_R"
     ],
     "source": "curse",
     "mode": 1
