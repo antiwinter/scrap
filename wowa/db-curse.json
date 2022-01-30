@@ -17738,7 +17738,7 @@
       "ClassicHealPrediction"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 376663,
@@ -52090,6 +52090,16 @@
     "mode": 1
   },
   {
+    "id": 572943,
+    "name": "Masque Blizzard Bars Revived",
+    "key": "masque-blizzard-bars-revived",
+    "dir": [
+      "MasqueBlizzBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27778,
     "name": "Masque Skinner: Blizz Buffs",
     "key": "blizzbuffsfacade",
@@ -56198,9 +56208,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic_TBC",
       "MyBuddies",
-      "MyBuddies_Classic"
+      "MyBuddies_Classic",
+      "MyBuddies_Classic_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -67341,7 +67351,7 @@
     "name": "Ravenous GPS",
     "key": "ravgps",
     "dir": [
-      "ravFor"
+      "ravGPS"
     ],
     "source": "curse",
     "mode": 1
@@ -74922,8 +74932,8 @@
   },
   {
     "id": 550214,
-    "name": "Softkin Totem",
-    "key": "softkin-totem",
+    "name": "Softskin Totem",
+    "key": "softskin-totem",
     "dir": [
       "Softskin"
     ],
