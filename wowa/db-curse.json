@@ -5044,6 +5044,16 @@
     "mode": 2
   },
   {
+    "id": 573967,
+    "name": "Astral Analytics",
+    "key": "astral-analytics",
+    "dir": [
+      "AstralAnalytics"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 265199,
     "name": "Astral Keys",
     "key": "astral-keys",
@@ -9103,6 +9113,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 574487,
+    "name": "Basic Calculator",
+    "key": "basic-calculator",
+    "dir": [
+      "BasicCalculator"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 29152,
@@ -21372,7 +21392,7 @@
       "DBM-VPMununyu"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 88703,
@@ -36858,6 +36878,16 @@
     "mode": 2
   },
   {
+    "id": 571301,
+    "name": "Guild Applicants Fix",
+    "key": "guild-applicants-fix",
+    "dir": [
+      "GuildApplicantsFix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 439062,
     "name": "Guild Bank Audit",
     "key": "guild-bank-audit",
@@ -42519,7 +42549,7 @@
       "Inception_Loot_Priority"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 359713,
@@ -51228,6 +51258,17 @@
     "key": "macro-keys",
     "dir": [
       "MacroKeys"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 574159,
+    "name": "Macro Manager",
+    "key": "macro-manager",
+    "dir": [
+      "MacroManager",
+      "MacroManagerBackup"
     ],
     "source": "curse",
     "mode": 1
@@ -63383,6 +63424,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 574050,
+    "name": "Profession Master",
+    "key": "profession-master",
+    "dir": [
+      "ProfessionMaster"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 353313,
@@ -78887,6 +78938,16 @@
     "mode": 1
   },
   {
+    "id": 573802,
+    "name": "Talent Action Bars TBC",
+    "key": "talent-action-bars-tbc",
+    "dir": [
+      "TalentActionBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101807,
     "name": "Talent Auto Switch",
     "key": "talent-auto-switch",
@@ -80278,6 +80339,16 @@
     "id": 273149,
     "name": "Tic Tac Toe",
     "key": "tic-tac-toe",
+    "dir": [
+      "TicTacToe"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 570656,
+    "name": "TicTacToe 5 in row",
+    "key": "tictactoe-5-in-row",
     "dir": [
       "TicTacToe"
     ],
@@ -82850,6 +82921,16 @@
     "key": "total-silence",
     "dir": [
       "TotalSilence"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 574557,
+    "name": "Total Value - TBC",
+    "key": "total-value-tbc",
+    "dir": [
+      "TotalValue_TBC"
     ],
     "source": "curse",
     "mode": 1
