@@ -19956,6 +19956,16 @@
     "mode": 1
   },
   {
+    "id": 575037,
+    "name": "Corah",
+    "key": "corah",
+    "dir": [
+      "Corah"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 380527,
     "name": "Core DKP",
     "key": "core-dkp",
@@ -23234,6 +23244,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 574966,
+    "name": "Death Grip-s",
+    "key": "death-grip-s",
+    "dir": [
+      "Death Grip-s"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 28314,
@@ -28624,6 +28644,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 574670,
+    "name": "EnhancedCamera",
+    "key": "enhancedcamera",
+    "dir": [
+      "EnhancedCamera"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 278353,
@@ -54213,7 +54243,7 @@
   },
   {
     "id": 482402,
-    "name": "MisDirectionHelper",
+    "name": "MisDirectionHelper/Plus Macro",
     "key": "misdirectionhelper",
     "dir": [
       "MisDirectionHelper2"
@@ -54615,7 +54645,7 @@
       "ModernTargetFrame"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 390879,
@@ -58429,16 +58459,6 @@
     "mode": 3
   },
   {
-    "id": 568227,
-    "name": "Nova Booking",
-    "key": "nova-booking",
-    "dir": [
-      "NovaBooking"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 393085,
     "name": "Nova Instance Tracker",
     "key": "nova-instance-tracker",
@@ -58752,6 +58772,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 574895,
+    "name": "OTB Loot",
+    "key": "otb-loot",
+    "dir": [
+      "OTBLoot"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 99317,
@@ -80857,7 +80887,7 @@
       "TipTacItemRef"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 53952,
