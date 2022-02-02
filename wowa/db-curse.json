@@ -22904,30 +22904,30 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Outlands",
-      "DBM-Party-Classic",
-      "DBM-Party-BC",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BlackTemple",
-      "DBM-BWL",
-      "DBM-Hyjal",
-      "DBM-Karazhan",
-      "DBM-MC",
-      "DBM-Naxx",
-      "DBM-Onyxia",
-      "DBM-Serpentshrine",
-      "DBM-Sunwell",
-      "DBM-TheEye",
-      "DBM-ZG",
-      "DBM-ZulAman",
-      "DBM-VPVEM",
       "DBM-Shadowlands",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Sepulcher"
+      "DBM-Sepulcher",
+      "DBM-VPVEM",
+      "DBM-Azeroth",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-Outlands",
+      "DBM-Party-BC",
+      "DBM-BlackTemple",
+      "DBM-Hyjal",
+      "DBM-Karazhan",
+      "DBM-Serpentshrine",
+      "DBM-Sunwell",
+      "DBM-TheEye",
+      "DBM-ZulAman"
     ],
     "source": "curse",
     "mode": 3
@@ -63835,6 +63835,16 @@
     "mode": 0
   },
   {
+    "id": 575175,
+    "name": "PvP Vault Buddy",
+    "key": "pvp-vault-buddy",
+    "dir": [
+      "VaultBuddyPvP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 68204,
     "name": "PvP-Roles",
     "key": "pvproles",
@@ -68756,6 +68766,16 @@
     "key": "resourcesontop",
     "dir": [
       "ResourcesOnTop"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 575270,
+    "name": "Respawn Prio",
+    "key": "respawn-prio",
+    "dir": [
+      "Respawn_Priority"
     ],
     "source": "curse",
     "mode": 1
@@ -82603,6 +82623,16 @@
     "mode": 1
   },
   {
+    "id": 575227,
+    "name": "ToolTipsy",
+    "key": "tooltipsy",
+    "dir": [
+      "ToolTipsy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 468734,
     "name": "Tooltip Enhanced",
     "key": "tooltip-enhanced",
@@ -82957,10 +82987,11 @@
   },
   {
     "id": 574557,
-    "name": "Total Value - TBC",
-    "key": "total-value-tbc",
+    "name": "Total Value",
+    "key": "total-value",
     "dir": [
-      "TotalValue_TBC"
+      "TotalValue_TBC",
+      "TotalValue_Shadowlands"
     ],
     "source": "curse",
     "mode": 1
@@ -87329,7 +87360,7 @@
       "WhoDis"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 63509,
