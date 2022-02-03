@@ -9763,6 +9763,16 @@
     "mode": 2
   },
   {
+    "id": 575405,
+    "name": "Best In Slot - TBC Classic",
+    "key": "best-in-slot-tbc-classic",
+    "dir": [
+      "BestInSlotTBCClassic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 369136,
     "name": "Best In Slot NG",
     "key": "best-in-slot-ng",
