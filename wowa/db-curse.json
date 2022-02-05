@@ -14047,8 +14047,8 @@
     "name": "Buffomat Classic",
     "key": "buffomat-classic",
     "dir": [
-      "BuffomatClassicTBC",
-      "BuffomatClassic"
+      "BuffomatClassic",
+      "BuffomatClassicTBC"
     ],
     "source": "curse",
     "mode": 3
@@ -21512,7 +21512,7 @@
       "DBM-VPYike"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 405894,
@@ -56926,7 +56926,7 @@
       "NotForGnomes"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 102514,
