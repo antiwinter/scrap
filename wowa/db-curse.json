@@ -4029,6 +4029,16 @@
     "mode": 1
   },
   {
+    "id": 532003,
+    "name": "Archived: CraftTree",
+    "key": "crafttree",
+    "dir": [
+      "CraftTree"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 354259,
     "name": "Archivist",
     "key": "archivist",
@@ -17731,16 +17741,6 @@
     "mode": 2
   },
   {
-    "id": 394073,
-    "name": "ClassicGoals",
-    "key": "classicgoals",
-    "dir": [
-      "ClassicGoals"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 334543,
     "name": "ClassicGuide",
     "key": "classicguide",
@@ -20294,16 +20294,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 532003,
-    "name": "CraftTree",
-    "key": "crafttree",
-    "dir": [
-      "CraftTree"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 20253,
@@ -42101,16 +42091,6 @@
     "mode": 1
   },
   {
-    "id": 440532,
-    "name": "Iconic",
-    "key": "iconic",
-    "dir": [
-      "Iconic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 286395,
     "name": "Icy Veins Stat Priority",
     "key": "icy-veins-stat-priority",
@@ -56527,16 +56507,6 @@
     "mode": 1
   },
   {
-    "id": 341810,
-    "name": "MyProgress",
-    "key": "myprogress",
-    "dir": [
-      "Progress"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 2255,
     "name": "MyRolePlay",
     "key": "my-role-play",
@@ -56920,7 +56890,7 @@
   },
   {
     "id": 345024,
-    "name": "NFG - TargetHelper",
+    "name": "NFG - TargetHelper ",
     "key": "nfg",
     "dir": [
       "NotForGnomes"
@@ -63686,16 +63656,6 @@
     "mode": 2
   },
   {
-    "id": 341273,
-    "name": "Puggle",
-    "key": "puggle",
-    "dir": [
-      "Puggle"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 433394,
     "name": "PukeSaver",
     "key": "pukesaver",
@@ -68845,8 +68805,8 @@
     "name": "Restocker Classic",
     "key": "restocker-classic",
     "dir": [
-      "RestockerTBC",
-      "RestockerClassic"
+      "RestockerClassic",
+      "RestockerTBC"
     ],
     "source": "curse",
     "mode": 3
@@ -84809,16 +84769,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 548836,
-    "name": "Underdog",
-    "key": "underdog",
-    "dir": [
-      "Underdog"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 1828,
