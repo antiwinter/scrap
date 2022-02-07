@@ -1482,6 +1482,16 @@
     "mode": 3
   },
   {
+    "id": 576832,
+    "name": "ActionAura",
+    "key": "actionaura",
+    "dir": [
+      "ActionAura"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 300273,
     "name": "ActionCamPlus",
     "key": "actioncamplus",
@@ -16872,6 +16882,16 @@
     "mode": 1
   },
   {
+    "id": 576264,
+    "name": "ChuckNorris",
+    "key": "chucknorris",
+    "dir": [
+      "ChuckNorris"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 364226,
     "name": "Chumli died!",
     "key": "chumli-died",
@@ -21475,6 +21495,16 @@
     "mode": 1
   },
   {
+    "id": 576460,
+    "name": "DBM Voicepack YunBam (윤밤) Korean Female",
+    "key": "dbm-voicepack-yunbam-korean-female",
+    "dir": [
+      "DBM-VPYunBam"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 305545,
     "name": "DBM Voicepack: DBYams",
     "key": "dbm-voicepack-dbyams",
@@ -22067,6 +22097,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 574491,
+    "name": "Dailies!",
+    "key": "dailies",
+    "dir": [
+      "Dailies"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 66601,
@@ -27461,7 +27501,7 @@
       "ElvUI_EltreumUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101590,
@@ -63646,6 +63686,16 @@
     "mode": 1
   },
   {
+    "id": 576047,
+    "name": "PuddingCraft",
+    "key": "puddingcraft",
+    "dir": [
+      "PuddingCraft"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 348326,
     "name": "PugLoot",
     "key": "pugloot",
@@ -68377,6 +68427,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 576168,
+    "name": "RenownTracker",
+    "key": "renowntracker",
+    "dir": [
+      "RenownTracker"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 274092,
