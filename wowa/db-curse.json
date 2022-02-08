@@ -1614,16 +1614,6 @@
     "mode": 3
   },
   {
-    "id": 521502,
-    "name": "Addiction TBC Loot Priority",
-    "key": "addiction-tbc-loot-priority",
-    "dir": [
-      "addiction_loot_priority_2_5_2"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 7529,
     "name": "Addon Control Panel",
     "key": "acp",
@@ -34057,6 +34047,16 @@
     "mode": 2
   },
   {
+    "id": 577047,
+    "name": "Get Link TBC Classic",
+    "key": "get-link-tbc-classic",
+    "dir": [
+      "GetLinkTBCClassic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 18725,
     "name": "Get Off My Lawn!",
     "key": "goml",
@@ -45884,6 +45884,16 @@
     "key": "knightfall-priority",
     "dir": [
       "Knightfall_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 576824,
+    "name": "Knightfall_LootPrio",
+    "key": "knightfall_lootprio",
+    "dir": [
+      "Knightfall_LootPrio"
     ],
     "source": "curse",
     "mode": 1
@@ -80970,6 +80980,16 @@
     "mode": 1
   },
   {
+    "id": 575850,
+    "name": "Tipper",
+    "key": "tipper",
+    "dir": [
+      "Tipper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102715,
     "name": "TipuaEnhancementCheck",
     "key": "tipuaenhancementcheck",
@@ -85745,8 +85765,8 @@
     "name": "ViksUI",
     "key": "viksui",
     "dir": [
-      "ViksUI",
-      "Viks_ConfigUI"
+      "Viks_ConfigUI",
+      "ViksUI"
     ],
     "source": "curse",
     "mode": 1
@@ -86126,6 +86146,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 521502,
+    "name": "WHO CARES TBC Loot Priority",
+    "key": "addiction-tbc-loot-priority",
+    "dir": [
+      "addiction_loot_priority_2_5_3"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 7474,
@@ -89832,6 +89862,16 @@
     "mode": 1
   },
   {
+    "id": 576696,
+    "name": "ZUI_Emotes",
+    "key": "zui_emotes",
+    "dir": [
+      "ZUI_Emotes"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 271368,
     "name": "Zadrot AutoRes",
     "key": "autores",
@@ -90011,6 +90051,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 576926,
+    "name": "Zereth Mortis Puzzle Helper",
+    "key": "zereth-mortis-puzzle-helper",
+    "dir": [
+      "ZerethMortisPuzzleHelper"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 417828,
