@@ -22940,23 +22940,23 @@
       "DBM-SanctumOfDomination",
       "DBM-Sepulcher",
       "DBM-VPVEM",
-      "DBM-Azeroth",
+      "DBM-Outlands",
       "DBM-Party-Classic",
+      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Outlands",
-      "DBM-Party-BC",
+      "DBM-Azeroth",
       "DBM-BlackTemple",
+      "DBM-BWL",
       "DBM-Hyjal",
       "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
+      "DBM-ZG",
       "DBM-ZulAman"
     ],
     "source": "curse",
@@ -46026,8 +46026,7 @@
     "name": "Krowi's World Map Buttons",
     "key": "krowis-world-map-buttons",
     "dir": [
-      "Krowi_WorldMapButtons-1.0",
-      "Krowi_WorldMapButtons-1.1"
+      "Krowi_WorldMapButtons-1.2"
     ],
     "source": "curse",
     "mode": 1
@@ -89863,7 +89862,7 @@
   },
   {
     "id": 576696,
-    "name": "ZUI_Emotes",
+    "name": "ZUI Emotes",
     "key": "zui_emotes",
     "dir": [
       "ZUI_Emotes"
@@ -90998,6 +90997,16 @@
     "key": "bdnameplates",
     "dir": [
       "bdNameplates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 577333,
+    "name": "bdThreat",
+    "key": "bdthreat",
+    "dir": [
+      "bdThreat"
     ],
     "source": "curse",
     "mode": 1
