@@ -1030,7 +1030,7 @@
       "Accountant_Classic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 334628,
@@ -5113,7 +5113,7 @@
       "Atlas"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24965,
@@ -5243,7 +5243,7 @@
       "Atlas_Transportation"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 93258,
@@ -19883,7 +19883,7 @@
       "CoordsTracking"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 298607,
@@ -20649,7 +20649,7 @@
       "CurrencyTracking"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 412420,
@@ -32249,6 +32249,16 @@
     "mode": 3
   },
   {
+    "id": 577600,
+    "name": "Friendly Emote Tracker",
+    "key": "friendly-emote-tracker",
+    "dir": [
+      "ZUI_LickAndTickle"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 504186,
     "name": "Friendly Nameplates Instanced",
     "key": "friendly-nameplates-instanced",
@@ -42883,6 +42893,16 @@
     "mode": 1
   },
   {
+    "id": 577635,
+    "name": "InspectGold",
+    "key": "inspectgold",
+    "dir": [
+      "InspectGold"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 102488,
     "name": "Inspector",
     "key": "inspector1",
@@ -47398,7 +47418,7 @@
       "Lemmos_CraftCooldown"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 481969,
@@ -47408,7 +47428,7 @@
       "Lemmos_RefillAmmo"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 534490,
@@ -56319,8 +56339,8 @@
     "key": "my-buddies",
     "dir": [
       "MyBuddies",
-      "MyBuddies_Classic",
-      "MyBuddies_Classic_TBC"
+      "MyBuddies_Classic_TBC",
+      "MyBuddies_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -74645,7 +74665,7 @@
       "SmartBuff"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 3623,
@@ -88502,7 +88522,7 @@
       "WorldMapTrackingEnhanced"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 269032,
