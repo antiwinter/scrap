@@ -34057,16 +34057,6 @@
     "mode": 2
   },
   {
-    "id": 577047,
-    "name": "Get Link TBC Classic",
-    "key": "get-link-tbc-classic",
-    "dir": [
-      "GetLinkTBCClassic"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 18725,
     "name": "Get Off My Lawn!",
     "key": "goml",
@@ -41141,6 +41131,16 @@
     "key": "hokuto-no-monk",
     "dir": [
       "Hokutonomonk"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 577735,
+    "name": "Holiday Dungeon Helper",
+    "key": "holiday-dungeon-helper",
+    "dir": [
+      "HolidayDungeonHelper"
     ],
     "source": "curse",
     "mode": 1
@@ -69591,7 +69591,7 @@
     "name": "RsPlates(RSP)",
     "key": "rsplates",
     "dir": [
-      "Col"
+      "RSPlates"
     ],
     "source": "curse",
     "mode": 1
@@ -75522,6 +75522,16 @@
     "mode": 2
   },
   {
+    "id": 577741,
+    "name": "Soundboard",
+    "key": "soundboard",
+    "dir": [
+      "Soundboard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 416252,
     "name": "Soundpack By - Bayfuss",
     "key": "soundpack-bayfuss",
@@ -80966,7 +80976,7 @@
       "TipTacItemRef"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 53952,
