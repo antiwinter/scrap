@@ -5758,16 +5758,6 @@
     "mode": 3
   },
   {
-    "id": 86550,
-    "name": "Auctioneer Cheapo searcher module (with transmog)",
-    "key": "auctioneer-cheapo-searcher-module-with-transmog",
-    "dir": [
-      "auc-cheap-searcher"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 525068,
     "name": "Auctipus",
     "key": "auctipus",
@@ -10987,6 +10977,16 @@
     "mode": 1
   },
   {
+    "id": 579818,
+    "name": "Biggest Hits Tracker",
+    "key": "biggest-hits-tracker",
+    "dir": [
+      "ZUI_BiggestHitsTracker"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 373612,
     "name": "BiggestExecute - Execute Tracker",
     "key": "biggestexecute",
@@ -11899,6 +11899,24 @@
     "key": "bodyguardhealth",
     "dir": [
       "BodyguardHealth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 579714,
+    "name": "Bohemian",
+    "key": "bohemian",
+    "dir": [
+      "Bohemian_Auction",
+      "Bohemian_Characters",
+      "Bohemian_DKP",
+      "Bohemian_ElvUI",
+      "Bohemian_Log",
+      "Bohemian_Professions",
+      "Bohemian_Raid",
+      "Bohemian_Talents",
+      "Bohemian"
     ],
     "source": "curse",
     "mode": 1
@@ -15068,7 +15086,7 @@
       "CalmDownandGamble"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 417353,
@@ -17260,6 +17278,16 @@
     "key": "classic-armory",
     "dir": [
       "ClassicArmory"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 579832,
+    "name": "Classic Audio",
+    "key": "classic-audio",
+    "dir": [
+      "ZUI_ClassicAudio"
     ],
     "source": "curse",
     "mode": 2
@@ -51435,16 +51463,6 @@
     "mode": 1
   },
   {
-    "id": 558332,
-    "name": "MacroNamesEdit",
-    "key": "macronamesedit",
-    "dir": [
-      "MacroNamesEdit"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 96726,
     "name": "MacroTip",
     "key": "macrotip",
@@ -65824,6 +65842,16 @@
     "mode": 1
   },
   {
+    "id": 308172,
+    "name": "RSPlates",
+    "key": "rsplates",
+    "dir": [
+      "RSPlates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 397496,
     "name": "RTRank",
     "key": "rtrank",
@@ -66922,6 +66950,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 579444,
+    "name": "Random Song Lyrics",
+    "key": "random-song-lyrics",
+    "dir": [
+      "ZUI_RandomSongLyrics"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 15303,
@@ -69576,16 +69614,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 308172,
-    "name": "RsPlates(RSP)",
-    "key": "rsplates",
-    "dir": [
-      "RSPlates"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 28996,
