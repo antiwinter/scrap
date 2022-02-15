@@ -14534,6 +14534,16 @@
     "mode": 3
   },
   {
+    "id": 579843,
+    "name": "CDR Logger",
+    "key": "cdrlogger",
+    "dir": [
+      "CdrLogger"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 90796,
     "name": "CDSpy",
     "key": "cdspy",
@@ -25560,6 +25570,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 575206,
+    "name": "DrockDrinkandEatMacro",
+    "key": "drockdrinkandeatmacro",
+    "dir": [
+      "DrockEatDrinkMacro"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 325496,
@@ -53020,7 +53040,7 @@
       "MaxCam"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 349790,
