@@ -5068,8 +5068,8 @@
     "name": "Astral Keys",
     "key": "astral-keys",
     "dir": [
-      "AstralKeys",
-      "AstralAnalytics"
+      "AstralAnalytics",
+      "AstralKeys"
     ],
     "source": "curse",
     "mode": 1
@@ -9802,9 +9802,9 @@
     "name": "Best In Slot-Shadowlands",
     "key": "best-in-slot-shadowlands",
     "dir": [
-      "BestInSlotRedux_SLDungeons",
       "BestInSlotRedux_SLRaids",
-      "BestInSlotRedux"
+      "BestInSlotRedux",
+      "BestInSlotRedux_SLDungeons"
     ],
     "source": "curse",
     "mode": 1
@@ -63541,7 +63541,7 @@
       "ProfessionMaster"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 353313,
@@ -68989,6 +68989,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 580222,
+    "name": "Return All Mail",
+    "key": "return-all-mail",
+    "dir": [
+      "ZUI_ReturnAllMail"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 421509,
