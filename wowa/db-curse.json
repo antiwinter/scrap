@@ -22107,6 +22107,16 @@
     "mode": 1
   },
   {
+    "id": 580434,
+    "name": "DadJokes",
+    "key": "dadjokes",
+    "dir": [
+      "DadJokes"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 3883,
     "name": "DagAssist",
     "key": "dag-assist",
@@ -22979,23 +22989,23 @@
       "DBM-SanctumOfDomination",
       "DBM-Sepulcher",
       "DBM-VPVEM",
-      "DBM-Outlands",
+      "DBM-Azeroth",
       "DBM-Party-Classic",
-      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BlackTemple",
       "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-Outlands",
+      "DBM-Party-BC",
+      "DBM-BlackTemple",
       "DBM-Hyjal",
       "DBM-Karazhan",
-      "DBM-MC",
-      "DBM-Naxx",
-      "DBM-Onyxia",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZG",
       "DBM-ZulAman"
     ],
     "source": "curse",
@@ -63263,6 +63273,16 @@
     "mode": 2
   },
   {
+    "id": 306986,
+    "name": "Pretty Reps",
+    "key": "pretty-reps",
+    "dir": [
+      "PrettyReps"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 349158,
     "name": "PreyStation",
     "key": "preystation",
@@ -67399,6 +67419,16 @@
     "key": "raretrackerworldbosses-rtwb",
     "dir": [
       "RareTrackerWorldBosses"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 580390,
+    "name": "RareTrackerZerethMortis (RTZ)",
+    "key": "raretrackerzerethmortis-rtz",
+    "dir": [
+      "RareTrackerZerethMortis"
     ],
     "source": "curse",
     "mode": 1
