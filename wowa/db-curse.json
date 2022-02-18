@@ -4039,6 +4039,16 @@
     "mode": 1
   },
   {
+    "id": 341273,
+    "name": "Archived: Puggle",
+    "key": "puggle",
+    "dir": [
+      "Puggle"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 354259,
     "name": "Archivist",
     "key": "archivist",
