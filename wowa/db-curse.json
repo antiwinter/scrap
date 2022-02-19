@@ -90924,7 +90924,6 @@
     "name": "alaTalentEmu",
     "key": "alatalentemu",
     "dir": [
-      "alaTalentEmu",
       "TalentEmu"
     ],
     "source": "curse",
