@@ -14916,7 +14916,7 @@
       "CalReminder"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 261484,
@@ -39754,7 +39754,7 @@
       "HearthstoneLoot"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 323899,
@@ -86221,6 +86221,16 @@
     "key": "war",
     "dir": [
       "war"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 576035,
+    "name": "WASounds by Suroh",
+    "key": "wasounds-by-suroh",
+    "dir": [
+      "SharedMedia_Suroh"
     ],
     "source": "curse",
     "mode": 1
