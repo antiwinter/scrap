@@ -1492,6 +1492,16 @@
     "mode": 1
   },
   {
+    "id": 581040,
+    "name": "ActionBar Masks (ElvUI Plugin)",
+    "key": "actionbar-masks-elvui-plugin",
+    "dir": [
+      "ElvUI_ActionBarMasks"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 300273,
     "name": "ActionCamPlus",
     "key": "actioncamplus",
@@ -14916,7 +14926,7 @@
       "CalReminder"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 261484,
@@ -39754,7 +39764,7 @@
       "HearthstoneLoot"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 323899,
@@ -42688,7 +42698,7 @@
       "Inception_Loot_Priority"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 359713,
@@ -57041,9 +57051,9 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossipClassic",
       "NPCRPGossip",
-      "NPCRPGossipClassicEra"
+      "NPCRPGossipClassicEra",
+      "NPCRPGossipClassic"
     ],
     "source": "curse",
     "mode": 3
@@ -64973,7 +64983,7 @@
       "Questie"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 543040,
@@ -71398,6 +71408,16 @@
     "key": "separateur-de-nombre",
     "dir": [
       "Separateur_de_nombre"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 581751,
+    "name": "Sepulcher of the First Ones Sound Pack",
+    "key": "sepulcher-of-the-first-ones-sound-pack",
+    "dir": [
+      "Sepulcher_of_the_First_Ones_SoundPack"
     ],
     "source": "curse",
     "mode": 1
@@ -84757,6 +84777,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 580929,
+    "name": "UIScale",
+    "key": "uiscale",
+    "dir": [
+      "UIScale"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 278183,
