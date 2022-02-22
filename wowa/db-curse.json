@@ -14953,7 +14953,8 @@
     "name": "Calanon's DBM Voicepack English female",
     "key": "dbm-voicepack-english-female",
     "dir": [
-      "DBM-VPEnglish female"
+      "DBM-VPEnglish female",
+      "DBM-VPEnglish male"
     ],
     "source": "curse",
     "mode": 1
@@ -14963,7 +14964,7 @@
     "name": "Calanon's DBM Voicepack English male",
     "key": "dbm-voicepack-english-male",
     "dir": [
-      "DBM-VPEnglish male"
+      "DBM-VPEnglish female"
     ],
     "source": "curse",
     "mode": 1
@@ -77125,6 +77126,16 @@
     "id": 408854,
     "name": "Stea Summon",
     "key": "steasummon",
+    "dir": [
+      "SteaSummon"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
+    "id": 581908,
+    "name": "SteaSummon Fixed",
+    "key": "steasummon-fixed",
     "dir": [
       "SteaSummon"
     ],
