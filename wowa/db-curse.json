@@ -1704,6 +1704,16 @@
     "mode": 1
   },
   {
+    "id": 582180,
+    "name": "Adherent",
+    "key": "adherent",
+    "dir": [
+      "Adherent"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 23350,
     "name": "AdiBags",
     "key": "adibags",
@@ -3153,7 +3163,7 @@
       "Alts"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 310188,
@@ -3856,7 +3866,7 @@
       "Aptechka"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 387453,
@@ -14953,8 +14963,7 @@
     "name": "Calanon's DBM Voicepack English female",
     "key": "dbm-voicepack-english-female",
     "dir": [
-      "DBM-VPEnglish female",
-      "DBM-VPEnglish male"
+      "DBM-VPEnglish female"
     ],
     "source": "curse",
     "mode": 1
@@ -14964,7 +14973,7 @@
     "name": "Calanon's DBM Voicepack English male",
     "key": "dbm-voicepack-english-male",
     "dir": [
-      "DBM-VPEnglish female"
+      "DBM-VPEnglish male"
     ],
     "source": "curse",
     "mode": 1
@@ -23004,30 +23013,30 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
+      "DBM-Outlands",
+      "DBM-Party-Classic",
+      "DBM-Party-BC",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BlackTemple",
+      "DBM-BWL",
+      "DBM-Hyjal",
+      "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
+      "DBM-Serpentshrine",
+      "DBM-Sunwell",
+      "DBM-TheEye",
+      "DBM-ZG",
+      "DBM-ZulAman",
+      "DBM-VPVEM",
       "DBM-Shadowlands",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Sepulcher",
-      "DBM-VPVEM",
-      "DBM-Azeroth",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-Outlands",
-      "DBM-Party-BC",
-      "DBM-BlackTemple",
-      "DBM-Hyjal",
-      "DBM-Karazhan",
-      "DBM-Serpentshrine",
-      "DBM-Sunwell",
-      "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-Sepulcher"
     ],
     "source": "curse",
     "mode": 3
@@ -32276,7 +32285,7 @@
       "FriendNotes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 18790,
@@ -37326,7 +37335,7 @@
       "GuildSearch"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 88704,
@@ -38700,8 +38709,8 @@
     "name": "HandyNotes: TravelGuide (Classic & BCC)",
     "key": "handynotes-travelguide-classic",
     "dir": [
-      "HandyNotes_TravelGuide (BCC)",
-      "HandyNotes_TravelGuide (Classic)"
+      "HandyNotes_TravelGuide (Classic)",
+      "HandyNotes_TravelGuide (BCC)"
     ],
     "source": "curse",
     "mode": 3
@@ -56653,7 +56662,7 @@
       "MyRolePlay"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 398576,
@@ -57052,9 +57061,9 @@
     "name": "NPC RP Gossip Text Re-enabler",
     "key": "npc-rp-gossip",
     "dir": [
-      "NPCRPGossip",
       "NPCRPGossipClassicEra",
-      "NPCRPGossipClassic"
+      "NPCRPGossipClassic",
+      "NPCRPGossip"
     ],
     "source": "curse",
     "mode": 3
@@ -58435,7 +58444,7 @@
       "NoobTacoUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 414875,
@@ -68967,7 +68976,7 @@
       "RXPGuides"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 57326,
@@ -82572,7 +82581,7 @@
   },
   {
     "id": 306085,
-    "name": "TomCat's Tours (now includes Shadowlands & Korthia Rares, TBC Dungeon Maps and more!) ",
+    "name": "TomCat's Tours (now includes Zereth Mortis rares and treasures!)",
     "key": "tomcats",
     "dir": [
       "TomCats"
@@ -88094,7 +88103,7 @@
   {
     "id": 6060,
     "name": "WoW Dings emoticons",
-    "key": "wo-w-dings",
+    "key": "wow-dings",
     "dir": [
       "WowDings"
     ],
