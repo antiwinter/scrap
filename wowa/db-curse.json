@@ -2104,16 +2104,6 @@
     "mode": 1
   },
   {
-    "id": 361415,
-    "name": "AdiBags Corrupted Items",
-    "key": "adibags-corrupted-items",
-    "dir": [
-      "AdiBags_Corrupted"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 102083,
     "name": "AdiBags Hearthstones",
     "key": "adibags-hearthstones",
@@ -3866,7 +3856,7 @@
       "Aptechka"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 387453,
@@ -4477,7 +4467,7 @@
       "ArkInventory"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101212,
@@ -14170,7 +14160,7 @@
       "BugSack"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 85473,
@@ -28705,6 +28695,16 @@
     "mode": 3
   },
   {
+    "id": 582332,
+    "name": "Enhanced Action Bars",
+    "key": "enhancedactionbars",
+    "dir": [
+      "EnhancedActionBars"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 89471,
     "name": "Enhanced BG Zone Map",
     "key": "enhanced-bg-zone-map",
@@ -29082,7 +29082,7 @@
       "ErrorMonster"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 338479,
@@ -35036,6 +35036,16 @@
     "key": "gnome-sequencer-ssr-pack-russian",
     "dir": [
       "GS-SSRMacros"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 582559,
+    "name": "Gnomish Inbox Shrinker",
+    "key": "gnomish-inbox-shrinker",
+    "dir": [
+      "GnomishInboxShrinker"
     ],
     "source": "curse",
     "mode": 1
@@ -43417,6 +43427,16 @@
     "key": "intoxicated",
     "dir": [
       "Intoxicated"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 311898,
+    "name": "InvasionTimer",
+    "key": "invasiontimer",
+    "dir": [
+      "InvasionTimer"
     ],
     "source": "curse",
     "mode": 1
@@ -56417,9 +56437,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies",
       "MyBuddies_Classic_TBC",
-      "MyBuddies_Classic"
+      "MyBuddies_Classic",
+      "MyBuddies"
     ],
     "source": "curse",
     "mode": 3
@@ -67214,6 +67234,16 @@
     "mode": 1
   },
   {
+    "id": 582406,
+    "name": "Rare Alert",
+    "key": "rare-alert",
+    "dir": [
+      "RareAlert"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334666,
     "name": "Rare Aware",
     "key": "rare-aware",
@@ -67299,6 +67329,16 @@
     "key": "rare-share-visions-of-nzoth",
     "dir": [
       "RareShareVisionsOfNZoth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 581297,
+    "name": "Rare Share: Zereth Mortis (9.2)",
+    "key": "rare-share-zereth-mortis-9-2",
+    "dir": [
+      "RareShare_Zereth_Mortis"
     ],
     "source": "curse",
     "mode": 1
@@ -68334,7 +68374,7 @@
       "RemainingXP"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 66047,
@@ -68873,7 +68913,7 @@
     "name": "Requires Level X",
     "key": "requires-level-x",
     "dir": [
-      "RequiresLevelX"
+      "!RequiresLevelX"
     ],
     "source": "curse",
     "mode": 1
@@ -72201,7 +72241,7 @@
       "SharedMedia_Noto"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 496539,
@@ -72904,6 +72944,7 @@
     "name": "Sigma Profession Filter (Classic)",
     "key": "sigma-profession-filter-classic",
     "dir": [
+      "SigmaProfessionFilter_RecipeInfo",
       "SigmaProfessionFilterAlchemy",
       "SigmaProfessionFilterBeastTraining",
       "SigmaProfessionFilterCooking",
@@ -72911,7 +72952,6 @@
       "SigmaProfessionFilterFirstAid",
       "SigmaProfessionFilterMining",
       "SigmaProfessionFilterPoisons",
-      "SigmaProfessionFilter_RecipeInfo",
       "SigmaProfessionFilter"
     ],
     "source": "curse",
@@ -74238,6 +74278,16 @@
     "key": "skada_friendlyfire",
     "dir": [
       "SkadaFriendlyFire"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 573563,
+    "name": "Skag's Toolkit",
+    "key": "stk",
+    "dir": [
+      "stk"
     ],
     "source": "curse",
     "mode": 1
@@ -78351,7 +78401,7 @@
       "SurroundFix"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24711,
@@ -84128,7 +84178,7 @@
       "Transcriptor"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 21683,
