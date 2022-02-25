@@ -2064,6 +2064,16 @@
     "mode": 1
   },
   {
+    "id": 582548,
+    "name": "AdiBags - Zereth Mortis",
+    "key": "adibags-zerethmortis",
+    "dir": [
+      "AdiBags_ZerethMortis"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 325447,
     "name": "AdiBags - Zone Items",
     "key": "adibags-zone-items",
@@ -7456,16 +7466,6 @@
     "mode": 1
   },
   {
-    "id": 499599,
-    "name": "AzerPUG's Korthia Quests",
-    "key": "azerpugs-korthia-quests",
-    "dir": [
-      "AzerPUGsZoneQuests"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 412899,
     "name": "AzerPUG's Leveling Statistics",
     "key": "azerpugs-leveling-statistics",
@@ -7552,6 +7552,16 @@
     "key": "azerpug-unlockables",
     "dir": [
       "AzerPUGsUnLockables"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 499599,
+    "name": "AzerPUG's Zone Quests",
+    "key": "azerpugs-zone-quests",
+    "dir": [
+      "AzerPUGsZoneQuests"
     ],
     "source": "curse",
     "mode": 1
@@ -9073,7 +9083,7 @@
       "Bartender4"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 44131,
@@ -27517,7 +27527,7 @@
     "name": "ElvUI DataText Armor Pen",
     "key": "elvui-datatext-armor-pen",
     "dir": [
-      "ElvUI_ArmorPenDT"
+      "ElvUI_ResilienceDT"
     ],
     "source": "curse",
     "mode": 1
@@ -58207,6 +58217,16 @@
     "mode": 1
   },
   {
+    "id": 582678,
+    "name": "NoChatFade",
+    "key": "nochatfade",
+    "dir": [
+      "NoChatFade"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 24377,
     "name": "NoDuel",
     "key": "noduel",
@@ -73450,7 +73470,7 @@
       "SimpleItemLevel"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 510735,
@@ -82427,7 +82447,7 @@
       "Tofu"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 85760,
