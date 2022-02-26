@@ -34563,12 +34563,12 @@
   },
   {
     "id": 441909,
-    "name": "GladiatorlosSA3(Rus by Andrewqtx)",
+    "name": "GladiatorlosSA3 (Rus by Andrewqtx)",
     "key": "gladiatorlossa3",
     "dir": [
-      "GladiatorlosSA3(Rus by Andrewqtx)",
       "GladiatorlosSA3_TBC(Rus by Andrewqtx)",
-      "GladiatorlosSA3_Classic(Rus by Andrewqtx)"
+      "GladiatorlosSA3_Classic(Rus by Andrewqtx)",
+      "GladiatorlosSA3 (Rus by Andrewqtx)"
     ],
     "source": "curse",
     "mode": 3
@@ -77219,7 +77219,7 @@
       "SteaSummon"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 37483,
@@ -92952,6 +92952,7 @@
       "LookingForGroup_Broker",
       "LookingForGroup_CR",
       "LookingForGroup_CRE",
+      "LookingForGroup_Elite",
       "LookingForGroup_Event",
       "LookingForGroup_Hook",
       "LookingForGroup_Icon",
