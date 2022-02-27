@@ -27851,8 +27851,8 @@
     "name": "ElvUI Nuts and Bolts",
     "key": "elvui-nutsandbolts",
     "dir": [
-      "ElvUI_NutsAndBolts",
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts_Classic",
+      "ElvUI_NutsAndBolts"
     ],
     "source": "curse",
     "mode": 3
@@ -38590,16 +38590,6 @@
     "key": "handynotes-mechagon-nazjatar",
     "dir": [
       "HandyNotes_MechagonAndNazjatar"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 300570,
-    "name": "HandyNotes: Mole Machine",
-    "key": "handynotes-mole-machine",
-    "dir": [
-      "HandyNotes_MoleMachine"
     ],
     "source": "curse",
     "mode": 1
@@ -60009,16 +59999,6 @@
     "mode": 1
   },
   {
-    "id": 356943,
-    "name": "PM WishList",
-    "key": "pm-wishlist",
-    "dir": [
-      "PMWishList"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 263607,
     "name": "PQC-Profession Quests Complete",
     "key": "pqc-profession-quests-complete",
@@ -65683,81 +65663,11 @@
     "mode": 1
   },
   {
-    "id": 359808,
-    "name": "RECrystallize - Auction House Scanner",
-    "key": "recrystallize-auction-house-scanner",
-    "dir": [
-      "RECrystallize"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 421345,
     "name": "RED Canids Sounds",
     "key": "redcanids-sounds",
     "dir": [
       "REDCanidsSounds"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 28545,
-    "name": "REFlex - Arena/Battleground Historian   ",
-    "key": "reflex-battleground-historian",
-    "dir": [
-      "REFlex"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 299052,
-    "name": "REHack - UI Notebook",
-    "key": "rehack",
-    "dir": [
-      "REHack"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 282397,
-    "name": "REKeys - Keystone Manager",
-    "key": "rekeys-keystone-manager",
-    "dir": [
-      "REKeys"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 279079,
-    "name": "RENovate - Mission Table Extension",
-    "key": "renovate-mission-table-extension",
-    "dir": [
-      "RENovate"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 39399,
-    "name": "REPorter - Battleground Map",
-    "key": "reporter-battleground-map",
-    "dir": [
-      "REPorter"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 39100,
-    "name": "RETabBinder - PVP Smart Targeting",
-    "key": "retabbinder",
-    "dir": [
-      "RETabBinder"
     ],
     "source": "curse",
     "mode": 1
@@ -66837,7 +66747,7 @@
   },
   {
     "id": 279257,
-    "name": "Raider.IO Mythic Plus and Raid Progress",
+    "name": "Raider.IO Mythic Plus, Raid Progress, and Recruitment",
     "key": "raiderio",
     "dir": [
       "RaiderIO_DB_EU_A",
@@ -69260,7 +69170,7 @@
   },
   {
     "id": 336153,
-    "name": "RillyCleanUI",
+    "name": "RillyClean UI",
     "key": "rillycleanui",
     "dir": [
       "RillyCleanUI"
