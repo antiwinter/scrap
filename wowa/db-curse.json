@@ -9767,8 +9767,8 @@
     "key": "benikui",
     "dir": [
       "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI_TBC",
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI",
+      "ElvUI_BenikUI_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -21018,6 +21018,16 @@
     "mode": 1
   },
   {
+    "id": 583014,
+    "name": "Cypher Research Console Minimap Button",
+    "key": "cypher-research-console-minimap-button",
+    "dir": [
+      "CypherButton"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 394409,
     "name": "CyrusLootPriority",
     "key": "cyruslootpriority",
@@ -21599,6 +21609,16 @@
     "key": "dbm-voicepack-oldman",
     "dir": [
       "DBM-VPOldMan"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 559977,
+    "name": "DBM voicepack - 푸카 음성팩(pukaKR)",
+    "key": "dbm-pukakr",
+    "dir": [
+      "DBM-VPPukaKR"
     ],
     "source": "curse",
     "mode": 1
@@ -24667,6 +24687,16 @@
     "mode": 1
   },
   {
+    "id": 583219,
+    "name": "Disable Loss Of Control Cooldown",
+    "key": "disable-loss-of-control-cooldown",
+    "dir": [
+      "DisableLOCCD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361422,
     "name": "Disable Map Maximize",
     "key": "disable-map-maximize",
@@ -24776,6 +24806,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 583370,
+    "name": "Dismiss Chat Option Spacer",
+    "key": "dismiss-option-spacer",
+    "dir": [
+      "DismissOptionSpacer"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 485737,
@@ -35196,6 +35236,16 @@
     "key": "gowcompass",
     "dir": [
       "GoWCompass"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 584739,
+    "name": "GobbleGobble",
+    "key": "gobblegobble",
+    "dir": [
+      "GobbleGobble"
     ],
     "source": "curse",
     "mode": 1
@@ -60799,6 +60849,16 @@
     "mode": 1
   },
   {
+    "id": 582886,
+    "name": "PermoksAccountManager",
+    "key": "permoksaccountmanager",
+    "dir": [
+      "PermoksAccountManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 828,
     "name": "Persistence of Chattiness",
     "key": "persistence-of-chattiness",
@@ -61492,6 +61552,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 583466,
+    "name": "PetXPTracker",
+    "key": "petxptracker",
+    "dir": [
+      "PetXPTracker"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 398544,
@@ -66766,7 +66836,11 @@
       "RaiderIO_DB_TW_A_R",
       "RaiderIO_DB_TW_H_R",
       "RaiderIO_DB_US_A_R",
-      "RaiderIO_DB_US_H_R"
+      "RaiderIO_DB_US_H_R",
+      "RaiderIO_DB_EU_F",
+      "RaiderIO_DB_KR_F",
+      "RaiderIO_DB_TW_F",
+      "RaiderIO_DB_US_F"
     ],
     "source": "curse",
     "mode": 3
