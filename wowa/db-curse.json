@@ -13657,16 +13657,6 @@
     "mode": 1
   },
   {
-    "id": 16312,
-    "name": "Broker_Wallet",
-    "key": "wallet",
-    "dir": [
-      "Broker_Wallet"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 26263,
     "name": "Broker_WhoLib",
     "key": "broker_wholib",
@@ -24147,16 +24137,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 421311,
-    "name": "Destructive Nature Assistant (DNA)",
-    "key": "destructive-nature-assistant",
-    "dir": [
-      "DNAssistant"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 351391,
@@ -57114,7 +57094,7 @@
       "NotForGnomes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 102514,
@@ -75699,7 +75679,8 @@
     "name": "Soundboard",
     "key": "soundboard",
     "dir": [
-      "Soundboard"
+      "Soundboard",
+      "xSoundboard"
     ],
     "source": "curse",
     "mode": 1
