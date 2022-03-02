@@ -4250,6 +4250,16 @@
     "mode": 1
   },
   {
+    "id": 372122,
+    "name": "Arena Ranked",
+    "key": "arena-ranked",
+    "dir": [
+      "ArenaRanked"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 415931,
     "name": "Arena Target Healer",
     "key": "arena-target-healer",
@@ -13657,6 +13667,16 @@
     "mode": 1
   },
   {
+    "id": 16312,
+    "name": "Broker_Wallet",
+    "key": "wallet",
+    "dir": [
+      "Broker_Wallet"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26263,
     "name": "Broker_WhoLib",
     "key": "broker_wholib",
@@ -19952,7 +19972,7 @@
       "Coordinates"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 5299,
@@ -46834,7 +46854,7 @@
       "ls_Toasts"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 81413,
@@ -51499,7 +51519,7 @@
       "MacroManagerBackup"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 47117,
@@ -67549,16 +67569,6 @@
     "mode": 1
   },
   {
-    "id": 372122,
-    "name": "Rated Skirmish",
-    "key": "rated-skirmish",
-    "dir": [
-      "RatedSkirmish"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 3377,
     "name": "RatingBuster",
     "key": "rating-buster",
@@ -71128,6 +71138,16 @@
     "key": "searchforicons",
     "dir": [
       "SearchForIcons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 582627,
+    "name": "Season_plus",
+    "key": "season_plus",
+    "dir": [
+      "Season_plus"
     ],
     "source": "curse",
     "mode": 1
@@ -84711,7 +84731,7 @@
       "TwitchEmotes"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 325044,
