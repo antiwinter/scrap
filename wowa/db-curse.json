@@ -1499,7 +1499,7 @@
       "ElvUI_ActionBarMasks"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 300273,
@@ -31027,6 +31027,16 @@
     "mode": 1
   },
   {
+    "id": 585114,
+    "name": "Fish in Peace (Mute Zereth Mortis Waterfall)",
+    "key": "fish-in-peace-mute-zereth-mortis-waterfall",
+    "dir": [
+      "FishInPeace"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29114,
     "name": "FishFry",
     "key": "fishfry",
@@ -47045,7 +47055,7 @@
       "LargerMacroIconSelectionData"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 345647,
