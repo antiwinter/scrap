@@ -11,6 +11,16 @@
     "mode": 3
   },
   {
+    "id": 301866,
+    "name": " DBM Voicepack:Taotao",
+    "key": "lunataotao",
+    "dir": [
+      "DBM-VPTaotao"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 477662,
     "name": " DBM-VPMomo",
     "key": "momodbm",
@@ -21794,16 +21804,6 @@
     "mode": 1
   },
   {
-    "id": 301866,
-    "name": "DBM-VPTaotao",
-    "key": "lunataotao",
-    "dir": [
-      "DBM-VPTaotao"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 499551,
     "name": "DBM-VPTaotao Classic&TBC",
     "key": "dbm-vptaotao-classic-tbc",
@@ -43297,6 +43297,16 @@
     "key": "instigator",
     "dir": [
       "Instigator"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 585514,
+    "name": "Instigator Quotes",
+    "key": "instigator-quotes",
+    "dir": [
+      "InstigatorQuotes"
     ],
     "source": "curse",
     "mode": 1
