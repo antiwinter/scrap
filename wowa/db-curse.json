@@ -1627,8 +1627,7 @@
     "name": "AddUI",
     "key": "addui",
     "dir": [
-      "AddUI",
-      "PlateColor"
+      "AddUI"
     ],
     "source": "curse",
     "mode": 3
@@ -30271,7 +30270,8 @@
     "key": "farmhud",
     "dir": [
       "FarmHud",
-      "FarmHud_QuestArrow"
+      "FarmHud_QuestArrow",
+      "FarmHud_TrailPath"
     ],
     "source": "curse",
     "mode": 1
@@ -74424,7 +74424,7 @@
       "Skinner"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 529664,
@@ -91698,7 +91698,7 @@
       "devnull"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 299936,
