@@ -1627,7 +1627,8 @@
     "name": "AddUI",
     "key": "addui",
     "dir": [
-      "AddUI"
+      "AddUI",
+      "PlateColor"
     ],
     "source": "curse",
     "mode": 3
@@ -77769,7 +77770,7 @@
       "SummonStoneHelper"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 361649,
