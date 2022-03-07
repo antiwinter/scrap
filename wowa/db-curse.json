@@ -2248,7 +2248,7 @@
     "name": "AdiBags Shadowlands Skinning",
     "key": "adibags-shadowlands-skinning",
     "dir": [
-      "AdiBags_Shadowlands_Blacksmithing"
+      "AdiBags_Shadowlands_Skinning"
     ],
     "source": "curse",
     "mode": 1
@@ -4676,7 +4676,7 @@
     "name": "Arnold Schwarzenegger VEM / DBM ",
     "key": "arnold-schwarzenegger-vem-dbm",
     "dir": [
-      "DBM-VPARNOLD"
+      "DBM-VPArnold"
     ],
     "source": "curse",
     "mode": 1
@@ -7401,6 +7401,16 @@
     "key": "azerpugs-chat-improvements",
     "dir": [
       "AzerPUGsChatImprovements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 585883,
+    "name": "AzerPUG's Click Cast",
+    "key": "azerpugs-click-cast",
+    "dir": [
+      "AzerPUGsClickCast"
     ],
     "source": "curse",
     "mode": 1
@@ -20002,7 +20012,7 @@
       "CopyAnything"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 400382,
@@ -21524,6 +21534,16 @@
     "mode": 1
   },
   {
+    "id": 585976,
+    "name": "DBM Voicepack Russian Tanya",
+    "key": "dbm-voicepack-russian-tanya",
+    "dir": [
+      "DBM-VPTanya"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 416645,
     "name": "DBM Voicepack Russian Tatyana Natural voice",
     "key": "dbm-voicepack-russian-tatyana-natural-voice",
@@ -21629,6 +21649,16 @@
     "key": "dbm-voicepack-oldman",
     "dir": [
       "DBM-VPOldMan"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 499551,
+    "name": "DBM Voicepack:Taotao Classic&TBC",
+    "key": "dbm-vptaotao-classic-tbc",
+    "dir": [
+      "DBM-VPTaotao"
     ],
     "source": "curse",
     "mode": 1
@@ -21799,16 +21829,6 @@
     "key": "dbm-vpmianyang",
     "dir": [
       "DBM-VPMianyang"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 499551,
-    "name": "DBM-VPTaotao Classic&TBC",
-    "key": "dbm-vptaotao-classic-tbc",
-    "dir": [
-      "DBM-VPTaotao"
     ],
     "source": "curse",
     "mode": 1
@@ -24491,6 +24511,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 586134,
+    "name": "DialogKey continued",
+    "key": "dialogkey-continued",
+    "dir": [
+      "DialogKey"
+    ],
+    "source": "curse",
+    "mode": 2
   },
   {
     "id": 355597,
@@ -28116,6 +28146,16 @@
     "key": "elvui-tukuistyle",
     "dir": [
       "ElvUI_TukUIStyle"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 585872,
+    "name": "ElvUI_AutoVendorBlacklist",
+    "key": "elvui_autovendorblacklist",
+    "dir": [
+      "ElvUI_AutoVendorBlacklist"
     ],
     "source": "curse",
     "mode": 1
@@ -66023,6 +66063,16 @@
     "mode": 1
   },
   {
+    "id": 585816,
+    "name": "RageBar2",
+    "key": "ragebar2",
+    "dir": [
+      "RageBar2"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 503095,
     "name": "RageBuffChecker",
     "key": "ragebuffchecker",
@@ -78531,6 +78581,16 @@
     "mode": 3
   },
   {
+    "id": 585956,
+    "name": "Sweet Sound of Auction House",
+    "key": "sweet-sound-of-auction-house",
+    "dir": [
+      "SSoA"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 285784,
     "name": "Sweet Whispers",
     "key": "sweet-whispers",
@@ -88202,6 +88262,16 @@
     "key": "whaurorraa",
     "dir": [
       "WoWHate"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 585887,
+    "name": "WoW Info Companion",
+    "key": "wow-info-companion",
+    "dir": [
+      "WoWInfoCompanion"
     ],
     "source": "curse",
     "mode": 1
