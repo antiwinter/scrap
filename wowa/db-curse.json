@@ -3226,6 +3226,16 @@
     "mode": 1
   },
   {
+    "id": 590852,
+    "name": "AlwaysRaw",
+    "key": "alwaysraw",
+    "dir": [
+      "AlwaysRaw"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 33436,
     "name": "Alysmon",
     "key": "alysmon",
