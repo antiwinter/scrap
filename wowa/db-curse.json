@@ -61040,6 +61040,16 @@
     "mode": 3
   },
   {
+    "id": 591408,
+    "name": "Personal Resource Display (MoP)",
+    "key": "personal-resource-display-mop",
+    "dir": [
+      "Personal Resource Display"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334578,
     "name": "Personal Roll Loot Classic",
     "key": "personal-roll-loot-classic",
