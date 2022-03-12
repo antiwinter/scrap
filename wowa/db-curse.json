@@ -11098,7 +11098,7 @@
   },
   {
     "id": 305210,
-    "name": "Bigwigs Voice - Chinese voicepack (VV)",
+    "name": "Bigwigs Voice - Chinese voicepack (VV)BW语音包",
     "key": "bigwigs-voice-chinese-voicepack-vv",
     "dir": [
       "BigWigs_Voice"
@@ -21374,24 +21374,24 @@
     "mode": 1
   },
   {
-    "id": 303853,
-    "name": "DBM Voicepack - VV",
-    "key": "dbm-voicepack-vv",
-    "dir": [
-      "DBM-VPVV"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 339162,
-    "name": "DBM Voicepack - VV (for WoW Classic or TBC)",
+    "name": "DBM Voicepack - VV (for WoW Classic or TBC)怀旧服语音包",
     "key": "dbm-voicepack-vv-for-wow-classic",
     "dir": [
       "DBM-VPVV"
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 303853,
+    "name": "DBM Voicepack - VV DBM语音包",
+    "key": "dbm-voicepack-vv",
+    "dir": [
+      "DBM-VPVV"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 88734,
@@ -21429,6 +21429,16 @@
     "key": "dbm-voicepack-eye-of-crow",
     "dir": [
       "DBM-VPEyeofCrowKR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 408843,
+    "name": "DBM Voicepack FallInLove(치유빛)",
+    "key": "dbm-voicepack-fallinlove",
+    "dir": [
+      "DBM-VPFallInLove"
     ],
     "source": "curse",
     "mode": 1
@@ -21489,16 +21499,6 @@
     "key": "dbm-voicepack-kimnaa324",
     "dir": [
       "DBM-VPKimnaa324"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 408843,
-    "name": "DBM Voicepack Korean Female FallInLove (치유빛)",
-    "key": "dbm-voicepack-korean-female-fallinlove",
-    "dir": [
-      "DBM-VPFallInLove"
     ],
     "source": "curse",
     "mode": 1
@@ -34604,7 +34604,7 @@
   },
   {
     "id": 303854,
-    "name": "GladiatorlosSA2 - zhCN - Female(VV)",
+    "name": "GladiatorlosSA2 - zhCN - Female(VV)GSA2语音包",
     "key": "gladiatorlossa2_zhcn_female-vv",
     "dir": [
       "GladiatorlosSA2_zhCN"
