@@ -24530,7 +24530,7 @@
       "DialogKey"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 355597,
@@ -89145,6 +89145,16 @@
     "key": "wowpaint",
     "dir": [
       "WowPaint"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 590920,
+    "name": "WowSims Exporter",
+    "key": "wowsimsexporter",
+    "dir": [
+      "WowSimsExporter"
     ],
     "source": "curse",
     "mode": 1
