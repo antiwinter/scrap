@@ -6133,6 +6133,16 @@
     "mode": 1
   },
   {
+    "id": 592399,
+    "name": "Auto Resurrect Plus",
+    "key": "auto-resurrect-plus",
+    "dir": [
+      "AutoResurrectPlus"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100455,
     "name": "Auto Revive Battle Pets",
     "key": "autorevivebattlepets",
@@ -9213,7 +9223,7 @@
       "BasicBuffHide"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13503,
@@ -9223,7 +9233,7 @@
       "BasicBuffs"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13504,
@@ -15638,6 +15648,16 @@
     "mode": 1
   },
   {
+    "id": 592279,
+    "name": "Cast Bonus",
+    "key": "cast-bonus",
+    "dir": [
+      "CastBonus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 301881,
     "name": "CastAnnouncer",
     "key": "cast-announcer",
@@ -16797,6 +16817,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 591904,
+    "name": "Cheepath",
+    "key": "cheepath",
+    "dir": [
+      "Cheepath"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 474292,
@@ -41908,6 +41938,16 @@
     "mode": 1
   },
   {
+    "id": 592021,
+    "name": "HydraUI Totems",
+    "key": "hydraui-totems",
+    "dir": [
+      "HydraUI_Totems"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 431726,
     "name": "Hydrate",
     "key": "hydrate",
@@ -42123,6 +42163,16 @@
     "key": "i-see-you-too",
     "dir": [
       "ISeeYouToo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 591995,
+    "name": "I Walk Alone",
+    "key": "i-walk-alone",
+    "dir": [
+      "IWalkAlone"
     ],
     "source": "curse",
     "mode": 1
@@ -54064,6 +54114,16 @@
     "mode": 1
   },
   {
+    "id": 591700,
+    "name": "Mini Map Line",
+    "key": "mini-map-line",
+    "dir": [
+      "MiniMapLine"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 4042,
     "name": "Mini-Me",
     "key": "mini-me",
@@ -63756,7 +63816,7 @@
   },
   {
     "id": 574050,
-    "name": "Profession Master",
+    "name": "Profession Master - Guild Professions",
     "key": "profession-master",
     "dir": [
       "ProfessionMaster"
@@ -74677,7 +74737,7 @@
       "SlashIn"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 2940,
@@ -84940,6 +85000,16 @@
     "key": "uawow",
     "dir": [
       "UAWOW"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 591777,
+    "name": "UI Changes",
+    "key": "ui-changes",
+    "dir": [
+      "UIChanges"
     ],
     "source": "curse",
     "mode": 1
