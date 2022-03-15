@@ -2038,7 +2038,7 @@
     "name": "AdiBags - Soulbound",
     "key": "adibags-soulbound",
     "dir": [
-      "AdiBags_Soulbound"
+      "AdiBags-Soulbound"
     ],
     "source": "curse",
     "mode": 1
@@ -3143,13 +3143,13 @@
       "Altoholic_Summary",
       "DataStore_Agenda",
       "DataStore",
+      "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
       "DataStore_Pets",
       "DataStore_Stats",
       "Altoholic_Achievements",
       "Altoholic_Options",
-      "DataStore_Achievements",
       "AddonFactory"
     ],
     "source": "curse",
@@ -7903,8 +7903,8 @@
     "name": "BFAInvasionTimer",
     "key": "bfainvasiontimer",
     "dir": [
-      "BFAInvasionTimer_Options",
-      "BFAInvasionTimer"
+      "BFAInvasionTimer",
+      "BFAInvasionTimer_Options"
     ],
     "source": "curse",
     "mode": 1
@@ -9286,7 +9286,7 @@
       "BastionLoot"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 79863,
@@ -20289,7 +20289,7 @@
     "name": "Covenant Ability Changer",
     "key": "covenant-ability-changer",
     "dir": [
-      "CovenantAbilityChanger"
+      "Covenant-Ability-Changer"
     ],
     "source": "curse",
     "mode": 1
@@ -42015,7 +42015,7 @@
       "HzFontPack1"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 302988,
@@ -47644,8 +47644,8 @@
     "name": "LegionInvasionTimer",
     "key": "legioninvasiontimer",
     "dir": [
-      "LegionInvasionTimer_Options",
-      "LegionInvasionTimer"
+      "LegionInvasionTimer",
+      "LegionInvasionTimer_Options"
     ],
     "source": "curse",
     "mode": 1
@@ -48496,7 +48496,7 @@
       "LibDropDownMenu"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 17280,
@@ -63816,7 +63816,7 @@
   },
   {
     "id": 574050,
-    "name": "Profession Master - Guild Professions",
+    "name": "Profession Master - Guild Trade Skills",
     "key": "profession-master",
     "dir": [
       "ProfessionMaster"
@@ -66877,6 +66877,16 @@
     "mode": 3
   },
   {
+    "id": 591897,
+    "name": "RaidNotesTBC",
+    "key": "raidnotestbc",
+    "dir": [
+      "RaidNotesTBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 457889,
     "name": "RaidPos",
     "key": "raidpos",
@@ -67354,16 +67364,6 @@
     "key": "rank14lossa-classic",
     "dir": [
       "Rank14LosSA-Classic"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
-    "id": 351477,
-    "name": "RankClassic",
-    "key": "rankclassic",
-    "dir": [
-      "RankClassic"
     ],
     "source": "curse",
     "mode": 2
@@ -72364,6 +72364,16 @@
     "key": "sharedmedia_hmg",
     "dir": [
       "SharedMedia_HMG"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 593765,
+    "name": "SharedMedia_Isometric",
+    "key": "sharedmedia_isometric",
+    "dir": [
+      "SharedMedia_Isometric"
     ],
     "source": "curse",
     "mode": 1
@@ -79890,7 +79900,7 @@
       "TargetPercent"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 35532,
@@ -80972,6 +80982,16 @@
     "key": "timberino",
     "dir": [
       "Timberino"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 593787,
+    "name": "Time To Live (TTL)",
+    "key": "time-to-live-ttl",
+    "dir": [
+      "TimeToLive"
     ],
     "source": "curse",
     "mode": 1
@@ -94627,6 +94647,16 @@
     "key": "tooltip-fix",
     "dir": [
       "activate_ubertooltips"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 593758,
+    "name": "transmogMousePreview",
+    "key": "transmogmousepreview",
+    "dir": [
+      "transmogMousePreview"
     ],
     "source": "curse",
     "mode": 1
