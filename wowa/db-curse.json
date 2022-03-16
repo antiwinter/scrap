@@ -8318,7 +8318,7 @@
       "BadBoy_History"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 103223,
@@ -8338,7 +8338,7 @@
       "BadBoy_Levels"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 16663,
@@ -9254,7 +9254,7 @@
       "BasicComboPoints"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13506,
@@ -29969,7 +29969,7 @@
       "FFLU"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 477065,
@@ -34765,6 +34765,16 @@
     "mode": 1
   },
   {
+    "id": 583247,
+    "name": "Gladius Undoggo Plugin",
+    "key": "gladius-undoggo-plugin",
+    "dir": [
+      "Gladius-Undoggo.patch"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 45973,
     "name": "GladiusEx",
     "key": "gladiusex",
@@ -37881,16 +37891,6 @@
     "mode": 3
   },
   {
-    "id": 381775,
-    "name": "GuildTradeskills",
-    "key": "guild-tradeskills",
-    "dir": [
-      "GuildTradeskills"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 5537,
     "name": "GuildWho",
     "key": "guild-who",
@@ -40661,6 +40661,16 @@
     "key": "hide-quick-join",
     "dir": [
       "HideQuickJoin"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594040,
+    "name": "Hide Realm Names",
+    "key": "hide-realm-names",
+    "dir": [
+      "HideRealmNames"
     ],
     "source": "curse",
     "mode": 1
@@ -51496,6 +51506,16 @@
     "mode": 3
   },
   {
+    "id": 594127,
+    "name": "MSLU - Maplestory Level Up!",
+    "key": "mslu",
+    "dir": [
+      "MSLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 312056,
     "name": "MTools",
     "key": "mtools",
@@ -51547,6 +51567,26 @@
     "key": "mvannouncer",
     "dir": [
       "MVAnnouncer"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594126,
+    "name": "MW2LU - Modern Warfare 2 Level Up!",
+    "key": "mw2lu",
+    "dir": [
+      "MW2LU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594121,
+    "name": "MWLU - Morrowind Level Up!",
+    "key": "mwlu",
+    "dir": [
+      "MWLU"
     ],
     "source": "curse",
     "mode": 1
@@ -62351,7 +62391,7 @@
   {
     "id": 399043,
     "name": "PkmnLU - Pokemon Level Up!",
-    "key": "pokemon-level-up",
+    "key": "pkmnlu",
     "dir": [
       "PkmnLU"
     ],
@@ -70303,6 +70343,16 @@
     "key": "srae-wow",
     "dir": [
       "SRAE-WOW"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594118,
+    "name": "SRLU - Skyrim Level Up!",
+    "key": "srlu",
+    "dir": [
+      "SRLU"
     ],
     "source": "curse",
     "mode": 1
