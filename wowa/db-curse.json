@@ -3143,13 +3143,13 @@
       "Altoholic_Summary",
       "DataStore_Agenda",
       "DataStore",
+      "Altoholic_Options",
       "DataStore_Achievements",
       "DataStore_Currencies",
       "DataStore_Garrisons",
       "DataStore_Pets",
       "DataStore_Stats",
       "Altoholic_Achievements",
-      "Altoholic_Options",
       "AddonFactory"
     ],
     "source": "curse",
@@ -10656,6 +10656,8 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
+      "BigWigs_SanctumOfDomination",
+      "BigWigs_SepulcherOfTheFirstOnes",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10669,9 +10671,7 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple",
-      "BigWigs_SanctumOfDomination",
-      "BigWigs_SepulcherOfTheFirstOnes"
+      "BigWigs_BlackTemple"
     ],
     "source": "curse",
     "mode": 3
@@ -16928,6 +16928,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 594022,
+    "name": "Choga.IO Raid Score",
+    "key": "choga-io-raid-score",
+    "dir": [
+      "ChogaIO"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 57218,
@@ -24533,10 +24543,9 @@
   },
   {
     "id": 100658,
-    "name": "DiabolicUI 2.0 Alpha",
+    "name": "DiabolicUI 2.0 (Beta)",
     "key": "diabolicui",
     "dir": [
-      "DiabolicUI",
       "DiabolicUI2"
     ],
     "source": "curse",
@@ -44453,6 +44462,16 @@
     "mode": 1
   },
   {
+    "id": 594244,
+    "name": "JackJack",
+    "key": "jackjack",
+    "dir": [
+      "JackJack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 34511,
     "name": "Jaedia's Menagerie",
     "key": "jaedias-menagerie",
@@ -51366,6 +51385,16 @@
     "mode": 3
   },
   {
+    "id": 594151,
+    "name": "MCLU - Minecraft Level Up!",
+    "key": "mclu-minecraft-level-up",
+    "dir": [
+      "MCLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 324379,
     "name": "MDGuildBest",
     "key": "mdguildbest",
@@ -51680,7 +51709,7 @@
       "MacroManagerBackup"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 47117,
@@ -70217,6 +70246,16 @@
     "mode": 1
   },
   {
+    "id": 594158,
+    "name": "SHHLU - Sonic The Hedgehog Level Up!",
+    "key": "shhlu-sonic-the-hedgehog-level-up",
+    "dir": [
+      "SHHLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 318982,
     "name": "SIR - Snaginanesh Interrupt Rotation",
     "key": "sir-snaginanesh-interrupt-rotation",
@@ -70252,6 +70291,16 @@
     "key": "slvault",
     "dir": [
       "SLVault"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594143,
+    "name": "SMB3LU - Super Mario Bros. 3 Level Up!",
+    "key": "smb3lu-super-mario-bros-3-level-up",
+    "dir": [
+      "SMB3LU"
     ],
     "source": "curse",
     "mode": 1
@@ -72889,6 +72938,16 @@
     "key": "show-item-level",
     "dir": [
       "Sil"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594350,
+    "name": "Show Me",
+    "key": "show-me",
+    "dir": [
+      "ShowMe"
     ],
     "source": "curse",
     "mode": 1
@@ -86863,6 +86922,16 @@
     "mode": 1
   },
   {
+    "id": 594337,
+    "name": "WarCult",
+    "key": "warcult",
+    "dir": [
+      "WarCult"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 283406,
     "name": "WarGameHelper",
     "key": "wargamehelper",
@@ -90544,7 +90613,7 @@
       "ZeraTooltip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 576926,
