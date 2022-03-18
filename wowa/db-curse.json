@@ -8298,7 +8298,7 @@
       "BadBoy_CCleaner"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 24324,
@@ -8308,7 +8308,7 @@
       "BadBoy_Guilded"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 28451,
@@ -10656,8 +10656,6 @@
       "BigWigs_CastleNathria",
       "BigWigs_Shadowlands",
       "BigWigs",
-      "BigWigs_SanctumOfDomination",
-      "BigWigs_SepulcherOfTheFirstOnes",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10671,7 +10669,9 @@
       "BigWigs_Serpentshrine",
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
-      "BigWigs_BlackTemple"
+      "BigWigs_BlackTemple",
+      "BigWigs_SanctumOfDomination",
+      "BigWigs_SepulcherOfTheFirstOnes"
     ],
     "source": "curse",
     "mode": 3
@@ -29991,6 +29991,16 @@
     "mode": 3
   },
   {
+    "id": 594129,
+    "name": "FNLU - Fortnite Level Up!",
+    "key": "fnlu",
+    "dir": [
+      "FNLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101521,
     "name": "FPLift",
     "key": "fplift",
@@ -32053,6 +32063,16 @@
     "key": "fontain",
     "dir": [
       "fontain"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594610,
+    "name": "For Azeroth",
+    "key": "for-azeroth",
+    "dir": [
+      "ForAzeroth"
     ],
     "source": "curse",
     "mode": 1
@@ -50068,6 +50088,16 @@
     "mode": 3
   },
   {
+    "id": 594580,
+    "name": "LoLLU - League of Legends Level Up!",
+    "key": "lollu-league-of-legends-level-up",
+    "dir": [
+      "LoLLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 305538,
     "name": "LoadingScreenTips",
     "key": "loadingscreentips",
@@ -53327,7 +53357,7 @@
     "name": "Max Stack Size",
     "key": "stack-size",
     "dir": [
-      "StackSize"
+      "Max_Stack_Size"
     ],
     "source": "curse",
     "mode": 1
@@ -59182,6 +59212,16 @@
     "mode": 3
   },
   {
+    "id": 594575,
+    "name": "OSRSLU - Old School Runescape Level Up!",
+    "key": "osrslu-old-school-runescape-level-up",
+    "dir": [
+      "OSRSLU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 574895,
     "name": "OTB Loot",
     "key": "otb-loot",
@@ -62914,6 +62954,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 594588,
+    "name": "PoELU - Path of Exile Level Up!",
+    "key": "poelu-path-of-exile-level-up",
+    "dir": [
+      "PoELU"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 325146,
@@ -74732,6 +74782,17 @@
     "key": "skyline-sod-raid-mods",
     "dir": [
       "SoDRaidMods"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594355,
+    "name": "Skyline Sof Raid Mods",
+    "key": "skyline-sof-raid-mods",
+    "dir": [
+      "SoFSoundPackCN",
+      "SoFRaidMods"
     ],
     "source": "curse",
     "mode": 1
@@ -86641,6 +86702,16 @@
     "mode": 1
   },
   {
+    "id": 594585,
+    "name": "WC3LU - Warcraft 3 Level Up!",
+    "key": "wc3lu-warcraft-3-level-up",
+    "dir": [
+      "WC3LU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 326357,
     "name": "WCCC Clubbing Companion",
     "key": "wcccaddon",
@@ -95546,6 +95617,16 @@
     "key": "zz_itemsdb",
     "dir": [
       "zz_itemsdb"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594612,
+    "name": "¡Por Azeroth!",
+    "key": "por-azeroth",
+    "dir": [
+      "ForAzeroth"
     ],
     "source": "curse",
     "mode": 1
