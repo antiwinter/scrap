@@ -44999,6 +44999,16 @@
     "mode": 2
   },
   {
+    "id": 594592,
+    "name": "KH3LU - Kingdom Hearts 3 Level Up!",
+    "key": "kh3lu-kingdom-hearts-3-level-up",
+    "dir": [
+      "KH3LU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 422037,
     "name": "KHMRaidFrames",
     "key": "khmraidframes",
