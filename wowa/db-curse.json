@@ -9243,7 +9243,7 @@
       "BasicChatMods"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 13505,
@@ -21402,6 +21402,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 594584,
+    "name": "DBM Voicepack - AnnieSeal 語音包 (ZH/中文)",
+    "key": "dbm-voicepack-annieseal-zh",
+    "dir": [
+      "DBM-VPAnnieSeal"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 293978,
@@ -64134,6 +64144,16 @@
     "mode": 1
   },
   {
+    "id": 596546,
+    "name": "Protoform Synthesis Field Journal",
+    "key": "protoform-synthesis-field-journal",
+    "dir": [
+      "ProtoformSynthesisFieldJournal"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 566692,
     "name": "ProxyTalksie",
     "key": "proxytalksie",
@@ -66720,8 +66740,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionHeroics",
-      "RaidAchievement_LegionRaids"
+      "RaidAchievement_LegionRaids",
+      "RaidAchievement_LegionHeroics"
     ],
     "source": "curse",
     "mode": 1
@@ -72623,6 +72643,16 @@
     "key": "sharedmedia_wiyix",
     "dir": [
       "SharedMedia_Wiyix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594812,
+    "name": "SharedMedia_Xros",
+    "key": "sharedmedia_xros",
+    "dir": [
+      "SharedMedia_Xros"
     ],
     "source": "curse",
     "mode": 1
@@ -93223,6 +93253,16 @@
     "key": "kepgp",
     "dir": [
       "kEPGP"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 594681,
+    "name": "kExtraBossFrames",
+    "key": "kextrabossframes",
+    "dir": [
+      "!kExtraBossFrames"
     ],
     "source": "curse",
     "mode": 1
