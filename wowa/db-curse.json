@@ -9265,7 +9265,7 @@
       "BasicMinimap"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 285355,
@@ -64139,6 +64139,16 @@
     "key": "prospect-ore",
     "dir": [
       "ProspectORE"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 596810,
+    "name": "Protoform Synthesis",
+    "key": "protoform-synthesis",
+    "dir": [
+      "ProtoformSynthesis"
     ],
     "source": "curse",
     "mode": 1
