@@ -411,6 +411,16 @@
     "mode": 1
   },
   {
+    "id": 597237,
+    "name": "AAV - atrox Arena Viewer (TBC Classic)",
+    "key": "aav-atrox-arena-viewer-tbc-classic",
+    "dir": [
+      "aav"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 361413,
     "name": "ABGP",
     "key": "abgp",
@@ -1040,7 +1050,7 @@
       "Accountant_Classic"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 334628,
@@ -5174,7 +5184,7 @@
       "Atlas"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 24965,
@@ -5214,7 +5224,7 @@
       "Atlas_BurningCrusade"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 44905,
@@ -5244,7 +5254,7 @@
       "Atlas_ClassicWoW"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 32830,
@@ -5254,7 +5264,7 @@
       "Atlas_DungeonLocs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 100963,
@@ -5304,7 +5314,7 @@
       "Atlas_Transportation"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 93258,
@@ -7907,7 +7917,7 @@
       "BFAInvasionTimer_Options"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 348354,
@@ -8288,7 +8298,7 @@
       "BadBoy"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19305,
@@ -8298,7 +8308,7 @@
       "BadBoy_CCleaner"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 24324,
@@ -8308,7 +8318,7 @@
       "BadBoy_Guilded"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 28451,
@@ -8318,7 +8328,7 @@
       "BadBoy_History"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 103223,
@@ -8328,7 +8338,7 @@
       "BadBoy_Ignore"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 18879,
@@ -8338,7 +8348,7 @@
       "BadBoy_Levels"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 16663,
@@ -9203,7 +9213,7 @@
       "BasicCalculator"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 29152,
@@ -9223,7 +9233,7 @@
       "BasicBuffHide"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 13503,
@@ -9233,7 +9243,7 @@
       "BasicBuffs"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 13504,
@@ -9243,7 +9253,7 @@
       "BasicChatMods"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 13505,
@@ -9254,7 +9264,7 @@
       "BasicComboPoints"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 13506,
@@ -9265,7 +9275,7 @@
       "BasicMinimap"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 285355,
@@ -10424,11 +10434,11 @@
   },
   {
     "id": 536009,
-    "name": "BiS Best In Slot Items Tooltip TBC Phase 3",
-    "key": "bis-best-in-slot-items-tooltip-tbc-phase-2",
+    "name": "BiS Best In Slot Tooltips TBC Phase 4 + Atlasloot Plugin",
+    "key": "bis-best-in-slot-items-tooltip-tbc-phase-4",
     "dir": [
-      "FatExoLink_BIS",
-      "FatExoLink"
+      "AtlasLootClassic_BiS",
+      "FatExoLink_BIS"
     ],
     "source": "curse",
     "mode": 1
@@ -10670,9 +10680,9 @@
       "BigWigs_TempestKeep",
       "BigWigs_Hyjal",
       "BigWigs_BlackTemple",
+      "BigWigs_ZulAman",
       "BigWigs_SanctumOfDomination",
-      "BigWigs_SepulcherOfTheFirstOnes",
-      "BigWigs_ZulAman"
+      "BigWigs_SepulcherOfTheFirstOnes"
     ],
     "source": "curse",
     "mode": 3
@@ -14211,7 +14221,7 @@
       "!BugGrabber"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 6273,
@@ -14221,7 +14231,7 @@
       "BugSack"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 85473,
@@ -15889,7 +15899,7 @@
       "D4KiR Centered"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 436848,
@@ -16423,7 +16433,7 @@
       "ChatAlphaZero"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 434156,
@@ -20033,7 +20043,7 @@
       "CoordsTracking"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 298607,
@@ -22153,7 +22163,7 @@
       "D4KiR DRF"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 404965,
@@ -22215,7 +22225,7 @@
       "D4KiR DUnitFrames"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 45982,
@@ -27710,7 +27720,7 @@
       "ElvUI_EltreumUI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101590,
@@ -27995,7 +28005,7 @@
       "ElvUI_PVPDT"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 308104,
@@ -29232,7 +29242,7 @@
       "ErrorMonster"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 338479,
@@ -29816,7 +29826,7 @@
       "D4KiR Extended Variables"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 43776,
@@ -31175,7 +31185,7 @@
       "Fishbringer"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 15093,
@@ -36904,7 +36914,7 @@
       "GryphonsRemover"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 254103,
@@ -39735,7 +39745,7 @@
       "D4KiR Healer Protection"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 298088,
@@ -41945,7 +41955,7 @@
       "HydraUI_InviteLinks"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 514624,
@@ -41965,7 +41975,7 @@
       "HydraUI_Memory"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 408768,
@@ -41985,7 +41995,7 @@
       "HydraUI_MovementSpeed"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 592021,
@@ -46985,7 +46995,7 @@
       "D4KiR LOC Messages"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 75173,
@@ -47718,7 +47728,7 @@
       "LegionInvasionTimer_Options"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 101091,
@@ -48248,7 +48258,7 @@
       "LibBabble-SubZone-3.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14268,
@@ -48328,7 +48338,7 @@
       "LibCandyBar-3.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 393645,
@@ -49617,7 +49627,7 @@
       "!LibUIDropDownMenu"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 98543,
@@ -50106,7 +50116,7 @@
       "LoCA"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 594580,
@@ -54054,7 +54064,7 @@
       "MicroDeclineDuel"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 53360,
@@ -54758,7 +54768,7 @@
       "D4KiR Missing Power"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 358106,
@@ -56094,7 +56104,7 @@
       "D4KiR MoveAndImprove"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 342928,
@@ -56224,7 +56234,7 @@
       "MovementSpeed"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 2268,
@@ -56681,7 +56691,7 @@
       "MuteSoundFile"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 358535,
@@ -56738,9 +56748,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic_TBC",
       "MyBuddies_Classic",
-      "MyBuddies"
+      "MyBuddies",
+      "MyBuddies_Classic_TBC"
     ],
     "source": "curse",
     "mode": 3
@@ -60524,7 +60534,7 @@
       "PallyPower"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 16271,
@@ -62012,9 +62022,9 @@
     "name": "PhoenixStyle - Cataclysm mod",
     "key": "phoenixstyle-cataclysm-mod",
     "dir": [
-      "PhoenixStyleMod_Firelands",
       "PhoenixStyleMod_CataMiniRaids",
       "PhoenixStyleMod_DragonSoul",
+      "PhoenixStyleMod_Firelands",
       "PhoenixStyle_Loader_Cata"
     ],
     "source": "curse",
@@ -62025,9 +62035,9 @@
     "name": "PhoenixStyle - Pandaria mod",
     "key": "phoenixstyle-pandaria-mod",
     "dir": [
-      "PhoenixStyleMod_Panda_tier3",
       "PhoenixStyleMod_Panda_tier1",
-      "PhoenixStyleMod_Panda_tier2"
+      "PhoenixStyleMod_Panda_tier2",
+      "PhoenixStyleMod_Panda_tier3"
     ],
     "source": "curse",
     "mode": 1
@@ -63962,7 +63972,7 @@
       "ProfessionMaster"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 353313,
@@ -66751,8 +66761,8 @@
       "RaidAchievement_PandaScenarios",
       "RaidAchievement_AchieveReminder",
       "RaidAchievement",
-      "RaidAchievement_LegionRaids",
-      "RaidAchievement_LegionHeroics"
+      "RaidAchievement_LegionHeroics",
+      "RaidAchievement_LegionRaids"
     ],
     "source": "curse",
     "mode": 1
@@ -66772,12 +66782,12 @@
     "name": "RaidAchievement_OldModules",
     "key": "raidachievement_oldmodules",
     "dir": [
-      "RaidAchievement_WotlkHeroics",
       "RaidAchievement_CataHeroics",
       "RaidAchievement_CataRaids",
       "RaidAchievement_Icecrown",
       "RaidAchievement_Naxxramas",
       "RaidAchievement_Ulduar",
+      "RaidAchievement_WotlkHeroics",
       "RaidAchievement_OldModules"
     ],
     "source": "curse",
@@ -66788,9 +66798,9 @@
     "name": "RaidAchievement_Pandaria",
     "key": "raidachievement_pandaria",
     "dir": [
-      "RaidAchievement_PandaScenarios",
       "RaidAchievement_PandaHeroics",
-      "RaidAchievement_PandaRaids"
+      "RaidAchievement_PandaRaids",
+      "RaidAchievement_PandaScenarios"
     ],
     "source": "curse",
     "mode": 1
@@ -66800,8 +66810,8 @@
     "name": "RaidAchievement_WoD",
     "key": "raidachievement_wod",
     "dir": [
-      "RaidAchievement_WoDRaids",
-      "RaidAchievement_WoDHeroics"
+      "RaidAchievement_WoDHeroics",
+      "RaidAchievement_WoDRaids"
     ],
     "source": "curse",
     "mode": 1
@@ -67867,7 +67877,7 @@
       "D4KiR RatePlayer"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 494844,
@@ -68679,7 +68689,7 @@
       "RemainingXP"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 66047,
@@ -72596,7 +72606,7 @@
       "SharedMedia_Noto"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 496539,
@@ -74968,7 +74978,7 @@
       "SlashIn"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 2940,
@@ -77976,7 +77986,7 @@
       "D4KiR StreamerMode"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 462068,
@@ -79853,7 +79863,7 @@
       "D4KiR Tank Helper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 356625,
@@ -80121,7 +80131,7 @@
       "TargetPercent"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 35532,
@@ -84585,7 +84595,7 @@
       "Transcriptor"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 21683,
@@ -85003,7 +85013,7 @@
       "Tukui_AmmoDT"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 47902,
@@ -85023,7 +85033,7 @@
       "Tukui_PVP"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 344402,
@@ -89178,7 +89188,7 @@
       "WorldMapTrackingEnhanced"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 269032,
@@ -94336,6 +94346,16 @@
     "key": "pluslist",
     "dir": [
       "pluslist"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 597296,
+    "name": "purified_Loot_Priority",
+    "key": "purified_loot_priority",
+    "dir": [
+      "purified_Loot_Priority"
     ],
     "source": "curse",
     "mode": 1
