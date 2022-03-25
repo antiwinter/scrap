@@ -14059,7 +14059,7 @@
       "BuffOwner"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 352620,
@@ -16571,7 +16571,7 @@
       "ChatLinkIcons"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 28353,
@@ -22248,6 +22248,16 @@
     "mode": 1
   },
   {
+    "id": 597577,
+    "name": "DaVinci",
+    "key": "davinci",
+    "dir": [
+      "DaVinci"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 304317,
     "name": "DaVis",
     "key": "davis",
@@ -23144,11 +23154,6 @@
       "DBM-Naxx",
       "DBM-ZG",
       "DBM-VPVEM",
-      "DBM-Shadowlands",
-      "DBM-Party-Shadowlands",
-      "DBM-CastleNathria",
-      "DBM-SanctumOfDomination",
-      "DBM-Sepulcher",
       "DBM-Outlands",
       "DBM-Party-BC",
       "DBM-BlackTemple",
@@ -23157,7 +23162,12 @@
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-ZulAman",
+      "DBM-Shadowlands",
+      "DBM-Party-Shadowlands",
+      "DBM-CastleNathria",
+      "DBM-SanctumOfDomination",
+      "DBM-Sepulcher"
     ],
     "source": "curse",
     "mode": 3
@@ -24257,7 +24267,7 @@
       "DetailedDurability"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 309125,
@@ -48369,7 +48379,7 @@
       "LibChatAnims"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 323800,
@@ -48469,7 +48479,7 @@
       "LibDBIcon-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 27889,
@@ -48479,7 +48489,7 @@
       "LibDDI-1.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 19385,
@@ -59086,7 +59096,7 @@
       "NugPlateAuras"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 27470,
@@ -60534,7 +60544,7 @@
       "PallyPower"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 16271,
@@ -75230,7 +75240,7 @@
       "SmartBuff"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 3623,
@@ -81507,7 +81517,7 @@
       "TinyTooltip"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 349049,
@@ -91321,7 +91331,7 @@
       "TrainAll"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 455490,
@@ -94408,7 +94418,7 @@
       "rBottomBarStyler"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 101171,
