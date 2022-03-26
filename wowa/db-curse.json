@@ -14665,16 +14665,6 @@
     "mode": 3
   },
   {
-    "id": 447462,
-    "name": "CEPGP Change of Mind",
-    "key": "cepgp-change-of-mind",
-    "dir": [
-      "CEPGP_ChangeOfMind"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 406330,
     "name": "CEPGP Distribution From Bags",
     "key": "cepgp-distribution-from-bags",
@@ -14713,16 +14703,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 392588,
-    "name": "CEPGP Tooltip Override",
-    "key": "cepgp-tooltip-override",
-    "dir": [
-      "CEPGP_TooltipOverride"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 389618,
@@ -32116,7 +32096,7 @@
       "ForTheAlliance"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 281267,
@@ -48489,7 +48469,7 @@
       "LibDDI-1.0"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 19385,
@@ -48616,7 +48596,7 @@
       "LibDurability"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 38389,
@@ -49005,7 +48985,7 @@
       "LibLatency"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 16759,
@@ -49447,7 +49427,7 @@
       "LibSink-2.0"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 53871,
@@ -54495,7 +54475,7 @@
       "Minimap_Alert"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 5292,
@@ -56558,19 +56538,7 @@
       "Musician"
     ],
     "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 384431,
-    "name": "Musician Instruments v1",
-    "key": "musician-instruments-v1",
-    "dir": [
-      "Musician_Instrument_V1_Dulcimer",
-      "Musician_Instrument_V1_FemaleVoice",
-      "Musician_Instrument_V1_Harp"
-    ],
-    "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 306254,
@@ -56588,16 +56556,6 @@
     "key": "musicianmidi",
     "dir": [
       "MusicianMIDI"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 385517,
-    "name": "Musician Piano",
-    "key": "musician-piano",
-    "dir": [
-      "Musician_Instrument_Piano"
     ],
     "source": "curse",
     "mode": 1
@@ -63195,7 +63153,7 @@
       "ForTheAlliance"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 551522,
@@ -74795,7 +74753,7 @@
       "Skinner"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 529664,
@@ -78151,7 +78109,7 @@
       "SummonStoneHelper"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 361649,
@@ -91083,6 +91041,28 @@
     "key": "dbm-pack-de-voix-adrali",
     "dir": [
       "DBM-VPAdraPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 384431,
+    "name": "[Deprecated] Musician Instruments v1",
+    "key": "musician-instruments-v1",
+    "dir": [
+      "Musician_Instrument_V1_Dulcimer",
+      "Musician_Instrument_V1_FemaleVoice",
+      "Musician_Instrument_V1_Harp"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 385517,
+    "name": "[Deprecated] Musician Piano",
+    "key": "musician-piano",
+    "dir": [
+      "Musician_Instrument_Piano"
     ],
     "source": "curse",
     "mode": 1
