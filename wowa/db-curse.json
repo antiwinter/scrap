@@ -12588,7 +12588,7 @@
       "Brohoof"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 86812,
@@ -25964,7 +25964,7 @@
       "DuelResponse"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 34311,
@@ -32346,7 +32346,7 @@
       "FreeBagSpaces"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 415572,
@@ -36649,7 +36649,7 @@
       "Grounded"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 351800,
@@ -37586,7 +37586,7 @@
       "GuildTooltip"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 43785,
@@ -45347,7 +45347,7 @@
       "KazotskyKick"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 318132,
@@ -51413,7 +51413,7 @@
       "Mama"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 14354,
@@ -56811,7 +56811,7 @@
       "MyVeryOwnDoomguy"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 312482,
@@ -57343,7 +57343,7 @@
       "NotForGnomes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 102514,
@@ -61803,6 +61803,16 @@
     "mode": 2
   },
   {
+    "id": 527111,
+    "name": "PetXPTBC",
+    "key": "petxptbc",
+    "dir": [
+      "PetXPTBC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 583466,
     "name": "PetXPTracker",
     "key": "petxptracker",
@@ -65624,7 +65634,7 @@
       "QuickLeave"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 101610,
@@ -67966,7 +67976,7 @@
       "RawrClassic"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 51506,
@@ -78807,7 +78817,7 @@
       "SvensBamAddon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 476537,
@@ -80936,7 +80946,7 @@
       "ThreatWatch"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 344559,
@@ -85231,7 +85241,7 @@
       "UIChanges"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 347747,
@@ -89829,7 +89839,7 @@
       "XPBarText"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 316724,
