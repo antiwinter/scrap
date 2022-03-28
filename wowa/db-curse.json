@@ -1559,7 +1559,7 @@
       "Adapt"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 93152,
@@ -4310,6 +4310,16 @@
     "mode": 1
   },
   {
+    "id": 598031,
+    "name": "ArenaCountDown",
+    "key": "arenacountdown",
+    "dir": [
+      "ArenaCountDown"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 49965,
     "name": "ArenaLeaveConfirmer",
     "key": "arenaleaveconfirmer",
@@ -6082,8 +6092,8 @@
   },
   {
     "id": 350454,
-    "name": "Auto Open Item",
-    "key": "auto-open-item",
+    "name": "Auto Open Items",
+    "key": "auto-open-items",
     "dir": [
       "AutoOpenItemsSettings",
       "AutoOpenItems"
@@ -11698,6 +11708,16 @@
     "key": "blizzardraidframesfix",
     "dir": [
       "!BlizzardRaidFramesFix"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 597804,
+    "name": "BlizzardFix",
+    "key": "blizzardfix",
+    "dir": [
+      "!BlizzardFix"
     ],
     "source": "curse",
     "mode": 1
@@ -21260,16 +21280,6 @@
     "key": "dbm-countdown-pack-mario-kart",
     "dir": [
       "DBM-Countdown-Pack-Mario-Kart"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 427569,
-    "name": "DBM Insatiable Sounds",
-    "key": "dbm-insatiable-sounds",
-    "dir": [
-      "DBM-InsatiableSounds"
     ],
     "source": "curse",
     "mode": 1
@@ -33070,7 +33080,7 @@
       "GKickCommand"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 339683,
@@ -83716,6 +83726,16 @@
     "key": "totemfilter",
     "dir": [
       "TotemFilter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 599242,
+    "name": "TotemPlates",
+    "key": "totemplates",
+    "dir": [
+      "TotemPlates"
     ],
     "source": "curse",
     "mode": 1
