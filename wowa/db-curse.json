@@ -1519,7 +1519,7 @@
       "ElvUI_ActionBarMasks"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 300273,
@@ -6095,7 +6095,6 @@
     "name": "Auto Open Items",
     "key": "auto-open-items",
     "dir": [
-      "AutoOpenItemsSettings",
       "AutoOpenItems"
     ],
     "source": "curse",
@@ -24865,7 +24864,7 @@
       "DiscoHealer"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 283467,
@@ -29999,7 +29998,7 @@
       "FFLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 477065,
@@ -30019,7 +30018,7 @@
       "FNLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 101521,
@@ -45027,7 +45026,7 @@
       "KH3LU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 422037,
@@ -50126,7 +50125,7 @@
       "LoLLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 305538,
@@ -51453,7 +51452,7 @@
       "MCLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 324379,
@@ -51603,7 +51602,7 @@
       "MSLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 312056,
@@ -51669,7 +51668,7 @@
       "MW2LU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 594121,
@@ -51679,7 +51678,7 @@
       "MWLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 101896,
@@ -59228,7 +59227,7 @@
       "OSRSLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 574895,
@@ -62484,7 +62483,7 @@
       "PkmnLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 306769,
@@ -62982,7 +62981,7 @@
       "PoELU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 325146,
@@ -65383,16 +65382,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 543040,
-    "name": "Questie ShutUp!",
-    "key": "questie-shutup",
-    "dir": [
-      "Questie_ShutUp"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 101633,
@@ -70342,7 +70331,7 @@
       "SHHLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 318982,
@@ -70392,7 +70381,7 @@
       "SMB3LU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 16776,
@@ -70493,7 +70482,7 @@
       "SRLU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 451254,
@@ -72093,7 +72082,7 @@
       "SexyMap"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 455307,
@@ -84593,7 +84582,7 @@
       "Transcriptor"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 21683,
@@ -86098,7 +86087,7 @@
       "VendorPrice"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 341032,
@@ -86768,7 +86757,7 @@
       "WC3LU"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 326357,
