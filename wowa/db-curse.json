@@ -9242,7 +9242,7 @@
       "BasicBuffHide"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 13503,
@@ -10669,12 +10669,10 @@
     "name": "BigWigs Bossmods",
     "key": "big-wigs",
     "dir": [
+      "BigWigs",
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_CastleNathria",
-      "BigWigs_Shadowlands",
-      "BigWigs",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10690,8 +10688,10 @@
       "BigWigs_Hyjal",
       "BigWigs_BlackTemple",
       "BigWigs_ZulAman",
+      "BigWigs_CastleNathria",
       "BigWigs_SanctumOfDomination",
-      "BigWigs_SepulcherOfTheFirstOnes"
+      "BigWigs_SepulcherOfTheFirstOnes",
+      "BigWigs_Shadowlands"
     ],
     "source": "curse",
     "mode": 3
@@ -21302,6 +21302,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 427569,
+    "name": "DBM The Licious Few Sounds",
+    "key": "dbm-theliciousfew-sounds",
+    "dir": [
+      "DBM-TheLiciousFewSounds"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 306880,
@@ -65381,7 +65391,7 @@
       "Questie"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 101633,
