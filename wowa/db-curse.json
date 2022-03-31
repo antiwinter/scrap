@@ -3899,6 +3899,16 @@
     "mode": 3
   },
   {
+    "id": 602105,
+    "name": "AquaEterna",
+    "key": "aquaeterna",
+    "dir": [
+      "AquaEterna"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 387453,
     "name": "Ara Broker Reputations",
     "key": "ara-broker-reputations",
@@ -8307,7 +8317,7 @@
       "BadBoy"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 19305,
@@ -10669,7 +10679,6 @@
     "name": "BigWigs Bossmods",
     "key": "big-wigs",
     "dir": [
-      "BigWigs",
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
@@ -10681,6 +10690,7 @@
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
       "BigWigs_Naxxramas",
+      "BigWigs",
       "BigWigs_Outland",
       "BigWigs_Karazhan",
       "BigWigs_Serpentshrine",
@@ -14250,7 +14260,7 @@
       "BugSack"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 85473,
@@ -23143,30 +23153,30 @@
       "DBM-Azeroth-BfA",
       "DBM-StatusBarTimers",
       "DBM-DefaultSkin",
-      "DBM-Azeroth",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-VPVEM",
-      "DBM-Outlands",
-      "DBM-Party-BC",
-      "DBM-BlackTemple",
-      "DBM-Hyjal",
-      "DBM-Karazhan",
-      "DBM-Serpentshrine",
-      "DBM-Sunwell",
-      "DBM-TheEye",
-      "DBM-ZulAman",
       "DBM-Shadowlands",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Sepulcher"
+      "DBM-Sepulcher",
+      "DBM-VPVEM",
+      "DBM-Outlands",
+      "DBM-Party-Classic",
+      "DBM-Party-BC",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BlackTemple",
+      "DBM-BWL",
+      "DBM-Hyjal",
+      "DBM-Karazhan",
+      "DBM-MC",
+      "DBM-Naxx",
+      "DBM-Onyxia",
+      "DBM-Serpentshrine",
+      "DBM-Sunwell",
+      "DBM-TheEye",
+      "DBM-ZG",
+      "DBM-ZulAman"
     ],
     "source": "curse",
     "mode": 3
@@ -75602,6 +75612,16 @@
     "mode": 1
   },
   {
+    "id": 602297,
+    "name": "SoFSoundPackYuni",
+    "key": "sofsoundpackyuni",
+    "dir": [
+      "SoFSoundPackYuni"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 26811,
     "name": "Socialite (Titan Social)",
     "key": "titanpanel-social",
@@ -78826,7 +78846,7 @@
       "SvensBamAddon"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 476537,
@@ -91010,6 +91030,16 @@
     "key": "zotwee-garrison",
     "dir": [
       "Zotwee_Garrison"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 602130,
+    "name": "Zul Reset Calculator",
+    "key": "zul-reset-calculator",
+    "dir": [
+      "zul-reset-calculator"
     ],
     "source": "curse",
     "mode": 1
