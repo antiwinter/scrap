@@ -1104,7 +1104,7 @@
   },
   {
     "id": 536115,
-    "name": "AceBIS",
+    "name": "AceBIS Best In Slot(BiS) Ranks on Tooltips for TBC",
     "key": "acebis-bis-best-in-slot",
     "dir": [
       "AceBIS"
@@ -6330,16 +6330,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 421668,
-    "name": "AutoAura",
-    "key": "autoaura",
-    "dir": [
-      "AutoAura"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 5121,
@@ -23141,23 +23131,17 @@
     "name": "Deadly Boss Mods (DBM)",
     "key": "deadly-boss-mods",
     "dir": [
-      "DBM-Party-BfA",
-      "DBM-WorldEvents",
-      "DBM-Uldir",
-      "DBM-DMF",
-      "DBM-GUI",
-      "DBM-Brawlers",
-      "DBM-ZuldazarRaid",
-      "DBM-Core",
-      "DBM-CrucibleofStorms",
-      "DBM-Azeroth-BfA",
-      "DBM-StatusBarTimers",
-      "DBM-DefaultSkin",
       "DBM-Shadowlands",
+      "DBM-Brawlers",
+      "DBM-DMF",
+      "DBM-WorldEvents",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
       "DBM-Sepulcher",
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-StatusBarTimers",
       "DBM-VPVEM",
       "DBM-Outlands",
       "DBM-Party-Classic",
@@ -23206,21 +23190,17 @@
     "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail)",
     "key": "dbm-bc",
     "dir": [
-      "DBM-Karazhan",
-      "DBM-Hyjal",
       "DBM-Outlands",
+      "DBM-AQ20",
       "DBM-AQ40",
-      "DBM-Party-BC",
+      "DBM-BWL",
+      "DBM-BlackTemple",
+      "DBM-Hyjal",
+      "DBM-Karazhan",
       "DBM-MC",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
-      "DBM-BWL",
-      "DBM-ZG",
-      "DBM-ZulAman",
-      "DBM-BlackTemple",
-      "DBM-AQ20",
-      "DBM-TheEye",
-      "DBM-BurningCrusade"
+      "DBM-TheEye"
     ],
     "source": "curse",
     "mode": 1
@@ -23401,15 +23381,14 @@
     "name": "Deadly Boss Mods (DBM) - Wrath of the Lich King mods",
     "key": "deadly-boss-mods-wotlk",
     "dir": [
+      "DBM-Icecrown",
+      "DBM-ChamberOfAspects",
+      "DBM-Coliseum",
+      "DBM-EyeOfEternity",
+      "DBM-Naxx",
       "DBM-Onyxia",
       "DBM-Ulduar",
-      "DBM-EyeOfEternity",
-      "DBM-ChamberOfAspects",
-      "DBM-Icecrown",
-      "DBM-Naxx",
-      "DBM-Coliseum",
-      "DBM-VoA",
-      "DBM-Party-WotLK"
+      "DBM-VoA"
     ],
     "source": "curse",
     "mode": 1
@@ -79385,6 +79364,16 @@
     "key": "tl-dr",
     "dir": [
       "TLDR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 602487,
+    "name": "TLDR Missions",
+    "key": "tldr-missions",
+    "dir": [
+      "TLDRMissions"
     ],
     "source": "curse",
     "mode": 1
