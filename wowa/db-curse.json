@@ -1104,8 +1104,8 @@
   },
   {
     "id": 536115,
-    "name": "AceBIS Best In Slot(BiS) Ranks on Tooltips for TBC",
-    "key": "acebis-bis-best-in-slot",
+    "name": "AceBIS (Best In Slot(BiS) Ranks on Tooltips for TBC)",
+    "key": "acebis",
     "dir": [
       "AceBIS"
     ],
@@ -69307,7 +69307,7 @@
       "RXPGuides"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 57326,
@@ -86790,7 +86790,7 @@
   },
   {
     "id": 534360,
-    "name": "WCLRanks",
+    "name": "WCLRanks (All Stars Ranks from WCL for TW region for TBC)",
     "key": "wclranks",
     "dir": [
       "WCLRanks"
