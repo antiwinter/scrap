@@ -7181,6 +7181,16 @@
     "mode": 1
   },
   {
+    "id": 602729,
+    "name": "Automatic Guild Interactions",
+    "key": "automatic-guild-interactions",
+    "dir": [
+      "automatic-guild-interactions"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 448353,
     "name": "Automatic Role Check",
     "key": "automatic-role-check",
@@ -9305,7 +9315,7 @@
       "BastionLoot"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 79863,
@@ -17602,6 +17612,16 @@
     "key": "classic-pvp-flagging",
     "dir": [
       "Classic PVP Flagging"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 603911,
+    "name": "Classic Paladin Sounds",
+    "key": "classic-paladin-sounds",
+    "dir": [
+      "CPS"
     ],
     "source": "curse",
     "mode": 1
@@ -33980,16 +34000,6 @@
     "mode": 1
   },
   {
-    "id": 351050,
-    "name": "Gear to Gear Planner",
-    "key": "gear-to-gear-planner",
-    "dir": [
-      "Gear to Gear Planner"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 70731,
     "name": "Gear4Moo",
     "key": "gear4moo",
@@ -45647,6 +45657,16 @@
     "key": "keystonehelper",
     "dir": [
       "KeystoneHelper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 605363,
+    "name": "KeystoneInserter",
+    "key": "keystoneinserter",
+    "dir": [
+      "KeystoneInserter"
     ],
     "source": "curse",
     "mode": 1
@@ -57682,7 +57702,8 @@
       "Narcissus_Database_NPC",
       "Narcissus_Achievements",
       "Narcissus_Barbershop",
-      "Narcissus"
+      "Narcissus",
+      "Narcissus_GamePad"
     ],
     "source": "curse",
     "mode": 1
@@ -62055,6 +62076,16 @@
     "key": "photo-robot-legion-beta-update-f",
     "dir": [
       "PhotoRobot"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 601998,
+    "name": "Pick Random Mount",
+    "key": "pick-random-mount",
+    "dir": [
+      "PickRandomMount"
     ],
     "source": "curse",
     "mode": 1
@@ -72648,9 +72679,10 @@
   {
     "id": 594812,
     "name": "SharedMedia_Xros",
-    "key": "sharedmedia_xros",
+    "key": "media",
     "dir": [
-      "SharedMedia_Xros"
+      "SharedMedia_Xros",
+      "SharedMedia_Xros-BCC"
     ],
     "source": "curse",
     "mode": 1
@@ -76260,20 +76292,10 @@
     "name": "SpartanUI",
     "key": "spartan-ui",
     "dir": [
-      "SpartanUI_Artwork",
-      "SpartanUI_PlayerFrames",
-      "SpartanUI_RaidFrames",
-      "SpartanUI_PartyFrames",
-      "SpartanUI_FilmEffects",
-      "SpartanUI_SpinCam",
-      "SpartanUI_Style_Minimal",
-      "SpartanUI_Style_Transparent",
-      "SpartanUI_Style_Fel",
-      "SpartanUI_Style_War",
       "SpartanUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 55589,
@@ -89178,6 +89200,16 @@
     "mode": 2
   },
   {
+    "id": 603848,
+    "name": "World Map Pin",
+    "key": "world-map-pin",
+    "dir": [
+      "D4KiR World Map Pin"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 53217,
     "name": "World Map Ping Hider",
     "key": "world-map-ping-hider",
@@ -94104,6 +94136,16 @@
     "dir": [
       "oUF_P3lim",
       "PixelFont"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 605205,
+    "name": "oUF Progress",
+    "key": "ouf-progress",
+    "dir": [
+      "oUF_Progress"
     ],
     "source": "curse",
     "mode": 1
