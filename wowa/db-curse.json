@@ -12579,6 +12579,16 @@
     "mode": 1
   },
   {
+    "id": 605574,
+    "name": "BriefStats",
+    "key": "briefstats",
+    "dir": [
+      "BriefStats"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 301055,
     "name": "Briefings",
     "key": "briefings",
@@ -47403,6 +47413,16 @@
     "mode": 1
   },
   {
+    "id": 605607,
+    "name": "LazyMachine - Darkmoon Faire dance instructor",
+    "key": "lazymachine-darkmoon-faire-dance-instructor",
+    "dir": [
+      "LazyMachine"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 365128,
     "name": "Lazy_Raider",
     "key": "lazy_raider",
@@ -72532,6 +72552,16 @@
     "key": "sharedmedia_deadlymomentum",
     "dir": [
       "SharedMedia_DeadlyMomentum"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 603952,
+    "name": "SharedMedia_Despian",
+    "key": "sharedmedia_despian",
+    "dir": [
+      "SharedMedia_Despian"
     ],
     "source": "curse",
     "mode": 1
