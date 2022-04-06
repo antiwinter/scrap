@@ -1542,6 +1542,16 @@
     "mode": 1
   },
   {
+    "id": 566626,
+    "name": "ActionbarPlus",
+    "key": "actionbarplus",
+    "dir": [
+      "ActionbarPlus"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 88007,
     "name": "ActualValue",
     "key": "actualvalue",
@@ -9846,8 +9856,8 @@
     "key": "benikui",
     "dir": [
       "ElvUI_BenikUI_Classic",
-      "ElvUI_BenikUI",
-      "ElvUI_BenikUI_TBC"
+      "ElvUI_BenikUI_TBC",
+      "ElvUI_BenikUI"
     ],
     "source": "curse",
     "mode": 3
@@ -68995,6 +69005,16 @@
     "key": "rep-rate",
     "dir": [
       "RepRate"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 605827,
+    "name": "Rep Up!",
+    "key": "rep-up",
+    "dir": [
+      "Rep Up!"
     ],
     "source": "curse",
     "mode": 1
