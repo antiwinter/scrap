@@ -7314,7 +7314,7 @@
   {
     "id": 79158,
     "name": "Avenyx UI",
-    "key": "avenyx-ui",
+    "key": "avenyx",
     "dir": [
       "Avenyx"
     ],
@@ -9325,7 +9325,7 @@
       "BastionLoot"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 79863,
@@ -23171,6 +23171,19 @@
     "name": "Deadly Boss Mods (DBM)",
     "key": "deadly-boss-mods",
     "dir": [
+      "DBM-Azeroth",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-StatusBarTimers",
+      "DBM-VPVEM",
       "DBM-Shadowlands",
       "DBM-Brawlers",
       "DBM-DMF",
@@ -23179,27 +23192,14 @@
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
       "DBM-Sepulcher",
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-StatusBarTimers",
-      "DBM-VPVEM",
       "DBM-Outlands",
-      "DBM-Party-Classic",
       "DBM-Party-BC",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
       "DBM-BlackTemple",
-      "DBM-BWL",
       "DBM-Hyjal",
       "DBM-Karazhan",
-      "DBM-MC",
-      "DBM-Naxx",
-      "DBM-Onyxia",
       "DBM-Serpentshrine",
       "DBM-Sunwell",
       "DBM-TheEye",
-      "DBM-ZG",
       "DBM-ZulAman"
     ],
     "source": "curse",
@@ -28247,7 +28247,7 @@
       "ElvUI_mMediaTag"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 94763,
@@ -45477,7 +45477,7 @@
       "KethoCombatLog"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 30054,
@@ -51806,17 +51806,6 @@
     "key": "macro-keys",
     "dir": [
       "MacroKeys"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 574159,
-    "name": "Macro Manager",
-    "key": "macro-manager",
-    "dir": [
-      "MacroManager",
-      "MacroManagerBackup"
     ],
     "source": "curse",
     "mode": 1
