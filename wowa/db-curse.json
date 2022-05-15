@@ -1282,6 +1282,16 @@
     "mode": 1
   },
   {
+    "id": 619142,
+    "name": "Achievement Roulette",
+    "key": "achievement-roulette",
+    "dir": [
+      "AchievementRoulette"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 88997,
     "name": "Achievement Search",
     "key": "achievementsearch",
@@ -1512,6 +1522,16 @@
     "mode": 1
   },
   {
+    "id": 614378,
+    "name": "ActionBar Buddy (ElvUI Plugin)",
+    "key": "actionbar-buddy-elvui-plugin",
+    "dir": [
+      "ElvUI_ActionBarBuddy"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 581040,
     "name": "ActionBar Masks (ElvUI Plugin)",
     "key": "actionbar-masks-elvui-plugin",
@@ -1519,7 +1539,7 @@
       "ElvUI_ActionBarMasks"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 300273,
@@ -1549,7 +1569,7 @@
       "ActionbarPlus"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 88007,
@@ -1569,7 +1589,7 @@
       "Adapt"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 93152,
@@ -2134,6 +2154,16 @@
     "mode": 1
   },
   {
+    "id": 620793,
+    "name": "AdiBags Bound",
+    "key": "adibags-bound",
+    "dir": [
+      "AdiBags_Bound"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 422791,
     "name": "AdiBags Conduit Items Filter",
     "key": "adibags-conduit-items-filter",
@@ -2149,6 +2179,16 @@
     "key": "adibags-hearthstones",
     "dir": [
       "AdiBags_Hearthstones"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 606793,
+    "name": "AdiBags Queens Convervatory",
+    "key": "adibags-queens-convervatory",
+    "dir": [
+      "AdiBags_Queens_Conservatory"
     ],
     "source": "curse",
     "mode": 1
@@ -2809,16 +2849,6 @@
     "mode": 3
   },
   {
-    "id": 317378,
-    "name": "AkiTools",
-    "key": "akitools",
-    "dir": [
-      "AkiTools"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 269513,
     "name": "Alamo Reeburth",
     "key": "alamo-reeburth",
@@ -2834,6 +2864,16 @@
     "key": "alar-art-remover",
     "dir": [
       "AlarArtRemover"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612053,
+    "name": "Alchemist",
+    "key": "alchemist",
+    "dir": [
+      "Alchemist"
     ],
     "source": "curse",
     "mode": 1
@@ -2995,6 +3035,16 @@
     "key": "method-alt-manager",
     "dir": [
       "AltManager"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 546235,
+    "name": "Alt Manager 2",
+    "key": "alt-manager-2",
+    "dir": [
+      "AltManager2"
     ],
     "source": "curse",
     "mode": 1
@@ -3949,6 +3999,17 @@
     "mode": 3
   },
   {
+    "id": 82274,
+    "name": "Arabicwow",
+    "key": "arabicwow",
+    "dir": [
+      "Arabization",
+      "Arabicwow"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 29174,
     "name": "Arbitrary Commands",
     "key": "arbitcomm",
@@ -4387,7 +4448,6 @@
     "name": "ArenaMarker",
     "key": "arenamarker",
     "dir": [
-      "ArenaMarkerRetail",
       "ArenaMarker"
     ],
     "source": "curse",
@@ -4421,6 +4481,16 @@
     "key": "arenaplates",
     "dir": [
       "ArenaPlates"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 623055,
+    "name": "ArenaScoreTracker",
+    "key": "arenascoretracker",
+    "dir": [
+      "ArenaScoreTracker"
     ],
     "source": "curse",
     "mode": 1
@@ -5344,7 +5414,7 @@
       "Atlas_Transportation"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 93258,
@@ -7158,7 +7228,7 @@
       "AutoWhisperInvite"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 415989,
@@ -7946,7 +8016,7 @@
       "BFAInvasionTimer_Options"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 348354,
@@ -8014,6 +8084,16 @@
     "key": "bgframes",
     "dir": [
       "BGFrames"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 608543,
+    "name": "BGIncomingTBC",
+    "key": "bgincomingtbc",
+    "dir": [
+      "BGIncomingTBC-1.0.2"
     ],
     "source": "curse",
     "mode": 1
@@ -8156,7 +8236,7 @@
       "Btex"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 436549,
@@ -8327,7 +8407,7 @@
       "BadBoy"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 19305,
@@ -8337,7 +8417,7 @@
       "BadBoy_CCleaner"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 24324,
@@ -8347,7 +8427,7 @@
       "BadBoy_Guilded"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 28451,
@@ -8357,7 +8437,7 @@
       "BadBoy_History"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 103223,
@@ -8367,7 +8447,7 @@
       "BadBoy_Ignore"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 18879,
@@ -8377,7 +8457,7 @@
       "BadBoy_Levels"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 16663,
@@ -8425,6 +8505,16 @@
     "key": "badapples",
     "dir": [
       "Badapples"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 610589,
+    "name": "Badge of Justice Notifier",
+    "key": "badge-of-justice-notifier",
+    "dir": [
+      "BadgeOfJusticeNotifier"
     ],
     "source": "curse",
     "mode": 1
@@ -8895,6 +8985,16 @@
     "mode": 2
   },
   {
+    "id": 614584,
+    "name": "Bamibook",
+    "key": "bamibook",
+    "dir": [
+      "Bamibook"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 414334,
     "name": "BananaBar3 WoW Classic & TBC",
     "key": "bananabar3-wow-classic-addon",
@@ -9262,7 +9362,7 @@
       "BasicBuffHide"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 13503,
@@ -9272,7 +9372,7 @@
       "BasicBuffs"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 13504,
@@ -9282,7 +9382,7 @@
       "BasicChatMods"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 13505,
@@ -9293,7 +9393,7 @@
       "BasicComboPoints"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 13506,
@@ -9304,7 +9404,7 @@
       "BasicMinimap"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 285355,
@@ -9325,7 +9425,7 @@
       "BastionLoot"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 79863,
@@ -9493,6 +9593,16 @@
     "key": "battlepetcount",
     "dir": [
       "BattlePetCount"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 602085,
+    "name": "BattlePetLeash",
+    "key": "battlepetleash",
+    "dir": [
+      "BattlePetLeash"
     ],
     "source": "curse",
     "mode": 1
@@ -10463,8 +10573,8 @@
   },
   {
     "id": 536009,
-    "name": "BiS Best In Slot Tooltips TBC Phase 4 + Atlasloot Plugin",
-    "key": "bis-best-in-slot-items-tooltip-tbc-phase-4",
+    "name": "BiS Best In Slot Tooltips TBC Phase 5 + Atlasloot Plugin",
+    "key": "bis-best-in-slot-items-tooltip-tbc-phase-5",
     "dir": [
       "AtlasLootClassic_BiS",
       "FatExoLink_BIS"
@@ -10692,6 +10802,11 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
+      "BigWigs_CastleNathria",
+      "BigWigs_SanctumOfDomination",
+      "BigWigs_SepulcherOfTheFirstOnes",
+      "BigWigs_Shadowlands",
+      "BigWigs",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10700,7 +10815,6 @@
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
       "BigWigs_Naxxramas",
-      "BigWigs",
       "BigWigs_Outland",
       "BigWigs_Karazhan",
       "BigWigs_Serpentshrine",
@@ -10708,10 +10822,7 @@
       "BigWigs_Hyjal",
       "BigWigs_BlackTemple",
       "BigWigs_ZulAman",
-      "BigWigs_CastleNathria",
-      "BigWigs_SanctumOfDomination",
-      "BigWigs_SepulcherOfTheFirstOnes",
-      "BigWigs_Shadowlands"
+      "BigWigs_Sunwell"
     ],
     "source": "curse",
     "mode": 3
@@ -10914,7 +11025,7 @@
       "BigWigs_Countdown_HeroesOfTheStorm"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 397633,
@@ -10934,7 +11045,7 @@
       "BigWigs_Countdown_Overwatch"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 317373,
@@ -11104,7 +11215,7 @@
       "ZUI_BiggestHitsTracker"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 373612,
@@ -12227,6 +12338,16 @@
     "key": "boomy",
     "dir": [
       "Boomy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 622007,
+    "name": "Boost Assistant",
+    "key": "boost-assistant",
+    "dir": [
+      "BoostAssistant"
     ],
     "source": "curse",
     "mode": 1
@@ -14181,6 +14302,16 @@
     "mode": 1
   },
   {
+    "id": 623031,
+    "name": "Buffalo-classic",
+    "key": "buffalo-classic",
+    "dir": [
+      "Buffalo"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 17985,
     "name": "Buffed!",
     "key": "buffed",
@@ -14270,7 +14401,7 @@
       "!BugGrabber"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 6273,
@@ -14280,7 +14411,7 @@
       "BugSack"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 85473,
@@ -14672,6 +14803,16 @@
     ],
     "source": "curse",
     "mode": 3
+  },
+  {
+    "id": 609892,
+    "name": "CDDetector",
+    "key": "cddetector",
+    "dir": [
+      "CDDetector"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 579843,
@@ -15928,7 +16069,7 @@
       "D4KiR Centered"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 436848,
@@ -17450,7 +17591,7 @@
       "ZUI_ClassicAudio"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 20612,
@@ -17521,7 +17662,7 @@
       "ClassicFCT"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 345382,
@@ -17687,6 +17828,16 @@
     "mode": 1
   },
   {
+    "id": 95603,
+    "name": "Classic Quest Text",
+    "key": "scrolling-quest-text",
+    "dir": [
+      "QuestText"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 358382,
     "name": "Classic Raid Assist",
     "key": "classic-raid-assist",
@@ -17735,16 +17886,6 @@
     ],
     "source": "curse",
     "mode": 2
-  },
-  {
-    "id": 95603,
-    "name": "Classic UI Quest Text",
-    "key": "scrolling-quest-text",
-    "dir": [
-      "QuestText"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 305065,
@@ -21068,6 +21209,16 @@
     "mode": 1
   },
   {
+    "id": 46507,
+    "name": "CustomGear",
+    "key": "customgear",
+    "dir": [
+      "CustomGear"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 357941,
     "name": "CustomKeystones",
     "key": "customkeystones",
@@ -21166,6 +21317,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 405674,
+    "name": "D4KiR Move And Improve",
+    "key": "move-and-improve",
+    "dir": [
+      "D4KiR MoveAndImprove"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 28576,
@@ -21511,7 +21672,7 @@
       "DBM-VPDemo"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 261300,
@@ -21542,6 +21703,16 @@
     ],
     "source": "curse",
     "mode": 1
+  },
+  {
+    "id": 607104,
+    "name": "DBM Voicepack French Female by Milho",
+    "key": "dbm-voicepack-french-female-by-milho",
+    "dir": [
+      "DBM-VPFrenchFemale"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 88077,
@@ -22202,7 +22373,7 @@
       "D4KiR DRF"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 404965,
@@ -22246,6 +22417,17 @@
     "mode": 1
   },
   {
+    "id": 609697,
+    "name": "DTweaksTBC",
+    "key": "dtweakstbc",
+    "dir": [
+      "DTweaks_Mover",
+      "DTweaks"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 340285,
     "name": "DTweaks_Classic",
     "key": "dtweaks_classic",
@@ -22264,7 +22446,7 @@
       "D4KiR DUnitFrames"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 45982,
@@ -22772,6 +22954,17 @@
     "mode": 1
   },
   {
+    "id": 616113,
+    "name": "Dark Theme UI",
+    "key": "darkthemeui",
+    "dir": [
+      "DarkModeUI",
+      "DarkThemeUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 257261,
     "name": "Dark Whispers",
     "key": "dark-whispers",
@@ -23171,15 +23364,25 @@
     "name": "Deadly Boss Mods (DBM)",
     "key": "deadly-boss-mods",
     "dir": [
-      "DBM-Azeroth",
+      "DBM-Outlands",
       "DBM-Party-Classic",
+      "DBM-Party-BC",
       "DBM-AQ20",
       "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BlackTemple",
       "DBM-BWL",
+      "DBM-Hyjal",
+      "DBM-Karazhan",
       "DBM-MC",
-      "DBM-Onyxia",
       "DBM-Naxx",
+      "DBM-Onyxia",
+      "DBM-Serpentshrine",
+      "DBM-Sunwell",
+      "DBM-TheEye",
       "DBM-ZG",
+      "DBM-ZulAman",
+      "DBM-WorldEvents",
       "DBM-Core",
       "DBM-GUI",
       "DBM-StatusBarTimers",
@@ -23187,20 +23390,10 @@
       "DBM-Shadowlands",
       "DBM-Brawlers",
       "DBM-DMF",
-      "DBM-WorldEvents",
       "DBM-Party-Shadowlands",
       "DBM-CastleNathria",
       "DBM-SanctumOfDomination",
-      "DBM-Sepulcher",
-      "DBM-Outlands",
-      "DBM-Party-BC",
-      "DBM-BlackTemple",
-      "DBM-Hyjal",
-      "DBM-Karazhan",
-      "DBM-Serpentshrine",
-      "DBM-Sunwell",
-      "DBM-TheEye",
-      "DBM-ZulAman"
+      "DBM-Sepulcher"
     ],
     "source": "curse",
     "mode": 3
@@ -24127,16 +24320,6 @@
     "mode": 3
   },
   {
-    "id": 552333,
-    "name": "Delay",
-    "key": "delay",
-    "dir": [
-      "Delay"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 392624,
     "name": "Delete Hearthstone",
     "key": "delete-hearthstone",
@@ -24192,6 +24375,16 @@
     "key": "delleren",
     "dir": [
       "Delleren"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 613112,
+    "name": "DementiaSharedMedia",
+    "key": "dementiasharedmedia",
+    "dir": [
+      "DementiaSharedMediaForWA"
     ],
     "source": "curse",
     "mode": 1
@@ -24602,7 +24795,7 @@
   },
   {
     "id": 100658,
-    "name": "DiabolicUI 2.0 for Shadowlands",
+    "name": "DiabolicUI for Shadowlands",
     "key": "diabolicui",
     "dir": [
       "DiabolicUI2"
@@ -27212,6 +27405,16 @@
     "mode": 1
   },
   {
+    "id": 613124,
+    "name": "EasyRider",
+    "key": "easyrider",
+    "dir": [
+      "EasyRider"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 295867,
     "name": "EasyUIMove",
     "key": "easyuimove",
@@ -27260,6 +27463,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 615493,
+    "name": "Echo Raid Tools",
+    "key": "echo-raid-tools",
+    "dir": [
+      "EchoRaidTools"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 444718,
@@ -27759,7 +27972,7 @@
       "ElvUI_EltreumUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 101590,
@@ -27976,6 +28189,16 @@
     "mode": 3
   },
   {
+    "id": 606396,
+    "name": "ElvUI Material",
+    "key": "elvui-material",
+    "dir": [
+      "ElvUI_Material"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 322663,
     "name": "ElvUI Micro Menu Datatext",
     "key": "elvui-micromenudatatext",
@@ -28044,7 +28267,7 @@
       "ElvUI_PVPDT"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 308104,
@@ -28247,7 +28470,7 @@
       "ElvUI_mMediaTag"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 94763,
@@ -28358,7 +28581,7 @@
       "ElvUI_LuckyoneUI"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 312002,
@@ -28934,6 +29157,16 @@
     "mode": 3
   },
   {
+    "id": 101611,
+    "name": "Enhanced Menu",
+    "key": "enhanced-menu",
+    "dir": [
+      "EnhancedMenu"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 298558,
     "name": "Enhanced Raid Frames",
     "key": "enhanced-raid-frames",
@@ -29009,16 +29242,6 @@
     "key": "enhanced-colour-picker",
     "dir": [
       "EnhancedColourPicker"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 101611,
-    "name": "EnhancedMenu",
-    "key": "enhancedmenu",
-    "dir": [
-      "EnhancedMenu"
     ],
     "source": "curse",
     "mode": 1
@@ -29281,7 +29504,7 @@
       "ErrorMonster"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 338479,
@@ -29775,7 +29998,7 @@
       "ExtendedCharacterStats"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 53325,
@@ -29865,7 +30088,7 @@
       "D4KiR Extended Variables"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 43776,
@@ -30612,6 +30835,16 @@
     "key": "fastzoomhard",
     "dir": [
       "FastZoomHard"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 619208,
+    "name": "FastAutoSell",
+    "key": "fastautosell",
+    "dir": [
+      "FastAutoSell"
     ],
     "source": "curse",
     "mode": 1
@@ -32145,7 +32378,7 @@
       "ForTheAlliance"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 281267,
@@ -32238,6 +32471,16 @@
       "Forte_Talent",
       "Forte_Timer",
       "Forte_Core"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 622275,
+    "name": "FortheHorde!",
+    "key": "forthehorde",
+    "dir": [
+      "ForTheHorde"
     ],
     "source": "curse",
     "mode": 1
@@ -32575,7 +32818,7 @@
       "ZUI_LickAndTickle"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 504186,
@@ -32942,6 +33185,16 @@
     "mode": 1
   },
   {
+    "id": 606970,
+    "name": "Fun Stuff (ElvUI Plugin)",
+    "key": "fun-stuff-elvui-plugin",
+    "dir": [
+      "ElvUI_FunStuff"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 324692,
     "name": "FunFact",
     "key": "funfact",
@@ -32949,7 +33202,17 @@
       "FunFact"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
+  },
+  {
+    "id": 621270,
+    "name": "Funky Mojo Changer",
+    "key": "funky-mojo-changer",
+    "dir": [
+      "FMoC"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 100106,
@@ -33119,7 +33382,7 @@
       "GKickCommand"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 339683,
@@ -33797,6 +34060,16 @@
     "mode": 1
   },
   {
+    "id": 618568,
+    "name": "GatherCounter Retail",
+    "key": "gathercounter-retail",
+    "dir": [
+      "GatherCounter"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 334918,
     "name": "GatherLite",
     "key": "gatherlite",
@@ -33865,6 +34138,16 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 622529,
+    "name": "GatherMate2-adamantit-ore-location-fix",
+    "key": "gathermate2-adamantit-ore-location-fix",
+    "dir": [
+      "GatherMate2"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 26737,
@@ -36688,7 +36971,7 @@
       "Grounded"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 351800,
@@ -36987,6 +37270,16 @@
     "mode": 2
   },
   {
+    "id": 335816,
+    "name": "GuideLime TUGs(Horde and Alliance 1-80+Professions)",
+    "key": "guidelime_tugs",
+    "dir": [
+      "GuideLime_TUGs"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 488224,
     "name": "GuideLime_IGN_TBCC_60-70",
     "key": "guidelime_ign_tbcc_60-70",
@@ -36995,16 +37288,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 335816,
-    "name": "GuideLime_TUGs",
-    "key": "guidelime_tugs",
-    "dir": [
-      "GuideLime_TUGs"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 30184,
@@ -38756,7 +39039,7 @@
   },
   {
     "id": 96500,
-    "name": "HandyNotes: Legion Treasures",
+    "name": "HandyNotes: Legion Treasures (and Rares)",
     "key": "handynotes_legiontreasures",
     "dir": [
       "HandyNotes_LegionTreasures"
@@ -38850,6 +39133,16 @@
     "key": "handynotes-scourge-invasion-of-shadowlands",
     "dir": [
       "HandyNotes_ScourgeInvasionShadowlands"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 606509,
+    "name": "HandyNotes: Secret Fish",
+    "key": "handynotes-secret-fish",
+    "dir": [
+      "HandyNotes_SecretFish"
     ],
     "source": "curse",
     "mode": 1
@@ -39494,6 +39787,16 @@
     "mode": 2
   },
   {
+    "id": 618163,
+    "name": "HealBot Classic Plugin MyCooldowns",
+    "key": "healbot-classic-plugin-mycooldowns",
+    "dir": [
+      "HealBot_Plugin_MyCooldowns"
+    ],
+    "source": "curse",
+    "mode": 2
+  },
+  {
     "id": 499287,
     "name": "HealBot Classic Plugin Performance",
     "key": "healbot-classic-plugin-performance",
@@ -39575,6 +39878,16 @@
     "key": "healbot-classic-tbc-plugin-extrabuttons",
     "dir": [
       "HealBot_Plugin_ExtraButtons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 618168,
+    "name": "HealBot Classic TBC Plugin MyCooldowns",
+    "key": "healbot-classic-tbc-plugin-mycooldowns",
+    "dir": [
+      "HealBot_Plugin_MyCooldowns"
     ],
     "source": "curse",
     "mode": 1
@@ -39662,6 +39975,16 @@
     "key": "healbot-plugin-extrabuttons",
     "dir": [
       "HealBot_Plugin_ExtraButtons"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 618169,
+    "name": "HealBot Plugin MyCooldowns",
+    "key": "healbot-plugin-mycooldowns",
+    "dir": [
+      "HealBot_Plugin_MyCooldowns"
     ],
     "source": "curse",
     "mode": 1
@@ -39774,7 +40097,7 @@
       "D4KiR Healer Protection"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 298088,
@@ -41665,6 +41988,16 @@
     "mode": 1
   },
   {
+    "id": 621844,
+    "name": "HonorHistory",
+    "key": "honorhistory",
+    "dir": [
+      "HonorHistory"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 299241,
     "name": "HonorInfoPanel",
     "key": "honorinfopanel",
@@ -41984,7 +42317,7 @@
       "HydraUI_InviteLinks"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 514624,
@@ -42004,7 +42337,7 @@
       "HydraUI_Memory"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 408768,
@@ -42014,7 +42347,7 @@
       "HydraUI_Button"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 411336,
@@ -42024,7 +42357,7 @@
       "HydraUI_MovementSpeed"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 592021,
@@ -42968,7 +43301,7 @@
       "Inception_Loot_Priority"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 359713,
@@ -43499,7 +43832,7 @@
       "InstigatorQuotes"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 86036,
@@ -45008,6 +45341,16 @@
     "mode": 1
   },
   {
+    "id": 618914,
+    "name": "JustTheScraps",
+    "key": "justthescraps",
+    "dir": [
+      "JustTheScraps"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 75429,
     "name": "JustTheTip",
     "key": "justthetip",
@@ -45069,11 +45412,31 @@
     "mode": 1
   },
   {
+    "id": 623644,
+    "name": "KPack Addon Collection - WotLK",
+    "key": "kpack",
+    "dir": [
+      "KPack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 518054,
     "name": "KRIT TBC Classic (Shao Kahn FTW)",
     "key": "krit-tbc-classic-shao-kahn-ftw",
     "dir": [
       "Krit"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 340961,
+    "name": "KRaidTools",
+    "key": "krt",
+    "dir": [
+      "!KRT"
     ],
     "source": "curse",
     "mode": 1
@@ -45104,6 +45467,16 @@
     "key": "ktracker",
     "dir": [
       "!KTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 622496,
+    "name": "KUI_FriendHighlight",
+    "key": "kui_friendhighlight",
+    "dir": [
+      "KUI_FriendHighlight"
     ],
     "source": "curse",
     "mode": 1
@@ -45429,6 +45802,16 @@
     "mode": 1
   },
   {
+    "id": 610372,
+    "name": "Kekw counter",
+    "key": "kekw-counter",
+    "dir": [
+      "Kekw"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 482104,
     "name": "KeliExportData",
     "key": "keliexportdata",
@@ -45559,7 +45942,7 @@
       "KeyboardUI"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 103148,
@@ -46635,6 +47018,16 @@
     "mode": 1
   },
   {
+    "id": 606598,
+    "name": "LFG Announcements",
+    "key": "lfg-announcements",
+    "dir": [
+      "LFGAnnouncements"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 100885,
     "name": "LFG Auto Relist",
     "key": "lfg-auto-relist",
@@ -47034,7 +47427,7 @@
       "D4KiR LOC Messages"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 75173,
@@ -47285,7 +47678,7 @@
       "LargerMacroIconSelectionData"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 345647,
@@ -47777,7 +48170,7 @@
       "LegionInvasionTimer_Options"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 101091,
@@ -47928,16 +48321,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 566355,
-    "name": "LetMeTaxi",
-    "key": "letmetaxi",
-    "dir": [
-      "LetMeTaxi"
-    ],
-    "source": "curse",
-    "mode": 3
   },
   {
     "id": 385831,
@@ -48387,7 +48770,7 @@
       "LibCandyBar-3.0"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 393645,
@@ -48418,7 +48801,7 @@
       "LibChatAnims"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 323800,
@@ -48518,7 +48901,7 @@
       "LibDBIcon-1.0"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 27889,
@@ -48528,7 +48911,7 @@
       "LibDDI-1.0"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 19385,
@@ -48655,7 +49038,7 @@
       "LibDurability"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 38389,
@@ -49044,7 +49427,7 @@
       "LibLatency"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 16759,
@@ -49133,6 +49516,16 @@
     "key": "libmovable-1-0",
     "dir": [
       "LibMovable-1.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 618664,
+    "name": "LibNPCInfo",
+    "key": "libnpcinfo",
+    "dir": [
+      "LibNPCInfo"
     ],
     "source": "curse",
     "mode": 1
@@ -49456,7 +49849,7 @@
       "LibSharedMedia-3.0"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 34449,
@@ -49486,7 +49879,7 @@
       "LibSink-2.0"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 53871,
@@ -49494,6 +49887,16 @@
     "key": "libsmoothstatusbar-1-0",
     "dir": [
       "LibSmoothStatusBar-1.0"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 615588,
+    "name": "LibSpecialization",
+    "key": "libspecialization",
+    "dir": [
+      "LibSpecialization"
     ],
     "source": "curse",
     "mode": 1
@@ -49694,16 +50097,6 @@
     "key": "libvan32",
     "dir": [
       "!LibVan32"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 498632,
-    "name": "LibWeaponEnchantComm",
-    "key": "libweaponenchantcomm",
-    "dir": [
-      "LibWeaponEnchantComm"
     ],
     "source": "curse",
     "mode": 1
@@ -50309,6 +50702,76 @@
     "mode": 1
   },
   {
+    "id": 612005,
+    "name": "LogTracker",
+    "key": "logtracker",
+    "dir": [
+      "LogTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612007,
+    "name": "LogTracker_BaseData",
+    "key": "logtracker_basedata",
+    "dir": [
+      "LogTracker_BaseData"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612015,
+    "name": "LogTracker_CharacterData_CN",
+    "key": "logtracker_characterdata_cn",
+    "dir": [
+      "LogTracker_CharacterData_CN"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612009,
+    "name": "LogTracker_CharacterData_EU",
+    "key": "logtracker_characterdata_eu",
+    "dir": [
+      "LogTracker_CharacterData_EU"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612016,
+    "name": "LogTracker_CharacterData_KR",
+    "key": "logtracker_characterdata_kr",
+    "dir": [
+      "LogTracker_CharacterData_KR"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612018,
+    "name": "LogTracker_CharacterData_TW",
+    "key": "logtracker_characterdata_tw",
+    "dir": [
+      "LogTracker_CharacterData_TW"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 612013,
+    "name": "LogTracker_CharacterData_US",
+    "key": "logtracker_characterdata_us",
+    "dir": [
+      "LogTracker_CharacterData_US"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 6986,
     "name": "Logger",
     "key": "logger",
@@ -50444,6 +50907,16 @@
     "key": "look-at-my-horse",
     "dir": [
       "LookAtMyHorse"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 622528,
+    "name": "Looking For Group - Filter",
+    "key": "khileez",
+    "dir": [
+      "LookingForGroup"
     ],
     "source": "curse",
     "mode": 1
@@ -51402,7 +51875,7 @@
       "LunarSphere"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 302966,
@@ -51430,16 +51903,6 @@
     "key": "lynstats-tbc-classic",
     "dir": [
       "LynStats"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 61326,
-    "name": "M4A1 Carbine Silencer/Suppressor/Crossbow/Bow Sound Pack",
-    "key": "m4a1-carbine-silencersuppressor",
-    "dir": [
-      "Sound"
     ],
     "source": "curse",
     "mode": 1
@@ -51665,33 +52128,9 @@
     "mode": 1
   },
   {
-    "id": 411194,
-    "name": "MUI Core (Burning Crusade Classic)",
-    "key": "mui-core-bcc",
-    "dir": [
-      "MUI_Config",
-      "MUI_Setup",
-      "MUI_Core"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 492030,
-    "name": "MUI Core (Classic & Season of Mastery)",
-    "key": "mui-core-classic",
-    "dir": [
-      "MUI_Setup",
-      "MUI_Config",
-      "MUI_Core"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 492029,
-    "name": "MUI Core (Shadowlands)",
-    "key": "mui-core-shadowlands",
+    "name": "MUI Core",
+    "key": "mui-core",
     "dir": [
       "MUI_Config",
       "MUI_Setup",
@@ -52242,8 +52681,8 @@
     "name": "MailTo Again",
     "key": "mailto",
     "dir": [
-      "MailTo",
-      "CmdHelp"
+      "CmdHelp",
+      "MailTo"
     ],
     "source": "curse",
     "mode": 1
@@ -52633,6 +53072,16 @@
     "key": "marking-bar-lives",
     "dir": [
       "MarkingBarLives"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 544432,
+    "name": "Mask & Transform Remover",
+    "key": "unmasked",
+    "dir": [
+      "Unmasked"
     ],
     "source": "curse",
     "mode": 1
@@ -54806,7 +55255,7 @@
       "D4KiR Missing Power"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 358106,
@@ -55102,7 +55551,7 @@
       "ModelPique"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 102332,
@@ -55775,6 +56224,16 @@
     "mode": 1
   },
   {
+    "id": 614415,
+    "name": "Mount Track",
+    "key": "mount-track",
+    "dir": [
+      "MountTrack"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 296673,
     "name": "Mount Up!",
     "key": "mount-up",
@@ -56133,16 +56592,6 @@
     ],
     "source": "curse",
     "mode": 1
-  },
-  {
-    "id": 405674,
-    "name": "Move And Improve",
-    "key": "move-and-improve",
-    "dir": [
-      "D4KiR MoveAndImprove"
-    ],
-    "source": "curse",
-    "mode": 2
   },
   {
     "id": 342928,
@@ -56586,7 +57035,7 @@
       "Musician"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 306254,
@@ -56707,7 +57156,7 @@
       "MuteSoundFile"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 358535,
@@ -56764,9 +57213,9 @@
     "name": "My Buddies",
     "key": "my-buddies",
     "dir": [
-      "MyBuddies_Classic",
       "MyBuddies",
-      "MyBuddies_Classic_TBC"
+      "MyBuddies_Classic_TBC",
+      "MyBuddies_Classic"
     ],
     "source": "curse",
     "mode": 3
@@ -57717,12 +58166,12 @@
     "name": "Narcissus",
     "key": "narcissus",
     "dir": [
-      "Narcissus_Database_Item",
-      "Narcissus_Database_NPC",
+      "Narcissus",
+      "Narcissus_GamePad",
       "Narcissus_Achievements",
       "Narcissus_Barbershop",
-      "Narcissus",
-      "Narcissus_GamePad"
+      "Narcissus_Database_Item",
+      "Narcissus_Database_NPC"
     ],
     "source": "curse",
     "mode": 1
@@ -58284,6 +58733,16 @@
     "mode": 2
   },
   {
+    "id": 619095,
+    "name": "Night Watch Roll Tracker",
+    "key": "night-watch-roll-tracker",
+    "dir": [
+      "NWRollTracker"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 70309,
     "name": "NightIllusion",
     "key": "niill",
@@ -58815,16 +59274,6 @@
     "mode": 3
   },
   {
-    "id": 494103,
-    "name": "NoseBag",
-    "key": "nosebag",
-    "dir": [
-      "NoseBag"
-    ],
-    "source": "curse",
-    "mode": 3
-  },
-  {
     "id": 102601,
     "name": "NoseExhaled",
     "key": "noseexhaled",
@@ -59083,7 +59532,7 @@
       "NugKeyFeedback"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 2
   },
   {
     "id": 44241,
@@ -59124,7 +59573,7 @@
       "NugTotemIcon"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 2
   },
   {
     "id": 4216,
@@ -59460,6 +59909,16 @@
     "mode": 1
   },
   {
+    "id": 614447,
+    "name": "Old Target Selection",
+    "key": "old-target-selection",
+    "dir": [
+      "Old Target Selection"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 336126,
     "name": "OldGunSounds",
     "key": "oldgunsounds",
@@ -59568,7 +60027,17 @@
       "OmniCD"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
+  },
+  {
+    "id": 528009,
+    "name": "OmniCD BattleRes",
+    "key": "omnicd-battleres",
+    "dir": [
+      "OmniCD_BattleRes"
+    ],
+    "source": "curse",
+    "mode": 1
   },
   {
     "id": 94524,
@@ -60504,6 +60973,16 @@
     "mode": 1
   },
   {
+    "id": 615514,
+    "name": "Paj",
+    "key": "paj",
+    "dir": [
+      "Paj"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 550807,
     "name": "PajBlip",
     "key": "pajblip",
@@ -60976,6 +61455,18 @@
     "mode": 3
   },
   {
+    "id": 619928,
+    "name": "Peachpies",
+    "key": "peachpies",
+    "dir": [
+      "Peachpies_ArcaneMage",
+      "Peachpies_Options",
+      "Peachpies"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 44080,
     "name": "Peddler (Junk seller)",
     "key": "peddler",
@@ -61255,16 +61746,6 @@
     ],
     "source": "curse",
     "mode": 3
-  },
-  {
-    "id": 591408,
-    "name": "Personal Resource Display (MoP)",
-    "key": "personal-resource-display-mop",
-    "dir": [
-      "Personal Resource Display"
-    ],
-    "source": "curse",
-    "mode": 1
   },
   {
     "id": 334578,
@@ -62586,6 +63067,16 @@
     "mode": 3
   },
   {
+    "id": 618881,
+    "name": "PlatesClasses",
+    "key": "platesclasses",
+    "dir": [
+      "PlatesClasses"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 275697,
     "name": "PlaySound Temporal Fix",
     "key": "playsound-temporal-fix",
@@ -63044,6 +63535,16 @@
     "mode": 1
   },
   {
+    "id": 606496,
+    "name": "Point Blank Sniper",
+    "key": "point-blank-sniper",
+    "dir": [
+      "PointBlankSniper"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 336240,
     "name": "PoisonCharges",
     "key": "poisoncharges",
@@ -63222,7 +63723,7 @@
       "ForTheAlliance"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 551522,
@@ -64009,7 +64510,7 @@
       "ProfessionMaster"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 353313,
@@ -65431,7 +65932,7 @@
       "Questie"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 101633,
@@ -67244,6 +67745,16 @@
     "mode": 1
   },
   {
+    "id": 607232,
+    "name": "Raiduku",
+    "key": "raiduku",
+    "dir": [
+      "Raiduku"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 338637,
     "name": "RainingBlood",
     "key": "rainingblood",
@@ -67411,7 +67922,7 @@
       "ZUI_RandomSongLyrics"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 15303,
@@ -67904,7 +68415,7 @@
       "D4KiR RatePlayer"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 494844,
@@ -68427,6 +68938,16 @@
     "mode": 1
   },
   {
+    "id": 614631,
+    "name": "RecipesCollector",
+    "key": "recipescollector",
+    "dir": [
+      "RecipesCollector"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 324032,
     "name": "RecipesVendor",
     "key": "recipesvendor",
@@ -68859,11 +69380,31 @@
     "mode": 1
   },
   {
+    "id": 616520,
+    "name": "Remove Flashing Covenant Icon",
+    "key": "remove-covenant-icon-flashing",
+    "dir": [
+      "RemoveIconFlash"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 508833,
     "name": "Remove From Tooltip",
     "key": "remove-from-tooltip",
     "dir": [
       "RemoveFromTooltip"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 610801,
+    "name": "Remove Nameplate Debuffs",
+    "key": "remove-nameplate-debuffs",
+    "dir": [
+      "Remove_Nameplate_Debuffs"
     ],
     "source": "curse",
     "mode": 1
@@ -69450,7 +69991,7 @@
       "ZUI_ReturnAllMail"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 421509,
@@ -69471,6 +70012,26 @@
     ],
     "source": "curse",
     "mode": 2
+  },
+  {
+    "id": 620236,
+    "name": "Reubin's Bars",
+    "key": "reubin-s-bars",
+    "dir": [
+      "ReubinsBars"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 618674,
+    "name": "Reubin's Nameplates",
+    "key": "reubin-s-nameplates",
+    "dir": [
+      "ReubinsNameplates"
+    ],
+    "source": "curse",
+    "mode": 3
   },
   {
     "id": 17018,
@@ -70830,7 +71391,7 @@
       "SansGatherNotify"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 261745,
@@ -72142,7 +72703,7 @@
       "SexyMap"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 455307,
@@ -72356,16 +72917,6 @@
     "mode": 2
   },
   {
-    "id": 501194,
-    "name": "ShardCap",
-    "key": "shardcap",
-    "dir": [
-      "ShardCap"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
     "id": 82790,
     "name": "ShardCounter",
     "key": "shardcounter",
@@ -72451,6 +73002,16 @@
     "key": "sharedmedia-hips",
     "dir": [
       "SharedMedia_HIPS"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 616306,
+    "name": "SharedMedia Voicepack French by Milho",
+    "key": "sharedmedia-voicepack-french-by-milho",
+    "dir": [
+      "SharedMediaVoicePackFrench"
     ],
     "source": "curse",
     "mode": 1
@@ -72653,7 +73214,7 @@
       "SharedMedia_Noto"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 496539,
@@ -72676,11 +73237,51 @@
     "mode": 1
   },
   {
+    "id": 615738,
+    "name": "SharedMedia_Omnom",
+    "key": "sharedmedia_omnom",
+    "dir": [
+      "SharedMedia_Omnom"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 606625,
+    "name": "SharedMedia_Prismatic",
+    "key": "sharedmedia_prismatic",
+    "dir": [
+      "SharedMedia_Prismatic"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 590995,
+    "name": "SharedMedia_Puggin",
+    "key": "sharedmedia_puggin",
+    "dir": [
+      "SharedMedia_Puggin"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 398409,
     "name": "SharedMedia_TBD",
     "key": "sharedmedia_tbd",
     "dir": [
       "SharedMedia_TBD"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 610804,
+    "name": "SharedMedia_TG",
+    "key": "sharedmedia_tg",
+    "dir": [
+      "SharedMedia_TG"
     ],
     "source": "curse",
     "mode": 1
@@ -72722,6 +73323,16 @@
     "dir": [
       "SharedMedia_Xros",
       "SharedMedia_Xros-BCC"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 613200,
+    "name": "SharedMedia_Zildj",
+    "key": "sharedmedia_zildj",
+    "dir": [
+      "SharedMedia_Zildj"
     ],
     "source": "curse",
     "mode": 1
@@ -73469,7 +74080,7 @@
       "SilentRunning"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 102273,
@@ -74546,6 +75157,17 @@
     "mode": 3
   },
   {
+    "id": 621611,
+    "name": "SixUI Core",
+    "key": "sixui-core",
+    "dir": [
+      "SixUI_Config",
+      "SixUI"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 300386,
     "name": "SkUI",
     "key": "skui",
@@ -74631,6 +75253,16 @@
     "key": "raid-rng",
     "dir": [
       "Skada Raid Rng"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 623633,
+    "name": "Skada Revisited - WotLK",
+    "key": "skadarev",
+    "dir": [
+      "Skada"
     ],
     "source": "curse",
     "mode": 1
@@ -74833,7 +75465,7 @@
       "Skinner"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 529664,
@@ -75026,7 +75658,7 @@
       "SlashIn"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 2940,
@@ -75272,13 +75904,13 @@
   },
   {
     "id": 544171,
-    "name": "SmartBuff - Burning Crusade Classic / Classic ERA / Seasons of Mastery",
-    "key": "smartbuff-burning-crusade-classic",
+    "name": "SmartBuff - Retail & Classic Clients",
+    "key": "smartbuff-retail-burning-crusade-classic",
     "dir": [
       "SmartBuff"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 3623,
@@ -75979,7 +76611,7 @@
     "name": "SoulEater",
     "key": "souleater",
     "dir": [
-      "SoulEater"
+      "Souleater"
     ],
     "source": "curse",
     "mode": 1
@@ -76267,16 +76899,6 @@
     "mode": 1
   },
   {
-    "id": 463078,
-    "name": "SpamFilter",
-    "key": "spamfilter",
-    "dir": [
-      "SpamFilter"
-    ],
-    "source": "curse",
-    "mode": 2
-  },
-  {
     "id": 21481,
     "name": "SpamThrottle",
     "key": "spamthrottle",
@@ -76317,6 +76939,16 @@
     "mode": 1
   },
   {
+    "id": 610318,
+    "name": "Spare Parts Loot Priority",
+    "key": "spare-parts-loot-priority",
+    "dir": [
+      "Spare_Parts_Loot_Priority"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 431624,
     "name": "SparkleSwap",
     "key": "sparkleswap",
@@ -76331,10 +76963,20 @@
     "name": "SpartanUI",
     "key": "spartan-ui",
     "dir": [
+      "SpartanUI_Artwork",
+      "SpartanUI_PlayerFrames",
+      "SpartanUI_RaidFrames",
+      "SpartanUI_PartyFrames",
+      "SpartanUI_FilmEffects",
+      "SpartanUI_SpinCam",
+      "SpartanUI_Style_Minimal",
+      "SpartanUI_Style_Transparent",
+      "SpartanUI_Style_Fel",
+      "SpartanUI_Style_War",
       "SpartanUI"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 55589,
@@ -76709,6 +77351,16 @@
     "key": "spellalerttoggle",
     "dir": [
       "SpellAlertToggle"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 610635,
+    "name": "SpellAnnounce",
+    "key": "spellannounce",
+    "dir": [
+      "SpellAnnounce"
     ],
     "source": "curse",
     "mode": 1
@@ -78034,7 +78686,7 @@
       "D4KiR StreamerMode"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 462068,
@@ -78071,9 +78723,9 @@
     "name": "Stuf Unit Frames",
     "key": "stuf-unit-frames",
     "dir": [
-      "StufRaid_Options",
       "Stuf_Options",
       "Stuf_Range",
+      "StufRaid_Options",
       "Stuf",
       "StufRaid"
     ],
@@ -78189,7 +78841,7 @@
       "SummonStoneHelper"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 361649,
@@ -79471,6 +80123,16 @@
     "mode": 1
   },
   {
+    "id": 620352,
+    "name": "TMog MarketPlace Export",
+    "key": "tmog-marketplace-export",
+    "dir": [
+      "Tmog_MarketPlace_Export"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 27880,
     "name": "TRON - A Combat Log Start/Stop Utility",
     "key": "tron",
@@ -79921,7 +80583,7 @@
       "D4KiR Tank Helper"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 356625,
@@ -80189,7 +80851,7 @@
       "TargetPercent"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 35532,
@@ -80551,7 +81213,7 @@
       "Thaliz"
     ],
     "source": "curse",
-    "mode": 3
+    "mode": 1
   },
   {
     "id": 294180,
@@ -80801,20 +81463,22 @@
     "name": "TheMotherTongue_LanguagePack_de",
     "key": "themothertongue_languagepack_de",
     "dir": [
-      "TheMotherTongue_LanguagePack_de"
+      "TheMotherTongue_LanguagePack_de",
+      "TMT_LanguagePack_de"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 510412,
     "name": "TheMotherTongue_LanguagePack_en",
     "key": "tmt_languagepack_en",
     "dir": [
-      "TMT_LanguagePack_en"
+      "TMT_LanguagePack_en",
+      "TheMotherTongue_LanguagePack_en"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 516993,
@@ -83778,7 +84442,7 @@
       "TotemCaddy"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 348976,
@@ -84349,7 +85013,7 @@
     "name": "TradeSkillMaster String Converter",
     "key": "tradeskillmaster-string-converter",
     "dir": [
-      "TSM_StringConverter"
+      "TradeSkillMaster_StringConverter"
     ],
     "source": "curse",
     "mode": 3
@@ -84663,7 +85327,7 @@
       "Transcriptor"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 21683,
@@ -85081,7 +85745,7 @@
       "Tukui_AmmoDT"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 47902,
@@ -85101,7 +85765,7 @@
       "Tukui_PVP"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 344402,
@@ -85710,16 +86374,6 @@
     "key": "unlucky-twitch-emotes",
     "dir": [
       "UnluckyTwitchEmotes"
-    ],
-    "source": "curse",
-    "mode": 1
-  },
-  {
-    "id": 544432,
-    "name": "Unmasked",
-    "key": "unmasked",
-    "dir": [
-      "Unmasked"
     ],
     "source": "curse",
     "mode": 1
@@ -86614,7 +87268,58 @@
     "name": "Vocal Raid Assistant",
     "key": "vocalraidassistant",
     "dir": [
-      "VocalRaidAssistant"
+      "VocalRaidAssistant",
+      "VRA_EN_Julie"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
+    "id": 608297,
+    "name": "Vocal Raid Assistant - Ana Sound Pack [en-EN]",
+    "key": "vocal-raid-assistant-ana-sound-pack",
+    "dir": [
+      "VRA_EN_Ana"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 617703,
+    "name": "Vocal Raid Assistant - Elizabeth Sound Pack [en-EN]",
+    "key": "vocal-raid-assistant-elizabeth-sound-pack",
+    "dir": [
+      "VRA_EN_Elizabeth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 617715,
+    "name": "Vocal Raid Assistant - Eric Sound Pack [en-EN]",
+    "key": "vocal-raid-assistant-eric-sound-pack",
+    "dir": [
+      "VRA_EN_Eric"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 617716,
+    "name": "Vocal Raid Assistant - Guy Sound Pack [en-EN]",
+    "key": "vocal-raid-assistant-guy-sound-pack",
+    "dir": [
+      "VRA_EN_Guy"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 617801,
+    "name": "Vocal Raid Assistant - Sara Sound Pack [en-EN]",
+    "key": "vocal-raid-assistant-sara-sound-pack",
+    "dir": [
+      "VRA_EN_Sara"
     ],
     "source": "curse",
     "mode": 1
@@ -89246,7 +89951,7 @@
       "D4KiR World Map Pin"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 1
   },
   {
     "id": 53217,
@@ -89952,6 +90657,16 @@
     "mode": 1
   },
   {
+    "id": 617793,
+    "name": "XP Chart",
+    "key": "xp-chart",
+    "dir": [
+      "ZUI_XPChart"
+    ],
+    "source": "curse",
+    "mode": 3
+  },
+  {
     "id": 320567,
     "name": "XP MultiBar",
     "key": "xp-multibar",
@@ -90642,7 +91357,7 @@
       "ZUI_Emotes"
     ],
     "source": "curse",
-    "mode": 2
+    "mode": 3
   },
   {
     "id": 271368,
@@ -92685,6 +93400,16 @@
     "mode": 1
   },
   {
+    "id": 615280,
+    "name": "gmKeystone",
+    "key": "gmkeystone",
+    "dir": [
+      "gmKeyStone"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 101169,
     "name": "gmLazyDelete",
     "key": "gmlazydelete",
@@ -93269,6 +93994,16 @@
     "mode": 1
   },
   {
+    "id": 614932,
+    "name": "idAutomation",
+    "key": "idautomation",
+    "dir": [
+      "idAutomation"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
     "id": 24541,
     "name": "idTip",
     "key": "idtip",
@@ -93845,7 +94580,7 @@
       "nReputation"
     ],
     "source": "curse",
-    "mode": 1
+    "mode": 3
   },
   {
     "id": 340390,
@@ -94154,6 +94889,16 @@
     "key": "ouf-experience",
     "dir": [
       "oUF_Experience"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 299671,
+    "name": "oUF Hank by Banaak",
+    "key": "ouf-banaak",
+    "dir": [
+      "oUF_Hank_Banaak"
     ],
     "source": "curse",
     "mode": 1
@@ -95828,6 +96573,16 @@
     "key": "por-azeroth",
     "dir": [
       "ForAzeroth"
+    ],
+    "source": "curse",
+    "mode": 1
+  },
+  {
+    "id": 621981,
+    "name": "¡Por la horda!",
+    "key": "por-la-horda",
+    "dir": [
+      "ForTheHorde"
     ],
     "source": "curse",
     "mode": 1
