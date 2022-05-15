@@ -10802,11 +10802,6 @@
       "BigWigs_Core",
       "BigWigs_Options",
       "BigWigs_Plugins",
-      "BigWigs_CastleNathria",
-      "BigWigs_SanctumOfDomination",
-      "BigWigs_SepulcherOfTheFirstOnes",
-      "BigWigs_Shadowlands",
-      "BigWigs",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
       "BigWigs_World",
@@ -10815,6 +10810,7 @@
       "BigWigs_AhnQirajRuins",
       "BigWigs_AhnQirajTemple",
       "BigWigs_Naxxramas",
+      "BigWigs",
       "BigWigs_Outland",
       "BigWigs_Karazhan",
       "BigWigs_Serpentshrine",
@@ -10822,7 +10818,11 @@
       "BigWigs_Hyjal",
       "BigWigs_BlackTemple",
       "BigWigs_ZulAman",
-      "BigWigs_Sunwell"
+      "BigWigs_Sunwell",
+      "BigWigs_CastleNathria",
+      "BigWigs_SanctumOfDomination",
+      "BigWigs_SepulcherOfTheFirstOnes",
+      "BigWigs_Shadowlands"
     ],
     "source": "curse",
     "mode": 3
