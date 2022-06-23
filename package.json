@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/antiwinter/scrap#readme",
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
